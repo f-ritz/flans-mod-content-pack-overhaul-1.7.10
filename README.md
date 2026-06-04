@@ -17,7 +17,9 @@ This overhaul is intended for maximum survival playability.
 Crafting guns is straightforward and similar to conventional Flan's mod. First you'll need a "Weapons Box" block (use NEI for the recipe). The general crafting recipe for gun weapons boxes is as follows:
 
 [oak_log, oak_log, oak_log]
+
 [fiberglass, dye, fiberglass]
+
 [oak_log, oak_log, oak_log]
 
 #### Fiberglass
