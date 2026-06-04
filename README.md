@@ -1,6 +1,8 @@
 # Flan's Mod Content Pack Overhaul
 Overhaul of Flan's Mod's Modern Weapons Pack for Minecraft 1.7.10
 
+Update 6/4/2026 - Nothing has been released yet, I will assemble the files and release this shortly. Check back in a few days.
+
 ## Overview
 A while back I started putting together a custom modpack for Minecraft 1.7.10, but the official packs were underwhelming.
 I set out to fix this over the past few years, but old websites and content packs gradually disappeared, and I wanted to save what I could while also overhauling functionality.
