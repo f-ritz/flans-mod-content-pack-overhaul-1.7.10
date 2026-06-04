@@ -73,12 +73,15 @@ To install, create a folder called "Flan" in your ".minecraft" folder and place 
 
 #### Crafting Alternatives
 The use of HBM's Nuclear Tech Mod, Thermal Dynamics, and Thermal Expansion is highly recommended. CraftTweaker scripts are included in the mod release to make eligible ammunition and materials interchangeable.
+Script installation with CraftTweaker is elementary, just look it up or ask an AI.
 
-HBM's Nuclear Tech Mod: link
+HBM's Nuclear Tech Mod: (link)
 
-Thermal Dynamics: link
+Thermal Dynamics: (link)
 
-Thermal Expansion: link
+Thermal Expansion: (link)
+
+Craft Tweaker: (link)
 
 HBM's Nuclear Tech and Thermal Expansion enable the use of alternative crafting recipes for materials.
 
@@ -113,6 +116,8 @@ This gun content pack overhaul stands on the shoulders of giants who came before
 - HBM's Nuclear Tech Mod (link)
 
 - Hearts of Iron Ore (link)
+
+- Tyrants and Plebeians (link)
 
 - Wild West Frontier (link)
 
