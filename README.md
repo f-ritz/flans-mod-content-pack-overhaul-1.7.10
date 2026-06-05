@@ -6,7 +6,7 @@ A while back I started putting together a custom modpack for Minecraft 1.7.10, b
 I set out to fix this over the past few years, but old websites and content packs gradually disappeared, and I wanted to save what I could while also overhauling functionality.
 I've been sitting on this privately for a while, but now I thought I'd share it with the public.
 
-Major changes include the addition of hundreds of new guns (with models compiled from various packs), new attachments, consumables, and a new ammo and battle damage system.
+Major changes include the addition of hundreds of new guns, new attachments, consumables, and a new ammo and battle damage system.
 No armor, vehicles, or team functionality are present, but may be added soon at my own pace.
 This overhaul is intended for maximum survival playability and goes well in survival worlds.
 
