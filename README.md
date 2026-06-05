@@ -6,7 +6,7 @@ Update 6/4/2026 - Nothing has been released yet, I will assemble the files and r
 ## Overview
 A while back I started putting together a custom modpack for Minecraft 1.7.10, but the official packs were underwhelming.
 I set out to fix this over the past few years, but old websites and content packs gradually disappeared, and I wanted to save what I could while also overhauling functionality.
-I've been sitting on this privately for a while, but now I figured I'd share it with everybody.
+I've been sitting on this privately for a while, but now I thought I'd share it with the public.
 
 Major changes include the addition of hundreds of new guns (with models compiled from various packs), new attachments, consumables, and a new ammo and battle damage system.
 No armor, vehicles, or team functionality are present, but may be added soon at my own pace.
@@ -147,10 +147,20 @@ Consumables and other equipment are all crafted using the "Weapons Box - Support
 
 [oak_log, oak_log, oak_log]
 
-
 ### New Ammo
 Instead of each gun having a unique magazine, like in old Flan's mod, I chose a system with standardized magazines. 
 This reduces the amount of magazine items and makes ammunition more usable across different guns.
+
+In addition to magazines, separate cartridges are sometimes used, especially for shotguns and older rifles. 
+To get separate cartridges, it is highly recommended to first craft a Cartridge Box item from the Weapons Box, then craft that in your crafting grid to get a stack of cartridges.
+
+If you have HBM's Nuclear Tech installed, certain cartridges with equivalent calibers are interchangeable, as long as you craft them into the other version first and run the Craft Tweaker script first.
+
+#### Preferred Ammo
+Certain guns are capable of taking different types of magazines: various shotgun shells, extended magazines, and so forth.
+In this case, to preferentially use one ammunition type over another, press P, and in the top-left of your game should appear a GUI with preferred ammunition icons.
+Select the ammunition type to preferentially load, and this one will be loaded before the others should you have multiple compatible ammunition types in your inventory.
+
 
 ### New Damage System
 Most games, including old Flan's mod and most existing Flan's mod packs, are made with balance in mind. Balance is generally achieved by controlling damage with respect to firerate, magazine size, and other parameters.
@@ -200,7 +210,7 @@ The recipes are OreDicted, and should work with any other mods which contain the
 
 ## FAQ
 "Why didn't you make your own models?" - This was meant to be an overhaul of existing packs for playability in my survival worlds, not a grassroots pack of its own, or a gun model design project. 
-If you want to contribute to it, go for it.
+If you want to make your own, go for it.
 
 "Will you update the mod to future versions?" - No. 1.7.10 exclusive. 
 I'm not going to do much more with this other than maybe a few more additions. 
@@ -227,4 +237,4 @@ This gun content pack overhaul stands on the shoulders of giants who came before
 
 - Wild West Frontier (https://www.technicpack.net/modpack/wild-west-frontier.185231)
 
-- And others which I don't remember...
+- And many others I don't remember...
