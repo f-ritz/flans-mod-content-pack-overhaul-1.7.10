@@ -151,7 +151,7 @@ Select the ammunition type to preferentially load, and this one will be loaded b
 ### New Damage System
 Most games, including old Flan's mod and most existing Flan's mod packs, are made with balance in mind. Balance is generally achieved by controlling damage with respect to firerate, magazine size, and other parameters.
 
-This mod throws the entire concept of balance out the window, resulting in a Flan's mod that feels more like a tactical shooter. 
+This mod throws the entire concept of balance out the window, resulting in a Flan's mod experience that feels more like a tactical shooter. 
 
 Before, it took multiple rifle-caliber hits to kill mobs and other players.
 With the new damage setup, full diamond armor may not even protect you from the first shot.
