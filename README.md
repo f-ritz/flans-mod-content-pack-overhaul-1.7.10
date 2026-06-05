@@ -21,37 +21,25 @@ Crafting guns is straightforward and similar to conventional Flan's mod. First y
 
 [oak_log, oak_log, oak_log]
 
-Weapons boxes crafted with each dye (contents should be self-explanatory):
+#### Weapons Boxes by Dye Color
 
-Ink Sac: Weapons Box - Revolvers
-
-Rose Red: Weapons Box - Pistols
-
-Cactus Green: Weapons Box - Machine Pistols
-
-Cocoa Beans: Weapons Box - PDWs
-
-Lapis Lazuli: Weapons Box - Shotguns
-
-Purple Dye: Weapons Box - Assault Rifles
-
-Cyan Dye: Weapons Box - Carbines
-
-Light Gray Dye: Weapons Box - Battle Rifles
-
-Grey Dye: Weapons Box - Bolt-Action Rifles
-
-Pink Dye: Weapons Box - Snipers
-
-Lime Dye: Weapons Box - LMGs
-
-Dandelion Yellow: Weapons Box - Grenades
-
-Light Blue Dye: Weapons Box - Grenade Launchers
-
-Magenta Dye: Weapons Box - Rocket Launchers
-
-Orange Dye: Weapons Box - Special
+| Dye                | Box Contents          |
+|--------------------|-----------------------|
+| **Ink Sac**        | Revolvers             |
+| **Rose Red**       | Pistols               |
+| **Cactus Green**   | Machine Pistols       |
+| **Cocoa Beans**    | PDWs                  |
+| **Lapis Lazuli**   | Shotguns              |
+| **Purple Dye**     | Assault Rifles        |
+| **Cyan Dye**       | Carbines              |
+| **Light Gray Dye** | Battle Rifles         |
+| **Grey Dye**       | Bolt-Action Rifles    |
+| **Pink Dye**       | Snipers               |
+| **Lime Dye**       | LMGs                  |
+| **Dandelion Yellow**| Grenades             |
+| **Light Blue Dye** | Grenade Launchers     |
+| **Magenta Dye**    | Rocket Launchers      |
+| **Orange Dye**     | Special               |
 
 In addition to guns, melee weapons exist. 
 Do not try to break blocks with these weapons; it won't work.
