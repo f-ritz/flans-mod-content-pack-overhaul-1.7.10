@@ -1,0 +1,29 @@
+Name TRG-42
+ShortName TRG42
+Ammo 338Lapua1
+LoadIntoGun 5
+Icon TRG42
+Colour 255 255 255
+ReloadTime 80
+Recoil 25
+Damage 2
+Accuracy 1
+ShootDelay 20
+ShootSound R700Shoot
+ReloadSound SpringfieldReload
+Mode SemiAuto
+BulletSpeed 10
+Scope mwr700
+ZoomLevel 10.0
+FOVZoomLevel 1.0
+Model mw.R700
+Texture TRG42
+AllowAllAttachments true
+AllowBarrelAttachments true
+AllowScopeAttachments true
+AllowStockAttachments true
+AllowGripAttachments true
+NumGenericAttachmentSlots 4
+ShowDamage true
+ShowReloadTime true
+Description .338 Lapua

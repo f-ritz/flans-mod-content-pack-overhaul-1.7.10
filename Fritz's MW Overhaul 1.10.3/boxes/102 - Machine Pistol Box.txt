@@ -1,0 +1,74 @@
+Name Weapons Box - Machine Pistols
+ShortName WeaponsBoxMachinePistols
+TopTexture WeaponsBoxTop
+SideTexture WeaponsBoxMachinePistols
+BottomTexture WeaponsBoxBottom
+GunBoxID 102
+Recipe I log G dyePowder.2 F fiberglass
+III
+FGF
+III
+NumGuns 25
+AddGun PP2000 12 Gunmetal
+AddAmmo 919NATO20 1 Gunmetal
+AddGun PP227 12 Gunmetal
+AddAmmo 919NATO33 1 Gunmetal
+AddGun WernerMP36 12 Gunmetal
+AddAmmo 919NATO33 1 Gunmetal
+AddGun KalininK9 12 Gunmetal
+AddAmmo 918Makarov16 1 Gunmetal
+AddAltAmmo 918Makarov30 1 Gunmetal
+AddAltAmmo 918Makarov80 1 Gunmetal
+AddGun VP70 12 Gunmetal
+AddAmmo 919NATO18 1 Gunmetal
+AddGun SteyrSPP 12 Gunmetal
+AddAmmo 919NATO15 1 Gunmetal
+AddGun LaumannM1892 12 Gunmetal
+AddAmmo 765Para7 1 Gunmetal
+AddGun SteyrTMP 12 Gunmetal
+AddAmmo 919NATO15 1 Gunmetal
+AddGun AGRAM2000 12 Gunmetal
+AddAmmo 919NATO20 1 Gunmetal
+AddGun CalicoM950 12 Gunmetal
+AddAmmo 919NATO50 1 Gunmetal
+AddGun Tec9 12 Gunmetal
+AddAmmo 919NATO20 1 Gunmetal
+AddAltAmmo 919NATO33 1 Gunmetal
+AddGun StechkinAPS 12 Gunmetal
+AddAmmo 918Makarov16 1 Gunmetal
+AddGun VZ65 12 Gunmetal
+AddAmmo 918Makarov30 1 Gunmetal
+AddGun Rama1130 12 Gunmetal
+AddAmmo 918Makarov80 1 Gunmetal
+AddGun PM63 12 Gunmetal
+AddAmmo 918Makarov16 1 Gunmetal
+AddAltAmmo 918Makarov30 1 Gunmetal
+AddGun MP446 12 Gunmetal
+AddAmmo 919NATO15 1 Gunmetal
+AddAltAmmo 919NATO18 1 Gunmetal
+AddAltAmmo 919NATO20 1 Gunmetal
+AddAltAmmo 919NATO33 1 Gunmetal
+AddGun MiniUzi 12 Gunmetal
+AddAmmo 47NATO30 1 Gunmetal
+AddGun MicroUzi 12 Gunmetal
+AddAmmo 47NATO30 1 Gunmetal
+AddGun MAC10 12 Gunmetal
+AddAmmo 45ACP30 1 Gunmetal
+AddGun M93R 12 Gunmetal
+AddAmmo 919NATO15 1 Gunmetal
+AddGun Glock18 12 Gunmetal
+AddAmmo 919NATO15 1 Gunmetal
+AddAltAmmo 919NATO18 1 Gunmetal
+AddAltAmmo 919NATO20 1 Gunmetal
+AddAltAmmo 919NATO33 1 Gunmetal
+AddGun Mauser712 12 Gunmetal
+AddAmmo 919NATO10 1 Gunmetal
+AddGun HamadaType1 12 Gunmetal
+AddAmmo 822Nambu7 1 Gunmetal
+AddGun MP1911 12 Gunmetal
+AddAmmo 45ACP15 1 Gunmetal
+AddGun HoodNiggaGlock 12 Gunmetal
+AddAmmo 919NATO15 1 Gunmetal
+AddAltAmmo 919NATO18 1 Gunmetal
+AddAltAmmo 919NATO20 1 Gunmetal
+AddAltAmmo 919NATO33 1 Gunmetal

@@ -1,0 +1,13 @@
+Name Tungsten Conversion
+ShortName WConversion
+Icon WConversion
+AttachmentType generic
+Silencer false
+MeleeDamageMultiplier 1.0
+DamageMultiplier 1.9
+SpreadMultiplier 1.05
+RecoilMultiplier 1.15
+BulletSpeedMultiplier 1.6
+ReloadTimeMultiplier 1.05
+Model mw.ACOG
+Texture ACOGSight

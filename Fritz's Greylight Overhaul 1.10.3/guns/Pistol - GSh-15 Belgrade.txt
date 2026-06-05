@@ -1,0 +1,33 @@
+Name GSh-15 Belgrade
+ShortName GSh15Belgrade
+Ammo 50GI7
+Icon GSh15Belgrade
+Colour 255 255 255
+ReloadTime 60
+Recoil 2
+Damage 1.5
+Accuracy 8
+BulletSpeed 10.0
+ShootDelay 2
+ShootSound _MFP15Fire
+ReloadSound _MFP15Reload
+Mode SemiAuto
+Scope None
+ZoomLevel 1.0
+FOV ZoomLevel 1.25
+Distort Sound False
+Deployable False
+DeployedModel None
+ModelScale 0.2
+OneHanded True
+Model dwfirearms.MFP15
+Texture MFP15_Standard
+AllowAllAttachments true
+AllowScopeAttachments true
+AllowBarrelAttachments true
+AllowGripAttachments true
+AllowStockAttachments true
+NumGenericAttachmentSlots 4
+Paintjob MFP15_iconOrangedox MFP15_Orangedox orange 1 white 1
+Paintjob MFP15_iconTan MFP15_Tan yellow 1 brown 1
+Description .50 GI

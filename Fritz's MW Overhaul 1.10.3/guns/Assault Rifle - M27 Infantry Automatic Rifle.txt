@@ -1,0 +1,30 @@
+Name M27 IAR
+ShortName M27IAR
+Ammo 556NATO50
+Ammo 556NATO30
+Description 5.56x45mm NATO
+Icon M27IAR
+Colour 255 255 255
+ReloadTime 40
+Recoil 1
+Damage 1
+Accuracy 2
+RoundsPerMin 900
+ShootSound M14Shoot
+ReloadSound MP44Reload
+Mode FullAuto
+BulletSpeed 10
+Scope None
+ZoomLevel 1.0
+FOVZoomLevel 1.25
+Model mpack.m27iar
+ModelScale 0.09
+Texture skin_gun_m27iar
+AllowAllAttachments true
+AllowBarrelAttachments true
+AllowScopeAttachments true
+AllowStockAttachments true
+AllowGripAttachments true
+NumGenericAttachmentSlots 4
+ShowDamage true
+ShowReloadTime true

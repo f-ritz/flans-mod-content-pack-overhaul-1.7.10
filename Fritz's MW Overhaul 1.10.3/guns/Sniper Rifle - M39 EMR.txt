@@ -1,0 +1,29 @@
+Name M39 EMR
+ShortName M39EMR
+Ammo 762NATO10
+Icon M39EMR
+Colour 255 255 255
+ReloadTime 40
+Recoil 6
+Damage 2
+Accuracy 1
+RoundsPerMin 750
+ShootSound M14Shoot
+ReloadSound BARReload
+Mode SemiAuto
+BulletSpeed 10
+Scope mwm21
+ZoomLevel 6.5
+FOVZoomLevel 1.25
+Model mpack.mk14
+ModelScale 0.12
+Texture Skin_Gun_mk14
+AllowAllAttachments true
+AllowScopeAttachments true
+AllowGripAttachments true
+AllowBarrelAttachments true
+AllowStockAttachments true
+NumGenericAttachmentSlots 4
+ShowDamage true
+ShowReloadTime true
+Description 7.62x51mm NATO

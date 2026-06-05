@@ -1,0 +1,29 @@
+Name AKS-74N2
+ShortName AKS74N2
+Ammo 545Warsaw30
+Description 5.45x39mm WTO
+Icon AKS74N2
+Colour 255 255 255
+ReloadTime 40
+Recoil 3
+Damage 1
+Accuracy 3
+RoundsPerMin 600
+ShootSound AK47Shoot
+ReloadSound MP44Reload
+Mode FullAuto
+BulletSpeed 10
+Scope pkas
+ZoomLevel 2.25
+FOVZoomLevel 1.25
+Model mpack.ak74
+ModelScale 0.07
+Texture AK74N2
+AllowAllAttachments true
+AllowBarrelAttachments true
+AllowScopeAttachments true
+AllowStockAttachments true
+AllowGripAttachments true
+NumGenericAttachmentSlots 4
+ShowDamage true
+ShowReloadTime true

@@ -1,0 +1,32 @@
+Name M1883 BAR
+ShortName M1883BAR
+Ammo 68NATO25
+Icon M1883BAR
+Colour 255 255 255
+ReloadTime 60
+Recoil 4
+Damage 1
+Accuracy 6
+BulletSpeed 10.0
+RoundsPerMin 550
+ShootSound _AmbirconSteamRifleFire
+ReloadSound _AmbirconSteamRifleReload
+Mode FullAuto
+Scope None
+ZoomLevel 1.0
+FOV ZoomLevel 1.25
+Distort Sound False
+Deployable False
+DeployedModel None
+ModelScale 0.2
+OneHanded False
+Model dwfirearms.AmbirconSteamRifle
+Texture AmbirconSteamRifle_Steam
+NumGenericAttachmentSlots 4
+AllowAllAttachments true
+AllowStockAttachments true
+AllowScopeAttachments true
+AllowGripAttachments true
+AllowBarrelAttachments true
+Paintjob AmbirconSteamRifle_iconContractor AmbirconSteamRifle_Contractor gray 1 silver 1 brown 1
+Description 6.8x51mm NATO

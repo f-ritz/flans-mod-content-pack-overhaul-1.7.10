@@ -1,0 +1,28 @@
+Name G36A2
+ShortName G36A2
+Ammo 556NATO30
+Icon G36A1
+Colour 255 255 255
+ReloadTime 40
+Recoil 2
+Damage 1
+Accuracy 2
+RoundsPerMin 750
+ShootSound G36Shoot
+ReloadSound MP40Reload
+Mode FullAuto
+BulletSpeed 10
+ZoomLevel 1.0
+FOVZoomLevel 1.25
+Model mpack.g36
+ModelScale 0.11
+Texture Skin_Gun_g36
+AllowAllAttachments true
+AllowBarrelAttachments true
+AllowScopeAttachments true
+AllowStockAttachments true
+AllowGripAttachments true
+NumGenericAttachmentSlots 4
+ShowDamage true
+ShowReloadTime true
+Description 5.56x45mm NATO

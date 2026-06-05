@@ -1,0 +1,6 @@
+Name Box of 7.92x94mm Mauser Cartridges
+ShortName 792MauserHeavyBox
+Icon CartridgeBox
+Colour 255 255 255
+Category Misc
+StackSize 64

@@ -1,0 +1,29 @@
+Name F88T Austeyr
+ShortName F88T
+Ammo 22LR30
+Icon F88T
+Colour 255 255 255
+ReloadTime 40
+Recoil 1
+Damage 1
+Accuracy 1
+RoundsPerMin 620
+ShootSound M14Shoot
+ReloadSound MP44Reload
+Mode FullAuto
+BulletSpeed 10
+Scope None
+ZoomLevel 1
+FOVZoomLevel 4
+Model mpack.auga1
+ModelScale 0.12
+Texture F88
+AllowAllAttachments true
+AllowBarrelAttachments true
+AllowScopeAttachments true
+AllowStockAttachments true
+AllowGripAttachments true
+NumGenericAttachmentSlots 4
+ShowDamage true
+ShowReloadTime true
+Description .22 LR

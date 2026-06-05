@@ -1,0 +1,32 @@
+Name OTs-23 Smerch
+ShortName OTs23
+Ammo 939WP20
+Ammo 939WP30
+Icon OTs23
+Colour 255 255 255
+ReloadTime 60
+Recoil 2
+Damage 1
+Accuracy 6
+BulletSpeed 10
+RoundsPerMin 1100
+ShootSound _SF112Fire
+ReloadSound _SF112Reload
+Mode FullAuto
+Scope None
+ZoomLevel 1.0
+FOV ZoomLevel 1.25
+Distort Sound False
+Deployable False
+DeployedModel None
+ModelScale 0.2
+OneHanded False
+Model dwfirearms.SF116BP
+Texture SF116BP_Standard
+AllowAllAttachments true
+AllowGripAttachments true
+AllowScopeAttachments true
+AllowStockAttachments true
+AllowBarrelAttachments true
+NumGenericAttachmentSlots 4
+Description 9x39mm WP

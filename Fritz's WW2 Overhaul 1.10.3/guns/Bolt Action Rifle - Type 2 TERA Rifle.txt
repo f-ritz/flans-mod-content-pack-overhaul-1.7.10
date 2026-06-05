@@ -1,0 +1,27 @@
+Name Type 2 TERA Rifle
+ShortName Type2TERA
+Ammo 77Arisaka1
+LoadIntoGun 5
+Icon Type2TERA
+Colour 255 255 255
+ReloadTime 60
+Recoil 12
+Damage 1.5
+Accuracy 4
+ShootDelay 16
+ShootSound Type38Shoot
+ReloadSound kar98kReload
+Mode SemiAuto
+BulletSpeed 10
+Scope None
+Model ww2.Type38
+Texture Type2TERA
+AllowAllAttachments true
+AllowBarrelAttachments true
+AllowScopeAttachments true
+AllowStockAttachments true
+AllowGripAttachments true
+NumGenericAttachmentSlots 4
+Description 7.7x58mm Arisaka
+ShowDamage true
+ShowReloadTime true

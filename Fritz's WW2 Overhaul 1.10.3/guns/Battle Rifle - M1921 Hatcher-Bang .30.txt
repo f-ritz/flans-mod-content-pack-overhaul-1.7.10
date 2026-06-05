@@ -1,0 +1,28 @@
+Name M1921 Hatcher-Bang .30
+ShortName M1921HB30
+Ammo 30Cal1
+Description .30-06
+ShowDamage true
+ShowReloadTime true
+Icon M1921HB30
+Colour 255 255 255
+LoadIntoGun 5
+ReloadTime 90
+Recoil 8
+Damage 1
+Accuracy 7
+RoundsPerMin 350
+ShootSound m1garandShoot
+ReloadSound kar98kReload
+Mode SemiAuto
+BulletSpeed 10
+Model dunk.1895
+ModelScale 1
+Texture 1895
+FOVZoomLevel 1.25
+AllowAllAttachments true
+AllowBarrelAttachments true
+AllowScopeAttachments true
+AllowStockAttachments true
+AllowGripAttachments true
+NumGenericAttachmentSlots 4

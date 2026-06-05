@@ -1,0 +1,32 @@
+Name AA-15 Predator
+ShortName AA15
+Ammo 12Gauge24
+Icon AA15Predator
+Colour 255 255 255
+ReloadTime 110
+Recoil 5
+Damage 1
+Accuracy 22
+NumBullets 6
+BulletSpeed 10
+RoundsPerMin 310
+ShootSound _AGMPredatorFire
+ReloadSound _AGMPredatorReload
+Mode FullAuto
+Scope None
+ZoomLevel 1.0
+FOV ZoomLevel 1.25
+Distort Sound False
+Deployable False
+DeployedModel None
+ModelScale 0.2
+OneHanded False
+Model dwfirearms.AGMPredator
+Texture AGMPredator_Standard
+AllowAllAttachments true
+AllowScopeAttachments true
+AllowBarrelAttachments true
+AllowGripAttachments true
+AllowStockAttachments true
+NumGenericAttachmentSlots 4
+Description 12 Gauge Clip

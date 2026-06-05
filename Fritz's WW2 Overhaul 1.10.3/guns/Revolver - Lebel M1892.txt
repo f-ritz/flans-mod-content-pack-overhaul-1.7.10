@@ -1,0 +1,31 @@
+Name Lebel M1892
+ShortName LebelM1892
+Ammo 38Special1
+Icon MAS1873
+Colour 255 255 255
+ReloadTime 80
+Recoil 3
+Damage 2
+Accuracy 5
+ShootDelay 7
+ShootSound webleyShoot
+ReloadSound webleyReload
+LoadIntoGun 6
+Mode SemiAuto
+OneHanded true
+BulletSpeed 10
+Scope None
+ZoomLevel 1.0
+FOVZoomLevel 1.25
+Model ww2.Webley
+Texture Webley
+ModelScale 0.3
+AllowAllAttachments true
+AllowBarrelAttachments true
+AllowScopeAttachments true
+AllowStockAttachments true
+AllowGripAttachments true
+NumGenericAttachmentSlots 4
+Description .38 Special
+ShowDamage true
+ShowReloadTime true

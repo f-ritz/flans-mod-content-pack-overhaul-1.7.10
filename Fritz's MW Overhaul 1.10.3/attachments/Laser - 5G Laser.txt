@@ -1,0 +1,13 @@
+Name 5G Laser
+ShortName 5GLaser
+Icon 5GLaser
+AttachmentType stock
+Silencer false
+MeleeDamageMultiplier 1.0
+DamageMultiplier 1.05
+SpreadMultiplier 1.1
+RecoilMultiplier 0.8
+BulletSpeedMultiplier 1
+ReloadTimeMultiplier 1.01
+Model mw.ACOG
+Texture ACOGSight

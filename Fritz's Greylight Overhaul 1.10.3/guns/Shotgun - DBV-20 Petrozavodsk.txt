@@ -1,0 +1,32 @@
+Name DBV-20 Petrozavodsk
+ShortName DBV20
+Ammo 12Gauge10
+Icon DBV20
+Colour 255 255 255
+ReloadTime 70
+Recoil 5
+Damage 1
+Accuracy 21
+NumBullets 8
+BulletSpeed 7.0
+ShootDelay 10
+ShootSound _SF2012Fire
+ReloadSound _SF2012Reload
+Mode SemiAuto
+Scope None
+ZoomLevel 1.0
+FOV ZoomLevel 1.25
+Distort Sound False
+Deployable False
+DeployedModel None
+ModelScale 0.2
+OneHanded False
+Model dwfirearms.SF2012Petyr
+Texture SF2012Petyrvodsk_Standard
+AllowAllAttachments true
+AllowScopeAttachments true
+AllowBarrelAttachments true
+AllowGripAttachments true
+AllowStockAttachments true
+NumGenericAttachmentSlots 4
+Description 12 Gauge Clip

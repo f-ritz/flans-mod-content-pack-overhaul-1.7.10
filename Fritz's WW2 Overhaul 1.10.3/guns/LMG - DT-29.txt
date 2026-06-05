@@ -1,0 +1,27 @@
+Name DT-29
+ShortName DT29
+Ammo 762MMR63
+Description 7.62x54mmR
+ShowDamage true
+ShowReloadTime true
+Icon DT29
+Colour 255 255 255
+ReloadTime 80
+Recoil 2
+Damage 1
+Accuracy 7
+RoundsPerMin 600
+ShootSound DP28Shoot
+ReloadSound DP28Reload
+Mode FullAuto
+BulletSpeed 10
+Scope None
+Model W44.DT28
+Texture Skin44_DT28
+ModelScale 1.1
+AllowAllAttachments true
+AllowBarrelAttachments true
+AllowScopeAttachments true
+AllowStockAttachments true
+AllowGripAttachments true
+NumGenericAttachmentSlots 4

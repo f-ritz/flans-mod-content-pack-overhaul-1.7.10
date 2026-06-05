@@ -1,0 +1,49 @@
+////Name and icon
+Name RGD-5 HE Grenade
+ShortName RGD5
+Icon RGD5
+//Colour in Red, Green, Blue, each going up to 255
+Colour 255 255 255
+////Item and recipe
+StackSize 64
+////Visuals
+Model ww2.StickGrenade
+Texture RGD33
+TrailParticles false
+//TrailParticleType <particleType>
+ExplodeParticles 0
+//ExplodeParticleType <particleType>
+SmokeTime 0
+//SmokeParticleType <particleType>
+SpinWhenThrown true
+////Throwing
+ThrowDelay 10
+//ThrowSound <sound>
+//DropItemOnThrow <itemID.damage>
+////Physics
+DetonateOnImpact false
+Bounciness 0.3
+HitEntityDamage 2
+ThrowSpeed 2.2
+FallSpeed 1.2
+BreaksGlass true
+PenetratesBlocks false
+HitBoxSize 0.5
+Sticky false
+//BounceSound <sound>
+////Detonation conditions
+VehicleProximityTrigger -1.0
+LivingProximityTrigger -1.0
+Fuse 100
+DetonateWhenShot true
+Remote false
+//DespawnTime 0
+PrimeDelay 0
+////Detonation
+FireRadius 0.0
+ExplosionRadius 6
+ExplosionBreaksBlocks true
+//DropItemOnDetonate <itemID.damage>
+//Detonate Sound <sound>
+////Misc
+MeleeDamage 4

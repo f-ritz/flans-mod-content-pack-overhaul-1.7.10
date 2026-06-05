@@ -1,0 +1,15 @@
+Name 5 Round 12.7x108mm WTO Magazine
+ShortName 127Warsaw5
+Model Bullet
+Colour 255 255 255
+Icon 127Warsaw5
+FallSpeed 0.25
+MaxStackSize 64
+RoundsPerItem 5
+Damage 140
+BreaksGlass True
+HitBoxSize 0.1
+HitSound bullet
+Penetrates True
+Penetration 25
+SmokeTrail False

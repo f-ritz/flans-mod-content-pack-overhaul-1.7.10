@@ -1,0 +1,27 @@
+Name MAT 49
+ShortName MAT49
+Ammo 919NATO32
+Icon MAT49
+Colour 255 255 255
+ReloadTime 50
+Recoil 3
+Damage 1
+Accuracy 6
+RoundsPerMin 650
+ShootSound M3A1Shoot
+ReloadSound M3A1Reload
+Mode FullAuto
+BulletSpeed 10
+Scope None
+Model W44.GreaseGun
+Texture SkinGreaseGun
+ModelScale 0.2
+AllowAllAttachments true
+AllowBarrelAttachments true
+AllowScopeAttachments true
+AllowStockAttachments true
+AllowGripAttachments true
+NumGenericAttachmentSlots 4
+Description 9x19mm Parabellum
+ShowDamage true
+ShowReloadTime true

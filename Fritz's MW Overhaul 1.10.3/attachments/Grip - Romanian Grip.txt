@@ -1,0 +1,13 @@
+Name Romanian Grip
+ShortName RomanianGrip
+Icon RomanianGrip
+AttachmentType grip
+Silencer false
+MeleeDamageMultiplier 1.0
+DamageMultiplier 1.2
+SpreadMultiplier 0.8
+RecoilMultiplier 0.8
+BulletSpeedMultiplier 0.8
+ReloadTimeMultiplier 0.8
+Model mw.Foregrip
+Texture Foregrip

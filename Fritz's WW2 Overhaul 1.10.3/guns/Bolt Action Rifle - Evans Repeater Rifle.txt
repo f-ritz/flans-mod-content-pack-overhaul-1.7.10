@@ -1,0 +1,28 @@
+Name Evans Repeater Rifle
+ShortName EvansRepeaterRifle
+Ammo 44Magnum1
+LoadIntoGun 28
+Icon EvansRepeaterRifle
+Colour 255 255 255
+ReloadTime 70
+Recoil 14
+Damage 1.5
+Accuracy 5
+ShootDelay 15
+ShootSound springfieldShoot
+ReloadSound kar98kReload
+Mode SemiAuto
+BulletSpeed 10
+Scope None
+Model dunk.evans
+ModelScale 1
+Texture masterskin
+AllowAllAttachments true
+AllowBarrelAttachments true
+AllowScopeAttachments true
+AllowStockAttachments true
+AllowGripAttachments true
+NumGenericAttachmentSlots 4
+Description .44 Magnum
+ShowDamage true
+ShowReloadTime true

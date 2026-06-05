@@ -1,0 +1,29 @@
+Name Villar-Perosa M1915
+ShortName VPM1915
+Ammo 919NATO20
+LoadIntoGun 2
+Description 9x19mm Parabellum
+Icon VPM1915
+Colour 255 255 255
+ReloadTime 40
+Recoil 3
+Damage 1
+Accuracy 4
+RoundsPerMin 1200
+DistortSound False
+ShootSound mp40Shoot
+ReloadSound BrenReload
+Mode FullAuto
+BulletSpeed 10
+Scope None
+Model NewAge.BrenMk2
+Texture VPM1915
+ModelScale 0.8
+ShowDamage true
+ShowReloadTime true
+AllowAllAttachments true
+AllowBarrelAttachments true
+AllowScopeAttachments true
+AllowStockAttachments true
+AllowGripAttachments true
+NumGenericAttachmentSlots 4

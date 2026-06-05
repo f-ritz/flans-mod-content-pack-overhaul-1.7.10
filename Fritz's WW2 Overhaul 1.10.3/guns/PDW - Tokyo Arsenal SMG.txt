@@ -1,0 +1,26 @@
+Name Tokyo Arsenal SMG
+ShortName TokyoArsenalSMG
+Ammo 822Nambu50
+Description 8x22mm Nambu
+ShowDamage true
+ShowReloadTime true
+Icon TokyoArsenalSMG
+Colour 255 255 255
+ReloadTime 40
+Recoil 5
+Damage 1
+Accuracy 10
+RoundsPerMin 950
+ShootSound Type100Shoot
+ReloadSound PPSHReload
+Mode FullAuto
+BulletSpeed 10
+Model NewAge.PPD40
+Texture SkinPPD40
+ModelScale 0.15
+AllowAllAttachments true
+AllowBarrelAttachments true
+AllowScopeAttachments true
+AllowStockAttachments true
+AllowGripAttachments true
+NumGenericAttachmentSlots 4

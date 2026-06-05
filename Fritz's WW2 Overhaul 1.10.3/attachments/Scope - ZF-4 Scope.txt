@@ -1,0 +1,9 @@
+Name ZF-4 Scope
+ShortName ZF4Scope
+Icon ZF4Scope
+AttachmentType sights
+Silencer false
+ZoomLevel 2.5
+ZoomOverlay wwiikar98ksniper
+Model ww2.ZF4Scope
+Texture SkinZF-4

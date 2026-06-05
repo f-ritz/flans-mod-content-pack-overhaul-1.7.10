@@ -1,0 +1,30 @@
+Name Para P14-45
+ShortName ParaP1445
+Ammo 45ACP15
+Description .45 ACP
+Icon ParaP1445
+Colour 255 255 255
+ReloadTime 30
+Recoil 2
+Damage 1.5
+Accuracy 10
+ShootDelay 1
+ShootSound M9Shoot
+ReloadSound ColtReload
+Mode SemiAuto
+OneHanded true
+BulletSpeed 10
+Scope None
+ZoomLevel 1.0
+FOVZoomLevel 1.2
+Model mpack.m45a1
+ModelScale 0.07
+Texture Skin_Gun_m45a1
+AllowAllAttachments true
+AllowBarrelAttachments true
+AllowScopeAttachments true
+AllowStockAttachments true
+AllowGripAttachments true
+NumGenericAttachmentSlots 4
+ShowDamage true
+ShowReloadTime true

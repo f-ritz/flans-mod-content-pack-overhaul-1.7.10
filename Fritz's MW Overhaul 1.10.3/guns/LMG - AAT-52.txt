@@ -1,0 +1,31 @@
+Name AAT-52
+ShortName AAT52
+Ammo 762NATO500
+Ammo 762NATO250
+Ammo 762NATO100
+Ammo 762NATO50
+Description 7.62x51mm NATO
+Icon AAT52
+Colour 255 255 255
+ReloadTime 70
+Recoil 5
+Damage 1
+Accuracy 6
+RoundsPerMin 900
+ShootSound M249Shoot
+ReloadSound MG42Reload
+Mode FullAuto
+BulletSpeed 10
+Scope None
+Deployable False
+Model W44.Mg42
+Texture SkinMg42
+ModelScale 0.75
+AllowAllAttachments true
+AllowBarrelAttachments true
+AllowScopeAttachments true
+AllowStockAttachments true
+AllowGripAttachments true
+NumGenericAttachmentSlots 4
+ShowDamage true
+ShowReloadTime true

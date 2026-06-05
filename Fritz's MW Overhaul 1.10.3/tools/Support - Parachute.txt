@@ -1,0 +1,18 @@
+Name Parachute
+ShortName Parachute
+Icon MWParachute
+Colour 255 255 255
+Heal false
+Repair false
+HealAmount 0
+ToolLife 1
+DestroyOnEmpty true
+StackSize 1
+RecipeOutput 1
+Recipe W cloth S string
+WWW
+W W
+SSS
+Parachute true
+Model mw.MWParachute
+Texture MWParachute

@@ -1,0 +1,9 @@
+Name DDHB Reflex
+ShortName DDHB
+Icon RedDotSight
+AttachmentType sights
+Silencer false
+ZoomLevel 2.5
+ZoomOverlay ddhb
+Model mw.RedDot
+Texture RedDotSight

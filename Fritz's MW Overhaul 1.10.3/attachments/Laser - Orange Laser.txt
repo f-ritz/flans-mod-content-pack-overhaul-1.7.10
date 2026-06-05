@@ -1,0 +1,13 @@
+Name Orange Laser
+ShortName OrangeLaser
+Icon OrangeLaser
+AttachmentType stock
+Silencer false
+MeleeDamageMultiplier 1.0
+DamageMultiplier 1.0
+SpreadMultiplier 0.85
+RecoilMultiplier 0.6
+BulletSpeedMultiplier 1
+ReloadTimeMultiplier 0.85
+Model mw.ACOG
+Texture ACOGSight

@@ -1,0 +1,16 @@
+Name Binoculars
+ShortName Binoculars
+Icon Binoculars
+Colour 255 255 255
+ReloadTime 0
+Recoil 0
+NumBullets 0
+Damage 0
+Accuracy 0
+ShootDelay 0
+Mode SemiAuto
+Scope Binoculars
+ZoomLevel 16
+Deployable False
+DeployedModel None
+MeleeDamage 10

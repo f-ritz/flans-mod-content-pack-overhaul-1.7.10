@@ -1,0 +1,26 @@
+Name ZK-383 SMG
+ShortName ZK383
+Ammo 919NATO32
+Description 9x19mm Parabellum
+Icon ZK383
+Colour 255 255 255
+ReloadTime 40
+Recoil 5
+Damage 1
+Accuracy 3
+RoundsPerMin 650
+ShootSound Type100Shoot
+ReloadSound stenReload
+Mode FullAuto
+BulletSpeed 10
+Scope None
+Model ww2.Type100
+Texture ZK383
+AllowAllAttachments true
+AllowBarrelAttachments true
+AllowScopeAttachments true
+AllowStockAttachments true
+AllowGripAttachments true
+NumGenericAttachmentSlots 4
+ShowDamage true
+ShowReloadTime true

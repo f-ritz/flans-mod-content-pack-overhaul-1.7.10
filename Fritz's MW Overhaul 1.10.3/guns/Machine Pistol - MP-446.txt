@@ -1,0 +1,33 @@
+Name MP-446 Viking
+ShortName MP446
+Ammo 919NATO15
+Ammo 919NATO18
+Ammo 919NATO20
+Ammo 919NATO33
+Description 9x19mm Parabellum
+ShowDamage true
+ShowReloadTime true
+Icon MP446
+Colour 255 255 255
+ReloadTime 30
+Recoil 2
+Damage 1.25
+Accuracy 6
+RoundsPerMin 1100
+ShootSound MakarovShoot
+ReloadSound ColtReload
+Mode FullAuto
+OneHanded true
+BulletSpeed 10
+Scope None
+ZoomLevel 1.0
+FOVZoomLevel 1.2
+Model mpack.qsz92
+ModelScale 0.12
+Texture QSZ92
+AllowAllAttachments true
+AllowBarrelAttachments true
+AllowScopeAttachments true
+AllowStockAttachments true
+AllowGripAttachments true
+NumGenericAttachmentSlots 4

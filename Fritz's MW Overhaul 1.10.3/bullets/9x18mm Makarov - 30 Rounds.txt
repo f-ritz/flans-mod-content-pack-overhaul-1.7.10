@@ -1,0 +1,14 @@
+Name 30 Round 9x18mm Makarov Magazine
+ShortName 918Makarov30
+Model Bullet
+Colour 255 255 255
+Icon 918Makarov30
+FallSpeed 0.25
+MaxStackSize 64
+RoundsPerItem 30
+Damage 30
+BreaksGlass True
+HitBoxSize 0.1
+HitSound bullet
+Penetrates True
+SmokeTrail False

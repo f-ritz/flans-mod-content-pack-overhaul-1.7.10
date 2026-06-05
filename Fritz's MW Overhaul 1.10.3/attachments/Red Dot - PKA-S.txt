@@ -1,0 +1,9 @@
+Name PKA-S
+ShortName PKAS
+Icon ACOGSight
+AttachmentType sights
+Silencer false
+ZoomLevel 3.5
+ZoomOverlay pkas
+Model mw.ACOG
+Texture ACOGSight

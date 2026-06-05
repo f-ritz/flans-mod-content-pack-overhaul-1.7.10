@@ -1,0 +1,19 @@
+Name 12 Gauge Incendiary Shell
+ShortName 12GaugeIncendiary
+Model Bullet
+Colour 255 255 255
+Icon 12GaugeIncendiary
+FallSpeed 0.25
+MaxStackSize 64
+RoundsPerItem 1
+Damage 12
+ExplodeOnImpact True
+Fuse 5
+Fire 1
+BreaksGlass True
+HitBoxSize 0.1
+HitSound bullet
+Penetrates True
+SmokeTrail False
+RecipeOutput 64
+ShapelessRecipe 12GaugeIncendiaryBox

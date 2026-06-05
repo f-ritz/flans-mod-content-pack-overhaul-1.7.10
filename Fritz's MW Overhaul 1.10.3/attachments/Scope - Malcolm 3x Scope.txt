@@ -1,0 +1,9 @@
+Name Malcolm 3x Scope
+ShortName Malcolm3xScope
+Icon 4xScope
+AttachmentType sights
+Silencer false
+ZoomLevel 3
+ZoomOverlay scopeww
+Model mw.4xScope
+Texture 4xScope

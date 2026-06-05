@@ -1,0 +1,31 @@
+Name Type 79 SMG
+ShortName Type79SMG
+Ammo 762Tokarev35
+Ammo 762Tokarev20
+Description 7.62x25mm Tokarev
+Icon Type79SMG
+Colour 255 255 255
+ReloadTime 40
+Recoil 3
+Damage 1
+Accuracy 3
+RoundsPerMin 500
+ShootSound SkorpionShoot
+ReloadSound StenReload
+Mode FullAuto
+OneHanded true
+BulletSpeed 10
+Scope None
+ZoomLevel 1.0
+FOVZoomLevel 1.25
+Model mpack.skorpion
+ModelScale 0.07
+Texture VZ65
+AllowAllAttachments true
+AllowBarrelAttachments true
+AllowScopeAttachments true
+AllowStockAttachments true
+AllowGripAttachments true
+NumGenericAttachmentSlots 4
+ShowDamage true
+ShowReloadTime true

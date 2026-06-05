@@ -1,0 +1,28 @@
+Name Arisaka Type 44 Sniper
+ShortName Type44Sniper
+Ammo 77Arisaka1
+LoadIntoGun 5
+Icon Type44Sniper
+Colour 255 255 255
+ReloadTime 60
+Recoil 15
+Damage 2
+Accuracy 2
+ShootDelay 20
+ShootSound Type38Shoot
+ReloadSound kar98kReload
+Mode SemiAuto
+BulletSpeed 10
+Scope wwiitype38sniper
+ZoomLevel 10.0
+Model ww2.Type38sniper
+Texture Type44
+AllowAllAttachments true
+AllowBarrelAttachments true
+AllowScopeAttachments true
+AllowStockAttachments true
+AllowGripAttachments true
+NumGenericAttachmentSlots 4
+Description 7.7x58mm Arisaka
+ShowDamage true
+ShowReloadTime true

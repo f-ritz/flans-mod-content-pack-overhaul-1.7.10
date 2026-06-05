@@ -1,0 +1,28 @@
+Name Krag-Jorgensen Carbine
+ShortName KJCarbine
+Ammo 762NATO1
+Description 7.62x51mm NATO
+ShowDamage true
+ShowReloadTime true
+LoadIntoGun 5
+Icon KJCarbine
+Colour 255 255 255
+ReloadTime 60
+Recoil 9
+Damage 1.5
+Accuracy 3
+ShootDelay 30
+ShootSound kar98kShoot
+ReloadSound kar98kReload
+Mode SemiAuto
+BulletSpeed 10
+Scope None
+Model NewAge.KragCarbine
+Texture SkinKrag
+ModelScale 0.9
+AllowAllAttachments true
+AllowBarrelAttachments true
+AllowScopeAttachments true
+AllowStockAttachments true
+AllowGripAttachments true
+NumGenericAttachmentSlots 4

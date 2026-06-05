@@ -1,0 +1,9 @@
+Name Delta Sight
+ShortName DeltaSight
+Icon RedDotSight
+AttachmentType sights
+Silencer false
+ZoomLevel 1.5
+ZoomOverlay delta
+Model mw.RedDot
+Texture RedDotSight

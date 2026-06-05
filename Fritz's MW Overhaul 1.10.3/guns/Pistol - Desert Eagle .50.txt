@@ -1,0 +1,30 @@
+Name Desert Eagle (.50)
+ShortName Deagle50
+Ammo 50GI7
+Icon Deagle50
+Colour 255 255 255
+ReloadTime 40
+Recoil 8
+Damage 1.5
+Accuracy 7
+ShootDelay 3
+ShootSound DesertEagleShoot
+ReloadSound LugerReload
+Mode SemiAuto
+OneHanded true
+BulletSpeed 10
+Scope None
+ZoomLevel 1.0
+FOVZoomLevel 1.25
+Model mw.DesertEagle
+ModelScale 0.8
+Texture DesertEagle_Neon
+AllowAllAttachments true
+AllowBarrelAttachments true
+AllowScopeAttachments true
+AllowStockAttachments true
+AllowGripAttachments true
+NumGenericAttachmentSlots 4
+Description .50 GI
+ShowDamage true
+ShowReloadTime true

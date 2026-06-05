@@ -1,0 +1,27 @@
+Name Avtomatgevehr m/42
+ShortName AvtomatgevehrM42
+Ammo 65Carcano10
+Description 6.5x52mm Carcano
+Icon M42
+Colour 255 255 255
+ReloadTime 65
+Recoil 7
+Damage 1
+Accuracy 2
+ShootDelay 2
+ShootSound gewehr43Shoot
+ReloadSound m1carbineReload
+Mode SemiAuto
+BulletSpeed 10
+Scope None
+Model ww2.G43
+Texture M42
+ModelScale 0.6
+AllowAllAttachments true
+AllowBarrelAttachments true
+AllowScopeAttachments true
+AllowStockAttachments true
+AllowGripAttachments true
+NumGenericAttachmentSlots 4
+ShowDamage true
+ShowReloadTime true

@@ -1,0 +1,28 @@
+Name Beretta M1934
+ShortName BM1934
+Ammo 32ACP7
+Icon B1934
+Colour 255 255 255
+ReloadTime 40
+Recoil 6
+Damage 1.5
+Accuracy 3
+ShootDelay 2
+ShootSound TT33Shoot
+ReloadSound TT33Reload
+Mode SemiAuto
+OneHanded true
+BulletSpeed 10
+Scope None
+Model italian.Beretta_M1934
+Texture Skin_Gun_Beretta_M1934
+ModelScale 0.7
+AllowAllAttachments true
+AllowBarrelAttachments true
+AllowScopeAttachments true
+AllowStockAttachments true
+AllowGripAttachments true
+NumGenericAttachmentSlots 4
+Description .32 ACP
+ShowDamage true
+ShowReloadTime true

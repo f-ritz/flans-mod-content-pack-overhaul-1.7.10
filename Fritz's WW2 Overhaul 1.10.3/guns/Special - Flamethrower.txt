@@ -1,0 +1,32 @@
+Name Flamethrower
+ShortName Flamethrower
+Ammo FlamethrowerTank
+Icon Flamethrower
+Description Flamethrower Tank
+ShowDamage true
+ShowReloadTime true
+Colour 255 255 255
+ReloadTime 50
+Recoil 1
+Damage 1
+Accuracy 20
+ShootDelay 2
+ReloadSound Fg42Reload
+Mode Minigun
+MinigunStartSpeed 5
+WarmupSound FlamethrowerWarmup
+SpinSound FlamethrowerLoop
+CooldownSound FlamethrowerCooldown
+WarmupSoundLength 10
+SpinSoundLength 35
+BulletSpeed 1.0
+Scope None
+Model ww2.Flamethrower
+Texture Flamethrower
+ModelScale 1.0
+AllowAllAttachments true
+AllowBarrelAttachments true
+AllowScopeAttachments true
+AllowStockAttachments true
+AllowGripAttachments true
+NumGenericAttachmentSlots 4

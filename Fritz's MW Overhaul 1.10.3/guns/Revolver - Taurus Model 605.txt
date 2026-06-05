@@ -1,0 +1,32 @@
+Name Taurus Model 605
+ShortName TaurusModel605
+Ammo 357Magnum1
+Icon TaurusModel605
+Colour 255 255 255
+ReloadTime 100
+Recoil 11
+Damage 2
+LoadIntoGun 5
+Accuracy 3
+ShootDelay 3
+ShootSound ColtPythonShoot
+ReloadSound ColtPythonReload
+Mode SemiAuto
+OneHanded True
+BulletSpeed 10
+Scope None
+ZoomLevel 1.0
+FOVZoomLevel 1.25
+Model zombie.ColtPython
+Texture Taurus
+//Attachment Settings
+AllowAllAttachments true
+AllowAllAttachments true
+AllowBarrelAttachments true
+AllowScopeAttachments true
+AllowStockAttachments true
+AllowGripAttachments true
+NumGenericAttachmentSlots 4
+Description .357 Magnum
+ShowDamage true
+ShowReloadTime true

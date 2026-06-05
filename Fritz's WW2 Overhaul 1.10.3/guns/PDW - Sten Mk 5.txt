@@ -1,0 +1,25 @@
+Name Sten Mk 5
+ShortName StenMk5
+Ammo 919NATO32
+Description 9x19mm Parabellum
+Icon StenMk5
+Colour 255 255 255
+ReloadTime 40
+Recoil 2
+Damage 1
+Accuracy 2
+RoundsPerMin 600
+ShootSound stenShoot
+ReloadSound stenReload
+Mode FullAuto
+BulletSpeed 10
+Scope None
+Model ww2.Sten
+Texture Sten
+ModelScale 0.7
+AllowAllAttachments true
+AllowBarrelAttachments true
+AllowScopeAttachments true
+AllowStockAttachments true
+AllowGripAttachments true
+NumGenericAttachmentSlots 4

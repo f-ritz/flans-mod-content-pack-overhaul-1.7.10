@@ -1,0 +1,28 @@
+Name Type 4 Rifle
+ShortName Type4Rifle
+Ammo 77Arisaka1
+Icon Type4Rifle
+LoadIntoGun 8
+Description 7.7x58mm Arisaka
+ShowDamage true
+ShowReloadTime true
+Colour 255 255 255
+ReloadTime 30
+Recoil 6
+Damage 1
+Accuracy 2
+ShootDelay 1
+ShootSound Type38Shoot
+ReloadSound m1garandReload
+Mode SemiAuto
+BulletSpeed 10.0
+Scope None
+Model W44.M1Garand
+Texture SkinM1Garand
+ModelScale 0.25
+AllowAllAttachments true
+AllowBarrelAttachments true
+AllowScopeAttachments true
+AllowStockAttachments true
+AllowGripAttachments true
+NumGenericAttachmentSlots 4

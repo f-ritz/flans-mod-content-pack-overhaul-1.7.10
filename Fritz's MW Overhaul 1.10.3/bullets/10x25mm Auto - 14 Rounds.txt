@@ -1,0 +1,14 @@
+Name 14 Round 10x25mm Auto Magazine
+ShortName 10NATO14
+Model Bullet
+Colour 255 255 255
+Icon 10NATO14
+FallSpeed 0.25
+MaxStackSize 64
+RoundsPerItem 14
+Damage 36
+BreaksGlass True
+HitBoxSize 0.1
+HitSound bullet
+Penetrates True
+SmokeTrail False

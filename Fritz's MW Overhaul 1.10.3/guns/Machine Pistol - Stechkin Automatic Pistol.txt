@@ -1,0 +1,30 @@
+Name Stechkin Automatic Pistol
+ShortName StechkinAPS
+Ammo 918Makarov16
+Description 9x18mm Makarov
+ShowDamage true
+ShowReloadTime true
+Icon StechkinAPS
+Colour 255 255 255
+ReloadTime 30
+Recoil 3
+Damage 1.25
+Accuracy 8
+RoundsPerMin 750
+ShootSound MakarovShoot
+ReloadSound ColtReload
+Mode SemiAuto
+OneHanded true
+BulletSpeed 10
+Scope None
+ZoomLevel 1.0
+FOVZoomLevel 1.2
+Model mpack.makarov
+ModelScale 0.06
+Texture Skin_Gun_makarov
+AllowAllAttachments true
+AllowBarrelAttachments true
+AllowScopeAttachments true
+AllowStockAttachments true
+AllowGripAttachments true
+NumGenericAttachmentSlots 4

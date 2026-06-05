@@ -1,0 +1,14 @@
+Name 5 Round .338 Lapua Magazine
+ShortName 338Lapua5
+Model Bullet
+Colour 255 255 255
+Icon 338Lapua5
+FallSpeed 0.25
+MaxStackSize 64
+RoundsPerItem 5
+Damage 105
+BreaksGlass True
+HitBoxSize 0.1
+HitSound bullet
+Penetrates True
+SmokeTrail False

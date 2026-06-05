@@ -1,0 +1,32 @@
+Name Featherduster
+ShortName Featherduster
+Ammo 12Gauge10
+Icon Featherduster
+Colour 255 255 255
+ReloadTime 70
+Recoil 6
+Damage 1
+Accuracy 15
+NumBullets 8
+BulletSpeed 7.0
+ShootDelay 12
+ShootSound _SkylighterFire
+ReloadSound _UMX45Reload
+Mode SemiAuto
+Scope None
+ZoomLevel 1.0
+FOV ZoomLevel 1.25
+Distort Sound False
+Deployable False
+DeployedModel None
+ModelScale 0.2
+OneHanded False
+Model dwfirearms.Featherduster
+Texture Featherduster_Standard
+AllowAllAttachments true
+AllowScopeAttachments true
+AllowBarrelAttachments true
+AllowGripAttachments true
+AllowStockAttachments true
+NumGenericAttachmentSlots 4
+Description 12 Gauge Clip

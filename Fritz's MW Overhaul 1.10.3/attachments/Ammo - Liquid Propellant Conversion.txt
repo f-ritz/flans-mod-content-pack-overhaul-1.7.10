@@ -1,0 +1,13 @@
+Name Liquid Propellant Conversion
+ShortName LPConversion
+Icon LPConversion
+AttachmentType generic
+Silencer false
+MeleeDamageMultiplier 1.0
+DamageMultiplier 1.4
+SpreadMultiplier 0.57
+RecoilMultiplier 0.68
+BulletSpeedMultiplier 3.5
+ReloadTimeMultiplier 1.75
+Model mw.ACOG
+Texture ACOGSight

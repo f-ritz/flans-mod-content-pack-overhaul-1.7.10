@@ -1,0 +1,9 @@
+Name Unertl 8x Scope
+ShortName Unertl8xScope
+Icon 4xScope
+AttachmentType sights
+Silencer false
+ZoomLevel 8
+ZoomOverlay wwiispringfieldsniper
+Model mw.4xScope
+Texture 4xScope

@@ -1,0 +1,14 @@
+Name 20 Round 6.5x52mm Carcano Magazine
+ShortName 65Carcano20
+Model Bullet
+Colour 255 255 255
+Icon 65Carcano20
+FallSpeed 0.25
+MaxStackSize 64
+RoundsPerItem 20
+Damage 62
+BreaksGlass True
+HitBoxSize 0.1
+HitSound bullet
+Penetrates True
+SmokeTrail False

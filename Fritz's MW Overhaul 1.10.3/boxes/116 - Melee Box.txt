@@ -1,0 +1,32 @@
+Name Weapons Box - Melee
+ShortName WeaponsBoxMelee
+TopTexture WeaponsBoxTop
+SideTexture WeaponsBoxMelee
+BottomTexture WeaponsBoxBottom
+GunBoxID 116
+Recipe I log G diamond F fiberglass
+III
+FGF
+III
+NumGuns 21
+AddGun SkyshockerSword 2 ingotIron 4 redstone
+AddGun BattleHammer 2 ingotIron 2 redstone
+AddGun CarbonSteelKnife 2 ingotIron 1 coal
+AddGun PoliceBaton 1 ingotIron 2 redstone
+AddGun Knife 2 ingotIron
+AddGun HuntingKnife 2 ingotIron
+AddGun BaseballBat 2 log
+AddGun Katana 2 ingotIron
+AddGun StickGrenade 2 ingotIron
+AddGun ASPBaton 2 ingotIron
+AddGun Dagger 2 ingotIron
+AddGun Karambit 2 ingotIron
+AddGun IcePick 2 ingotIron
+AddGun Sledgehammer 2 ingotIron
+AddGun CombatShovel 2 ingotIron
+AddGun FiremanAxe 2 ingotIron
+AddGun GalvanizedPipe 2 ingotIron
+AddGun Spear 2 ingotIron
+AddGun WarHammer 2 ingotIron
+AddGun FryingPan 2 ingotIron
+AddGun BrassKnuckle 2 ingotIron

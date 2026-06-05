@@ -1,0 +1,28 @@
+Name Gewehr 98
+ShortName G98
+Ammo 792Mauser1
+Description 7.92x57mm Mauser
+ShowDamage true
+ShowReloadTime true
+LoadIntoGun 5
+Icon g98
+Colour 255 255 255
+ReloadTime 60
+Recoil 16
+Damage 1.5
+Accuracy 2
+ShootDelay 30
+ShootSound kar98kShoot
+ReloadSound kar98kReload
+Mode SemiAuto
+BulletSpeed 10
+Scope None
+Model dunk.g98
+ModelScale 1
+Texture G98
+AllowAllAttachments true
+AllowBarrelAttachments true
+AllowScopeAttachments true
+AllowStockAttachments true
+AllowGripAttachments true
+NumGenericAttachmentSlots 4

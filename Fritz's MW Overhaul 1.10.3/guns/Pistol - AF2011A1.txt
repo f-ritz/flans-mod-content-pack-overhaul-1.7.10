@@ -1,0 +1,32 @@
+Name Arsenal AF2011A1
+ShortName AF2011A1
+Ammo 45ACP8
+Icon AF2011A1
+Colour 255 255 255
+ReloadTime 40
+Recoil 4
+NumBullets 1
+LoadIntoGun 2
+Damage 1.5
+Accuracy 6
+ShootDelay 1
+ShootSound M9Shoot
+ReloadSound LugerReload
+Mode SemiAuto
+OneHanded true
+BulletSpeed 10
+Scope None
+ZoomLevel 1.0
+FOVZoomLevel 1.2
+Model mpack.m1911
+ModelScale 0.12
+Texture Skin_Gun_m1911
+AllowAllAttachments true
+AllowBarrelAttachments true
+AllowScopeAttachments true
+AllowStockAttachments true
+AllowGripAttachments true
+NumGenericAttachmentSlots 4
+ShowDamage true
+ShowReloadTime true
+Description .45 ACP

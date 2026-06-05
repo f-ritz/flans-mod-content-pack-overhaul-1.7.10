@@ -1,0 +1,28 @@
+Name Steyr M1911
+ShortName SteyrM1911
+Ammo 765Para7
+Description 7.65x21mm Parabellum
+ShowDamage true
+ShowReloadTime true
+Icon M1911
+Colour 255 255 255
+ReloadTime 40
+Recoil 5
+Damage 1.5
+Accuracy 5
+ShootDelay 2
+ShootSound coltShoot
+ReloadSound coltReload
+Mode SemiAuto
+OneHanded true
+BulletSpeed 10.0
+Scope None
+Model dunk.1900
+ModelScale 1
+Texture masterskin
+AllowAllAttachments true
+AllowBarrelAttachments true
+AllowScopeAttachments true
+AllowStockAttachments true
+AllowGripAttachments true
+NumGenericAttachmentSlots 4

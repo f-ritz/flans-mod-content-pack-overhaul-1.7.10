@@ -1,0 +1,28 @@
+Name SKS
+ShortName SKS
+Ammo 762Warsaw10
+Ammo 762Warsaw20
+Description 7.62x39mm WTO
+ShowDamage true
+ShowReloadTime true
+Icon SKS45
+Colour 255 255 255
+ReloadTime 50
+Recoil 3
+Damage 1
+Accuracy 3
+ShootDelay 2
+ShootSound MosinNagantShoot
+ReloadSound kar98kReload
+Mode SemiAuto
+BulletSpeed 10
+Scope None
+Model W44.SKS
+Texture SkinSKS
+ModelScale 0.25
+AllowAllAttachments true
+AllowBarrelAttachments true
+AllowScopeAttachments true
+AllowStockAttachments true
+AllowGripAttachments true
+NumGenericAttachmentSlots 4

@@ -1,0 +1,31 @@
+Name SC7-STND
+ShortName SC7STND
+Ammo 68NATO25
+Icon SC7STND
+Colour 255 255 255
+ReloadTime 65
+Recoil 5
+Damage 1
+Accuracy 6
+RoundsPerMin 500
+BulletSpeed 10.0
+ShootSound _Sc7Fire
+ReloadSound _Sc7Reload
+Mode FullAuto
+Scope None
+ZoomLevel 1.0
+FOV ZoomLevel 1.25
+Distort Sound False
+Deployable False
+DeployedModel None
+ModelScale 0.2
+OneHanded False
+Model dwfirearms.SC7STND
+Texture SC7STND_Standard
+NumGenericAttachmentSlots 4
+AllowBarrelAttachments true
+AllowScopeAttachments true
+AllowStockAttachments true
+AllowGripAttachments true
+AllowAllAttachments true
+Description 6.8x51mm NATO

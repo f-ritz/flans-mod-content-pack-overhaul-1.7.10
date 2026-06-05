@@ -1,0 +1,29 @@
+Name Lee-Enfield Jungle Sniper
+ShortName LeeEnfieldJungleSniper
+Ammo 303Enfield10
+ShowDamage true
+ShowReloadTime true
+Icon LeeEnfieldJungleSniper
+Colour 255 255 255
+ReloadTime 80
+Recoil 23
+Damage 2
+Accuracy 2
+ShootDelay 19
+ShootSound leeEnfieldShoot
+ReloadSound leeEnfieldReload
+Mode SemiAuto
+BulletSpeed 10
+Scope mwm40a3
+Model ww2.LeeenfieldS
+Texture LeeEnfieldJungle
+ModelScale 0.7
+ZoomLevel 10
+FOVZoomLevel 1.0
+AllowAllAttachments true
+AllowBarrelAttachments true
+AllowScopeAttachments true
+AllowStockAttachments true
+AllowGripAttachments true
+NumGenericAttachmentSlots 4
+Description .303 Enfield

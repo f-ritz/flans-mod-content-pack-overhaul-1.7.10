@@ -1,0 +1,27 @@
+Name Tankgewehr M1918
+ShortName TankgewehrM1918
+Ammo 13MMB1
+Description 13x92mm mmB
+Icon TankgewehrM1918
+Colour 255 255 255
+ReloadTime 50
+Recoil 25
+Damage 1.5
+Accuracy 4
+ShootDelay 20
+ShootSound kar98kShoot
+ReloadSound kar98kReload
+Mode SemiAuto
+BulletSpeed 10
+Scope None
+Model NewAge.Panzerbuechse39
+Texture SkinPanzerbuechse39
+ModelScale 0.25
+AllowAllAttachments true
+AllowBarrelAttachments true
+AllowScopeAttachments true
+AllowStockAttachments true
+AllowGripAttachments true
+NumGenericAttachmentSlots 4
+ShowDamage true
+ShowReloadTime true

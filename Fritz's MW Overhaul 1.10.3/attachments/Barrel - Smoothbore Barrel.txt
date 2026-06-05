@@ -1,0 +1,13 @@
+Name Smoothbore Barrel
+ShortName SmoothboreBarrel
+Icon SmoothboreBarrel
+AttachmentType barrel
+Silencer false
+MeleeDamageMultiplier 1.0
+DamageMultiplier 1
+SpreadMultiplier 2.5
+RecoilMultiplier 1
+BulletSpeedMultiplier 2.2
+ReloadTimeMultiplier 1
+Model mw.Silencer
+Texture Silencer

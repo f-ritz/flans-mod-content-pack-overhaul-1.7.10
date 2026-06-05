@@ -1,0 +1,28 @@
+Name Type 19 Nambu
+ShortName Type19Nambu
+Ammo 822Nambu7
+Icon Type19
+Colour 255 255 255
+ReloadTime 40
+Recoil 5
+Damage 1.5
+Accuracy 6
+ShootDelay 2
+ShootSound lugerShoot
+ReloadSound lugerReload
+Mode SemiAuto
+OneHanded true
+BulletSpeed 10
+Scope None
+Model ww2.Type14
+Texture Type19
+ModelScale 1.5
+AllowAllAttachments true
+AllowBarrelAttachments true
+AllowScopeAttachments true
+AllowStockAttachments true
+AllowGripAttachments true
+NumGenericAttachmentSlots 4
+Description 8x22mm Nambu
+ShowDamage true
+ShowReloadTime true

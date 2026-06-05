@@ -1,0 +1,29 @@
+Name Scotti Naval Rifle
+ShortName ScottiNavalRifle
+Ammo 65Carcano20
+Icon ScottiNavalRifle
+Colour 255 255 255
+ReloadTime 40
+Recoil 6
+Damage 1
+Accuracy 4
+RoundsPerMin 800
+ShootSound M14Shoot
+ReloadSound ThompsonReload
+Mode FullAuto
+BulletSpeed 10
+Scope None
+ZoomLevel 1.0
+FOVZoomLevel 1.25
+Model mpack.g3
+ModelScale 0.12
+Texture ScottiNavalRifle
+AllowAllAttachments true
+AllowBarrelAttachments true
+AllowScopeAttachments true
+AllowStockAttachments true
+AllowGripAttachments true
+NumGenericAttachmentSlots 4
+ShowDamage true
+ShowReloadTime true
+Description 7.62x51mm NATO

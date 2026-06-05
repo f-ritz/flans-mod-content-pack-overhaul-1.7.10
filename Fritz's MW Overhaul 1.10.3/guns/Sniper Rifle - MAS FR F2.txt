@@ -1,0 +1,29 @@
+Name MAS FR F2
+ShortName MASFRF2
+Ammo 338Lapua1
+Description .338 Lapua
+LoadIntoGun 8
+Icon MASFRF2
+Colour 255 255 255
+ReloadTime 80
+Recoil 20
+Damage 2
+Accuracy 2
+ShootDelay 13
+ShootSound R700Shoot
+ReloadSound SpringfieldReload
+Mode SemiAuto
+BulletSpeed 10
+Scope mwm40a3
+ZoomLevel 10.0
+FOVZoomLevel 1.0
+Model mw.M40A3
+Texture MASFRF2
+AllowAllAttachments true
+AllowBarrelAttachments true
+AllowScopeAttachments true
+AllowStockAttachments true
+AllowGripAttachments true
+NumGenericAttachmentSlots 4
+ShowDamage true
+ShowReloadTime true

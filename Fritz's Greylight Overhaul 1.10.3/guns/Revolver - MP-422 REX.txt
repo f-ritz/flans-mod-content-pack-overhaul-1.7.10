@@ -1,0 +1,32 @@
+Name MP-422 REX
+ShortName MP422REX
+Ammo 44Magnum1
+LoadIntoGun 6
+Icon MatriarchR015
+Colour 255 255 255
+ReloadTime 80
+Recoil 9
+Damage 2
+Accuracy 5
+BulletSpeed 10.0
+ShootDelay 1
+ShootSound _OverwatchFire
+ReloadSound _OverwatchReload
+Mode SemiAuto
+Scope None
+ZoomLevel 1.0
+FOV ZoomLevel 1.25
+Distort Sound False
+Deployable False
+DeployedModel None
+ModelScale 0.2
+OneHanded False
+Model dwfirearms.MatriarchR015
+Texture MatriarchR015_Standard
+AllowAllAttachments true
+AllowScopeAttachments true
+AllowBarrelAttachments true
+AllowGripAttachments true
+AllowStockAttachments true
+NumGenericAttachmentSlots 4
+Description .44 Magnum

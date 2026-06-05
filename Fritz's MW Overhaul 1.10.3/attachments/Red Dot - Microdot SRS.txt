@@ -1,0 +1,9 @@
+Name Microdot SRS
+ShortName MicrodotSRS
+Icon RedDotSight
+AttachmentType sights
+Silencer false
+ZoomLevel 2.1
+ZoomOverlay MicrodotSRS
+Model mw.RedDot
+Texture RedDotSight

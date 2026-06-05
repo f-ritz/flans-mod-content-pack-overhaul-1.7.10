@@ -1,0 +1,16 @@
+Name 11x59mm Gras Cartridge
+ShortName 11Chassepot1
+Model Bullet
+Colour 255 255 255
+Icon 11Chassepot1
+FallSpeed 0.25
+MaxStackSize 64
+RoundsPerItem 1
+Damage 92
+BreaksGlass True
+HitBoxSize 0.1
+HitSound bullet
+Penetrates True
+SmokeTrail False
+RecipeOutput 64
+ShapelessRecipe 11ChassepotBox

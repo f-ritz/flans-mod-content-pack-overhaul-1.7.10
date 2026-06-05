@@ -1,0 +1,29 @@
+Name Gepard M1
+ShortName GepardM1
+Ammo 127Warsaw1
+Description 12.7x108mm Warsaw
+LoadIntoGun 1
+Icon GepardM1
+Colour 255 255 255
+ReloadTime 35
+Recoil 35
+Damage 2
+Accuracy 1
+ShootDelay 15
+ShootSound PTRS41Shoot
+ReloadSound kar98kReload
+Mode SemiAuto
+BulletSpeed 10
+Scope PTRS41
+ZoomLevel 10
+Model NewAge.Berdan2
+Texture BFG50
+ModelScale 1.06
+AllowAllAttachments true
+AllowBarrelAttachments true
+AllowScopeAttachments true
+AllowStockAttachments true
+AllowGripAttachments true
+NumGenericAttachmentSlots 4
+ShowDamage true
+ShowReloadTime true

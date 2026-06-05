@@ -1,0 +1,13 @@
+Name UVC Laser
+ShortName UVCLaser
+Icon UVCLaser
+AttachmentType stock
+Silencer false
+MeleeDamageMultiplier 1.0
+DamageMultiplier 1.25
+SpreadMultiplier 1.17
+RecoilMultiplier 0.75
+BulletSpeedMultiplier 1
+ReloadTimeMultiplier 1.15
+Model mw.ACOG
+Texture ACOGSight

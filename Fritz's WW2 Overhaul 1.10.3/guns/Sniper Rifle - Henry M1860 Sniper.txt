@@ -1,0 +1,30 @@
+Name Henry M1860 Sniper
+ShortName HenryM1860Sniper
+Ammo 44Magnum1
+Description .44 Magnum
+ShowDamage true
+ShowReloadTime true
+Icon HenryM1860Sniper
+Colour 255 255 255
+LoadIntoGun 16
+ReloadTime 90
+Recoil 25
+Damage 2
+Accuracy 5
+ShootDelay 25
+ShootSound MosinNagantSniperShoot
+ReloadSound kar98kReload
+Mode SemiAuto
+BulletSpeed 10
+Scope wwiispringfieldsniper
+ZoomLevel 6
+Model dunk.ScopedHenryRifle
+ModelScale 1.2
+Texture Skin_Gun_M1860HenryScoped
+FOVZoomLevel 1.25
+AllowAllAttachments true
+AllowBarrelAttachments true
+AllowScopeAttachments true
+AllowStockAttachments true
+AllowGripAttachments true
+NumGenericAttachmentSlots 4

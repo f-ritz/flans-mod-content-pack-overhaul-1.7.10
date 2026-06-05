@@ -1,0 +1,29 @@
+Name Luitgarde M1895 Sniper
+ShortName LM1895S
+Ammo 792Mauser10
+ShowDamage true
+ShowReloadTime true
+Icon LeeEnfield41
+Colour 255 255 255
+ReloadTime 60
+Recoil 22
+Damage 2
+Accuracy 1
+ShootDelay 19
+ShootSound kar98kShoot
+ReloadSound leeEnfieldReload
+Mode SemiAuto
+BulletSpeed 10
+Scope wwiileeenfieldsniper
+Model ww2.LeeenfieldS
+Texture LM1895S
+ModelScale 0.7
+ZoomLevel 6
+FOVZoomLevel 1.0
+AllowAllAttachments true
+AllowBarrelAttachments true
+AllowScopeAttachments true
+AllowStockAttachments true
+AllowGripAttachments true
+NumGenericAttachmentSlots 4
+Description 7.92x57mm Mauser

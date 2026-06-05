@@ -1,0 +1,29 @@
+Name AS-50
+ShortName AS50
+Ammo 50BMG5
+Icon AS50
+Colour 255 255 255
+ReloadTime 40
+Recoil 20
+Damage 2
+Accuracy 1
+ShootDelay 20
+ShootSound BarrettShoot
+ReloadSound BARReload
+Mode SemiAuto
+BulletSpeed 10
+Scope mwbarrett
+ZoomLevel 10.0
+FOVZoomLevel 1.0
+Model mpack.m82
+ModelScale 0.21
+Texture Skin_Gun_m82
+AllowAllAttachments true
+AllowScopeAttachments true
+AllowGripAttachments true
+AllowBarrelAttachments true
+AllowStockAttachments true
+NumGenericAttachmentSlots 4
+ShowDamage true
+ShowReloadTime true
+Description .50 BMG

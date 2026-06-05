@@ -1,0 +1,28 @@
+Name Enfield M1917
+ShortName EnfieldM1917
+Ammo 30Cal1
+Description .30-06
+LoadIntoGun 6
+ShowDamage true
+ShowReloadTime true
+Icon EnfieldM1917
+Colour 255 255 255
+ReloadTime 80
+Recoil 8
+Damage 1.5
+Accuracy 4
+ShootDelay 16
+ShootSound leeEnfieldShoot
+ReloadSound leeEnfieldReload
+Mode SemiAuto
+BulletSpeed 10
+Scope None
+Model ww2.Leeenfield
+Texture EnfieldM1917
+ModelScale 0.7
+AllowAllAttachments true
+AllowBarrelAttachments true
+AllowScopeAttachments true
+AllowStockAttachments true
+AllowGripAttachments true
+NumGenericAttachmentSlots 4

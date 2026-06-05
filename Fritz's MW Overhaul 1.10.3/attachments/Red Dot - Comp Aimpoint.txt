@@ -1,0 +1,9 @@
+Name Comp Aimpoint
+ShortName CompAimpoint
+Icon ACOGSight
+AttachmentType sights
+Silencer false
+ZoomLevel 2.5
+ZoomOverlay comp
+Model mw.ACOG
+Texture ACOGSight

@@ -1,0 +1,27 @@
+Name DPM
+ShortName DPM
+Ammo 762MMR47
+Description 7.62x54mmR
+ShowDamage true
+ShowReloadTime true
+Icon DPM
+Colour 255 255 255
+ReloadTime 80
+Recoil 2
+Damage 1
+Accuracy 4
+RoundsPerMin 500
+ShootSound DP28Shoot
+ReloadSound DP28Reload
+Mode FullAuto
+BulletSpeed 10
+Scope None
+Model W44.DP28
+Texture SkinDP28
+ModelScale 0.25
+AllowAllAttachments true
+AllowBarrelAttachments true
+AllowScopeAttachments true
+AllowStockAttachments true
+AllowGripAttachments true
+NumGenericAttachmentSlots 4

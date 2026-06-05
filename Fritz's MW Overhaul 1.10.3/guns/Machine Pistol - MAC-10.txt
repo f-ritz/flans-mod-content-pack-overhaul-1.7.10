@@ -1,0 +1,30 @@
+Name MAC-10
+ShortName MAC10
+Ammo 45ACP30
+Description .45 ACP
+Icon MAC10
+Colour 255 255 255
+ReloadTime 35
+Recoil 2
+Damage 1.25
+Accuracy 1
+RoundsPerMin 1090
+ShootSound MiniUziShoot
+ReloadSound ColtReload
+Mode FullAuto
+OneHanded true
+BulletSpeed 10
+Scope None
+ZoomLevel 1.0
+FOVZoomLevel 1.25
+Model mpack.mac10
+ModelScale 0.08
+Texture Skin_Gun_mac10
+AllowAllAttachments true
+AllowBarrelAttachments true
+AllowScopeAttachments true
+AllowStockAttachments true
+AllowGripAttachments true
+NumGenericAttachmentSlots 4
+ShowDamage true
+ShowReloadTime true

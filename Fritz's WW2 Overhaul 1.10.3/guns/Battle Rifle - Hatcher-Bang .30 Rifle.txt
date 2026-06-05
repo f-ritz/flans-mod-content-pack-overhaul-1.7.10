@@ -1,0 +1,28 @@
+Name Hatcher-Bang .30 Rifle
+ShortName HB30Rifle
+Ammo 30Cal1
+Description .30-06
+ShowDamage true
+ShowReloadTime true
+Icon HB30Rifle
+Colour 255 255 255
+LoadIntoGun 5
+ReloadTime 90
+Recoil 7
+Damage 1
+Accuracy 3
+RoundsPerMin 350
+ShootSound m1garandShoot
+ReloadSound springfieldReload
+Mode SemiAuto
+BulletSpeed 10
+Model W44.M1903Springfield
+Texture SkinM1903Springfield
+ModelScale 0.25
+FOVZoomLevel 1.25
+AllowAllAttachments true
+AllowBarrelAttachments true
+AllowScopeAttachments true
+AllowStockAttachments true
+AllowGripAttachments true
+NumGenericAttachmentSlots 4

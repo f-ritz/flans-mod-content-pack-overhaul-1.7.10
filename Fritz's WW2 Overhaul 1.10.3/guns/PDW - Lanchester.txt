@@ -1,0 +1,29 @@
+Name Lanchester
+ShortName Lanchester
+Ammo 919NATO32
+Description 9x19mm Parabellum
+ShowDamage true
+ShowReloadTime true
+Icon Lanchester
+Colour 255 255 255
+ReloadTime 40
+Recoil 2
+Damage 1
+Accuracy 3
+RoundsPerMin 650
+ShootSound stenShoot
+ReloadSound stenReload
+Mode FullAuto
+BulletSpeed 10
+Scope None
+Deployable False
+DeployedModel None
+Model ww2.Mp34
+Texture MP34
+ModelScale 0.85
+AllowAllAttachments true
+AllowBarrelAttachments true
+AllowScopeAttachments true
+AllowStockAttachments true
+AllowGripAttachments true
+NumGenericAttachmentSlots 4

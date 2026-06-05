@@ -1,0 +1,28 @@
+Name FN Model 1910
+ShortName FNModel1910
+Ammo 919NATO8
+Description 9x19mm Parabellum
+ShowDamage true
+ShowReloadTime true
+Icon M1911
+Colour 255 255 255
+ReloadTime 40
+Recoil 4
+Damage 1.5
+Accuracy 2
+ShootDelay 2
+ShootSound coltShoot
+ReloadSound coltReload
+Mode SemiAuto
+OneHanded true
+BulletSpeed 10.0
+Scope None
+Model dunk.1900
+ModelScale 1
+Texture masterskin
+AllowAllAttachments true
+AllowBarrelAttachments true
+AllowScopeAttachments true
+AllowStockAttachments true
+AllowGripAttachments true
+NumGenericAttachmentSlots 4

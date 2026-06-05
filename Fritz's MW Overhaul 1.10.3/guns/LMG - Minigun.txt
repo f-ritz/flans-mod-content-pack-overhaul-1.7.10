@@ -1,0 +1,36 @@
+Name Minigun
+ShortName Minigun
+Ammo 762NATO500
+Icon Minigun
+Colour 255 255 255
+ReloadTime 100
+Recoil 1
+Knockback 0.5
+Damage 1
+Accuracy 4
+RoundsPerMin 2000
+NumBullets 3
+WarmupSound MinigunWarmup
+SpinSound MinigunSpin
+CooldownSound MinigunCooldown
+WarmupSoundLength 11
+SpinSoundLength 9
+ShootSound RPDShoot
+ReloadSound BrowningReload
+Mode Minigun
+BulletSpeed 10
+Scope None
+ZoomLevel 1.0
+FOVZoomLevel 1.0
+Model mw.Minigun
+Texture Minigun
+ModelScale 1.0
+AllowAllAttachments true
+AllowBarrelAttachments true
+AllowScopeAttachments true
+AllowStockAttachments true
+AllowGripAttachments true
+NumGenericAttachmentSlots 4
+Description 7.62x51mm NATO
+ShowDamage true
+ShowReloadTime true

@@ -1,0 +1,31 @@
+Name PM-63 RAK
+ShortName PM63
+Ammo 918Makarov16
+Ammo 918Makarov30
+Description 9x18mm Makarov
+Icon PM63
+Colour 255 255 255
+ReloadTime 40
+Recoil 3
+Damage 1.25
+Accuracy 2
+RoundsPerMin 650
+ShootSound SkorpionShoot
+ReloadSound StenReload
+Mode FullAuto
+OneHanded true
+BulletSpeed 10
+Scope None
+ZoomLevel 1.0
+FOVZoomLevel 1.25
+Model mpack.skorpion
+ModelScale 0.07
+Texture VZ61
+AllowAllAttachments true
+AllowBarrelAttachments true
+AllowScopeAttachments true
+AllowStockAttachments true
+AllowGripAttachments true
+NumGenericAttachmentSlots 4
+ShowDamage true
+ShowReloadTime true

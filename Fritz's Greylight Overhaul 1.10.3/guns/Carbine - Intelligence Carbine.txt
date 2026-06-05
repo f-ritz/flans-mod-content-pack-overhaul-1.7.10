@@ -1,0 +1,31 @@
+Name Intelligence Carbine
+ShortName IntelligenceCarbine
+Ammo 68NATO25
+Icon IntelligenceCarbine
+Colour 255 255 255
+ReloadTime 75
+Recoil 3
+Damage 1
+Accuracy 8
+BulletSpeed 10.0
+RoundsPerMin 850
+ShootSound _LuabellaFire
+ReloadSound _LuabellaReload
+Mode FullAuto
+Scope None
+ZoomLevel 1.0
+FOV ZoomLevel 1.25
+Distort Sound False
+Deployable False
+DeployedModel None
+ModelScale 0.2
+OneHanded False
+Model dwfirearms.LuabellaCarbine
+Texture LuabellaCarbine_Urban
+AllowAllAttachments true
+AllowScopeAttachments true
+AllowBarrelAttachments true
+AllowGripAttachments true
+AllowStockAttachments true
+NumGenericAttachmentSlots 4
+Description 6.8x51mm NATO

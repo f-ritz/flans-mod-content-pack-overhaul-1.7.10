@@ -1,0 +1,4 @@
+DPMShoot.ogg - replacement for DP series
+SKSShoot.ogg - SKS
+ThompsonM1A1Shoot.ogg - tommy gun
+STG44Shoot.ogg - STG 44 series

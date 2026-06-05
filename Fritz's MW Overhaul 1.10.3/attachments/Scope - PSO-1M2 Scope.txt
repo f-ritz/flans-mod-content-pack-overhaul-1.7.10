@@ -1,0 +1,9 @@
+Name PSO-1M2 Scope
+ShortName PSO1M2
+Icon 4xScope
+AttachmentType sights
+Silencer false
+ZoomLevel 10.0
+ZoomOverlay pso1m2
+Model mw.4xScope
+Texture 4xScope

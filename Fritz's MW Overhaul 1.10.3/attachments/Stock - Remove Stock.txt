@@ -1,0 +1,13 @@
+Name Remove Stock
+ShortName RemoveStock
+Icon RemoveStock
+AttachmentType stock
+Silencer false
+MeleeDamageMultiplier 1.0
+DamageMultiplier 1.0
+SpreadMultiplier 1.4
+RecoilMultiplier 1.2
+BulletSpeedMultiplier 1
+ReloadTimeMultiplier 0.7
+Model mw.ACOG
+Texture ACOGSight

@@ -1,0 +1,28 @@
+Name Howdah Rifle
+ShortName HowdahRifle
+Ammo 52Minie1
+LoadIntoGun 2
+Icon HowdahRifle
+Colour 255 255 255
+ReloadTime 30
+Recoil 25
+Damage 1.5
+Accuracy 6
+ShootDelay 20
+ShootSound springfieldShoot
+ReloadSound kar98kReload
+Mode SemiAuto
+BulletSpeed 10
+Scope None
+Model dunk.howdahlong
+ModelScale 1
+Texture masterskin
+AllowAllAttachments true
+AllowBarrelAttachments true
+AllowScopeAttachments true
+AllowStockAttachments true
+AllowGripAttachments true
+NumGenericAttachmentSlots 4
+Description .52 Minie
+ShowDamage true
+ShowReloadTime true

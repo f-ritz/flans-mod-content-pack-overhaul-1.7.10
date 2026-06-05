@@ -1,0 +1,31 @@
+Name Iver Johnson M1894
+ShortName IverJohnsonM1894
+Ammo 32ACP1
+Icon IverJohnsonM1894
+Colour 255 255 255
+ReloadTime 80
+Recoil 3
+Damage 2
+Accuracy 3
+ShootDelay 11
+ShootSound webleyShoot
+ReloadSound webleyReload
+LoadIntoGun 6
+Mode SemiAuto
+OneHanded true
+BulletSpeed 10
+Scope None
+ZoomLevel 1.0
+FOVZoomLevel 1.25
+Model dunk.dunkwebly
+ModelScale 1
+Texture masterskin
+AllowAllAttachments true
+AllowBarrelAttachments true
+AllowScopeAttachments true
+AllowStockAttachments true
+AllowGripAttachments true
+NumGenericAttachmentSlots 4
+Description .32 ACP
+ShowDamage true
+ShowReloadTime true

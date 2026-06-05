@@ -1,0 +1,29 @@
+Name Mauser SP66
+ShortName MauserSP66
+Ammo 762NATO1
+Description 7.62x51mm NATO
+LoadIntoGun 3
+Icon MauserSP66
+ShowDamage true
+ShowReloadTime true
+Colour 255 255 255
+ReloadTime 50
+Recoil 23
+Damage 2
+Accuracy 1
+ShootDelay 17
+ShootSound R700Shoot
+ReloadSound SpringfieldReload
+Mode SemiAuto
+BulletSpeed 10
+Scope mwr700
+ZoomLevel 10.0
+FOVZoomLevel 1.0
+Model mw.R700
+Texture MauserSP66
+AllowAllAttachments true
+AllowBarrelAttachments true
+AllowScopeAttachments true
+AllowStockAttachments true
+AllowGripAttachments true
+NumGenericAttachmentSlots 4

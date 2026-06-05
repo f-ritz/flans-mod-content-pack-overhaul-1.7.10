@@ -1,0 +1,9 @@
+Name Kousaku Sight
+ShortName KousakuSight
+Icon RedDotSight
+AttachmentType sights
+Silencer false
+ZoomLevel 2
+ZoomOverlay kousaku
+Model mw.ACOG
+Texture ACOGSight

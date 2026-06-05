@@ -1,0 +1,9 @@
+Name Hensoldt Z24
+ShortName HensoldtZ24
+Icon ACOGSight
+AttachmentType sights
+Silencer false
+ZoomLevel 3.5
+ZoomOverlay HensoldtZ24
+Model mw.ACOG
+Texture ACOGSight

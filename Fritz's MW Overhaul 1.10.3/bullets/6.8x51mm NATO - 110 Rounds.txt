@@ -1,0 +1,14 @@
+Name 110 Round 6.8x51mm NATO Magazine
+ShortName 68NATO110
+Model Bullet
+Colour 255 255 255
+Icon 68NATO110
+FallSpeed 0.25
+MaxStackSize 64
+RoundsPerItem 110
+Damage 54
+BreaksGlass True
+HitBoxSize 0.1
+HitSound bullet
+Penetrates True
+SmokeTrail False

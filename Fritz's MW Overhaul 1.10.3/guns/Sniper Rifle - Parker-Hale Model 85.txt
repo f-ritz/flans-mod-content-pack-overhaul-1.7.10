@@ -1,0 +1,29 @@
+Name Parker-Hale Model 85
+ShortName PHM85
+Ammo 762NATO10
+ShowDamage true
+ShowReloadTime true
+Icon PHM85
+Colour 255 255 255
+ReloadTime 80
+Recoil 22
+Damage 2
+Accuracy 2
+ShootDelay 15
+ShootSound L96Shoot
+ReloadSound BARReload
+Mode SemiAuto
+BulletSpeed 10
+Scope mwm40a3
+Model ww2.LeeenfieldS
+Texture PHM85
+ModelScale 0.7
+ZoomLevel 10
+FOVZoomLevel 1.0
+AllowAllAttachments true
+AllowBarrelAttachments true
+AllowScopeAttachments true
+AllowStockAttachments true
+AllowGripAttachments true
+NumGenericAttachmentSlots 4
+Description 7.62x51mm NATO

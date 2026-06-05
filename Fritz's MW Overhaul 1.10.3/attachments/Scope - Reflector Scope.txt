@@ -1,0 +1,9 @@
+Name Reflector Scope
+ShortName ReflectorScope
+Icon 4xScope
+AttachmentType sights
+Silencer false
+ZoomLevel 5.5
+ZoomOverlay ReflectorScope
+Model mw.4xScope
+Texture 4xScope

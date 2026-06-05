@@ -1,0 +1,30 @@
+Name Imbel IA-2 SMG
+ShortName ImbelIA2SMG
+Ammo 919NATO30
+Icon ImbelIA2SMG
+Colour 255 255 255
+ReloadTime 40
+Recoil 3
+Damage 1
+Accuracy 3
+RoundsPerMin 700
+ShootSound MiniUziShoot
+ReloadSound ColtReload
+Mode FullAuto
+OneHanded true
+BulletSpeed 10
+Scope None
+ZoomLevel 1.0
+FOVZoomLevel 1.25
+Model mpack.ia2cqc
+ModelScale 0.12
+Texture Skin_Gun_ia2cqc
+AllowAllAttachments true
+AllowBarrelAttachments true
+AllowScopeAttachments true
+AllowStockAttachments true
+AllowGripAttachments true
+NumGenericAttachmentSlots 4
+ShowDamage true
+ShowReloadTime true
+Description 9x19mm Parabellum

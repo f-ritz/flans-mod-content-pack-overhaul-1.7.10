@@ -1,0 +1,29 @@
+Name Ak 4B
+ShortName AK4B
+Ammo 762NATO20
+Icon AK4B
+Colour 255 255 255
+ReloadTime 40
+Recoil 4
+Damage 1
+Accuracy 1
+RoundsPerMin 600
+ShootSound M14Shoot
+ReloadSound ThompsonReload
+Mode FullAuto
+BulletSpeed 10
+Scope comp
+ZoomLevel 2
+FOVZoomLevel 1.25
+Model mpack.g3
+ModelScale 0.12
+Texture AK4
+AllowAllAttachments true
+AllowBarrelAttachments true
+AllowScopeAttachments true
+AllowStockAttachments true
+AllowGripAttachments true
+NumGenericAttachmentSlots 4
+ShowDamage true
+ShowReloadTime true
+Description 7.62x51mm NATO

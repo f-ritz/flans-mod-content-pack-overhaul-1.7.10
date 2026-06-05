@@ -1,0 +1,9 @@
+Name Acro P-1 Sight
+ShortName AcroP1Sight
+Icon RedDotSight
+AttachmentType sights
+Silencer false
+ZoomLevel 1.8
+ZoomOverlay AcroP1Sight
+Model mw.RedDot
+Texture RedDotSight

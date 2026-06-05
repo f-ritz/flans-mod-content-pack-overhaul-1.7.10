@@ -1,0 +1,31 @@
+Name Chalemot-Delvigne M1874
+ShortName ChalemotDelvigneM1874
+Ammo 357Magnum1
+Icon MAS1873
+Colour 255 255 255
+ReloadTime 80
+Recoil 6
+Damage 2
+Accuracy 5
+ShootDelay 11
+ShootSound webleyShoot
+ReloadSound webleyReload
+LoadIntoGun 9
+Mode SemiAuto
+OneHanded true
+BulletSpeed 10
+Scope None
+ZoomLevel 1.0
+FOVZoomLevel 1.25
+Model dunk.dunklemat
+Texture masterskin
+ModelScale 0.1
+AllowAllAttachments true
+AllowBarrelAttachments true
+AllowScopeAttachments true
+AllowStockAttachments true
+AllowGripAttachments true
+NumGenericAttachmentSlots 4
+Description .357 Magnum
+ShowDamage true
+ShowReloadTime true

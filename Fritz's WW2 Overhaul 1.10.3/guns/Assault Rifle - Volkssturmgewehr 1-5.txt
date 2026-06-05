@@ -1,0 +1,27 @@
+Name Volkssturmgewehr 1-5
+ShortName VG15
+Ammo 792Kurz30
+Icon VG15
+Description 7.92x33mm Kurz
+ShowDamage true
+ShowReloadTime true
+Colour 255 255 255
+ReloadTime 30
+Recoil 5
+Damage 1
+Accuracy 6
+RoundsPerMin 500
+ShootSound mp44Shoot
+ReloadSound mp44Reload
+Mode SemiAuto
+BulletSpeed 10
+Scope None
+Model W44.Stg44
+Texture SkinMP44
+ModelScale 0.06
+AllowAllAttachments true
+AllowBarrelAttachments true
+AllowScopeAttachments true
+AllowStockAttachments true
+AllowGripAttachments true
+NumGenericAttachmentSlots 4

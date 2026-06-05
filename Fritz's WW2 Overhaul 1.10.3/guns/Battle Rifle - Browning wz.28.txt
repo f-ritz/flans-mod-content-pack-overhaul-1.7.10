@@ -1,0 +1,27 @@
+Name Browning wz.28
+ShortName WZ28
+Ammo 792Mauser20
+Description 7.92x57mm Mauser
+Icon WZ28
+Colour 255 255 255
+ReloadTime 50
+Recoil 3
+Damage 1
+Accuracy 3
+RoundsPerMin 500
+ShootSound BARShoot
+ReloadSound BARReload
+Mode FullAuto
+BulletSpeed 10
+Scope None
+Model ww2.BAR
+Texture WZ28
+ModelScale 1
+AllowAllAttachments true
+AllowBarrelAttachments true
+AllowScopeAttachments true
+AllowStockAttachments true
+AllowGripAttachments true
+NumGenericAttachmentSlots 4
+ShowDamage true
+ShowReloadTime true

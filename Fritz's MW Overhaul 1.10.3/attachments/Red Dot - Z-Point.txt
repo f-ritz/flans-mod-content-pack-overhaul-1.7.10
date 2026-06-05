@@ -1,0 +1,9 @@
+Name Z-Point
+ShortName ZPoint
+Icon ACOGSight
+AttachmentType sights
+Silencer false
+ZoomLevel 2.5
+ZoomOverlay zpoint
+Model mw.ACOG
+Texture ACOGSight

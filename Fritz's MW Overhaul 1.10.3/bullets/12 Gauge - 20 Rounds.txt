@@ -1,0 +1,14 @@
+Name 20 Round 12 Gauge Magazine
+ShortName 12Gauge20
+Model Bullet
+Colour 255 255 255
+Icon 12Gauge20
+FallSpeed 0.25
+MaxStackSize 64
+RoundsPerItem 20
+Damage 12
+BreaksGlass True
+HitBoxSize 0.1
+HitSound bullet
+Penetrates True
+SmokeTrail False

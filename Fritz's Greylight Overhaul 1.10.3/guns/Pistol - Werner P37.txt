@@ -1,0 +1,31 @@
+Name Werner P37
+ShortName WernerP37
+Ammo 765Para8
+Icon WernerP37
+Colour 255 255 255
+ReloadTime 50
+Recoil 2
+Damage 1.5
+Accuracy 3
+BulletSpeed 10.0
+ShootDelay 2
+ShootSound _WinnowFire
+ReloadSound _WinnowReload
+Mode SemiAuto
+Scope None
+ZoomLevel 1.0
+FOV ZoomLevel 1.25
+Distort Sound False
+Deployable False
+DeployedModel None
+ModelScale 0.2
+OneHanded False
+Model dwfirearms.WinnowBP
+Texture WinnowBP_Steam
+AllowAllAttachments true
+AllowScopeAttachments true
+AllowBarrelAttachments true
+AllowGripAttachments true
+AllowStockAttachments true
+NumGenericAttachmentSlots 4
+Description 7.65x21mm Parabellum

@@ -1,0 +1,34 @@
+Name HVF Perforator
+ShortName HVFPerforator
+Ammo 50BMG10
+Ammo 50BMG10HE
+Icon HVFPeforator
+Colour 255 255 255
+ReloadTime 90
+Recoil 6
+Damage 2
+Accuracy 8
+BulletSpeed 10.0
+ShootDelay 8
+ShootSound _HVFPeforatorFire
+ReloadSound _HVFPeforatorReload
+Mode SemiAuto
+Scope HVFscope
+ZoomLevel 4.0
+FOV ZoomLevel 1.25
+Distort Sound False
+Deployable False
+DeployedModel None
+ModelScale 0.2
+OneHanded False
+Model dwfirearms.HVFPeforator
+Texture HVFPeforator_Steam
+AllowAllAttachments true
+AllowScopeAttachments true
+AllowBarrelAttachments true
+AllowGripAttachments true
+AllowStockAttachments true
+NumGenericAttachmentSlots 4
+Paintjob HVFPeforator_iconATDigital HVFPeforator_ATDigital gray 1 silver 1 black 1
+Paintjob HVFPeforator_iconAJStryker HVFPeforator_AJStryker silver 1 black 1
+Description .50 BMG

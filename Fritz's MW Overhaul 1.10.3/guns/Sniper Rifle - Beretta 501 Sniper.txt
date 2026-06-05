@@ -1,0 +1,30 @@
+Name Beretta 501 Sniper
+ShortName B501
+Ammo 762NATO1
+LoadIntoGun 5
+Icon B501
+Colour 255 255 255
+ReloadTime 70
+Recoil 20
+Damage 2
+Accuracy 1
+ShootDelay 26
+ShootSound L96Shoot
+ReloadSound BARReload
+Mode SemiAuto
+BulletSpeed 10
+Scope mwm40a3
+ZoomLevel 10.0
+FOVZoomLevel 1.0
+Model mw.L96
+ModelScale 0.75
+Texture B501
+AllowAllAttachments true
+AllowBarrelAttachments true
+AllowScopeAttachments true
+AllowStockAttachments true
+AllowGripAttachments true
+NumGenericAttachmentSlots 4
+ShowDamage true
+ShowReloadTime true
+Description .338 Lapua

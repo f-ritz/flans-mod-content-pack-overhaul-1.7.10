@@ -1,0 +1,29 @@
+Name The Squirrel Whisperer
+ShortName TheSquirrelWhisperer
+Ammo 22LR1
+Description .22 LR
+Icon TheSquirrelWhisperer
+Colour 255 255 255
+ReloadTime 90
+Recoil 15
+Damage 2
+Accuracy 1
+LoadIntoGun 7
+ShootDelay 24
+ShootSound WinchesterModel70Shoot
+ReloadSound WinchesterModel70Reload
+Mode SemiAuto
+BulletSpeed 10
+Scope mwm21
+ZoomLevel 10
+FOVZoomLevel 1.0
+Model zombie.WinchesterModel70
+Texture TheSquirrelWhisperer
+AllowAllAttachments true
+AllowBarrelAttachments true
+AllowScopeAttachments true
+AllowStockAttachments true
+AllowGripAttachments true
+NumGenericAttachmentSlots 4
+ShowDamage true
+ShowReloadTime true

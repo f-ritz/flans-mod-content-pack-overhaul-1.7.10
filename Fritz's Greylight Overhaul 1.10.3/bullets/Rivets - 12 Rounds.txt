@@ -1,0 +1,26 @@
+Name 12 Round Rivet Magazine
+ShortName Rivets12
+Model dwfirearms.BulletRailwaySpike
+Texture bulletMap
+Colour 255 255 255
+Icon Rivets12
+FallSpeed 5
+MaxStackSize 64
+RoundsPerItem 12
+Damage 40
+Explosion 0
+ExplodeOnImpact False
+Fuse 0
+FlakParticles 0
+Fire 0
+BreaksGlass True
+HitBoxSize 0.2
+HitSound bullet_hit
+PenetratingPower 1.0
+//Syntax is PotionEffect <ID> <Duration at 1 second per 20 ticks> <Amplifier>
+//IDs are 	1:MoveSpeed	2:MoveSlowdown	3:DigSpeed	4:DigSlowdown	5:DamageBoost	6:Heal	7:Harm	8:Jump	9:Confusion	10:Regeneration
+//11:Resistance		12:FireResistance	13:WaterBreathing	14:Invisibility		15:Blindness	16:NightVision	17:Hunger	18:Weakness	19:Poison  20:Wither
+//Poison effect, 3 seconds at Stage I
+PotionEffect 19 60 1
+SmokeTrail False
+

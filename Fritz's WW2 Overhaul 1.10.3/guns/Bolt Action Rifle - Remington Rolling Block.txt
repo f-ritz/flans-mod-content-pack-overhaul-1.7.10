@@ -1,0 +1,28 @@
+Name Remington Rolling Block
+ShortName RemingtonRollingBlock
+Ammo 30Cal1
+Description .30-06
+ShowDamage true
+ShowReloadTime true
+Icon RemingtonRollingBlock
+Colour 255 255 255
+LoadIntoGun 1
+ReloadTime 50
+Recoil 20
+Damage 1.5
+Accuracy 4
+ShootDelay 20
+ShootSound springfieldShoot
+ReloadSound springfieldReload
+Mode SemiAuto
+BulletSpeed 10
+Model dunk.rrb
+ModelScale 1
+Texture masterskin
+FOVZoomLevel 1.25
+AllowAllAttachments true
+AllowBarrelAttachments true
+AllowScopeAttachments true
+AllowStockAttachments true
+AllowGripAttachments true
+NumGenericAttachmentSlots 4

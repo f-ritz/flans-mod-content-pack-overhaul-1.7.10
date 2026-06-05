@@ -1,0 +1,30 @@
+Name SASS 308
+ShortName SASS308
+Ammo 762NATO1
+Description 7.62x51mm NATO
+Icon SASS308
+Colour 255 255 255
+ReloadTime 30
+Recoil 3
+Damage 1.5
+Accuracy 2
+ShootDelay 4
+ShootSound M14Shoot
+ReloadSound ColtReload
+Mode SemiAuto
+OneHanded true
+BulletSpeed 10
+Scope None
+ZoomLevel 1.0
+FOVZoomLevel 1.2
+Model mpack.m1911
+ModelScale 0.12
+Texture Skin_Gun_m1911
+AllowAllAttachments true
+AllowBarrelAttachments true
+AllowScopeAttachments true
+AllowStockAttachments true
+AllowGripAttachments true
+NumGenericAttachmentSlots 4
+ShowDamage true
+ShowReloadTime true

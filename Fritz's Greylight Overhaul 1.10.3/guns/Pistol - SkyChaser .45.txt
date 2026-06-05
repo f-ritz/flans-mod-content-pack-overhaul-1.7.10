@@ -1,0 +1,33 @@
+Name SkyChaser .45
+ShortName SkyChaser45
+Ammo 45ACP10
+Ammo 45ACP10Shock
+Icon SkyChaser45
+Colour 255 255 255
+ReloadTime 45
+Recoil 3
+Damage 1.5
+Accuracy 10
+BulletSpeed 7.0
+ShootDelay 1
+ShootSound _SkyChaserFire
+ReloadSound _SkyChaserReload
+Mode SemiAuto
+Scope None
+ZoomLevel 1.0
+FOV ZoomLevel 1.25
+Distort Sound False
+Deployable False
+DeployedModel None
+ModelScale 0.2
+OneHanded False
+Model dwfirearms.SkyChaser45
+Texture SkyChaser_Standard
+AllowAllAttachments true
+AllowScopeAttachments true
+AllowBarrelAttachments true
+AllowGripAttachments true
+AllowStockAttachments true
+NumGenericAttachmentSlots 4
+Paintjob SkyChaser_iconRedux SkyChaser_Redux blue 1 gray 1 silver 1
+Description .45 ACP

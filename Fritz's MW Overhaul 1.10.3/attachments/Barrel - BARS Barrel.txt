@@ -1,0 +1,13 @@
+Name BARS Barrel
+ShortName BARSBarrel
+Icon BARSBarrel
+AttachmentType barrel
+Silencer false
+MeleeDamageMultiplier 1.0
+DamageMultiplier 1
+SpreadMultiplier 2.3
+RecoilMultiplier 0.5
+BulletSpeedMultiplier 0.9
+ReloadTimeMultiplier 1
+Model mw.Silencer
+Texture Silencer

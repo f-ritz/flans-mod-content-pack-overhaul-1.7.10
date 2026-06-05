@@ -1,0 +1,35 @@
+Name Mk 14 Drone Deployer
+ShortName DD14
+Ammo FPVDrone
+Icon Mk14DroneDeployer
+Colour 255 255 255
+ReloadTime 90
+Recoil 10
+Damage 1
+Accuracy 8
+LoadIntoGun 1
+BulletSpeed 0.5
+ShootDelay 5
+ShootSound _DroneDeployerFire
+ReloadSound _DroneDeployerReload
+Mode SemiAuto
+Scope None
+ZoomLevel 1.0
+FOV ZoomLevel 1.25
+Distort Sound False
+Deployable False
+DeployedModel None
+MoveSpeedModifier 0.8
+ShowDamage true
+ShowReloadTime true
+ModelScale 0.25
+OneHanded False
+Model dwfirearms.DroneDeployerXD
+Texture DroneDeployer_Standard
+AllowAllAttachments true
+AllowScopeAttachments true
+AllowBarrelAttachments true
+AllowGripAttachments true
+AllowStockAttachments true
+NumGenericAttachmentSlots 4
+Description FPV Drone

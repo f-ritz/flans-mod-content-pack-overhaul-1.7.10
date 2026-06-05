@@ -1,0 +1,30 @@
+Name QBZ-191
+ShortName QBZ191
+Ammo 58PLA30
+Ammo 58PLA30HE
+Description 5.8x42mm DBP87
+ShowDamage true
+ShowReloadTime true
+Icon QBZ95
+Colour 255 255 255
+ReloadTime 40
+Recoil 3
+Damage 1
+Accuracy 4
+RoundsPerMin 750
+ShootSound G36Shoot
+ReloadSound MP44Reload
+Mode FullAuto
+BulletSpeed 10
+Scope None
+ZoomLevel 1.0
+FOVZoomLevel 1.25
+Model mpack.qbz95
+ModelScale 0.11
+Texture QBZ95
+AllowAllAttachments true
+AllowBarrelAttachments true
+AllowScopeAttachments true
+AllowStockAttachments true
+AllowGripAttachments true
+NumGenericAttachmentSlots 4

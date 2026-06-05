@@ -1,0 +1,31 @@
+Name GS-Skylite
+ShortName GSSkylite
+Ammo 50GI7
+Icon GS-Skylite
+Colour 255 255 255
+ReloadTime 60
+Recoil 3
+Damage 1.5
+Accuracy 7
+BulletSpeed 10.0
+ShootDelay 1
+ShootSound _GS5Fire
+ReloadSound _GS5Reload
+Mode SemiAuto
+Scope None
+ZoomLevel 1.0
+FOV ZoomLevel 1.50
+Distort Sound False
+Deployable False
+DeployedModel None
+ModelScale 0.2
+OneHanded False
+Model dwfirearms.GSSkylite
+Texture GSSkylite_Standard
+AllowAllAttachments true
+AllowScopeAttachments true
+AllowBarrelAttachments true
+AllowGripAttachments true
+AllowStockAttachments true
+NumGenericAttachmentSlots 4
+Description .50 GI

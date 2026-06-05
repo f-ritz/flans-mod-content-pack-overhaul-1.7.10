@@ -1,0 +1,31 @@
+Name Stumbreon SV
+ShortName StumbreonSV
+Ammo 68NATO25
+Icon StumbreonSV
+Colour 255 255 255
+ReloadTime 75
+Recoil 3
+Damage 1
+Accuracy 4
+BulletSpeed 10.0
+RoundsPerMin 450
+ShootSound _AmbirconSteamRifleFire
+ReloadSound _LuabellaReload
+Mode FullAuto
+Scope None
+ZoomLevel 1.0
+FOV ZoomLevel 1.25
+Distort Sound False
+Deployable False
+DeployedModel None
+ModelScale 0.2
+OneHanded False
+Model dwfirearms.StumbreonSV
+Texture StumbreonSV_Steam
+AllowAllAttachments True
+AllowStockAttachments true
+AllowScopeAttachments true
+AllowGripAttachments true
+AllowBarrelAttachments true
+NumGenericAttachmentSlots 4
+Description 6.8x51mm NATO

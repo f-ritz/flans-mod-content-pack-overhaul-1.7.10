@@ -1,0 +1,30 @@
+Name T24 Machine Gun
+ShortName T24
+Ammo 30Cal100
+Ammo 30Cal250
+Ammo 30Cal500
+Description .30-06
+Icon MG42
+Colour 255 255 255
+ReloadTime 90
+Recoil 4
+Damage 1
+Accuracy 9
+RoundsPerMin 900
+ShootSound BrowningShoot
+DistortSound False
+ReloadSound MG42Reload
+Mode FullAuto
+BulletSpeed 10.0
+Scope None
+Model W44.Mg42
+Texture SkinMg42
+ModelScale 0.75
+AllowAllAttachments true
+AllowBarrelAttachments true
+AllowScopeAttachments true
+AllowStockAttachments true
+AllowGripAttachments true
+NumGenericAttachmentSlots 4
+ShowDamage true
+ShowReloadTime true

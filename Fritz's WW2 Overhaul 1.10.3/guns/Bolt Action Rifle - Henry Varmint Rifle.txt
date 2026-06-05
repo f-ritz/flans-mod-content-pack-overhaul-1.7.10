@@ -1,0 +1,28 @@
+Name Henry Varmint Rifle
+ShortName HenryVarmintRifle
+Ammo 22LR1
+Description .22 LR
+ShowDamage true
+ShowReloadTime true
+Icon HenryM1860
+Colour 255 255 255
+LoadIntoGun 20
+ReloadTime 120
+Recoil 8
+Damage 1.5
+Accuracy 8
+ShootDelay 10
+ShootSound MosinNagantShoot
+ReloadSound kar98kReload
+Mode SemiAuto
+BulletSpeed 10
+Model dunk.henry22
+ModelScale 1.2
+Texture Skin_Gun_M1860Henry
+FOVZoomLevel 1.25
+AllowAllAttachments true
+AllowBarrelAttachments true
+AllowScopeAttachments true
+AllowStockAttachments true
+AllowGripAttachments true
+NumGenericAttachmentSlots 4

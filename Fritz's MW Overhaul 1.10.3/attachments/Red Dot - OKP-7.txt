@@ -1,0 +1,9 @@
+Name OKP-7
+ShortName OKP7
+Icon RedDotSight
+AttachmentType sights
+Silencer false
+ZoomLevel 2.5
+ZoomOverlay okp7
+Model mw.RedDot
+Texture RedDotSight

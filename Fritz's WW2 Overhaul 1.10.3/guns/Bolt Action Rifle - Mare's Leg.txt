@@ -1,0 +1,28 @@
+Name Mare's Leg
+ShortName MaresLeg
+Ammo 44Magnum1
+Description .44 Magnum
+ShowDamage true
+ShowReloadTime true
+Icon MaresLeg
+Colour 255 255 255
+LoadIntoGun 6
+ReloadTime 70
+Recoil 21
+Damage 1.5
+Accuracy 7
+ShootDelay 10
+ShootSound MosinNagantShoot
+ReloadSound kar98kReload
+Mode SemiAuto
+BulletSpeed 10
+Model dunk.win92
+ModelScale 1
+Texture win92skin
+FOVZoomLevel 1.25
+AllowAllAttachments true
+AllowBarrelAttachments true
+AllowScopeAttachments true
+AllowStockAttachments true
+AllowGripAttachments true
+NumGenericAttachmentSlots 4

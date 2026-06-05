@@ -1,0 +1,30 @@
+Name M1883A2 BAR
+ShortName M1883A2BAR
+Ammo 68NATO25
+Icon M1883A2BAR
+Colour 255 255 255
+ReloadTime 60
+Recoil 3
+Damage 1
+Accuracy 3
+BulletSpeed 10
+RoundsPerMin 600
+ShootSound _AmbirconSteamRifleFire
+ReloadSound _AmbirconSteamRifleReload
+Mode FullAuto
+Scope None
+ZoomLevel 1.0
+FOV ZoomLevel 1.25
+Distort Sound False
+Deployable False
+DeployedModel None
+ModelScale 0.2
+OneHanded False
+Model dwfirearms.ASRMK2
+Texture AmbirconSteamRifle2_Steam
+NumGenericAttachmentSlots 4
+AllowScopeAttachments true
+AllowGripAttachments false
+AllowBarrelAttachments true
+AllowStockAttachments true
+Description 6.8x51mm NATO

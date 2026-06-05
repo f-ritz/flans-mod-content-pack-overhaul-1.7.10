@@ -1,0 +1,28 @@
+Name Welrod Silent Pistol
+ShortName WelrodSP
+Ammo 45ACP8
+Icon WelrodSP
+Colour 255 255 255
+ReloadTime 40
+Recoil 6
+Damage 1.5
+Accuracy 3
+ShootDelay 6
+ShootSound None
+ReloadSound coltReload
+Mode SemiAuto
+OneHanded true
+BulletSpeed 10.0
+Scope None
+Model ww2.Colt
+Texture WelrodSP
+ModelScale 0.7
+AllowAllAttachments true
+AllowBarrelAttachments true
+AllowScopeAttachments true
+AllowStockAttachments true
+AllowGripAttachments true
+NumGenericAttachmentSlots 4
+Description .45 ACP
+ShowDamage true
+ShowReloadTime true

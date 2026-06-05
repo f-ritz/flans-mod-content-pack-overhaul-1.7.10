@@ -1,0 +1,31 @@
+Name Jack Ruby's Justice
+ShortName JackRubysJustice
+Ammo 38Special1
+Icon JackRubysJustice
+Colour 255 255 255
+ReloadTime 100
+Recoil 10
+Damage 2
+LoadIntoGun 6
+Accuracy 4
+ShootDelay 2
+ShootSound ColtPythonShoot
+ReloadSound ColtPythonReload
+Mode SemiAuto
+OneHanded True
+BulletSpeed 10
+Scope None
+ZoomLevel 1.0
+FOVZoomLevel 1.25
+Model mpack.python
+ModelScale 0.03
+Texture Skin_Gun_python
+AllowAllAttachments true
+AllowBarrelAttachments true
+AllowScopeAttachments true
+AllowStockAttachments true
+AllowGripAttachments true
+NumGenericAttachmentSlots 4
+Description .38 Special
+ShowDamage true
+ShowReloadTime true

@@ -1,0 +1,28 @@
+Name Lebel Mle 1886
+ShortName MLE1886
+Ammo 303Enfield1
+LoadIntoGun 8
+Icon MLE1886
+Colour 255 255 255
+ReloadTime 60
+Recoil 12
+Damage 1.5
+Accuracy 4
+ShootDelay 20
+ShootSound Type38Shoot
+ReloadSound kar98kReload
+Mode SemiAuto
+BulletSpeed 10
+Scope None
+Model dunk.Lebel
+ModelScale 1
+Texture 1886LebelSkin
+AllowAllAttachments true
+AllowBarrelAttachments true
+AllowScopeAttachments true
+AllowStockAttachments true
+AllowGripAttachments true
+NumGenericAttachmentSlots 4
+Description .303 Enfield
+ShowDamage true
+ShowReloadTime true

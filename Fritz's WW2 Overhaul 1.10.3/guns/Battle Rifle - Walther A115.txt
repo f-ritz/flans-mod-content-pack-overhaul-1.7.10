@@ -1,0 +1,27 @@
+Name Walther A115
+ShortName WaltherA115
+Ammo 792Mauser10
+Description 7.92x57mm Mauser
+ShowDamage true
+ShowReloadTime true
+Icon WaltherA115
+Colour 255 255 255
+ReloadTime 65
+Recoil 5
+Damage 1
+Accuracy 2
+ShootDelay 2
+ShootSound gewehr43Shoot
+ReloadSound m1carbineReload
+Mode SemiAuto
+BulletSpeed 10
+Scope None
+Model ww2.G43
+Texture WaltherA115
+ModelScale 0.6
+AllowAllAttachments true
+AllowBarrelAttachments true
+AllowScopeAttachments true
+AllowStockAttachments true
+AllowGripAttachments true
+NumGenericAttachmentSlots 4

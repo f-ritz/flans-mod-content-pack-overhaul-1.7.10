@@ -1,0 +1,13 @@
+Name T-Brake
+ShortName TBrake
+Icon TBrake
+AttachmentType barrel
+Silencer false
+MeleeDamageMultiplier 1.0
+DamageMultiplier 1
+SpreadMultiplier 1.05
+RecoilMultiplier 0.85
+BulletSpeedMultiplier 1
+ReloadTimeMultiplier 1
+Model mw.Silencer
+Texture Silencer

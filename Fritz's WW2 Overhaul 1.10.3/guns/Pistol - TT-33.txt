@@ -1,0 +1,28 @@
+Name TT-33
+ShortName TT33
+Ammo 762Tokarev8
+Icon TT33
+Description 7.62x25mm Tokarev
+ShowDamage true
+ShowReloadTime true
+Colour 255 255 255
+ReloadTime 40
+Recoil 6
+Damage 1.5
+Accuracy 3
+ShootDelay 2
+ShootSound TT33Shoot
+ReloadSound TT33Reload
+Mode SemiAuto
+OneHanded true
+BulletSpeed 10
+Scope None
+Model W44.TT33
+Texture SkinTT33
+ModelScale 0.7
+AllowAllAttachments true
+AllowBarrelAttachments true
+AllowScopeAttachments true
+AllowStockAttachments true
+AllowGripAttachments true
+NumGenericAttachmentSlots 4

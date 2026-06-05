@@ -1,0 +1,9 @@
+Name Tungsten Sight
+ShortName TungstenSight
+Icon RedDotSight
+AttachmentType sights
+Silencer false
+ZoomLevel 1.25
+ZoomOverlay TungstenSight
+Model mw.RedDot
+Texture RedDotSight

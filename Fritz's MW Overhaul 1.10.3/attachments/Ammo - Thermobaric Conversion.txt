@@ -1,0 +1,13 @@
+Name Thermobaric Conversion
+ShortName ThermobaricConversion
+Icon ThermobaricConversion
+AttachmentType generic
+Silencer false
+MeleeDamageMultiplier 1.0
+DamageMultiplier 3.1
+SpreadMultiplier 2.1
+RecoilMultiplier 1.5
+BulletSpeedMultiplier 0.5
+ReloadTimeMultiplier 1.55
+Model mw.ACOG
+Texture ACOGSight

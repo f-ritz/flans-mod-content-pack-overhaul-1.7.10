@@ -1,0 +1,29 @@
+Name Zastava M76
+ShortName ZastavaM76
+Ammo 792Mauser10
+Description 7.92x57mm Mauser
+Icon ZastavaM76
+Colour 255 255 255
+ReloadTime 50
+Recoil 10
+Damage 2
+Accuracy 1
+ShootDelay 15
+ShootSound DragunovShoot
+ReloadSound BARReload
+Mode SemiAuto
+BulletSpeed 10
+Scope mwdragunov
+ZoomLevel 10.0
+FOVZoomLevel 1.0
+Model mpack.dragunov
+ModelScale 0.54
+Texture Skin_Gun_dragunov
+AllowAllAttachments true
+AllowBarrelAttachments true
+AllowScopeAttachments true
+AllowStockAttachments true
+AllowGripAttachments true
+NumGenericAttachmentSlots 4
+ShowDamage true
+ShowReloadTime true

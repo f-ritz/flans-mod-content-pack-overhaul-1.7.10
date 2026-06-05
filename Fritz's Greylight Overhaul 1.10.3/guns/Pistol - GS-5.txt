@@ -1,0 +1,32 @@
+Name GS-5
+ShortName GS5
+Ammo 50GI7
+Icon GS5
+Colour 255 255 255
+ReloadTime 60
+Recoil 2
+Damage 1.5
+Accuracy 7
+BulletSpeed 10.0
+ShootDelay 3
+ShootSound _GS5Fire
+ReloadSound _GS5Reload
+Mode SemiAuto
+Scope None
+ZoomLevel 1.0
+FOV ZoomLevel 1.25
+Distort Sound False
+Deployable False
+DeployedModel None
+ModelScale 0.15
+OneHanded True
+Model dwfirearms.SMCGS5
+Texture GS5_Standard
+AllowAllAttachments true
+AllowScopeAttachments true
+AllowBarrelAttachments true
+AllowGripAttachments true
+AllowStockAttachments true
+NumGenericAttachmentSlots 4
+Paintjob GS5_iconSilver GS5_Silver brown 1 gray 1 silver 1
+Description .50 GI

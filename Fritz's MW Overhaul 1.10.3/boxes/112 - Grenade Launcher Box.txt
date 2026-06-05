@@ -1,0 +1,53 @@
+Name Weapons Box - Grenade Launchers
+ShortName WeaponsBoxGrenadeLaunchers
+TopTexture WeaponsBoxTop
+SideTexture WeaponsBoxGrenadeLaunchers
+BottomTexture WeaponsBoxBottom
+GunBoxID 112
+Recipe I log G dyePowder.12 F fiberglass
+III
+FGF
+III
+NumGuns 20
+AddGun MilcorMGL 40 Gunmetal
+AddAmmo 40GrenadeImpact 1 Gunmetal
+AddGun CIS40GL 40 Gunmetal
+AddAmmo 40GrenadeImpact 1 Gunmetal
+AddGun HK69 40 Gunmetal
+AddAmmo 40GrenadeImpact 1 Gunmetal
+AddGun XM25 40 Gunmetal
+AddAmmo 40GrenadeImpact 1 Gunmetal
+AddGun ModCannonLauncher 40 Gunmetal
+AddAmmo 40GrenadeImpact 1 Gunmetal
+AddGun GL40 40 Gunmetal
+AddAmmo 40GrenadeImpact 1 Gunmetal
+AddGun PAGL 40 Gunmetal
+AddAmmo 40GrenadeImpact 1 Gunmetal
+AddGun GL3 40 Gunmetal
+AddAmmo 40GrenadeImpact 1 Gunmetal
+AddGun UAG40 40 Gunmetal
+AddAmmo 40GrenadeImpact 1 Gunmetal
+AddGun RGS50 40 Gunmetal
+AddAmmo 40GrenadeImpact 1 Gunmetal
+AddGun QLU11 40 Gunmetal
+AddAmmo 40GrenadeImpact 1 Gunmetal
+AddGun GL6 40 Gunmetal
+AddAmmo 40GrenadeImpact 1 Gunmetal
+AddGun GL1 40 Gunmetal
+AddAmmo 40GrenadeImpact 1 Gunmetal
+AddGun DaewooK4 40 Gunmetal
+AddAmmo 40GrenadeImpact 1 Gunmetal
+AddGun ChinaLakeGL 40 Gunmetal
+AddAmmo 40GrenadeImpact 1 Gunmetal
+AddGun AGS17 40 Gunmetal
+AddAmmo 40GrenadeImpact 1 Gunmetal
+AddGun Granatbuchse39 40 Gunmetal
+AddAmmo 40GrenadeImpact 1 Gunmetal
+AddGun GMG42 40 Gunmetal
+AddAmmo 40GrenadeImpact 1 Gunmetal
+AddGun 40GrenadeImpact 1 Gunmetal
+AddAmmo 40GrenadeBouncy 1 Gunmetal
+AddAltAmmo 40GrenadeGas 1 Gunmetal
+AddAltAmmo 40GrenadeIncendiary 1 Gunmetal
+AddAltAmmo 40GrenadeSticky 1 Gunmetal
+AddGun 40GrenadeSlug 1 Gunmetal

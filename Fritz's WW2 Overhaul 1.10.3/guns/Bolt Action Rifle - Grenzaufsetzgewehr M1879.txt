@@ -1,0 +1,28 @@
+Name Grenzaufsehergewehr M1879
+ShortName GrenzaufsehergewehrM1879
+Ammo 11Chassepot1
+Description 11x59mm Gras
+ShowDamage true
+ShowReloadTime true
+LoadIntoGun 4
+Icon GrenzaufsehergewehrM1879
+Colour 255 255 255
+ReloadTime 75
+Recoil 23
+Damage 1.5
+Accuracy 5
+ShootDelay 27
+ShootSound kar98kShoot
+ReloadSound kar98kReload
+Mode SemiAuto
+BulletSpeed 10
+Scope None
+Model dunk.gewehr71
+ModelScale 1
+Texture masterskin
+AllowAllAttachments true
+AllowBarrelAttachments true
+AllowScopeAttachments true
+AllowStockAttachments true
+AllowGripAttachments true
+NumGenericAttachmentSlots 4

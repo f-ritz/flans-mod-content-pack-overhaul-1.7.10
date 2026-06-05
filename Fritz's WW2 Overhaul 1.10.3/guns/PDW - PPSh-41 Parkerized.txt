@@ -1,0 +1,27 @@
+Name PPSh-41 (Parkerized)
+ShortName PPSH41P
+Ammo 762Tokarev35
+Ammo 762Tokarev71
+Description 7.62x25mm Tokarev
+ShowDamage true
+ShowReloadTime true
+Icon PPSH
+Colour 255 255 255
+ReloadTime 40
+Recoil 4
+Damage 1
+Accuracy 6
+RoundsPerMin 700
+ShootSound PPSHShoot
+ReloadSound PPSHReload
+Mode FullAuto
+BulletSpeed 10
+Model mpack.ppsh
+ModelScale 0.07
+Texture Skin_Gun_ppsh
+AllowAllAttachments true
+AllowBarrelAttachments true
+AllowScopeAttachments true
+AllowStockAttachments true
+AllowGripAttachments true
+NumGenericAttachmentSlots 4

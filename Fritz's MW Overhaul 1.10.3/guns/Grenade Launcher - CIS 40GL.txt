@@ -1,0 +1,37 @@
+Name CIS 40GL
+ShortName CIS40GL
+Ammo 40GrenadeBouncy
+Ammo 40GrenadeIncendiary
+Ammo 40GrenadeGas
+Ammo 40GrenadeSticky
+Ammo 40GrenadeSlug
+Ammo 40GrenadeImpact
+Icon CIS40GL
+Colour 255 255 255
+ReloadTime 60
+Recoil 17
+Damage 1
+LoadIntoGun 20
+Accuracy 20
+RoundsPerMin 350
+ShootSound GrenadeLauncherShoot
+ReloadSound GL6Reload
+Mode FullAuto
+BulletSpeed 2.5
+Scope None
+ZoomLevel 1.0
+FOVZoomLevel 1.25
+Model mw.GL6
+Texture GL6
+ModelScale 1.0
+AllowAllAttachments true
+AllowBarrelAttachments true
+AllowScopeAttachments true
+AllowStockAttachments true
+AllowGripAttachments true
+NumGenericAttachmentSlots 4
+MoveSpeedModifier 0.8
+KnockbackModifier 0
+Description 40mm Grenade
+ShowDamage true
+ShowReloadTime true

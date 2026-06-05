@@ -1,0 +1,27 @@
+Name Star SI 35
+ShortName SI35
+Ammo 919NATO32
+Description 9x19mm Parabellum
+Icon SI35
+Colour 255 255 255
+ShowDamage true
+ShowReloadTime true
+ReloadTime 40
+Recoil 4
+Damage 1
+Accuracy 6
+RoundsPerMin 500
+ShootSound thompsonShoot
+ReloadSound thompsonReload
+Mode FullAuto
+BulletSpeed 10
+Scope None
+Model W44.ThompsonM1A1
+Texture SI35
+ModelScale 0.3
+AllowAllAttachments true
+AllowBarrelAttachments true
+AllowScopeAttachments true
+AllowStockAttachments true
+AllowGripAttachments true
+NumGenericAttachmentSlots 4

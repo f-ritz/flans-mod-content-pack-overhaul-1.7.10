@@ -1,0 +1,10 @@
+Name Yakisoba
+ShortName Yakisoba
+Icon Yakisoba
+Colour 255 255 255
+Heal false
+Repair false
+DestroyOnEmpty true
+ToolLife 1
+StackSize 64
+Food 20

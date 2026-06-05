@@ -1,0 +1,26 @@
+Name PPD 1944
+ShortName PPD1944
+Ammo 762Tokarev71
+Description 7.62x25mm Tokarev
+ShowDamage true
+ShowReloadTime true
+Icon PPD1944
+Colour 255 255 255
+ReloadTime 40
+Recoil 6
+Damage 1
+Accuracy 6
+RoundsPerMin 1000
+ShootSound PPSHShoot
+ReloadSound PPSHReload
+Mode FullAuto
+BulletSpeed 10
+Model NewAge.PPD40
+Texture SkinPPD40
+ModelScale 0.15
+AllowAllAttachments true
+AllowBarrelAttachments true
+AllowScopeAttachments true
+AllowStockAttachments true
+AllowGripAttachments true
+NumGenericAttachmentSlots 4

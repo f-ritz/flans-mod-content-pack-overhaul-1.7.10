@@ -1,0 +1,29 @@
+Name Remington ACR
+ShortName RemingtonACR
+Ammo 556NATO30
+Icon RemingtonACR
+Colour 255 255 255
+ReloadTime 40
+Recoil 3
+Damage 1
+Accuracy 2
+RoundsPerMin 700
+ShootSound M14Shoot
+ReloadSound MP44Reload
+Mode FullAuto
+BulletSpeed 10
+Scope None
+ZoomLevel 1.0
+FOVZoomLevel 1.25
+Model mpack.acr
+ModelScale 0.12
+Texture Skin_Gun_acr
+AllowAllAttachments true
+AllowBarrelAttachments true
+AllowScopeAttachments true
+AllowStockAttachments true
+AllowGripAttachments true
+NumGenericAttachmentSlots 4
+ShowDamage true
+ShowReloadTime true
+Description 5.56x45mm NATO

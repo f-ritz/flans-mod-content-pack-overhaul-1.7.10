@@ -1,0 +1,31 @@
+Name PP-163 Bizon
+ShortName DW25
+Ammo 919NATO50
+Icon DusterwingMk25
+Colour 255 255 255
+ReloadTime 65
+Recoil 5
+Damage 1
+Accuracy 6
+BulletSpeed 10.0
+RoundsPerMin 850
+ShootSound _DusterwingFire
+ReloadSound _DusterwingReload
+Mode FullAuto
+Scope None
+ZoomLevel 1.0
+FOV ZoomLevel 1.4
+Distort Sound False
+Deployable False
+DeployedModel None
+ModelScale 0.2
+OneHanded False
+Model dwfirearms.DuskDusterwing
+Texture Dusterwing_Dusk
+AllowAllAttachments true
+AllowScopeAttachments true
+AllowBarrelAttachments true
+AllowGripAttachments true
+AllowStockAttachments true
+NumGenericAttachmentSlots 4
+Description 9x19mm Parabellum

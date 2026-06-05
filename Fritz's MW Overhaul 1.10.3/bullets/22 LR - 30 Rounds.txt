@@ -1,0 +1,14 @@
+Name 30 Round .22 LR Magazine
+ShortName 22LR30
+Model Bullet
+Colour 255 255 255
+Icon 22LR30
+FallSpeed 0.25
+MaxStackSize 64
+RoundsPerItem 30
+Damage 22
+BreaksGlass True
+HitBoxSize 0.1
+HitSound bullet
+Penetrates True
+SmokeTrail False

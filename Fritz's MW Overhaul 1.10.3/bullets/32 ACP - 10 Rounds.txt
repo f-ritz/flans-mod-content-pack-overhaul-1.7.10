@@ -1,0 +1,14 @@
+Name 10 Round .32 ACP Magazine
+ShortName 32ACP10
+Model Bullet
+Colour 255 255 255
+Icon 32ACP10
+FallSpeed 0.25
+MaxStackSize 64
+RoundsPerItem 10
+Damage 32
+BreaksGlass True
+HitBoxSize 0.1
+HitSound bullet
+Penetrates True
+SmokeTrail False

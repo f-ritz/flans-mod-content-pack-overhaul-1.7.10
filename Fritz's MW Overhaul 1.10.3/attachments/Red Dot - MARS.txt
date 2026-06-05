@@ -1,0 +1,9 @@
+Name MARS
+ShortName MARS
+Icon ACOGSight
+AttachmentType sights
+Silencer false
+ZoomLevel 2.75
+ZoomOverlay mars
+Model mw.ACOG
+Texture ACOGSight

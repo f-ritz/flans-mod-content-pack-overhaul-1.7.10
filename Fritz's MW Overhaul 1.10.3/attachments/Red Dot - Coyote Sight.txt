@@ -1,0 +1,9 @@
+Name Coyote Sight
+ShortName CoyoteSight
+Icon RedDotSight
+AttachmentType sights
+Silencer false
+ZoomLevel 2
+ZoomOverlay coyote
+Model mw.RedDot
+Texture RedDotSight

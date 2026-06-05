@@ -1,0 +1,31 @@
+Name KAT-3
+ShortName KAT3
+Ammo 127Warsaw10
+Icon KAT3
+Colour 255 255 255
+ReloadTime 85
+Recoil 3
+Damage 2
+Accuracy 2
+BulletSpeed 10.0
+ShootDelay 5
+ShootSound _PAKATFire
+ReloadSound _KAT3Reload
+Mode SemiAuto
+Scope None
+ZoomLevel 1.0
+FOV ZoomLevel 1.25
+Distort Sound False
+Deployable False
+DeployedModel None
+ModelScale 0.2
+OneHanded False
+Model dwfirearms.KAT3
+Texture KAT3_Standard
+AllowAllAttachments true
+AllowScopeAttachments true
+AllowBarrelAttachments true
+AllowGripAttachments true
+AllowStockAttachments true
+NumGenericAttachmentSlots 4
+Description 12.7x108mm WTO

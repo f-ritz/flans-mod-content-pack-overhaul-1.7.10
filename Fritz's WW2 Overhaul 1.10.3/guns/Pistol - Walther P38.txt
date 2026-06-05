@@ -1,0 +1,28 @@
+Name Walther P38
+ShortName WaltherP38
+Ammo 765Para8
+Icon WaltherP38
+Colour 255 255 255
+ReloadTime 40
+Recoil 2
+Damage 1.5
+Accuracy 3
+ShootDelay 2
+ShootSound lugerShoot
+ReloadSound lugerReload
+Mode SemiAuto
+BulletSpeed 10
+OneHanded true
+Scope None
+Model NewAge.P38
+ModelScale 0.8
+Texture SkinP38
+AllowAllAttachments true
+AllowBarrelAttachments true
+AllowScopeAttachments true
+AllowStockAttachments true
+AllowGripAttachments true
+NumGenericAttachmentSlots 4
+Description 7.65x21mm Parabellum
+ShowDamage true
+ShowReloadTime true

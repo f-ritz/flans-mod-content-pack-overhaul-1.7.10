@@ -1,0 +1,28 @@
+Name Mauser M1878/80
+ShortName MauserM187880
+Ammo 11Chassepot1
+Description 11x59mm Gras
+ShowDamage true
+ShowReloadTime true
+LoadIntoGun 4
+Icon MauserM187880
+Colour 255 255 255
+ReloadTime 75
+Recoil 31
+Damage 1.5
+Accuracy 6
+ShootDelay 30
+ShootSound kar98kShoot
+ReloadSound kar98kReload
+Mode SemiAuto
+BulletSpeed 10
+Scope None
+Model dunk.gewehr71
+ModelScale 1
+Texture masterskin
+AllowAllAttachments true
+AllowBarrelAttachments true
+AllowScopeAttachments true
+AllowStockAttachments true
+AllowGripAttachments true
+NumGenericAttachmentSlots 4

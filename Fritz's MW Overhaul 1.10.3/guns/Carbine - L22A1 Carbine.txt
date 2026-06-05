@@ -1,0 +1,30 @@
+Name L22A1 Carbine
+ShortName L22A1
+Ammo 556NATO30
+Icon L85A2
+Colour 255 255 255
+ReloadTime 35
+Recoil 2
+NumBullets 1
+Damage 1
+Accuracy 2
+RoundsPerMin 775
+ShootSound M14Shoot
+ReloadSound MP44Reload
+Mode FullAuto
+BulletSpeed 10
+Scope mars
+ZoomLevel 2.5
+FOVZoomLevel 1.25
+Model mpack.l22
+ModelScale 0.10
+Texture Skin_Gun_l22
+AllowAllAttachments true
+AllowBarrelAttachments true
+AllowScopeAttachments true
+AllowStockAttachments true
+AllowGripAttachments true
+NumGenericAttachmentSlots 4
+ShowDamage true
+ShowReloadTime true
+Description 5.56x45mm NATO

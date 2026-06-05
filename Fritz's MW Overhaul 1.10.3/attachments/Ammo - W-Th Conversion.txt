@@ -1,0 +1,14 @@
+Name W-Th Conversion
+ShortName WThConversion
+Icon WThConversion
+AttachmentType generic
+Silencer false
+MeleeDamageMultiplier 1.0
+DamageMultiplier 1.6
+SpreadMultiplier 0.75
+RecoilMultiplier 1.05
+BulletSpeedMultiplier 1.2
+ReloadTimeMultiplier 0.95
+Model mw.ACOG
+Texture ACOGSight
+Description Thoriated Tungsten Conversion

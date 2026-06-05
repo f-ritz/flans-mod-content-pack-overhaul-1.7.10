@@ -1,0 +1,28 @@
+Name Bren L4A4
+ShortName L4A4
+Ammo 762NATO20
+Description 7.62x51mm NATO
+Icon Bren
+Colour 255 255 255
+ReloadTime 40
+Recoil 3
+Damage 1
+Accuracy 3
+RoundsPerMin 500
+DistortSound False
+ShootSound BrenShoot
+ReloadSound BrenReload
+Mode FullAuto
+BulletSpeed 10
+Scope None
+Model NewAge.BrenMk2
+Texture SkinBrenMk2
+ModelScale 0.8
+ShowDamage true
+ShowReloadTime true
+AllowAllAttachments true
+AllowBarrelAttachments true
+AllowScopeAttachments true
+AllowStockAttachments true
+AllowGripAttachments true
+NumGenericAttachmentSlots 4

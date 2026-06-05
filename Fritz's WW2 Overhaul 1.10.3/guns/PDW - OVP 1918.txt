@@ -1,0 +1,26 @@
+Name OVP 1918
+ShortName OVP1918
+Ammo 919NATO32
+Description 9x19mm Parabellum
+ShowDamage true
+ShowReloadTime true
+Icon OVP1918
+Colour 255 255 255
+ReloadTime 40
+Recoil 7
+Damage 1
+Accuracy 5
+RoundsPerMin 900
+ShootSound Type100Shoot
+ReloadSound stenReload
+Mode FullAuto
+BulletSpeed 10
+Scope None
+Model ww2.Type100
+Texture OVP1918
+AllowAllAttachments true
+AllowBarrelAttachments true
+AllowScopeAttachments true
+AllowStockAttachments true
+AllowGripAttachments true
+NumGenericAttachmentSlots 4

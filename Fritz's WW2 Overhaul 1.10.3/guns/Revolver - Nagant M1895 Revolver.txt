@@ -1,0 +1,31 @@
+Name Nagant M1895 Revolver
+ShortName NagantM1895
+Ammo 762Tokarev1
+Description 7.62x25mm Tokarev
+ShowDamage true
+ShowReloadTime true
+Icon NagantM1895
+Colour 255 255 255
+ReloadTime 80
+Recoil 6
+Damage 2
+Accuracy 6
+ShootDelay 7
+ShootSound webleyShoot
+ReloadSound webleyReload
+LoadIntoGun 7
+Mode SemiAuto
+OneHanded true
+BulletSpeed 10
+Scope None
+ZoomLevel 1.0
+FOVZoomLevel 1.25
+Model ww2.Webley
+Texture NagantM1895
+ModelScale 0.3
+AllowAllAttachments true
+AllowBarrelAttachments true
+AllowScopeAttachments true
+AllowStockAttachments true
+AllowGripAttachments true
+NumGenericAttachmentSlots 4

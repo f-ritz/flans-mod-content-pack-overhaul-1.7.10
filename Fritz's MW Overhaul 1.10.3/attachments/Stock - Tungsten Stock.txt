@@ -1,0 +1,14 @@
+Name Tungsten Stock
+ShortName TungstenStock
+Icon TungstenStock
+AttachmentType stock
+Silencer false
+MeleeDamageMultiplier 1.0
+DamageMultiplier 1.0
+SpreadMultiplier 0.3
+RecoilMultiplier 0.05
+BulletSpeedMultiplier 1
+ReloadTimeMultiplier 3
+Model mw.ACOG
+Texture ACOGSight
+Description very heavy in the hand_massively affects weapon handling

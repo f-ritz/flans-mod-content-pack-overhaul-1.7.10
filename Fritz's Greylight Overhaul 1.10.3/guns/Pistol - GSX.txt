@@ -1,0 +1,34 @@
+Name GSX
+ShortName GSX
+Ammo 50GI7
+Icon GSX
+Colour 255 255 255
+ReloadTime 60
+Recoil 3
+Damage 1.5
+Accuracy 10
+BulletSpeed 10.0
+ShootDelay 3
+ShootSound _GS5Fire
+ReloadSound _GS5Reload
+Mode SemiAuto
+Scope None
+ZoomLevel 1.0
+FOV ZoomLevel 1.25
+Distort Sound False
+Deployable False
+DeployedModel None
+ModelScale 0.15
+OneHanded True
+Model dwfirearms.SMCGSX
+Texture GSX_Standard
+AllowAllAttachments true
+AllowScopeAttachments true
+AllowBarrelAttachments true
+AllowGripAttachments true
+AllowStockAttachments true
+NumGenericAttachmentSlots 4
+Paintjob GSX_iconSilver GSX_Silver brown 1 gray 1 silver 1
+Paintjob GSX_iconDigital GSX_Digital brown 1 black 1
+Paintjob GSX_iconPrestige GSX_Prestige yellow 1 silver 1 
+Description .50 GI

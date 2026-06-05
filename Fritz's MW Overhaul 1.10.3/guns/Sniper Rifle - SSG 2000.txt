@@ -1,0 +1,29 @@
+Name SSG 2000
+ShortName SSG2000
+Ammo 762NATO1
+Description 7.62x51mm NATO
+LoadIntoGun 4
+Icon SSG2000
+ShowDamage true
+ShowReloadTime true
+Colour 255 255 255
+ReloadTime 80
+Recoil 19
+Damage 2
+Accuracy 1
+ShootDelay 20
+ShootSound R700Shoot
+ReloadSound SpringfieldReload
+Mode SemiAuto
+BulletSpeed 10
+Scope mwr700
+ZoomLevel 10.0
+FOVZoomLevel 1.0
+Model mw.R700
+Texture SSG2000
+AllowAllAttachments true
+AllowBarrelAttachments true
+AllowScopeAttachments true
+AllowStockAttachments true
+AllowGripAttachments true
+NumGenericAttachmentSlots 4

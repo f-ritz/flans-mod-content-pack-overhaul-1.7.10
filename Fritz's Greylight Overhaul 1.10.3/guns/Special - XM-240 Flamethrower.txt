@@ -1,0 +1,31 @@
+Name XM-240 Flamethrower
+ShortName XM240Flamethrower
+Ammo FuelTank
+Icon XM240
+Colour 255 255 255
+ReloadTime 80
+Recoil 0
+Damage 1
+Accuracy 20
+BulletSpeed 1.0
+ShootDelay 1
+ShootSound _XM240Fire
+ReloadSound _XM240Reload
+Mode FullAuto
+Scope None
+ZoomLevel 1.0
+FOV ZoomLevel 1.25
+Distort Sound False
+Deployable False
+DeployedModel None
+ModelScale 0.2
+OneHanded False
+Model dwfirearms.XM240
+Texture XM240_Standard
+AllowAllAttachments true
+AllowScopeAttachments true
+AllowBarrelAttachments true
+AllowGripAttachments true
+AllowStockAttachments true
+NumGenericAttachmentSlots 4
+Description Fuel Tank

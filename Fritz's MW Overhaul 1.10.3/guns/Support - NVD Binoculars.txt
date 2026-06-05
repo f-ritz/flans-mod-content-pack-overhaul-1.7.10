@@ -1,0 +1,16 @@
+Name NVD Binoculars
+ShortName NVDBinoculars
+Icon Binoculars
+Colour 255 255 255
+ReloadTime 0
+Recoil 0
+Damage 0
+Accuracy 0
+ShootDelay 0
+//ShootSound AK47Shoot
+//ReloadSound MP44Reload
+Mode SemiAuto
+BulletSpeed 10
+Scope NVDBinoculars
+ZoomLevel 16
+FOVZoomLevel 1

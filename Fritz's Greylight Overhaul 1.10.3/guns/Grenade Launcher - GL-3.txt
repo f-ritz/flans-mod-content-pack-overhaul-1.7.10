@@ -1,0 +1,37 @@
+Name GL-3
+ShortName GL3
+Ammo 40GrenadeBouncy
+Ammo 40GrenadeIncendiary
+Ammo 40GrenadeGas
+Ammo 40GrenadeSticky
+Ammo 40GrenadeSlug
+Ammo 40GrenadeImpact
+Icon GL3
+Colour 255 255 255
+ReloadTime 100
+Recoil 5
+Damage 1
+Accuracy 7
+BulletSpeed 5.0
+ShootDelay 30
+ShootSound _KGL3Fire
+ReloadSound _KGL3Reload
+Mode SemiAuto
+Scope None
+ZoomLevel 1.0
+FOV ZoomLevel 1.25
+Distort Sound False
+Deployable False
+DeployedModel None
+ModelScale 0.2
+LoadIntoGun 3
+OneHanded False
+Model dwfirearms.KGL3
+Texture KGL3_Standard
+AllowAllAttachments true
+AllowScopeAttachments true
+AllowBarrelAttachments true
+AllowGripAttachments true
+AllowStockAttachments true
+NumGenericAttachmentSlots 4
+Description 40mm Grenade

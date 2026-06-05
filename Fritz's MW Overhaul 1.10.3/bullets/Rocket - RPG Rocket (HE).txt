@@ -1,0 +1,22 @@
+Name RPG Rocket (HE)
+ShortName RPGRocketHE
+Model mw.RPGRocket
+Texture RPG
+Colour 255 255 255
+Icon RPGRocketHE
+FallSpeed 0.25
+MaxStackSize 64
+RoundsPerItem 1
+DamageVsLiving 750
+DamageVsVehicles 750
+Explosion 3
+ExplodeOnImpact True
+Fuse 0
+FlakParticles 0
+//Amount of fire to spread on exploding; for each increment, it will increase the dimensions of the burning area by 2. i.e. 1 will burn a 3x3 square, 2 will burn a 5x5 square
+Fire 0
+BreaksGlass True
+HitBoxSize 0.1
+HitSound bullet
+Penetrates False
+SmokeTrail True

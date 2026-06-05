@@ -1,0 +1,29 @@
+Name FN F2000
+ShortName F2000
+Ammo 556NATO30
+Icon F2000
+Colour 255 255 255
+ReloadTime 40
+Recoil 2
+Damage 1
+Accuracy 2
+RoundsPerMin 850
+ShootSound M14Shoot
+ReloadSound MP44Reload
+Mode FullAuto
+BulletSpeed 10
+Scope None
+ZoomLevel 1
+FOVZoomLevel 4
+Model mpack.f2000
+ModelScale 0.08
+Texture skin_gun_f2000
+AllowAllAttachments true
+AllowBarrelAttachments true
+AllowScopeAttachments true
+AllowStockAttachments true
+AllowGripAttachments true
+NumGenericAttachmentSlots 4
+ShowDamage true
+ShowReloadTime true
+Description 5.56x45mm NATO

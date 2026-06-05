@@ -1,0 +1,28 @@
+Name Mauser-Norris M1867
+ShortName MauserNorrisM1867
+Ammo 45Government1
+Description .45 Government
+LoadIntoGun 1
+Icon MauserNorrisM1867
+Colour 255 255 255
+ReloadTime 48
+Recoil 23
+Damage 1.5
+Accuracy 7
+ShootDelay 22
+ShootSound leeEnfieldShoot
+ReloadSound kar98kReload
+Mode SemiAuto
+BulletSpeed 10
+Scope None
+Model dunk.martinihenry
+ModelScale 1
+Texture Martinihenryskin
+AllowAllAttachments true
+AllowBarrelAttachments true
+AllowScopeAttachments true
+AllowStockAttachments true
+AllowGripAttachments true
+NumGenericAttachmentSlots 4
+ShowDamage true
+ShowReloadTime true

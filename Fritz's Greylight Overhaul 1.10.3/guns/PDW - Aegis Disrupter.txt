@@ -1,0 +1,32 @@
+Name Aegis Disrupter
+ShortName AegisDisrupter
+Ammo 10NATO32
+Icon AegisDisrupter
+Colour 255 255 255
+ReloadTime 40
+Recoil 2
+Damage 1
+Accuracy 10
+NumBullets 2
+BulletSpeed 10.0
+RoundsPerMin 700
+ShootSound _AegisDisrupterFire
+ReloadSound _AegisDisrupterReload
+Mode FullAuto
+Scope None
+ZoomLevel 1.0
+FOV ZoomLevel 1.25
+Distort Sound False
+Deployable False
+DeployedModel None
+ModelScale 0.2
+OneHanded False
+Model dwfirearms.AegisDisrupter
+Texture AegisDisrupter_Standard
+AllowAllAttachments true
+AllowScopeAttachments true
+AllowBarrelAttachments true
+AllowGripAttachments true
+AllowStockAttachments true
+NumGenericAttachmentSlots 4
+Description 10x25mm Auto

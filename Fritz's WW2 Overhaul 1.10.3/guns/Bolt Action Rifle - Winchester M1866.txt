@@ -1,0 +1,28 @@
+Name Winchester M1866
+ShortName WinchesterM1866
+Ammo 44Magnum1
+Description .44 Magnum
+ShowDamage true
+ShowReloadTime true
+Icon WinchesterM1866
+Colour 255 255 255
+LoadIntoGun 15
+ReloadTime 87
+Recoil 29
+Damage 1.5
+Accuracy 9
+ShootDelay 13
+ShootSound MosinNagantShoot
+ReloadSound kar98kReload
+Mode SemiAuto
+BulletSpeed 10
+Model dunk.1873win
+ModelScale 1
+Texture Skin_Gun_Model1873Winchester
+FOVZoomLevel 1.25
+AllowAllAttachments true
+AllowBarrelAttachments true
+AllowScopeAttachments true
+AllowStockAttachments true
+AllowGripAttachments true
+NumGenericAttachmentSlots 4

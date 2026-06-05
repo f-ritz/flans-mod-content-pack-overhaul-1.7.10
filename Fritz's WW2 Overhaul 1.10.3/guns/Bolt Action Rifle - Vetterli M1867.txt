@@ -1,0 +1,28 @@
+Name Vetterli M1867
+ShortName VetterliM1867
+Ammo 11Chassepot1
+Description 11x59mm Gras
+ShowDamage true
+ShowReloadTime true
+Icon Vetterli
+Colour 255 255 255
+LoadIntoGun 12
+ReloadTime 87
+Recoil 22
+Damage 1.5
+Accuracy 13
+ShootDelay 14
+ShootSound MosinNagantShoot
+ReloadSound kar98kReload
+Mode SemiAuto
+BulletSpeed 10
+Model dunk.1873win
+ModelScale 1
+Texture Skin_Gun_Model1873Winchester
+FOVZoomLevel 1.25
+AllowAllAttachments true
+AllowBarrelAttachments true
+AllowScopeAttachments true
+AllowStockAttachments true
+AllowGripAttachments true
+NumGenericAttachmentSlots 4

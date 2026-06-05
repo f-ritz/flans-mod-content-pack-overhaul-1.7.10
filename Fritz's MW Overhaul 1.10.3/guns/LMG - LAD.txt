@@ -1,0 +1,29 @@
+Name LAD
+ShortName LAD
+Ammo 762Tokarev150
+Description 7.62x25mm Tokarev
+ShowDamage true
+ShowReloadTime true
+Icon LAD
+Colour 255 255 255
+ReloadTime 80
+Recoil 3
+Damage 1
+Accuracy 6
+RoundsPerMin 600
+ShootSound RPDShoot
+ReloadSound MG42Reload
+Mode FullAuto
+BulletSpeed 10
+Scope None
+ZoomLevel 1.0
+FOVZoomLevel 1.25
+Model mw.RPD
+Texture RPD
+ModelScale 1.0
+AllowAllAttachments true
+AllowBarrelAttachments true
+AllowScopeAttachments true
+AllowStockAttachments true
+AllowGripAttachments true
+NumGenericAttachmentSlots 4

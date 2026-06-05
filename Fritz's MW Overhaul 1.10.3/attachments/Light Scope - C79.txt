@@ -1,0 +1,9 @@
+Name C79
+ShortName C79
+Icon ACOGSight
+AttachmentType sights
+Silencer false
+ZoomLevel 3
+ZoomOverlay c79
+Model mw.ACOG
+Texture ACOGSight

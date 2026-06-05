@@ -1,0 +1,16 @@
+Name .45 ACP Cartridge
+ShortName 45ACP1
+Model Bullet
+Colour 255 255 255
+Icon 45ACP1
+FallSpeed 0.25
+MaxStackSize 64
+RoundsPerItem 1
+Damage 45
+BreaksGlass True
+HitBoxSize 0.1
+HitSound bullet
+Penetrates True
+SmokeTrail False
+RecipeOutput 64
+ShapelessRecipe 45ACPBox

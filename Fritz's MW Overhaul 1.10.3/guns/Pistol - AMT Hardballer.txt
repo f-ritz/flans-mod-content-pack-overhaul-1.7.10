@@ -1,0 +1,30 @@
+Name AMT Hardballer
+ShortName AMTHardballer
+Ammo 45ACP8
+Icon AMTHardballer
+Colour 255 255 255
+ReloadTime 40
+Recoil 3
+Damage 1.5
+Accuracy 5
+ShootDelay 1
+ShootSound DesertEagleShoot
+ReloadSound LugerReload
+Mode SemiAuto
+BulletSpeed 10
+OneHanded true
+Scope None
+ZoomLevel 1.0
+FOVZoomLevel 1.2
+Model mw.DesertEagle
+ModelScale 0.8
+Texture AMTHardballer
+AllowAllAttachments true
+AllowBarrelAttachments true
+AllowScopeAttachments true
+AllowStockAttachments true
+AllowGripAttachments true
+NumGenericAttachmentSlots 4
+Description .45 ACP
+ShowDamage true
+ShowReloadTime true

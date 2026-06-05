@@ -1,0 +1,27 @@
+Name Gewehr 41 (M)
+ShortName Gewehr41M
+Ammo 792Mauser10
+Description 7.92x57mm Mauser
+ShowDamage true
+ShowReloadTime true
+Icon G41
+Colour 255 255 255
+ReloadTime 65
+Recoil 6
+Damage 1
+Accuracy 4
+ShootDelay 2
+ShootSound gewehr43Shoot
+ReloadSound m1carbineReload
+Mode SemiAuto
+BulletSpeed 10
+Scope None
+Model ww2.G43
+Texture SkinG41
+ModelScale 0.6
+AllowAllAttachments true
+AllowBarrelAttachments true
+AllowScopeAttachments true
+AllowStockAttachments true
+AllowGripAttachments true
+NumGenericAttachmentSlots 4

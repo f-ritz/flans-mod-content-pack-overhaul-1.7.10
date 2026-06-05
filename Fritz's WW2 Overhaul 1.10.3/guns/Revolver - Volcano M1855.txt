@@ -1,0 +1,31 @@
+Name Volcano M1855
+ShortName VolcanoM1855
+Ammo 44Magnum1
+Icon VolcanoM1855
+Colour 255 255 255
+ReloadTime 80
+Recoil 7
+Damage 2
+Accuracy 9
+ShootDelay 6
+ShootSound webleyShoot
+ReloadSound webleyReload
+LoadIntoGun 6
+Mode SemiAuto
+OneHanded true
+BulletSpeed 10
+Scope None
+ZoomLevel 1.0
+FOVZoomLevel 1.25
+Model dunk.VolcanicPistol
+ModelScale 1.2
+Texture Skin_Gun_VolcanicPistol
+AllowAllAttachments true
+AllowBarrelAttachments true
+AllowScopeAttachments true
+AllowStockAttachments true
+AllowGripAttachments true
+NumGenericAttachmentSlots 4
+Description .44 Magnum
+ShowDamage true
+ShowReloadTime true

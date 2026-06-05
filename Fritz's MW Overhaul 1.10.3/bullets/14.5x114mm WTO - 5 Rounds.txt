@@ -1,0 +1,15 @@
+Name 5 Round 14.5x114mm WTO Magazine
+ShortName 145Warsaw5
+Model Bullet
+Colour 255 255 255
+Icon 145Warsaw5
+FallSpeed 0.1
+MaxStackSize 64
+RoundsPerItem 5
+Damage 150
+BreaksGlass True
+HitBoxSize 0.1
+HitSound bullet
+Penetrates True
+Penetration 25
+SmokeTrail True

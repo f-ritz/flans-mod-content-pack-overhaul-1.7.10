@@ -1,0 +1,9 @@
+Name Reflex Sight
+ShortName ReflexSight
+Icon RedDotSight
+AttachmentType sights
+Silencer false
+ZoomLevel 2
+ZoomOverlay reflex
+Model mw.RedDot
+Texture RedDotSight

@@ -1,0 +1,32 @@
+Name UMX .45
+ShortName UMX45
+Ammo 45ACP8
+Ammo 45ACP8Shock
+Icon UMX45
+Colour 255 255 255
+ReloadTime 60
+Recoil 4
+Damage 1.5
+Accuracy 14
+BulletSpeed 10.0
+ShootDelay 2
+ShootSound _DusterwingFire
+ReloadSound _UMX45Reload
+Mode SemiAuto
+Scope None
+ZoomLevel 1.0
+FOV ZoomLevel 1.25
+Distort Sound False
+Deployable False
+DeployedModel None
+ModelScale 0.2
+OneHanded False
+Model dwfirearms.UMX45
+Texture UMX45_Standard
+AllowAllAttachments true
+AllowScopeAttachments true
+AllowBarrelAttachments true
+AllowGripAttachments true
+AllowStockAttachments true
+NumGenericAttachmentSlots 4
+Description .45 ACP

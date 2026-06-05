@@ -1,0 +1,14 @@
+Name 30 Rounds 7.7x58mm Arisaka Magazine
+ShortName 77Arisaka30
+Model Bullet
+Colour 255 255 255
+Icon 77Arisaka30
+FallSpeed 0.25
+MaxStackSize 64
+RoundsPerItem 30
+Damage 65
+BreaksGlass True
+HitBoxSize 0.1
+HitSound bullet
+Penetrates True
+SmokeTrail False

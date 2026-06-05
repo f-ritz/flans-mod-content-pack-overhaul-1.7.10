@@ -1,0 +1,6 @@
+Name Box of .455 Webley Cartridges
+ShortName 455WebleyBox
+Icon CartridgeBox
+Colour 255 255 255
+Category Misc
+StackSize 64

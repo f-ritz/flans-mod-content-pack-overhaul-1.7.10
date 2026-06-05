@@ -1,0 +1,14 @@
+Name 7 Round .44 Magnum Magazine
+ShortName 44Magnum7
+Model Bullet
+Colour 255 255 255
+Icon 44Magnum7
+FallSpeed 0.25
+MaxStackSize 64
+RoundsPerItem 7
+Damage 44
+BreaksGlass True
+HitBoxSize 0.1
+HitSound bullet
+Penetrates True
+SmokeTrail False

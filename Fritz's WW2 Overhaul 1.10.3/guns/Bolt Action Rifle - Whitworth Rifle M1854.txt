@@ -1,0 +1,28 @@
+Name Whitworth Rifle M1854
+ShortName WRM1854
+Ammo 45Government1
+LoadIntoGun 1
+Icon WRM1854
+Colour 255 255 255
+ReloadTime 20
+Recoil 5
+Damage 1.5
+Accuracy 4
+ShootDelay 20
+ShootSound springfieldShoot
+ReloadSound kar98kReload
+Mode SemiAuto
+BulletSpeed 10
+Scope None
+Model dunk.sharps
+ModelScale 0.9
+Texture Skin_Gun_SharpsRifle
+AllowAllAttachments true
+AllowBarrelAttachments true
+AllowScopeAttachments true
+AllowStockAttachments true
+AllowGripAttachments true
+NumGenericAttachmentSlots 4
+Description .45 Government
+ShowDamage true
+ShowReloadTime true

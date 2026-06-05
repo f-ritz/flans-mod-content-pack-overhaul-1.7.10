@@ -1,0 +1,27 @@
+Name Volkssturmgewehr 2
+ShortName VG2
+Ammo 792Mauser10
+Description 7.92x57mm Mauser
+ShowDamage true
+ShowReloadTime true
+Icon VG2
+Colour 255 255 255
+ReloadTime 65
+Recoil 7
+Damage 1.5
+Accuracy 3
+ShootDelay 15
+ShootSound kar98kShoot
+ReloadSound m1carbineReload
+Mode SemiAuto
+BulletSpeed 10
+Scope None
+Model ww2.G43
+Texture VG2
+ModelScale 0.6
+AllowAllAttachments true
+AllowBarrelAttachments true
+AllowScopeAttachments true
+AllowStockAttachments true
+AllowGripAttachments true
+NumGenericAttachmentSlots 4

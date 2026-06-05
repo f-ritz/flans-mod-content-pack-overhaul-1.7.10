@@ -1,0 +1,28 @@
+Name wz.35 Anti-Tank Rifle
+ShortName WZ35ATRifle
+Ammo 792MauserHeavy1
+LoadIntoGun 4
+Description 7.92x94mm Heavy Mauser
+Icon TankgewehrM1918
+Colour 255 255 255
+ReloadTime 50
+Recoil 22
+Damage 1.5
+Accuracy 3
+ShootDelay 18
+ShootSound kar98kShoot
+ReloadSound kar98kReload
+Mode SemiAuto
+BulletSpeed 10
+Scope None
+Model NewAge.WZ35AT
+Texture SkinWZ35AT
+ModelScale 1
+AllowAllAttachments true
+AllowBarrelAttachments true
+AllowScopeAttachments true
+AllowStockAttachments true
+AllowGripAttachments true
+NumGenericAttachmentSlots 4
+ShowDamage true
+ShowReloadTime true

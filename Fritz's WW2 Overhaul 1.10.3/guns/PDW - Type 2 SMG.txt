@@ -1,0 +1,27 @@
+Name Type 2 SMG
+ShortName Type2SMG
+Ammo 822Nambu50
+Description 8x22mm Nambu
+ShowDamage true
+ShowReloadTime true
+Icon Type2SMG
+Colour 255 255 255
+ReloadTime 35
+Recoil 5
+Damage 1
+Accuracy 7
+RoundsPerMin 800
+ShootSound Type100Shoot
+ReloadSound PPSHReload
+Mode FullAuto
+BulletSpeed 10
+Scope None
+Model W44.PPs43
+Texture SkinPPS43
+ModelScale 0.32
+AllowAllAttachments true
+AllowBarrelAttachments true
+AllowScopeAttachments true
+AllowStockAttachments true
+AllowGripAttachments true
+NumGenericAttachmentSlots 4

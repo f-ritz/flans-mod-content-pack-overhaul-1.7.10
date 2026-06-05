@@ -1,0 +1,32 @@
+Name Makarov MP
+ShortName MakarovMP
+Ammo 918Makarov30
+Icon MakarovMP
+Colour 255 255 255
+ReloadTime 50
+Recoil 3
+Damage 1
+Accuracy 14
+BulletSpeed 10.0
+RoundsPerMin 850
+ShootSound _MFP15Fire
+ReloadSound _PwrReload
+Mode FullAuto
+Scope None
+ZoomLevel 1.0
+FOV ZoomLevel 1.25
+Distort Sound False
+Deployable False
+DeployedModel None
+ModelScale 0.2
+Knockback 1.0
+OneHanded False
+Model dwfirearms.MakoteptnMP
+Texture MakoteptnMP_Standard
+AllowAllAttachments true
+AllowScopeAttachments true
+AllowBarrelAttachments true
+AllowGripAttachments true
+AllowStockAttachments true
+NumGenericAttachmentSlots 4
+Description 9x18mm Makarov

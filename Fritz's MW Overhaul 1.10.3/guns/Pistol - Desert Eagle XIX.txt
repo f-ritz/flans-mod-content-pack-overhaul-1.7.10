@@ -1,0 +1,30 @@
+Name Desert Eagle XIX
+ShortName DesertEagleXIX
+Ammo 44Magnum7
+Icon DesertEagleXIX
+Colour 255 255 255
+ReloadTime 40
+Recoil 5
+Damage 1.5
+Accuracy 8
+ShootDelay 1
+ShootSound DesertEagleShoot
+ReloadSound LugerReload
+Mode SemiAuto
+OneHanded true
+BulletSpeed 10
+Scope None
+ZoomLevel 1.0
+FOVZoomLevel 1.2
+Model mw.DesertEagle
+ModelScale 0.8
+Texture Deagle50
+AllowAllAttachments true
+AllowBarrelAttachments true
+AllowScopeAttachments true
+AllowStockAttachments true
+AllowGripAttachments true
+NumGenericAttachmentSlots 4
+Description .44 Magnum
+ShowDamage true
+ShowReloadTime true

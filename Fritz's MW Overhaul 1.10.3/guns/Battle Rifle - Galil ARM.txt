@@ -1,0 +1,29 @@
+Name Galil ARM
+ShortName GalilARM
+Ammo 762NATO20
+Icon Galil
+Colour 255 255 255
+ReloadTime 42
+Recoil 3
+Damage 1
+Accuracy 3
+RoundsPerMin 700
+ShootSound M14Shoot
+ReloadSound MP44Reload
+Mode FullAuto
+BulletSpeed 10
+Scope None
+ZoomLevel 1.0
+FOVZoomLevel 1.25
+Model mpack.galilarm
+ModelScale 0.13
+Texture Skin_Gun_galilarm
+AllowAllAttachments true
+AllowBarrelAttachments true
+AllowScopeAttachments true
+AllowStockAttachments true
+AllowGripAttachments true
+NumGenericAttachmentSlots 4
+ShowDamage true
+ShowReloadTime true
+Description 7.62x51mm NATO

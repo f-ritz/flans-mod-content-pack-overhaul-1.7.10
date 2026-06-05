@@ -1,0 +1,30 @@
+Name Winchester M1895 Sniper
+ShortName WinchesterM1895Sniper
+Ammo 30Cal1
+Description .30-06
+ShowDamage true
+ShowReloadTime true
+Icon WinchesterM1895Sniper
+Colour 255 255 255
+LoadIntoGun 5
+ReloadTime 90
+Recoil 25
+Damage 2
+Accuracy 4
+ShootDelay 15
+ShootSound MosinNagantSniperShoot
+ReloadSound kar98kReload
+Mode SemiAuto
+BulletSpeed 10
+Scope wwiim9130sniper
+ZoomLevel 6
+Model dunk.1895s
+ModelScale 1
+Texture 1895
+FOVZoomLevel 1.25
+AllowAllAttachments true
+AllowBarrelAttachments true
+AllowScopeAttachments true
+AllowStockAttachments true
+AllowGripAttachments true
+NumGenericAttachmentSlots 4

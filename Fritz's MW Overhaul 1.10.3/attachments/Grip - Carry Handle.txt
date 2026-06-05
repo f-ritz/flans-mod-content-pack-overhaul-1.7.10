@@ -1,0 +1,13 @@
+Name Carry Handle
+ShortName CarryHandle
+Icon CarryHandle
+AttachmentType grip
+Silencer false
+MeleeDamageMultiplier 1.0
+DamageMultiplier 1.0
+SpreadMultiplier 0.8
+RecoilMultiplier 0.8
+BulletSpeedMultiplier 1.0
+ReloadTimeMultiplier 0.9
+Model mw.Foregrip
+Texture Foregrip

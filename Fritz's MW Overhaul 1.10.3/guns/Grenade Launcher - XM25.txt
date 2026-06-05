@@ -1,0 +1,36 @@
+Name XM25 CDTE
+ShortName XM25
+Ammo 40GrenadeBouncy
+Ammo 40GrenadeIncendiary
+Ammo 40GrenadeGas
+Ammo 40GrenadeSticky
+Ammo 40GrenadeSlug
+Ammo 40GrenadeImpact
+Description 40mm Grenade
+Icon MetalStorm
+Colour 255 255 255
+ReloadTime 100
+Recoil 10
+Damage 1
+LoadIntoGun 10
+Accuracy 2
+RoundsPerMin 300
+ShootSound GrenadeLauncherShoot
+ReloadSound GL6Reload
+Mode FullAuto
+BulletSpeed 2.5
+Scope None
+ZoomLevel 1.0
+FOVZoomLevel 1.25
+Model mpack.augpara
+ModelScale 0.12
+Texture XM29OICW
+AllowAllAttachments true
+AllowBarrelAttachments true
+AllowScopeAttachments true
+AllowStockAttachments true
+AllowGripAttachments true
+NumGenericAttachmentSlots 4
+ShowDamage true
+ShowReloadTime true
+MoveSpeedModifier 0.8

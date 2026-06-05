@@ -1,0 +1,32 @@
+Name Rivet Gun
+ShortName RivetGun
+Ammo Rivets12
+Icon RivetGun
+Colour 255 255 255
+ReloadTime 60
+Recoil 3
+Damage 1
+Accuracy 12
+BulletSpeed 3.0
+ShootDelay 6
+ShootSound _RivetRailGunFire
+ReloadSound _RivetRailGunReload
+Mode FullAuto
+Scope None
+ZoomLevel 1.0
+FOV ZoomLevel 1.25
+Distort Sound False
+Deployable False
+DeployedModel None
+ModelScale 0.2
+OneHanded False
+Model dwfirearms.RivetRailGun
+Texture RivetRailGun_Steam
+AllowAllAttachments true
+AllowScopeAttachments true
+AllowBarrelAttachments true
+AllowGripAttachments true
+AllowStockAttachments true
+NumGenericAttachmentSlots 4
+Paintjob RivetRailGun_iconNailgun RivetRailGun_Nailgun yellow 1 black 1
+Description Rivets (12 Rounds)_Gives you tetanus

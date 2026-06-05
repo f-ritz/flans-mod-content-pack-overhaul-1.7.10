@@ -1,0 +1,28 @@
+Name Type 97 Anti-Tank Rifle
+ShortName Type97ATRifle
+Ammo 20MM1
+Icon Type97ATRifle
+Colour 255 255 255
+ReloadTime 70
+Recoil 30
+Damage 2
+Accuracy 4
+LoadIntoGun 7
+ShootDelay 30
+ShootSound TankShell
+ReloadSound leeEnfieldReload
+Mode SemiAuto
+BulletSpeed 10
+Scope None
+Model NewAge.BoysRifle
+Texture SkinBoysRifle
+ModelScale 0.25
+AllowAllAttachments true
+AllowBarrelAttachments true
+AllowScopeAttachments true
+AllowStockAttachments true
+AllowGripAttachments true
+NumGenericAttachmentSlots 4
+Description 20mm
+ShowDamage true
+ShowReloadTime true

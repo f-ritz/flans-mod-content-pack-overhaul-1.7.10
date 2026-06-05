@@ -1,0 +1,28 @@
+Name Type 94 Nambu
+ShortName Type94Pistol
+Ammo 822Nambu7
+ShowDamage true
+ShowReloadTime true
+Description 8x22mm Nambu
+Icon luger
+Colour 255 255 255
+ReloadTime 40
+Recoil 6
+Damage 1.5
+Accuracy 7
+ShootDelay 2
+ShootSound lugerShoot
+ReloadSound lugerReload
+Mode SemiAuto
+OneHanded true
+BulletSpeed 10
+Scope None
+Model ija.Type94_Pistol
+Texture Type94_Pistol_1024
+ModelScale 0.06
+AllowAllAttachments true
+AllowBarrelAttachments true
+AllowScopeAttachments true
+AllowStockAttachments true
+AllowGripAttachments true
+NumGenericAttachmentSlots 4

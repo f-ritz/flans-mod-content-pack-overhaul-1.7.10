@@ -1,0 +1,27 @@
+Name SMLE Mk 3
+ShortName SMLE3
+Ammo 303Enfield10
+Description .303 Enfield
+ShowDamage true
+ShowReloadTime true
+Icon SMLE3
+Colour 255 255 255
+ReloadTime 80
+Recoil 10
+Damage 1.5
+Accuracy 4
+ShootDelay 18
+ShootSound leeEnfieldShoot
+ReloadSound leeEnfieldReload
+Mode SemiAuto
+BulletSpeed 10
+Scope None
+Model dunk.dunkSMLE
+ModelScale 0.1
+Texture masterskin
+AllowAllAttachments true
+AllowBarrelAttachments true
+AllowScopeAttachments true
+AllowStockAttachments true
+AllowGripAttachments true
+NumGenericAttachmentSlots 4

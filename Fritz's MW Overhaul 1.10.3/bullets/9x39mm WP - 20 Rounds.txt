@@ -1,0 +1,14 @@
+Name 20 Round 9x39mm WP Magazine
+ShortName 939WP20
+Model Bullet
+Colour 255 255 255
+Icon 939WP20
+FallSpeed 0.25
+MaxStackSize 64
+RoundsPerItem 20
+Damage 48
+BreaksGlass True
+HitBoxSize 0.1
+HitSound bullet
+Penetrates True
+SmokeTrail False

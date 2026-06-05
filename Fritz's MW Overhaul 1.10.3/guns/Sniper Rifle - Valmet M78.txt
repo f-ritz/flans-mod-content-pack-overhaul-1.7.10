@@ -1,0 +1,29 @@
+Name Valmet M78
+ShortName ValmetM78
+Ammo 762NATO20
+Description 7.62x51mm NATO
+Icon ValmetM78
+Colour 255 255 255
+ReloadTime 44
+Recoil 17
+Damage 2
+Accuracy 1
+RoundsPerMin 700
+ShootSound DragunovShoot
+ReloadSound BARReload
+Mode FullAuto
+BulletSpeed 10
+Scope mwdragunov
+ZoomLevel 10.0
+FOVZoomLevel 1.0
+Model mpack.dragunov
+ModelScale 0.54
+Texture ValmetM78
+AllowAllAttachments true
+AllowBarrelAttachments true
+AllowScopeAttachments true
+AllowStockAttachments true
+AllowGripAttachments true
+NumGenericAttachmentSlots 4
+ShowDamage true
+ShowReloadTime true

@@ -1,0 +1,31 @@
+Name Werner MP36
+ShortName WernerMP36
+Ammo 919NATO33
+Icon WernerMP36
+Colour 255 255 255
+ReloadTime 45
+Recoil 2
+Damage 1.25
+Accuracy 9
+BulletSpeed 10
+RoundsPerMin 900 
+ShootSound _WinnowFire
+ReloadSound _WinnowReload
+Mode FullAuto
+Scope None
+ZoomLevel 1.0
+FOV ZoomLevel 1.25
+Distort Sound False
+Deployable False
+DeployedModel None
+ModelScale 0.2
+OneHanded False
+Model dwfirearms.WinnowMP36
+Texture WinnowMP36_Steam
+AllowAllAttachments true
+AllowScopeAttachments true
+AllowBarrelAttachments true
+AllowGripAttachments true
+AllowStockAttachments true
+NumGenericAttachmentSlots 4
+Description 9x19mm Parabellum

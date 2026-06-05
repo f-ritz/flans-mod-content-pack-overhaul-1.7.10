@@ -1,0 +1,29 @@
+Name Daewoo K2
+ShortName DaewooK2
+Ammo 556NATO30
+Icon DaewooK2
+Colour 255 255 255
+ReloadTime 40
+Recoil 3
+Damage 1
+Accuracy 2
+RoundsPerMin 900
+ShootSound G36Shoot
+ReloadSound MP44Reload
+Mode FullAuto
+BulletSpeed 10
+Scope None
+ZoomLevel 1.0
+FOVZoomLevel 1.25
+Model mpack.k2
+ModelScale 0.13
+Texture skin_gun_k2
+AllowAllAttachments true
+AllowBarrelAttachments true
+AllowScopeAttachments true
+AllowStockAttachments true
+AllowGripAttachments true
+NumGenericAttachmentSlots 4
+ShowDamage true
+ShowReloadTime true
+Description 5.56x45mm NATO

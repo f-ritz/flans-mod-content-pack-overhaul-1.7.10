@@ -1,0 +1,30 @@
+Name CETME AMELI
+ShortName AMELI
+Ammo 556NATO100
+Ammo 556NATO250
+Ammo 556NATO500
+Description 5.56x45mm NATO
+Icon AMELI
+Colour 255 255 255
+ReloadTime 90
+Recoil 4
+Damage 1
+Accuracy 15
+RoundsPerMin 1000
+ShootSound MG42Shoot
+DistortSound False
+ReloadSound MG42Reload
+Mode FullAuto
+BulletSpeed 10.0
+Scope None
+Model W44.Mg42
+Texture SkinMg42
+ModelScale 0.75
+AllowAllAttachments true
+AllowBarrelAttachments true
+AllowScopeAttachments true
+AllowStockAttachments true
+AllowGripAttachments true
+NumGenericAttachmentSlots 4
+ShowDamage true
+ShowReloadTime true

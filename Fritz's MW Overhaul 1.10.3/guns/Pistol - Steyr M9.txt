@@ -1,0 +1,30 @@
+Name Steyr M9
+ShortName SteyrM9
+Ammo 919NATO15
+Description 9x19mm Parabellum
+Icon SteyrM9
+Colour 255 255 255
+ReloadTime 30
+Recoil 3
+Damage 1.5
+Accuracy 5
+ShootDelay 1
+ShootSound GlockShoot
+ReloadSound ColtReload
+Mode SemiAuto
+OneHanded true
+BulletSpeed 10
+Scope None
+ZoomLevel 1.0
+FOVZoomLevel 1.25
+Model mpack.fiveseven
+ModelScale 0.05
+Texture Skin_Gun_fiveseven
+AllowAllAttachments true
+AllowBarrelAttachments true
+AllowScopeAttachments true
+AllowStockAttachments true
+AllowGripAttachments true
+NumGenericAttachmentSlots 4
+ShowDamage true
+ShowReloadTime true

@@ -1,0 +1,34 @@
+Name M40 SAW
+ShortName IronhoofM40
+Ammo 762NATO100
+Ammo 762NATO250
+Ammo 762NATO500
+Icon IronhoofM40
+Colour 255 255 255
+ReloadTime 100
+Recoil 3
+Damage 1
+Accuracy 10 
+NumBullets 1
+BulletSpeed 10.0
+RoundsPerMin 550
+ShootSound _IronhoofM40Fire
+ReloadSound _IronhoofM40Reload
+Mode FullAuto
+Scope None
+ZoomLevel 1.0
+FOV ZoomLevel 1.25
+Distort Sound False
+Deployable False
+DeployedModel None
+ModelScale 0.2
+OneHanded False
+Model dwfirearms.IronhoofM40
+Texture IronhoofM40_Standard
+AllowAllAttachments true
+AllowScopeAttachments true
+AllowBarrelAttachments true
+AllowGripAttachments true
+AllowStockAttachments true
+NumGenericAttachmentSlots 4
+Description 7.62x51mm NATO

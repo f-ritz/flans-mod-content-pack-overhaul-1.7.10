@@ -1,0 +1,28 @@
+Name L115A3
+ShortName L115A3
+Ammo 338Lapua10
+Icon L115A3
+Colour 255 255 255
+ReloadTime 70
+Recoil 12
+Damage 2
+Accuracy 1
+ShootDelay 24
+ShootSound L96Shoot
+ReloadSound BARReload
+Mode SemiAuto
+BulletSpeed 10
+Scope mwm40a3
+ZoomLevel 10.0
+FOVZoomLevel 1.0
+Model mw.L96
+Texture L115A3
+AllowAllAttachments true
+AllowBarrelAttachments true
+AllowScopeAttachments true
+AllowStockAttachments true
+AllowGripAttachments true
+NumGenericAttachmentSlots 4
+ShowDamage true
+ShowReloadTime true
+Description .338 Lapua

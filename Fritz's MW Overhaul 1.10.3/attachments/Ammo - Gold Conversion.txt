@@ -1,0 +1,14 @@
+Name Golden Conversion
+ShortName GoldenConversion
+Icon GoldenConversion
+AttachmentType generic
+Silencer false
+MeleeDamageMultiplier 1.0
+DamageMultiplier 0.25
+SpreadMultiplier 1.3
+RecoilMultiplier 0.5
+BulletSpeedMultiplier 0.45
+ReloadTimeMultiplier 0.65
+Model mw.ACOG
+Texture ACOGSight
+Description Fit for a dictator

@@ -1,0 +1,9 @@
+Name TA-11 ACOG
+ShortName TA11
+Icon ACOGSight
+AttachmentType sights
+Silencer false
+ZoomLevel 6
+ZoomOverlay ta11
+Model mw.ACOG
+Texture ACOGSight

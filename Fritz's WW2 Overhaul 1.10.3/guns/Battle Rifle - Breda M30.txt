@@ -1,0 +1,26 @@
+Name Breda M30
+ShortName BM30
+Ammo 65Carcano20
+Icon Breda30
+Colour 255 255 255
+ReloadTime 60
+Recoil 3
+Damage 1
+Accuracy 4
+RoundsPerMin 550
+ShootSound BrowningShoot
+ReloadSound Fg42Reload
+Mode FullAuto
+BulletSpeed 10
+Scope None
+Model ww2.Fg42
+Texture Fg42
+AllowAllAttachments true
+AllowBarrelAttachments true
+AllowScopeAttachments true
+AllowStockAttachments true
+AllowGripAttachments true
+NumGenericAttachmentSlots 4
+Description 6.5x52mm Carcano
+ShowDamage true
+ShowReloadTime true

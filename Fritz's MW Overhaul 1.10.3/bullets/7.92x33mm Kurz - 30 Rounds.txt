@@ -1,0 +1,14 @@
+Name 30 Round 7.92x33mm Kurz Magazine
+ShortName 792Kurz30
+Model Bullet
+Colour 255 255 255
+Icon 792Kurz30
+FallSpeed 0.25
+MaxStackSize 64
+RoundsPerItem 30
+Damage 55
+BreaksGlass True
+HitBoxSize 0.1
+HitSound bullet
+Penetrates True
+SmokeTrail False

@@ -1,0 +1,28 @@
+Name Bergmann Mars
+ShortName BergmannMars
+Ammo 919NATO8
+Description 9x19mm Parabellum
+Icon BergmannMars
+Colour 255 255 255
+ReloadTime 40
+Recoil 6
+Damage 1.5
+Accuracy 7
+ShootDelay 4
+ShootSound lugerShoot
+ReloadSound lugerReload
+Mode SemiAuto
+BulletSpeed 10
+OneHanded true
+Scope None
+Model W44.C96
+Texture SkinC96
+ModelScale 0.15
+AllowAllAttachments true
+AllowBarrelAttachments true
+AllowScopeAttachments true
+AllowStockAttachments true
+AllowGripAttachments true
+NumGenericAttachmentSlots 4
+ShowDamage true
+ShowReloadTime true

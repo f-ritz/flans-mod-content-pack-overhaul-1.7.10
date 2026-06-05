@@ -1,0 +1,13 @@
+Name Muzzle Booster
+ShortName MuzzleBooster
+Icon MuzzleBooster
+AttachmentType barrel
+Silencer false
+MeleeDamageMultiplier 1.0
+DamageMultiplier 1
+SpreadMultiplier 1
+RecoilMultiplier 1
+BulletSpeedMultiplier 3
+ReloadTimeMultiplier 0.5
+Model mw.Silencer
+Texture Silencer

@@ -1,0 +1,29 @@
+Name PSG-1
+ShortName PSG1
+Ammo 762NATO10
+Description 7.62x51mm NATO
+ShowDamage true
+ShowReloadTime true
+Icon PSG1
+Colour 255 255 255
+ReloadTime 60
+Recoil 5
+Damage 2
+Accuracy 2
+ShootDelay 8
+ShootSound M14Shoot
+ReloadSound ThompsonReload
+Mode SemiAuto
+BulletSpeed 10
+Scope aug
+ZoomLevel 4.0
+FOVZoomLevel 1.0
+Model mpack.g3
+ModelScale 0.12
+Texture Skin_Gun_psg1
+AllowAllAttachments true
+AllowBarrelAttachments true
+AllowScopeAttachments true
+AllowStockAttachments true
+AllowGripAttachments true
+NumGenericAttachmentSlots 4

@@ -1,0 +1,28 @@
+Name Vetterli-Vitali M1870/87
+ShortName VetterliVitaliM187087
+Ammo 11Chassepot1
+Description 11x59mm Gras
+LoadIntoGun 4
+Icon Vetterli
+Colour 255 255 255
+ReloadTime 65
+Recoil 26
+Damage 1.5
+Accuracy 5
+ShootDelay 30
+ShootSound kar98kShoot
+ReloadSound kar98kReload
+Mode SemiAuto
+BulletSpeed 10
+Scope None
+Model NewAge.Berdan2
+Texture SkinBerdan2
+ModelScale 1.06
+AllowAllAttachments true
+AllowBarrelAttachments true
+AllowScopeAttachments true
+AllowStockAttachments true
+AllowGripAttachments true
+NumGenericAttachmentSlots 4
+ShowDamage true
+ShowReloadTime true

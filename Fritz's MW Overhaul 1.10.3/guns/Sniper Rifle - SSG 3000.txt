@@ -1,0 +1,29 @@
+Name SSG 3000
+ShortName SSG3000
+Ammo 762NATO1
+Description 7.62x51mm NATO
+LoadIntoGun 5
+Icon SSG3000
+ShowDamage true
+ShowReloadTime true
+Colour 255 255 255
+ReloadTime 80
+Recoil 14
+Damage 2
+Accuracy 2
+ShootDelay 22
+ShootSound R700Shoot
+ReloadSound SpringfieldReload
+Mode SemiAuto
+BulletSpeed 10
+Scope mwr700
+ZoomLevel 10.0
+FOVZoomLevel 1.0
+Model mw.R700
+Texture SSG3000
+AllowAllAttachments true
+AllowBarrelAttachments true
+AllowScopeAttachments true
+AllowStockAttachments true
+AllowGripAttachments true
+NumGenericAttachmentSlots 4

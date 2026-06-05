@@ -1,0 +1,29 @@
+Name M110 SASS
+ShortName M110
+Ammo 762NATO10
+Description 7.62x51mm NATO
+Icon M110
+Colour 255 255 255
+ReloadTime 40
+Recoil 7
+Damage 1
+Accuracy 1
+ShootDelay 3
+ShootSound FNSCARShoot
+ReloadSound MP44Reload
+Mode SemiAuto
+BulletSpeed 10
+Scope None
+ZoomLevel 1.0
+FOVZoomLevel 1.25
+Model mpack.mk20ssr
+ModelScale 0.06
+Texture M110
+AllowAllAttachments true
+AllowBarrelAttachments true
+AllowScopeAttachments true
+AllowStockAttachments true
+AllowGripAttachments true
+NumGenericAttachmentSlots 4
+ShowDamage true
+ShowReloadTime true

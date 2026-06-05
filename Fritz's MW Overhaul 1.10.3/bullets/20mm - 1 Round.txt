@@ -1,0 +1,16 @@
+Name 20mm Cartridge
+ShortName 20MM1
+Model Bullet
+Colour 255 255 255
+Icon 20MM1
+FallSpeed 0.25
+MaxStackSize 64
+RoundsPerItem 1
+Damage 200
+BreaksGlass True
+HitBoxSize 2.0
+HitSound flakExplode
+Penetrates True
+Penetration 75
+RecipeOutput 64
+ShapelessRecipe 20MMBox

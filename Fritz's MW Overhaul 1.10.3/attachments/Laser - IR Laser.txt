@@ -1,0 +1,13 @@
+Name IR Laser
+ShortName IRLaser
+Icon IRLaser
+AttachmentType stock
+Silencer false
+MeleeDamageMultiplier 1.0
+DamageMultiplier 1.0
+SpreadMultiplier 1.05
+RecoilMultiplier 0.75
+BulletSpeedMultiplier 1
+ReloadTimeMultiplier 0.95
+Model mw.ACOG
+Texture ACOGSight

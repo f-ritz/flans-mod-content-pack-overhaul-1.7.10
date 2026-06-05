@@ -1,0 +1,9 @@
+Name UH-1 Sight
+ShortName UH1Sight
+Icon RedDotSight
+AttachmentType sights
+Silencer false
+ZoomLevel 1.6
+ZoomOverlay eotech552
+Model mw.RedDot
+Texture RedDotSight

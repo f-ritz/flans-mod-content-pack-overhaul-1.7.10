@@ -1,0 +1,28 @@
+Name Winchester M1895
+ShortName WinchesterM1895
+Ammo 30Cal1
+Description .30-06
+ShowDamage true
+ShowReloadTime true
+Icon WinchesterM1895
+Colour 255 255 255
+LoadIntoGun 5
+ReloadTime 87
+Recoil 20
+Damage 1.5
+Accuracy 7
+ShootDelay 10
+ShootSound MosinNagantShoot
+ReloadSound kar98kReload
+Mode SemiAuto
+BulletSpeed 10
+Model dunk.1895
+ModelScale 1
+Texture 1895
+FOVZoomLevel 1.25
+AllowAllAttachments true
+AllowBarrelAttachments true
+AllowScopeAttachments true
+AllowStockAttachments true
+AllowGripAttachments true
+NumGenericAttachmentSlots 4

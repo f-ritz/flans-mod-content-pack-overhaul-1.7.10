@@ -1,0 +1,9 @@
+Name XM157 FCS
+ShortName XM157FCS
+Icon ACOGSight
+AttachmentType sights
+Silencer false
+ZoomLevel 4
+ZoomOverlay XM157FCS
+Model mw.ACOG
+Texture ACOGSight

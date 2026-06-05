@@ -1,0 +1,13 @@
+Name YHM Turbo
+ShortName YHMTurbo
+Icon Silencer
+AttachmentType barrel
+Silencer true
+MeleeDamageMultiplier 1.0
+DamageMultiplier 0.8
+SpreadMultiplier 1.0
+RecoilMultiplier 1.03
+BulletSpeedMultiplier 0.83
+ReloadTimeMultiplier 1.0
+Model mw.Silencer
+Texture Silencer

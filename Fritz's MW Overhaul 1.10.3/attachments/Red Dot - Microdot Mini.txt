@@ -1,0 +1,9 @@
+Name Microdot Mini
+ShortName MicrodotMini
+Icon RedDotSight
+AttachmentType sights
+Silencer false
+ZoomLevel 1.7
+ZoomOverlay MicrodotMini
+Model mw.RedDot
+Texture RedDotSight

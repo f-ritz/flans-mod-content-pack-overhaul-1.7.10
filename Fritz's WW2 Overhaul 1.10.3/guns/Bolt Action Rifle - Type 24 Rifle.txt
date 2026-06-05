@@ -1,0 +1,28 @@
+Name Type 24 Rifle
+ShortName Type24Rifle
+Ammo 792Mauser1
+Description 7.92x57mm Mauser
+ShowDamage true
+ShowReloadTime true
+LoadIntoGun 5
+Icon Type24Rifle
+Colour 255 255 255
+ReloadTime 65
+Recoil 22
+Damage 1.5
+Accuracy 5
+ShootDelay 35
+ShootSound kar98kShoot
+ReloadSound kar98kReload
+Mode SemiAuto
+BulletSpeed 10
+Scope None
+Model ww2.Kar98k
+Texture Type24Rifle
+ModelScale 0.6
+AllowAllAttachments true
+AllowBarrelAttachments true
+AllowScopeAttachments true
+AllowStockAttachments true
+AllowGripAttachments true
+NumGenericAttachmentSlots 4

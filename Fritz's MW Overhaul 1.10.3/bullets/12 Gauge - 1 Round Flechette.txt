@@ -1,0 +1,17 @@
+Name 12 Gauge Flechette Shell
+ShortName 12GaugeFlechette
+Model Bullet
+Colour 255 255 255
+Icon 12GaugeFlechette
+FallSpeed 0.25
+MaxStackSize 64
+RoundsPerItem 1
+Damage 16
+BreaksGlass True
+HitBoxSize 0.1
+HitSound bullet
+Penetrates True
+Penetration 16
+SmokeTrail False
+RecipeOutput 64
+ShapelessRecipe 12GaugeFlechetteBox

@@ -1,0 +1,13 @@
+Name Vikhr Suppressor
+ShortName VikhrSuppressor
+Icon Silencer
+AttachmentType barrel
+Silencer true
+MeleeDamageMultiplier 1.0
+DamageMultiplier 0.8
+SpreadMultiplier 1
+RecoilMultiplier 1.2
+BulletSpeedMultiplier 0.9
+ReloadTimeMultiplier 1.0
+Model mw.Silencer
+Texture Silencer

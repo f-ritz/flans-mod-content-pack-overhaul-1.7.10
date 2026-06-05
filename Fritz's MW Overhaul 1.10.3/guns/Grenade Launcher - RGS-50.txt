@@ -1,0 +1,34 @@
+Name RGS-50 Grenade Launcher
+ShortName RGS50
+Ammo 40GrenadeBouncy
+Ammo 40GrenadeIncendiary
+Ammo 40GrenadeGas
+Ammo 40GrenadeSticky
+Ammo 40GrenadeSlug
+Ammo 40GrenadeImpact
+Description 40mm Grenade
+ShowDamage true
+ShowReloadTime true
+Icon RGS50
+Colour 255 255 255
+ReloadTime 50
+Recoil 14
+Damage 1
+Accuracy 20
+ShootDelay 1
+ShootSound GrenadeLauncherShoot
+ReloadSound GrenadeLauncherReload
+Mode SemiAuto
+BulletSpeed 2.5
+Scope None
+ZoomLevel 1.0
+FOVZoomLevel 1.25
+Model mw.GL1
+Texture RGS50
+ModelScale 1.0
+AllowAllAttachments true
+AllowBarrelAttachments true
+AllowScopeAttachments true
+AllowStockAttachments true
+AllowGripAttachments true
+NumGenericAttachmentSlots 4

@@ -1,0 +1,30 @@
+Name Walther PPQ
+ShortName WaltherPPQ
+Ammo 919NATO10
+Description 9x19mm Parabellum
+ShowDamage true
+ShowReloadTime true
+Icon WaltherPPQ
+Colour 255 255 255
+ReloadTime 40
+Recoil 4
+Damage 1.5
+Accuracy 4
+ShootDelay 1
+ShootSound M9Shoot
+ReloadSound ColtReload
+Mode SemiAuto
+OneHanded true
+BulletSpeed 10
+Scope None
+ZoomLevel 1.0
+FOVZoomLevel 1.2
+Model mpack.usp
+ModelScale 0.05
+Texture Skin_Gun_usp
+AllowAllAttachments true
+AllowBarrelAttachments true
+AllowScopeAttachments true
+AllowStockAttachments true
+AllowGripAttachments true
+NumGenericAttachmentSlots 4

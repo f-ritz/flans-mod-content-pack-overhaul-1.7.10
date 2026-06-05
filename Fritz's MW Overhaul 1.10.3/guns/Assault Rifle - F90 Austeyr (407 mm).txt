@@ -1,0 +1,29 @@
+Name F90 Austeyr (407 mm)
+ShortName F90407
+Ammo 556NATO30
+Icon F90407
+Colour 255 255 255
+ReloadTime 40
+Recoil 1
+Damage 1
+Accuracy 2
+RoundsPerMin 740
+ShootSound M14Shoot
+ReloadSound MP44Reload
+Mode FullAuto
+BulletSpeed 10
+Scope None
+ZoomLevel 1
+FOVZoomLevel 4
+Model mpack.auga1
+ModelScale 0.12
+Texture F88
+AllowAllAttachments true
+AllowBarrelAttachments true
+AllowScopeAttachments true
+AllowStockAttachments true
+AllowGripAttachments true
+NumGenericAttachmentSlots 4
+ShowDamage true
+ShowReloadTime true
+Description 5.56x45mm NATO

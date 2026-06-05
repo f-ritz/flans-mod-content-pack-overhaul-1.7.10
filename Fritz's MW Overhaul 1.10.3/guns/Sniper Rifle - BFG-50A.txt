@@ -1,0 +1,29 @@
+Name BFG-50A
+ShortName BFG50A
+Ammo 50BMG1
+Icon BFG50A
+Colour 255 255 255
+ReloadTime 100
+Recoil 25
+Damage 2
+Accuracy 2
+LoadIntoGun 5
+ShootDelay 26
+ShootSound WinchesterModel70Shoot
+ReloadSound kar98kReload
+Mode SemiAuto
+BulletSpeed 10
+Scope mwm21
+ZoomLevel 10
+FOVZoomLevel 1.0
+Model zombie.WinchesterModel70
+Texture BFG50A
+AllowAllAttachments true
+AllowBarrelAttachments true
+AllowScopeAttachments true
+AllowStockAttachments true
+AllowGripAttachments true
+NumGenericAttachmentSlots 4
+Description .50 BMG
+ShowDamage true
+ShowReloadTime true

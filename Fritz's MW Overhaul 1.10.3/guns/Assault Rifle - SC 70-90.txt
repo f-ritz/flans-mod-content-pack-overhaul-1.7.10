@@ -1,0 +1,27 @@
+Name SC 70/90
+ShortName SC7090
+Ammo 556NATO30
+Icon SC7090
+Colour 255 255 255
+ReloadTime 40
+Recoil 4
+Damage 1
+Accuracy 1
+RoundsPerMin 650
+ShootSound G36Shoot
+ReloadSound MP40Reload
+Mode FullAuto
+BulletSpeed 10
+Scope None
+Model mpack.arx160
+ModelScale 0.14
+Texture Skin_Gun_arx160
+AllowAllAttachments true
+AllowBarrelAttachments true
+AllowScopeAttachments true
+AllowStockAttachments true
+AllowGripAttachments true
+NumGenericAttachmentSlots 4
+ShowDamage true
+ShowReloadTime true
+Description 5.56x45mm NATO

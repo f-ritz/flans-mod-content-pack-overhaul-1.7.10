@@ -1,0 +1,28 @@
+Name FN Model 30
+ShortName FNModel30
+Ammo 30Cal1
+Description .30-06
+ShowDamage true
+ShowReloadTime true
+LoadIntoGun 5
+Icon FNModel30
+Colour 255 255 255
+ReloadTime 66
+Recoil 17
+Damage 1.5
+Accuracy 4
+ShootDelay 24
+ShootSound kar98kShoot
+ReloadSound kar98kReload
+Mode SemiAuto
+BulletSpeed 10
+Scope None
+Model ww2.Kar98k
+Texture FNModel30
+ModelScale 0.6
+AllowAllAttachments true
+AllowBarrelAttachments true
+AllowScopeAttachments true
+AllowStockAttachments true
+AllowGripAttachments true
+NumGenericAttachmentSlots 4

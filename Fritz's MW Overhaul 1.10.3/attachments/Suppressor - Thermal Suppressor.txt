@@ -1,0 +1,13 @@
+Name Thermal Suppressor
+ShortName ThermalSuppressor
+Icon Silencer
+AttachmentType barrel
+Silencer true
+MeleeDamageMultiplier 1.0
+DamageMultiplier 0.8
+SpreadMultiplier 1.0
+RecoilMultiplier 1.05
+BulletSpeedMultiplier 0.8
+ReloadTimeMultiplier 1.0
+Model mw.Silencer
+Texture Silencer

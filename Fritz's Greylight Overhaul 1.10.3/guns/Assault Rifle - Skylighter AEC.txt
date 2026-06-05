@@ -1,0 +1,31 @@
+Name Skylighter AEC
+ShortName SkylighterAEC
+Ammo 68NATO12
+Icon SkylighterAEC
+Colour 255 255 255
+ReloadTime 90
+Recoil 3
+Damage 1
+Accuracy 6
+BulletSpeed 12.0
+ShootDelay 10
+ShootSound _SkylighterFire
+ReloadSound _IronhoofReload
+Mode FullAuto
+Scope None
+ZoomLevel 1.0
+FOVZoomLevel 1.25
+Distort Sound False
+Deployable False
+DeployedModel None
+ModelScale 0.2
+OneHanded False
+Model dwfirearms.SkylighterAEC
+Texture SkylighterAEC_Standard
+AllowAllAttachments true
+AllowScopeAttachments true
+AllowBarrelAttachments true
+AllowGripAttachments true
+AllowStockAttachments true
+NumGenericAttachmentSlots 4
+Description 6.8x51mm NATO

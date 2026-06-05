@@ -1,0 +1,14 @@
+Name 32 Round 7.65x21mm Parabellum Magazine
+ShortName 765Para32
+Model Bullet
+Colour 255 255 255
+Icon 765Para32
+FallSpeed 0.25
+MaxStackSize 64
+RoundsPerItem 32
+Damage 33
+BreaksGlass True
+HitBoxSize 0.1
+HitSound bullet
+Penetrates True
+SmokeTrail False

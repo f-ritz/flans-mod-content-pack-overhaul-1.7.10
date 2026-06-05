@@ -1,0 +1,31 @@
+Name Nagant wz.32 Revolver
+ShortName NagantWZ32
+Ammo 762Tokarev1
+Description 7.62x25mm Tokarev
+ShowDamage true
+ShowReloadTime true
+Icon WZ32
+Colour 255 255 255
+ReloadTime 80
+Recoil 4
+Damage 2
+Accuracy 4
+ShootDelay 5
+ShootSound webleyShoot
+ReloadSound webleyReload
+LoadIntoGun 7
+Mode SemiAuto
+OneHanded true
+BulletSpeed 10
+Scope None
+ZoomLevel 1.0
+FOVZoomLevel 1.25
+Model ww2.Webley
+Texture WZ30
+ModelScale 0.3
+AllowAllAttachments true
+AllowBarrelAttachments true
+AllowScopeAttachments true
+AllowStockAttachments true
+AllowGripAttachments true
+NumGenericAttachmentSlots 4

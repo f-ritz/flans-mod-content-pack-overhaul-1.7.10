@@ -1,0 +1,29 @@
+Name Flare Gun
+ShortName FlareGun
+Ammo flareGunAmmo
+Icon FlareGun
+Colour 255 255 255
+ReloadTime 40
+Recoil 5
+Damage 1
+Accuracy 8
+ShootDelay 2
+ShootSound FlareGunShoot
+ReloadSound FlareGunReload
+Mode SemiAuto
+OneHanded True
+BulletSpeed 0.75
+Scope None
+ZoomLevel 1.0
+FOVZoomLevel 1.25
+Model zombie.FlareGun
+Texture FlareGun
+AllowAllAttachments true
+AllowBarrelAttachments true
+AllowScopeAttachments true
+AllowStockAttachments true
+AllowGripAttachments true
+NumGenericAttachmentSlots 4
+Description Flare
+ShowDamage true
+ShowReloadTime true

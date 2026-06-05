@@ -1,0 +1,10 @@
+Name Morphine
+ShortName Morphine
+Icon Morphine
+Colour 255 255 255
+Heal true
+Repair false
+HealAmount 2
+ToolLife 32
+DestroyOnEmpty true
+StackSize 1

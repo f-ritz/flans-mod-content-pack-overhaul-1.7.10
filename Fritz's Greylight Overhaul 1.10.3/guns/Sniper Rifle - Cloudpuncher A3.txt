@@ -1,0 +1,32 @@
+Name CloudPuncher A3
+ShortName CloudpuncherA3
+Ammo 145Warsaw5
+Icon CloudPuncherA3
+Colour 255 255 255
+ReloadTime 90
+Recoil 15
+Damage 2
+Accuracy 2
+BulletSpeed 10.0
+ShootDelay 21
+ShootSound _CloudpuncherFire
+ReloadSound _CloudpuncherReload
+Mode SemiAuto
+Scope threatSightOverlay
+ZoomLevel 2.0
+FOV ZoomLevel 1.25
+Distort Sound False
+Deployable False
+DeployedModel None
+ModelScale 0.2
+OneHanded False
+Model dwfirearms.CloudPuncherA3
+Texture CloudPuncherA3_Standard
+AllowAllAttachments true
+AllowScopeAttachments true
+AllowBarrelAttachments true
+AllowGripAttachments true
+AllowStockAttachments true
+NumGenericAttachmentSlots 4
+Paintjob CloudPuncher_iconBlackout CloudPuncherA3_Blackout white 1 black 1
+Description 14.5x115mm WTO

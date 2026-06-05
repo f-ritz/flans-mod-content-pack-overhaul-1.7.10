@@ -1,0 +1,27 @@
+Name Panzerbuchse 39
+ShortName PZB39
+Ammo 792MauserHeavy1
+Description 7.92x94mm Heavy Mauser
+Icon PZB39
+Colour 255 255 255
+ReloadTime 50
+Recoil 25
+Damage 1.5
+Accuracy 3
+ShootDelay 20
+ShootSound kar98kShoot
+ReloadSound kar98kReload
+Mode SemiAuto
+BulletSpeed 10
+Scope None
+Model NewAge.Panzerbuechse39
+Texture SkinPanzerbuechse39
+ModelScale 0.25
+AllowAllAttachments true
+AllowBarrelAttachments true
+AllowScopeAttachments true
+AllowStockAttachments true
+AllowGripAttachments true
+NumGenericAttachmentSlots 4
+ShowDamage true
+ShowReloadTime true

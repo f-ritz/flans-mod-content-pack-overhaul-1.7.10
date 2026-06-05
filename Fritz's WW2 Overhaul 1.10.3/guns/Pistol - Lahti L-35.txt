@@ -1,0 +1,28 @@
+Name Lahti L-35
+ShortName LahtiL35
+Ammo 919NATO8
+Description 9x19mm Parabellum
+ShowDamage true
+ShowReloadTime true
+Icon LahtiL35
+Colour 255 255 255
+ReloadTime 40
+Recoil 3
+Damage 1.5
+Accuracy 4
+ShootDelay 2
+ShootSound lugerShoot
+ReloadSound lugerReload
+Mode SemiAuto
+BulletSpeed 10
+OneHanded true
+Scope None
+Model W44.Luger
+Texture SkinLuger
+ModelScale 0.15
+AllowAllAttachments true
+AllowBarrelAttachments true
+AllowScopeAttachments true
+AllowStockAttachments true
+AllowGripAttachments true
+NumGenericAttachmentSlots 4

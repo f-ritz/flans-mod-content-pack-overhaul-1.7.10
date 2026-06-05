@@ -1,0 +1,34 @@
+Name Kalinin K-9
+ShortName KalininK9
+Ammo 918Makarov16
+Ammo 918Makarov30
+Ammo 918Makarov80
+Icon KalininK9
+Colour 255 255 255
+ReloadTime 51
+Recoil 3
+Damage 1.25
+Accuracy 11
+BulletSpeed 10
+RoundsPerMin 1000
+ShootSound _MFP15Fire
+ReloadSound _MFPK9Reload
+Mode FullAuto
+Scope None
+ZoomLevel 1.0
+FOV ZoomLevel 1.25
+Distort Sound False
+Deployable False
+DeployedModel None
+ModelScale 0.2
+Knockback 1.0
+OneHanded True
+Model dwfirearms.MFPK9
+Texture MFPK9_Standard
+AllowAllAttachments true
+AllowScopeAttachments true
+AllowBarrelAttachments true
+AllowGripAttachments true
+AllowStockAttachments true
+NumGenericAttachmentSlots 4
+Description 9x18mm Makarov

@@ -1,0 +1,29 @@
+Name AKU-12
+ShortName AKU12
+Ammo 545Warsaw30
+Icon AKU12
+Colour 255 255 255
+ReloadTime 40
+Recoil 2
+Damage 1
+Accuracy 2
+RoundsPerMin 800
+ShootSound SG550Shoot
+ReloadSound MP40Reload
+Mode FullAuto
+BulletSpeed 10
+Scope None
+ZoomLevel 1.0
+FOVZoomLevel 1.25
+Model mpack.aks74u
+ModelScale 0.07
+Texture AKU12
+AllowAllAttachments true
+AllowBarrelAttachments true
+AllowScopeAttachments true
+AllowStockAttachments true
+AllowGripAttachments true
+NumGenericAttachmentSlots 4
+ShowDamage true
+ShowReloadTime true
+Description 5.45x39mm WTO

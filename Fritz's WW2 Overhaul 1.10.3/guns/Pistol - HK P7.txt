@@ -1,0 +1,28 @@
+Name HK P7
+ShortName HKP7
+Ammo 919NATO12
+Icon WaltherP38
+Colour 255 255 255
+ReloadTime 40
+Recoil 5
+Damage 1.5
+Accuracy 2
+ShootDelay 2
+ShootSound lugerShoot
+ReloadSound lugerReload
+Mode SemiAuto
+BulletSpeed 10
+OneHanded true
+Scope None
+Model NewAge.P38
+ModelScale 0.8
+Texture SkinP38
+AllowAllAttachments true
+AllowBarrelAttachments true
+AllowScopeAttachments true
+AllowStockAttachments true
+AllowGripAttachments true
+NumGenericAttachmentSlots 4
+Description 9x19mm Parabellum
+ShowDamage true
+ShowReloadTime true

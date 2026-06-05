@@ -1,0 +1,27 @@
+Name PPT-27
+ShortName PPT27
+Ammo 762Tokarev20
+Description 7.62x25mm Tokarev
+ShowDamage true
+ShowReloadTime true
+Icon PPT27
+Colour 255 255 255
+ReloadTime 40
+Recoil 4
+Damage 1
+Accuracy 5
+RoundsPerMin 1200
+ShootSound PPSHShoot
+ReloadSound PPSHReload
+Mode FullAuto
+BulletSpeed 10
+Scope None
+Model W44.SKS
+Texture SkinSKS
+ModelScale 0.25
+AllowAllAttachments true
+AllowBarrelAttachments true
+AllowScopeAttachments true
+AllowStockAttachments true
+AllowGripAttachments true
+NumGenericAttachmentSlots 4

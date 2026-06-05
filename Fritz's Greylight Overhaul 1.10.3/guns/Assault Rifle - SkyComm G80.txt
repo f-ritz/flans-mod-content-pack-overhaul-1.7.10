@@ -1,0 +1,38 @@
+Name SkyComm G80
+ShortName SkycommG80
+Ammo 68NATO25
+Icon SkyCommG80
+Colour 255 255 255
+ReloadTime 55
+Recoil 5
+Damage 1
+Accuracy 4
+BulletSpeed 10.0
+RoundsPerMin 640
+ShootSound _SkylighterFire
+ReloadSound _SkyCommReload
+Mode FullAuto
+Scope None
+ZoomLevel 1.0
+FOV ZoomLevel 1.25
+Distort Sound False
+Deployable False
+DeployedModel None
+ModelScale 0.2
+ShowAttachments false
+ShowDamage true
+ShowAccuracy true
+ShowRecoil true
+ShowReloadTime true
+ShowMode true
+ShowFireRate true
+OneHanded False
+Model dwfirearms.SkyCommG80
+Texture SkyCommG80_Standard
+NumGenericAttachmentSlots 4
+AllowAllAttachments true
+AllowBarrelAttachments true
+AllowScopeAttachments true
+AllowStockAttachments true
+AllowGripAttachments true
+Description 6.8x51mm NATO

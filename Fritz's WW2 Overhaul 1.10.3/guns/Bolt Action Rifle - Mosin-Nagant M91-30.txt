@@ -1,0 +1,28 @@
+Name Mosin-Nagant M91/30
+ShortName M9130
+Ammo 762MMR1
+Description 7.62x54mmR
+LoadIntoGun 5
+Icon M9130
+Colour 255 255 255
+ReloadTime 50
+Recoil 8
+Damage 1.5
+Accuracy 2
+ShootDelay 15
+ShootSound MosinNagantShoot
+ReloadSound kar98kReload
+Mode SemiAuto
+BulletSpeed 10
+Scope None
+Model NewAge.M9130Mosin
+Texture M9130
+ModelScale 0.8
+AllowAllAttachments true
+AllowBarrelAttachments true
+AllowScopeAttachments true
+AllowStockAttachments true
+AllowGripAttachments true
+NumGenericAttachmentSlots 4
+ShowDamage true
+ShowReloadTime true

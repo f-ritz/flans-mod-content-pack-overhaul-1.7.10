@@ -1,0 +1,36 @@
+Name Modular Cannon Launcher
+ShortName ModCannonLauncher
+Ammo 40GrenadeBouncy
+Ammo 40GrenadeIncendiary
+Ammo 40GrenadeGas
+Ammo 40GrenadeSticky
+Ammo 40GrenadeSlug
+Ammo 40GrenadeImpact
+Icon ModCannonLauncher
+Colour 255 255 255
+ReloadTime 70
+Recoil 3
+Damage 1
+Accuracy 8
+BulletSpeed 7.0
+ShootDelay 20
+ShootSound _KGL40Fire
+ReloadSound _KGL40Reload
+Mode SemiAuto
+Scope None
+ZoomLevel 1.0
+FOV ZoomLevel 1.25
+Distort Sound False
+Deployable False
+DeployedModel None
+ModelScale 0.2
+OneHanded False
+Model dwfirearms.ModularCannonLauncher
+Texture ModCannonLauncher_Steam
+AllowAllAttachments true
+AllowScopeAttachments true
+AllowBarrelAttachments true
+AllowGripAttachments true
+AllowStockAttachments true
+NumGenericAttachmentSlots 4
+Description 40mm Grenade

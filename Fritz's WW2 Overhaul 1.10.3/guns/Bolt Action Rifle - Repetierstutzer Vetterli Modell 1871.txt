@@ -1,0 +1,28 @@
+Name Repetierstutzer Vetterli Modell 1871
+ShortName RVM1871
+Ammo 11Chassepot1
+Description 11x59mm Gras
+ShowDamage true
+ShowReloadTime true
+Icon RVM1871
+Colour 255 255 255
+LoadIntoGun 6
+ReloadTime 90
+Recoil 27
+Damage 1.5
+Accuracy 10
+ShootDelay 12
+ShootSound MosinNagantShoot
+ReloadSound kar98kReload
+Mode SemiAuto
+BulletSpeed 10
+Model dunk.1873win
+ModelScale 1
+Texture Skin_Gun_Model1873Winchester
+FOVZoomLevel 1.25
+AllowAllAttachments true
+AllowBarrelAttachments true
+AllowScopeAttachments true
+AllowStockAttachments true
+AllowGripAttachments true
+NumGenericAttachmentSlots 4

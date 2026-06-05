@@ -1,0 +1,6 @@
+Name Box of .357 Magnum Cartridges
+ShortName 357MagnumBox
+Icon CartridgeBox
+Colour 255 255 255
+Category Misc
+StackSize 64

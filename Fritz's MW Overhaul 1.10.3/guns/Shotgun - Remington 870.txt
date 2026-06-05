@@ -1,0 +1,39 @@
+Name Remington 870
+ShortName Remington870
+Ammo 12GaugeShell
+Ammo 12GaugeBirdshot
+Ammo 12GaugeFlechette
+Ammo 12GaugeAP
+Ammo 12GaugeSlug
+Ammo 12GaugePoison
+Ammo 12GaugeBiological
+Ammo 12GaugeIncendiary
+Ammo 12GaugeHE
+Description 12 Gauge Shell
+ShowDamage true
+ShowReloadTime true
+Icon R870
+Colour 255 255 255
+ReloadTime 126
+Recoil 10
+NumBullets 8
+Damage 1
+Accuracy 19
+ShootDelay 15
+ShootSound R870Shoot
+ReloadSound W1200Reload
+Mode SemiAuto
+LoadIntoGun 7
+BulletSpeed 10
+Scope None
+ZoomLevel 1.0
+FOVZoomLevel 1.25
+Model mpack.remington870
+ModelScale 0.27
+Texture Skin_Gun_remington870
+AllowAllAttachments true
+AllowBarrelAttachments true
+AllowScopeAttachments true
+AllowStockAttachments true
+AllowGripAttachments true
+NumGenericAttachmentSlots 4

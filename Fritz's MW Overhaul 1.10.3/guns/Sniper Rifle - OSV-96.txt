@@ -1,0 +1,30 @@
+Name OSV-96
+ShortName OSV96
+Ammo 127Warsaw10
+Ammo 127Warsaw5
+Icon OSV96
+Colour 255 255 255
+ReloadTime 40
+Recoil 16
+Damage 2
+Accuracy 1
+ShootDelay 12
+ShootSound BarrettShoot
+ReloadSound BARReload
+Mode SemiAuto
+BulletSpeed 10
+Scope mwbarrett
+ZoomLevel 10.0
+FOVZoomLevel 1.0
+Model mpack.m82
+ModelScale 0.21
+Texture Skin_Gun_m82
+AllowAllAttachments true
+AllowBarrelAttachments true
+AllowScopeAttachments true
+AllowStockAttachments true
+AllowGripAttachments true
+NumGenericAttachmentSlots 4
+ShowDamage true
+ShowReloadTime true
+Description 12.7x108mm WTO

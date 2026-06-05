@@ -1,0 +1,28 @@
+Name Prickskyttegevar 90
+ShortName PSG90
+Ammo 762NATO10
+Icon PSG90
+Colour 255 255 255
+ReloadTime 70
+Recoil 12
+Damage 2
+Accuracy 1
+ShootDelay 28
+ShootSound L96Shoot
+ReloadSound BARReload
+Mode SemiAuto
+BulletSpeed 10
+Scope mwm40a3
+ZoomLevel 10.0
+FOVZoomLevel 1.0
+Model mw.L96
+Texture AWP
+AllowAllAttachments true
+AllowBarrelAttachments true
+AllowScopeAttachments true
+AllowStockAttachments true
+AllowGripAttachments true
+NumGenericAttachmentSlots 4
+ShowDamage true
+ShowReloadTime true
+Description 7.62x51mm NATO

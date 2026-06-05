@@ -1,0 +1,13 @@
+Name Plus-P Conversion
+ShortName PPConversion
+Icon PPConversion
+AttachmentType generic
+Silencer false
+MeleeDamageMultiplier 1.0
+DamageMultiplier 1.35
+SpreadMultiplier 1.2
+RecoilMultiplier 1.2
+BulletSpeedMultiplier 0.8
+ReloadTimeMultiplier 0.9
+Model mw.ACOG
+Texture ACOGSight

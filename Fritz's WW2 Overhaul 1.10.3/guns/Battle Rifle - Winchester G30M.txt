@@ -1,0 +1,28 @@
+Name Winchester G30M
+ShortName WG30M
+Ammo 30Cal1
+Icon WG30M
+LoadIntoGun 5
+Description .30-06
+ShowDamage true
+ShowReloadTime true
+Colour 255 255 255
+ReloadTime 30
+Recoil 5
+Damage 1
+Accuracy 3
+ShootDelay 1
+ShootSound m1garandShoot
+ReloadSound m1garandReload
+Mode SemiAuto
+BulletSpeed 10.0
+Scope None
+Model dunk.1895
+ModelScale 1
+Texture 1895
+AllowAllAttachments true
+AllowBarrelAttachments true
+AllowScopeAttachments true
+AllowStockAttachments true
+AllowGripAttachments true
+NumGenericAttachmentSlots 4

@@ -1,0 +1,20 @@
+Name Flamethrower Ammo
+ShortName FlamethrowerTank
+Model Null
+Colour 255 255 255
+Icon FlamethrowerAmmo
+FallSpeed 0.25
+MaxStackSize 64
+RoundsPerItem 500
+DamageVsLiving 0
+DamageVsVehicles 5
+ExplodeOnImpact True
+Fuse 20
+FlakParticles 10
+FlakParticleType flame
+Fire 1
+BreaksGlass False
+HitBoxSize 2.0
+Penetrates False
+SmokeTrail True
+TrailParticleType flame

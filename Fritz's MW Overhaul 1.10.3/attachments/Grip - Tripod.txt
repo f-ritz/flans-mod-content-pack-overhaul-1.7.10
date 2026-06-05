@@ -1,0 +1,13 @@
+Name Tripod
+ShortName Tripod
+Icon Tripod
+AttachmentType grip
+Silencer false
+MeleeDamageMultiplier 1.0
+DamageMultiplier 1.0
+SpreadMultiplier 0.7
+RecoilMultiplier 0.3
+BulletSpeedMultiplier 1.0
+ReloadTimeMultiplier 1.4
+Model mw.Foregrip
+Texture Foregrip

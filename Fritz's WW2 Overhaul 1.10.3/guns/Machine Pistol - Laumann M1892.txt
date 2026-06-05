@@ -1,0 +1,28 @@
+Name Laumann M1892
+ShortName LaumannM1892
+Ammo 765Para7
+Description 7.65x21mm Parabellum
+Icon LaumannM1892
+Colour 255 255 255
+ReloadTime 40
+Recoil 4
+Damage 1.25
+Accuracy 6
+RoundsPerMin 450
+ShootSound lugerShoot
+ReloadSound lugerReload
+Mode FullAuto
+BulletSpeed 10
+OneHanded true
+Scope None
+Model W44.C96
+Texture SkinC96
+ModelScale 0.15
+AllowAllAttachments true
+AllowBarrelAttachments true
+AllowScopeAttachments true
+AllowStockAttachments true
+AllowGripAttachments true
+NumGenericAttachmentSlots 4
+ShowDamage true
+ShowReloadTime true

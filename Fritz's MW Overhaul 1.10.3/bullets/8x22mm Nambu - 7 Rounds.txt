@@ -1,0 +1,14 @@
+Name 7 Round 8x22mm Nambu Magazine
+ShortName 822Nambu7
+Model Bullet
+Colour 255 255 255
+Icon 822Nambu7
+FallSpeed 0.25
+MaxStackSize 64
+RoundsPerItem 7
+Damage 26
+BreaksGlass True
+HitBoxSize 0.1
+HitSound bullet
+Penetrates True
+SmokeTrail False

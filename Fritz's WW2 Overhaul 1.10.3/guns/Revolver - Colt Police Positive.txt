@@ -1,0 +1,31 @@
+Name Colt Police Positive
+ShortName ColtPolicePositive
+Ammo 22LR1
+Icon ColtPolicePositive
+Colour 255 255 255
+ReloadTime 80
+Recoil 2
+Damage 2
+Accuracy 2
+ShootDelay 11
+ShootSound webleyShoot
+ReloadSound webleyReload
+LoadIntoGun 6
+Mode SemiAuto
+OneHanded true
+BulletSpeed 10
+Scope None
+ZoomLevel 1.0
+FOVZoomLevel 1.25
+Model dunk.1860
+ModelScale 1
+Texture masterskin
+AllowAllAttachments true
+AllowBarrelAttachments true
+AllowScopeAttachments true
+AllowStockAttachments true
+AllowGripAttachments true
+NumGenericAttachmentSlots 4
+Description .22 LR
+ShowDamage true
+ShowReloadTime true

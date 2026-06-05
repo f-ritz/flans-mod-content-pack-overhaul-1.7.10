@@ -1,0 +1,29 @@
+Name FG 42 II Sniper
+ShortName FG42IISniper
+Ammo 792Mauser20
+Ammo 792Mauser25
+Description 7.92x57mm Mauser
+ShowDamage true
+ShowReloadTime true
+Icon FG42Sniper
+Colour 255 255 255
+ReloadTime 80
+Recoil 5
+Damage 2
+Accuracy 3
+RoundsPerMin 750
+ShootSound Fg42Shoot
+ReloadSound Fg42Reload
+Mode FullAuto
+BulletSpeed 10
+Scope wwiikar98ksniper
+ZoomLevel 4
+Model W44.Fg42
+Texture SkinFG42
+ModelScale 0.85
+AllowAllAttachments true
+AllowBarrelAttachments true
+AllowScopeAttachments true
+AllowStockAttachments true
+AllowGripAttachments true
+NumGenericAttachmentSlots 4

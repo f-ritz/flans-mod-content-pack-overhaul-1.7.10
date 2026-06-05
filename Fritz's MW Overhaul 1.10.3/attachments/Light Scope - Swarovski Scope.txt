@@ -1,0 +1,9 @@
+Name Swarowski Scope
+ShortName Swarowski
+Icon ACOGSight
+AttachmentType sights
+Silencer false
+ZoomLevel 4
+ZoomOverlay aug
+Model mw.ACOG
+Texture ACOGSight

@@ -1,0 +1,28 @@
+Name Mauser M1896
+ShortName MauserM1896
+Ammo 65Carcano1
+Description 6.5x52mm Carcano
+ShowDamage true
+ShowReloadTime true
+LoadIntoGun 5
+Icon MauserM1896
+Colour 255 255 255
+ReloadTime 70
+Recoil 12
+Damage 1.5
+Accuracy 5
+ShootDelay 21
+ShootSound kar98kShoot
+ReloadSound kar98kReload
+Mode SemiAuto
+BulletSpeed 10
+Scope None
+Model ww2.Kar98k
+Texture MauserM1896
+ModelScale 0.6
+AllowAllAttachments true
+AllowBarrelAttachments true
+AllowScopeAttachments true
+AllowStockAttachments true
+AllowGripAttachments true
+NumGenericAttachmentSlots 4

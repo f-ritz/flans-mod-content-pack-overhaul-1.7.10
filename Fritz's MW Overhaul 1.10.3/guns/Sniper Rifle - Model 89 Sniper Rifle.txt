@@ -1,0 +1,29 @@
+Name Model 89 Sniper Rifle
+ShortName Model89SniperRifle
+Ammo 762NATO20
+Icon Model89SniperRifle
+Colour 255 255 255
+ReloadTime 70
+Recoil 10
+Damage 2
+Accuracy 2
+ShootDelay 10
+ShootSound M21Shoot
+ReloadSound BARReload
+Mode SemiAuto
+BulletSpeed 10
+Scope mwm21
+ZoomLevel 8
+FOVZoomLevel 1.0
+Model mpack.dsr
+ModelScale 0.09
+Texture Skin_Gun_dsr
+AllowAllAttachments true
+AllowBarrelAttachments true
+AllowScopeAttachments true
+AllowStockAttachments true
+AllowGripAttachments true
+NumGenericAttachmentSlots 4
+ShowDamage true
+ShowReloadTime true
+Description 7.62x51mm NATO

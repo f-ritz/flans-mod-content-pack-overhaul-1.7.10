@@ -1,0 +1,28 @@
+Name Steyr SPP
+ShortName SteyrSPP
+Ammo 919NATO15
+Icon SteyrSPP
+Colour 255 255 255
+ReloadTime 40
+Recoil 2
+Damage 1.25
+Accuracy 3
+RoundsPerMin 1200
+ShootSound M9Shoot
+ReloadSound ColtReload
+Mode FullAuto
+BulletSpeed 10
+OneHanded true
+Scope None
+Model mpack.usp
+ModelScale 0.05
+Texture Skin_Gun_usp
+AllowAllAttachments true
+AllowBarrelAttachments true
+AllowScopeAttachments true
+AllowStockAttachments true
+AllowGripAttachments true
+NumGenericAttachmentSlots 4
+Description 9x19mm Parabellum
+ShowDamage true
+ShowReloadTime true

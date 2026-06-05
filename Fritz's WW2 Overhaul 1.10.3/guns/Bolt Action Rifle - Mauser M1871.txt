@@ -1,0 +1,28 @@
+Name Mauser M1871
+ShortName MauserM1871
+Ammo 792Mauser1
+Description 7.92x57mm Mauser
+ShowDamage true
+ShowReloadTime true
+LoadIntoGun 5
+Icon MauserM1871
+Colour 255 255 255
+ReloadTime 65
+Recoil 18
+Damage 1.5
+Accuracy 5
+ShootDelay 30
+ShootSound kar98kShoot
+ReloadSound kar98kReload
+Mode SemiAuto
+BulletSpeed 10
+Scope None
+Model dunk.gewehr71
+ModelScale 1
+Texture masterskin
+AllowAllAttachments true
+AllowBarrelAttachments true
+AllowScopeAttachments true
+AllowStockAttachments true
+AllowGripAttachments true
+NumGenericAttachmentSlots 4

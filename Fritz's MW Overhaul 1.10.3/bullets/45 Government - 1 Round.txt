@@ -1,0 +1,16 @@
+Name .45-70 Government Cartridge
+ShortName 45Government1
+Model Bullet
+Colour 255 255 255
+Icon 45Government1
+FallSpeed 0.25
+MaxStackSize 64
+RoundsPerItem 1
+Damage 77
+BreaksGlass True
+HitBoxSize 0.1
+HitSound bullet
+Penetrates True
+SmokeTrail False
+RecipeOutput 64
+ShapelessRecipe 45GovernmentBox

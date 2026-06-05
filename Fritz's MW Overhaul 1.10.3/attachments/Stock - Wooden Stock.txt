@@ -1,0 +1,13 @@
+Name Wooden Stock
+ShortName WoodenStock
+Icon WoodenStock
+AttachmentType stock
+Silencer false
+MeleeDamageMultiplier 1.0
+DamageMultiplier 1.0
+SpreadMultiplier 0.8
+RecoilMultiplier 0.8
+BulletSpeedMultiplier 1
+ReloadTimeMultiplier 1.05
+Model mw.ACOG
+Texture ACOGSight

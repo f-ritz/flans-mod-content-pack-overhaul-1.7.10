@@ -1,0 +1,32 @@
+Name AK-112
+ShortName AK112
+Ammo 939WP30
+Icon AK112
+Colour 255 255 255
+ReloadTime 60
+Recoil 4
+Damage 1
+Accuracy 6
+BulletSpeed 10.0
+RoundsPerMin 680
+ShootSound _SF112Fire
+ReloadSound _SF112Reload
+Mode FullAuto
+Scope None
+ZoomLevel 1.0
+FOV ZoomLevel 1.25
+Distort Sound False
+Deployable False
+DeployedModel None
+ModelScale 0.2
+OneHanded False
+Model dwfirearms.SF112
+Texture SF112_Standard
+NumGenericAttachmentSlots 4
+AllowAllAttachments true
+AllowBarrelAttachments true
+AllowGripAttachments true
+AllowScopeAttachments true
+AllowStockAttachments true
+Paintjob SF112_iconContractor SF112_Contractor gray 1 brown 1
+Description 9x39mm WP

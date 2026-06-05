@@ -1,0 +1,20 @@
+Name 12 Gauge Poison Shell
+ShortName 12GaugePoison
+Model Bullet
+Colour 255 255 255
+Icon 12GaugePoison
+FallSpeed 0.25
+MaxStackSize 64
+RoundsPerItem 1
+Damage 12
+BreaksGlass True
+HitBoxSize 0.1
+HitSound bullet
+Penetrates True
+SmokeTrail False
+//Syntax is PotionEffect <ID> <Duration> <Amplifier>
+//IDs are 	1:MoveSpeed		2:MoveSlowdown		3:DigSpeed			4:DigSlowdown		5:DamageBoost	6:Heal			7:Harm		8:Jump			9:Confusion		10:Regeneration
+//			11:Resistance	12:FireResistance	13:WaterBreathing	14:Invisibility		15:Blindness	16:NightVision	17:Hunger	18:Weakness		19:Poison		20:Wither
+PotionEffect 19 100 3
+RecipeOutput 64
+ShapelessRecipe 12GaugePoisonBox

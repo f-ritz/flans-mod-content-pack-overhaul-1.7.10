@@ -1,0 +1,28 @@
+Name Conders MG
+ShortName CondersMG
+Ammo 919NATO100
+Description 9x19mm Parabellum
+Icon CondersMG
+Colour 255 255 255
+ReloadTime 95
+Recoil 6
+Damage 1
+Accuracy 10
+RoundsPerMin 1000
+ShootSound MG42Shoot
+DistortSound False
+ReloadSound MG42Reload
+Mode FullAuto
+BulletSpeed 10.0
+Scope None
+Model W44.Mg34
+Texture SkinMG34
+ModelScale 1.25
+AllowAllAttachments true
+AllowBarrelAttachments true
+AllowScopeAttachments true
+AllowStockAttachments true
+AllowGripAttachments true
+NumGenericAttachmentSlots 4
+ShowDamage true
+ShowReloadTime true

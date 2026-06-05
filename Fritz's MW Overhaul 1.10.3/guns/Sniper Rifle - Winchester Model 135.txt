@@ -1,0 +1,29 @@
+Name Winchester Model 135
+ShortName WinchesterModel135
+Ammo 22LR1
+Description .22 LR
+Icon WinchesterModel135
+Colour 255 255 255
+ReloadTime 55
+Recoil 13
+Damage 2
+Accuracy 2
+LoadIntoGun 5
+ShootDelay 22
+ShootSound WinchesterModel70Shoot
+ReloadSound WinchesterModel70Reload
+Mode SemiAuto
+BulletSpeed 10
+Scope mwm21
+ZoomLevel 10
+FOVZoomLevel 1.0
+Model zombie.WinchesterModel70
+Texture WinchesterModel135
+AllowAllAttachments true
+AllowBarrelAttachments true
+AllowScopeAttachments true
+AllowStockAttachments true
+AllowGripAttachments true
+NumGenericAttachmentSlots 4
+ShowDamage true
+ShowReloadTime true

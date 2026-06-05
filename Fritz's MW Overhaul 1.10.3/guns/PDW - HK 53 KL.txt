@@ -1,0 +1,30 @@
+Name HK 53 KL
+ShortName HK53KL
+Ammo 919NATO30
+Description 9x19mm Parabellum
+Icon MP5K
+Colour 255 255 255
+ReloadTime 40
+Recoil 1
+Damage 1
+Accuracy 4
+RoundsPerMin 725
+ShootSound MP5KShoot
+ReloadSound MP5KReload
+Mode FullAuto
+OneHanded True
+BulletSpeed 10
+Scope None
+ZoomLevel 1.0
+FOVZoomLevel 1.25
+Model mpack.mp5kpdw
+ModelScale 0.12
+Texture Skin_Gun_mp5kpdw
+AllowAllAttachments true
+AllowBarrelAttachments true
+AllowScopeAttachments true
+AllowStockAttachments true
+AllowGripAttachments true
+NumGenericAttachmentSlots 4
+ShowDamage true
+ShowReloadTime true

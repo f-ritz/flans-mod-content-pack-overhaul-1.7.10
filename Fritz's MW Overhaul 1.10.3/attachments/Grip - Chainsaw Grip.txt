@@ -1,0 +1,13 @@
+Name Chainsaw Grip
+ShortName ChainsawGrip
+Icon ChainsawGrip
+AttachmentType grip
+Silencer false
+MeleeDamageMultiplier 1.0
+DamageMultiplier 1.0
+SpreadMultiplier 2
+RecoilMultiplier 0.4
+BulletSpeedMultiplier 1.0
+ReloadTimeMultiplier 1.1
+Model mw.Foregrip
+Texture Foregrip

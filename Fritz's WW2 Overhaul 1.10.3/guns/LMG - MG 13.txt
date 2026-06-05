@@ -1,0 +1,28 @@
+Name MG 13
+ShortName MG13
+Ammo 792Mauser20
+Description 7.92x57mm Mauser
+Icon MG13
+Colour 255 255 255
+ReloadTime 60
+Recoil 8
+Damage 1
+Accuracy 12
+RoundsPerMin 700
+ShootSound MG42Shoot
+DistortSound False
+ReloadSound MG42Reload
+Mode FullAuto
+BulletSpeed 10.0
+Scope None
+Model W44.Mg34
+Texture SkinMG34
+ModelScale 1.25
+AllowAllAttachments true
+AllowBarrelAttachments true
+AllowScopeAttachments true
+AllowStockAttachments true
+AllowGripAttachments true
+NumGenericAttachmentSlots 4
+ShowDamage true
+ShowReloadTime true

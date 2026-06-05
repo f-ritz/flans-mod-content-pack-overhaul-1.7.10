@@ -1,0 +1,16 @@
+Name .338 Lapua Cartridge
+ShortName 338Lapua1
+Model Bullet
+Colour 255 255 255
+Icon 338Lapua1
+FallSpeed 0.25
+MaxStackSize 64
+RoundsPerItem 1
+Damage 105
+BreaksGlass True
+HitBoxSize 0.1
+HitSound bullet
+Penetrates True
+SmokeTrail False
+RecipeOutput 64
+ShapelessRecipe 338LapuaBox

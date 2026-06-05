@@ -1,0 +1,9 @@
+Name 69x Scope
+ShortName 69xScope
+Icon 4xScope
+AttachmentType sights
+Silencer false
+ZoomLevel 69
+ZoomOverlay mwbarrett
+Model mw.4xScope
+Texture 4xScope

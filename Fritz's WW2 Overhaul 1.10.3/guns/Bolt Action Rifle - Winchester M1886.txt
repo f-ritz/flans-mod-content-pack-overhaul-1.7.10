@@ -1,0 +1,28 @@
+Name Winchester M1886
+ShortName WinchesterM1886
+Ammo 38Special1
+Description .38 Special
+ShowDamage true
+ShowReloadTime true
+Icon WinchesterM1886
+Colour 255 255 255
+LoadIntoGun 15
+ReloadTime 87
+Recoil 22
+Damage 1.5
+Accuracy 8
+ShootDelay 10
+ShootSound MosinNagantShoot
+ReloadSound kar98kReload
+Mode SemiAuto
+BulletSpeed 10
+Model dunk.1886win
+ModelScale 1
+Texture masterskin
+FOVZoomLevel 1.25
+AllowAllAttachments true
+AllowBarrelAttachments true
+AllowScopeAttachments true
+AllowStockAttachments true
+AllowGripAttachments true
+NumGenericAttachmentSlots 4

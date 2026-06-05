@@ -1,0 +1,14 @@
+Name 12 Round 6.8x51mm NATO Magazine
+ShortName 68NATO12
+Model Bullet
+Colour 255 255 255
+Icon 68NATO12
+FallSpeed 0.25
+MaxStackSize 64
+RoundsPerItem 12
+Damage 54
+BreaksGlass True
+HitBoxSize 0.1
+HitSound bullet
+Penetrates True
+SmokeTrail False

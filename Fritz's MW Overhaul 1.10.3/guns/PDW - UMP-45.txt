@@ -1,0 +1,29 @@
+Name UMP 45
+ShortName UMP45
+Ammo 45ACP25
+Description .45 ACP
+Icon UMP45
+Colour 255 255 255
+ReloadTime 40
+Recoil 2
+Damage 1
+Accuracy 5
+RoundsPerMin 600
+ShootSound G36Shoot
+ReloadSound MP40Reload
+Mode FullAuto
+BulletSpeed 10
+Scope None
+ZoomLevel 1.0
+FOVZoomLevel 1.25
+Model mpack.ump
+ModelScale 0.045
+Texture Skin_Gun_ump
+AllowAllAttachments true
+AllowBarrelAttachments true
+AllowScopeAttachments true
+AllowStockAttachments true
+AllowGripAttachments true
+NumGenericAttachmentSlots 4
+ShowDamage true
+ShowReloadTime true

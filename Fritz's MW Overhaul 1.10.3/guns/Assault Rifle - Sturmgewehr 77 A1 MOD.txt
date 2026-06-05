@@ -1,0 +1,29 @@
+Name Sturmgewehr 77 A1 MOD
+ShortName STG77A1MOD
+Ammo 556NATO30
+Icon STG77KPE
+Colour 255 255 255
+ReloadTime 40
+Recoil 1
+Damage 1
+Accuracy 1
+RoundsPerMin 735
+ShootSound M14Shoot
+ReloadSound MP44Reload
+Mode FullAuto
+BulletSpeed 10
+Scope comp
+ZoomLevel 2
+FOVZoomLevel 1.25
+Model mpack.auga1
+ModelScale 0.12
+Texture Skin_Gun_auga1
+AllowAllAttachments true
+AllowBarrelAttachments true
+AllowScopeAttachments true
+AllowStockAttachments true
+AllowGripAttachments true
+NumGenericAttachmentSlots 4
+ShowDamage true
+ShowReloadTime true
+Description 5.56x45mm NATO

@@ -1,0 +1,27 @@
+Name Dux Model 59
+ShortName DuxM59
+Ammo 919NATO40
+Description 9x19mm Parabellum
+ShowDamage true
+ShowReloadTime true
+Icon DuxM59
+Colour 255 255 255
+ReloadTime 35
+Recoil 3
+Damage 1
+Accuracy 5
+RoundsPerMin 600
+ShootSound mp40Shoot
+ReloadSound PPSHReload
+Mode FullAuto
+BulletSpeed 10
+Scope None
+Model W44.PPs43
+Texture SkinPPS43
+ModelScale 0.32
+AllowAllAttachments true
+AllowBarrelAttachments true
+AllowScopeAttachments true
+AllowStockAttachments true
+AllowGripAttachments true
+NumGenericAttachmentSlots 4

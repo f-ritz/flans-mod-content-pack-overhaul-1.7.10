@@ -1,0 +1,13 @@
+Name R2 Suppressor
+ShortName R2
+Icon Silencer
+AttachmentType barrel
+Silencer true
+MeleeDamageMultiplier 1.0
+DamageMultiplier 0.8
+SpreadMultiplier 1
+RecoilMultiplier 0.8
+BulletSpeedMultiplier 0.8
+ReloadTimeMultiplier 1.0
+Model mw.Silencer
+Texture Silencer

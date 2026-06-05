@@ -1,0 +1,28 @@
+Name Winchester Model 88
+ShortName WinchesterModel88
+Ammo 762NATO1
+Description 7.62x51mm NATO
+ShowDamage true
+ShowReloadTime true
+Icon WinchesterModel88
+Colour 255 255 255
+LoadIntoGun 5
+ReloadTime 80
+Recoil 22
+Damage 1.5
+Accuracy 8
+ShootDelay 13
+ShootSound MosinNagantShoot
+ReloadSound kar98kReload
+Mode SemiAuto
+BulletSpeed 10
+Model dunk.1895
+ModelScale 1
+Texture 1895
+FOVZoomLevel 1.25
+AllowAllAttachments true
+AllowBarrelAttachments true
+AllowScopeAttachments true
+AllowStockAttachments true
+AllowGripAttachments true
+NumGenericAttachmentSlots 4

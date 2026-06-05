@@ -1,0 +1,26 @@
+Name Selbstladegewehr 257 (r)
+ShortName SLG257R
+Ammo 762MMR15
+Description 7.62x54mmR
+Icon AVS36
+Colour 255 255 255
+ReloadTime 50
+Recoil 4
+Damage 1
+Accuracy 4
+RoundsPerMin 800
+ShootSound MosinNagantShoot
+ReloadSound kar98kReload
+Mode FullAuto
+BulletSpeed 10
+Model W44.SVT40
+Texture SkinSVT40
+ModelScale 0.25
+AllowAllAttachments true
+AllowBarrelAttachments true
+AllowScopeAttachments true
+AllowStockAttachments true
+AllowGripAttachments true
+NumGenericAttachmentSlots 4
+ShowDamage true
+ShowReloadTime true

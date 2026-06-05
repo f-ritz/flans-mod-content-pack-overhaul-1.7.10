@@ -1,0 +1,28 @@
+Name Browning M1900
+ShortName BrowningM1900
+Ammo 765Para7
+Description 7.65x21mm Parabellum
+ShowDamage true
+ShowReloadTime true
+Icon M1911
+Colour 255 255 255
+ReloadTime 40
+Recoil 6
+Damage 1.5
+Accuracy 6
+ShootDelay 2
+ShootSound coltShoot
+ReloadSound coltReload
+Mode SemiAuto
+OneHanded true
+BulletSpeed 10.0
+Scope None
+Model dunk.1900
+ModelScale 1
+Texture masterskin
+AllowAllAttachments true
+AllowBarrelAttachments true
+AllowScopeAttachments true
+AllowStockAttachments true
+AllowGripAttachments true
+NumGenericAttachmentSlots 4

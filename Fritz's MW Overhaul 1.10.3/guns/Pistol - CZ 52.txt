@@ -1,0 +1,30 @@
+Name CZ 52
+ShortName CZ52
+Ammo 762Tokarev8
+Description 7.62x25mm Tokarev
+Icon CZ75
+Colour 255 255 255
+ReloadTime 30
+Recoil 3
+Damage 1.5
+Accuracy 6
+ShootDelay 1
+ShootSound MakarovShoot
+ReloadSound ColtReload
+Mode SemiAuto
+OneHanded true
+BulletSpeed 10
+Scope None
+ZoomLevel 1.0
+FOVZoomLevel 1.2
+Model mpack.qsz92
+ModelScale 0.12
+Texture QSZ92
+AllowAllAttachments true
+AllowBarrelAttachments true
+AllowScopeAttachments true
+AllowStockAttachments true
+AllowGripAttachments true
+NumGenericAttachmentSlots 4
+ShowDamage true
+ShowReloadTime true

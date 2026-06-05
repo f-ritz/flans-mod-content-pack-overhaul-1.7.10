@@ -1,0 +1,29 @@
+Name RAI Model 500
+ShortName RAIModel500
+Ammo 50BMG1
+Description .50 BMG
+Icon RAIModel500
+Colour 255 255 255
+ReloadTime 90
+Recoil 25
+Damage 2
+Accuracy 1
+LoadIntoGun 5
+ShootDelay 26
+ShootSound WinchesterModel70Shoot
+ReloadSound WinchesterModel70Reload
+Mode SemiAuto
+BulletSpeed 10
+Scope mwm21
+ZoomLevel 10
+FOVZoomLevel 1.0
+Model zombie.WinchesterModel70
+Texture RAIModel500
+AllowAllAttachments true
+AllowBarrelAttachments true
+AllowScopeAttachments true
+AllowStockAttachments true
+AllowGripAttachments true
+NumGenericAttachmentSlots 4
+ShowDamage true
+ShowReloadTime true

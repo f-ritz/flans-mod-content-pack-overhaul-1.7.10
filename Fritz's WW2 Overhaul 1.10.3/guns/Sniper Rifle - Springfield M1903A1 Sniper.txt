@@ -1,0 +1,29 @@
+Name Springfield M1903A1 Sniper Rifle
+ShortName M1903A1Sniper
+Ammo 30Cal1
+LoadIntoGun 5
+Icon SpringfieldSniper
+Description .30-06
+ShowDamage true
+ShowReloadTime true
+Colour 255 255 255
+ReloadTime 35
+Recoil 30
+Damage 2
+Accuracy 3
+ShootDelay 20
+ShootSound springfieldShoot
+ReloadSound springfieldReload
+Mode SemiAuto
+BulletSpeed 10
+Scope wwiispringfieldsniper
+ZoomLevel 6
+Model ww2.SpringfieldSniper
+Texture SpringfieldSniper
+ModelScale 0.35
+AllowAllAttachments true
+AllowBarrelAttachments true
+AllowScopeAttachments true
+AllowStockAttachments true
+AllowGripAttachments true
+NumGenericAttachmentSlots 4

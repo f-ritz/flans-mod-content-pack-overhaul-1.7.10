@@ -1,0 +1,27 @@
+Name FN 1949
+ShortName FN1949
+Ammo 762NATO10
+Description 7.62x51mm NATO
+ShowDamage true
+ShowReloadTime true
+Icon FN1949
+Colour 255 255 255
+ReloadTime 65
+Recoil 6
+Damage 1
+Accuracy 1
+ShootDelay 2
+ShootSound gewehr43Shoot
+ReloadSound m1carbineReload
+Mode SemiAuto
+BulletSpeed 10
+Scope None
+Model ww2.G43
+Texture FN1949
+ModelScale 0.6
+AllowAllAttachments true
+AllowBarrelAttachments true
+AllowScopeAttachments true
+AllowStockAttachments true
+AllowGripAttachments true
+NumGenericAttachmentSlots 4

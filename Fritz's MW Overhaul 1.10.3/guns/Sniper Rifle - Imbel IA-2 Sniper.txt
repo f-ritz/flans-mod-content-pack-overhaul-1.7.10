@@ -1,0 +1,29 @@
+Name Imbel IA-2 Sniper
+ShortName ImbelIA2Sniper
+Ammo 762NATO10
+Description 7.62x51mm NATO
+Icon ImbelIA2Sniper
+Colour 255 255 255
+ReloadTime 55
+Recoil 7
+Damage 2
+Accuracy 1
+RoundsPerMin 700
+ShootSound M14Shoot
+ReloadSound MP44Reload
+Mode SemiAuto
+BulletSpeed 10
+Scope mwm40a3
+ZoomLevel 10.0
+FOVZoomLevel 1.25
+Model mpack.ia2sniper
+ModelScale 0.12
+Texture Skin_Gun_ia2sniper
+AllowAllAttachments true
+AllowBarrelAttachments true
+AllowScopeAttachments true
+AllowStockAttachments true
+AllowGripAttachments true
+NumGenericAttachmentSlots 4
+ShowDamage true
+ShowReloadTime true

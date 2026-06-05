@@ -1,0 +1,28 @@
+Name Springfield M1861
+ShortName SM1861
+Ammo 52Minie1
+Description .52 Minie
+LoadIntoGun 1
+Icon SM1861
+Colour 255 255 255
+ReloadTime 45
+Recoil 25
+Damage 1.5
+Accuracy 5
+ShootDelay 15
+ShootSound m1garandShoot
+ReloadSound kar98kReload
+Mode SemiAuto
+BulletSpeed 10
+Scope None
+Model dunk.M1861
+ModelScale 0.53
+Texture Skin_Gun_M1861
+AllowAllAttachments true
+AllowBarrelAttachments true
+AllowScopeAttachments true
+AllowStockAttachments true
+AllowGripAttachments true
+NumGenericAttachmentSlots 4
+ShowDamage true
+ShowReloadTime true

@@ -1,0 +1,33 @@
+Name Ironhoof SG
+ShortName IronhoofSG
+Ammo 12Gauge20
+Icon IronhoofSG
+Colour 255 255 255
+ReloadTime 90
+Recoil 8
+Damage 1
+Accuracy 22
+LoadIntoGun 1
+NumBullets 6
+BulletSpeed 10
+RoundsPerMin 220
+ShootSound _SF2012Fire
+ReloadSound _IronhoofReload
+Mode FullAuto
+Scope None
+ZoomLevel 1.0
+FOV ZoomLevel 1.25
+Distort Sound False
+Deployable False
+DeployedModel None
+ModelScale 0.2
+OneHanded False
+Model dwfirearms.Ironhoof
+Texture Ironhoof_Standard
+AllowAllAttachments true
+AllowScopeAttachments true
+AllowBarrelAttachments true
+AllowGripAttachments true
+AllowStockAttachments true
+NumGenericAttachmentSlots 4
+Description 12 Gauge Clip

@@ -1,0 +1,28 @@
+Name AVS-36 Sniper
+ShortName AVS36Sniper
+Ammo 762MMR15
+Description 7.62x54mmR
+Icon AVS36Sniper
+Colour 255 255 255
+ReloadTime 50
+Recoil 4
+Damage 2
+Accuracy 4
+RoundsPerMin 800
+ShootSound MosinNagantShoot
+ReloadSound kar98kReload
+Mode FullAuto
+BulletSpeed 10
+Scope wwiim9130sniper
+ZoomLevel 6
+Model W44.SVT40
+Texture SkinSVT40
+ModelScale 0.25
+AllowAllAttachments true
+AllowBarrelAttachments true
+AllowScopeAttachments true
+AllowStockAttachments true
+AllowGripAttachments true
+NumGenericAttachmentSlots 4
+ShowDamage true
+ShowReloadTime true

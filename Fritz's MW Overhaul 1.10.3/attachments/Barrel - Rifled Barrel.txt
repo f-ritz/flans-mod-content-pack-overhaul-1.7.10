@@ -1,0 +1,13 @@
+Name Rifled Barrel
+ShortName RifledBarrel
+Icon RifledBarrel
+AttachmentType barrel
+Silencer false
+MeleeDamageMultiplier 1.0
+DamageMultiplier 1
+SpreadMultiplier 0.5
+RecoilMultiplier 1
+BulletSpeedMultiplier 1
+ReloadTimeMultiplier 1
+Model mw.Silencer
+Texture Silencer

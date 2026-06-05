@@ -1,0 +1,13 @@
+Name Skeleton Grip
+ShortName SkeletonGrip
+Icon SkeletonGrip
+AttachmentType grip
+Silencer false
+MeleeDamageMultiplier 1.0
+DamageMultiplier 1.0
+SpreadMultiplier 0.9
+RecoilMultiplier 1.1
+BulletSpeedMultiplier 1.0
+ReloadTimeMultiplier 0.7
+Model mw.Foregrip
+Texture Foregrip

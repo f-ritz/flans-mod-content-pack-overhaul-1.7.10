@@ -1,0 +1,14 @@
+Name Slugshot Conversion
+ShortName SlugshotConversion
+Icon SlugshotConversion
+AttachmentType generic
+Silencer false
+MeleeDamageMultiplier 1.0
+DamageMultiplier 0.7
+SpreadMultiplier 1.1
+RecoilMultiplier 0.24
+BulletSpeedMultiplier 0.1
+ReloadTimeMultiplier 1
+Model mw.ACOG
+Texture ACOGSight
+Description Diabolically slow_Not to be confused with shotgun slugs

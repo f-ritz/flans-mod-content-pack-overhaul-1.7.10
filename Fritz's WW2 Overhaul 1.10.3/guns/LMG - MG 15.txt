@@ -1,0 +1,28 @@
+Name MG 15
+ShortName MG15
+Ammo 792Mauser50
+Description 7.92x57mm Mauser
+Icon MG15
+Colour 255 255 255
+ReloadTime 95
+Recoil 4
+Damage 1
+Accuracy 4
+RoundsPerMin 1000
+ShootSound MG42Shoot
+DistortSound False
+ReloadSound MG42Reload
+Mode FullAuto
+BulletSpeed 10.0
+Scope None
+Model W44.Mg34
+Texture SkinMG34
+ModelScale 1.25
+AllowAllAttachments true
+AllowBarrelAttachments true
+AllowScopeAttachments true
+AllowStockAttachments true
+AllowGripAttachments true
+NumGenericAttachmentSlots 4
+ShowDamage true
+ShowReloadTime true

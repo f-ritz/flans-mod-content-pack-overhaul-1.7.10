@@ -1,0 +1,9 @@
+Name EoTech XPS2
+ShortName EoTechXPS2
+Icon RedDotSight
+AttachmentType sights
+Silencer false
+ZoomLevel 2
+ZoomOverlay eotechxps2
+Model mw.RedDot
+Texture RedDotSight

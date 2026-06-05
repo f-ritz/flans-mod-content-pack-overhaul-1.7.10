@@ -1,0 +1,32 @@
+Name PPK-19 Kalashnikov
+ShortName PPK19
+Ammo 919NATO30
+Icon PPK19
+Colour 255 255 255
+ReloadTime 65
+Recoil 3
+Damage 1
+Accuracy 8
+BulletSpeed 10.0
+RoundsPerMin 800
+ShootSound _MFP5Fire
+ReloadSound _MFP5Reload
+Mode FullAuto
+Scope None
+ZoomLevel 1.0
+FOV ZoomLevel 1.25
+Distort Sound False
+Deployable False
+DeployedModel None
+ModelScale 0.2
+Knockback 1.0
+OneHanded False
+Model dwfirearms.MFP5C
+Texture MFP5C_Standard
+AllowAllAttachments true
+AllowScopeAttachments true
+AllowBarrelAttachments true
+AllowGripAttachments true
+AllowStockAttachments true
+NumGenericAttachmentSlots 4
+Description 9x19mm Parabellum

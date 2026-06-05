@@ -1,0 +1,15 @@
+Name 12.7x108mm WTO Cartridge
+ShortName 127Warsaw1
+Model Bullet
+Colour 255 255 255
+Icon 127Warsaw1
+FallSpeed 0.25
+MaxStackSize 64
+RoundsPerItem 1
+Damage 140
+BreaksGlass True
+HitBoxSize 0.1
+HitSound bullet
+Penetrates True
+Penetration 25
+SmokeTrail False

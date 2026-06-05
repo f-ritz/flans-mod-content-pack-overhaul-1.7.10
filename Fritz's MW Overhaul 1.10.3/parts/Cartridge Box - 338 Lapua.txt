@@ -1,0 +1,6 @@
+Name Box of .338 Lapua Cartridges
+ShortName 338LapuaBox
+Icon CartridgeBox
+Colour 255 255 255
+Category Misc
+StackSize 64

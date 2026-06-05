@@ -1,0 +1,28 @@
+Name L9A1
+ShortName L9A1
+Ammo 919NATO12
+Description 9x19mm Parabellum
+ShowDamage true
+ShowReloadTime true
+Icon M1911
+Colour 255 255 255
+ReloadTime 40
+Recoil 2
+Damage 1.5
+Accuracy 4
+ShootDelay 2
+ShootSound coltShoot
+ReloadSound coltReload
+Mode SemiAuto
+OneHanded true
+BulletSpeed 10.0
+Scope None
+Model dunk.1900
+ModelScale 1
+Texture masterskin
+AllowAllAttachments true
+AllowBarrelAttachments true
+AllowScopeAttachments true
+AllowStockAttachments true
+AllowGripAttachments true
+NumGenericAttachmentSlots 4

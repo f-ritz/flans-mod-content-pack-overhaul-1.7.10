@@ -1,0 +1,13 @@
+Name Subsonic Conversion
+ShortName SubsonicConversion
+Icon SubsonicConversion
+AttachmentType generic
+Silencer true
+MeleeDamageMultiplier 1.0
+DamageMultiplier 0.8
+SpreadMultiplier 1.3
+RecoilMultiplier 0.8
+BulletSpeedMultiplier 0.4
+ReloadTimeMultiplier 1
+Model mw.ACOG
+Texture ACOGSight

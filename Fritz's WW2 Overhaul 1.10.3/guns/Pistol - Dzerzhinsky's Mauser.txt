@@ -1,0 +1,28 @@
+Name Dzerzhinsky's Mauser
+ShortName DZMauser
+Ammo 919NATO10
+Icon DZMauser
+Colour 255 255 255
+ReloadTime 40
+Recoil 5
+Damage 1.5
+Accuracy 3
+ShootDelay 3
+ShootSound lugerShoot
+ReloadSound lugerReload
+Mode SemiAuto
+BulletSpeed 10
+OneHanded true
+Scope None
+Model W44.C96
+Texture SkinC96
+ModelScale 0.15
+AllowAllAttachments true
+AllowBarrelAttachments true
+AllowScopeAttachments true
+AllowStockAttachments true
+AllowGripAttachments true
+NumGenericAttachmentSlots 4
+Description 9x19mm Parabellum
+ShowDamage true
+ShowReloadTime true

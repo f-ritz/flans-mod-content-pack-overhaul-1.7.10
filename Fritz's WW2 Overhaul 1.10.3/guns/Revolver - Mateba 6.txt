@@ -1,0 +1,31 @@
+Name Mateba 6
+ShortName Mateba6
+Ammo 38Special1
+Icon Mateba6
+Colour 255 255 255
+ReloadTime 80
+Recoil 5
+Damage 2
+Accuracy 5
+ShootDelay 9
+ShootSound webleyShoot
+ReloadSound webleyReload
+LoadIntoGun 6
+Mode SemiAuto
+OneHanded true
+BulletSpeed 10
+Scope None
+ZoomLevel 1.0
+FOVZoomLevel 1.25
+Model ww2.Webley
+Texture Mateba6
+ModelScale 0.3
+AllowAllAttachments true
+AllowBarrelAttachments true
+AllowScopeAttachments true
+AllowStockAttachments true
+AllowGripAttachments true
+NumGenericAttachmentSlots 4
+Description .38 Special
+ShowDamage true
+ShowReloadTime true

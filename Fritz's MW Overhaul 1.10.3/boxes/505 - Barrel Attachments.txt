@@ -1,0 +1,55 @@
+Name Barrel Attachments Box
+ShortName barrelBox
+TopTexture boxTop
+SideTexture BarrelBox
+BottomTexture boxBottom
+GunBoxID 505
+Recipe I log B fiberglass
+III
+BBB
+III
+NumGuns 44
+AddGun CQBBarrel 3 ingotIron
+AddGun RifledBarrel 3 ingotIron
+AddGun ReinforcedBarrel 3 ingotIron
+AddGun SquadBarrel 3 ingotIron
+AddGun MarksmanBarrel 3 ingotIron
+AddGun BARSBarrel 3 ingotIron
+AddGun SmoothboreBarrel 3 ingotIron
+AddGun CarbineBarrel 3 ingotIron
+AddGun BarrelShroud 3 ingotIron
+AddGun LiquidCooledBarrel 3 ingotIron
+AddGun QuickSwapBarrel 3 ingotIron
+AddGun CryogenicBarrel 3 ingotIron
+AddGun TungstenBarrel 3 ingotIron
+AddGun ThoriatedTungstenBarrel 3 ingotIron
+AddGun UnderwaterBarrel 3 ingotIron
+AddGun HalbekDevice 2 ingotIron
+AddGun TBrake 2 ingotIron
+AddGun XRing 2 ingotIron
+AddGun Compensator 2 ingotIron
+AddGun MuzzleBooster 2 ingotIron
+AddGun MuzzleBrake 2 ingotIron
+AddGun Muffler 4 fiberglass
+AddGun OilFilter 4 fiberglass
+AddGun ARSSuppressor 4 fiberglass
+AddGun OspreySuppressor 4 fiberglass
+AddGun PBS1 4 fiberglass
+AddGun PBS4 4 fiberglass
+AddGun R2 4 fiberglass
+AddGun Suppressor 4 fiberglass
+AddGun VikhrSuppressor 4 fiberglass
+AddGun HushPuppy 4 fiberglass
+AddGun ImprovisedSuppressor 4 fiberglass
+AddGun ThermalSuppressor 4 fiberglass
+AddGun StalonX108 4 fiberglass
+AddGun ImpulsIIA 4 fiberglass
+AddGun ThunderBeastUltra9 4 fiberglass
+AddGun SandmanS 4 fiberglass
+AddGun SandmanK 4 fiberglass
+AddGun SilencerCoOmega 4 fiberglass
+AddGun GemtechHalo 4 fiberglass
+AddGun SOCOMRC 4 fiberglass
+AddGun MonolithSuppressor 4 fiberglass
+AddGun AseUltraSSeries 4 fiberglass
+AddGun YHMTurbo 4 fiberglass

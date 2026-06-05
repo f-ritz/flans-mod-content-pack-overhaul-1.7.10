@@ -1,0 +1,6 @@
+Name Blunt Pack
+ShortName BluntPack
+Icon BluntPack
+Colour 255 255 255
+Category Misc
+StackSize 64

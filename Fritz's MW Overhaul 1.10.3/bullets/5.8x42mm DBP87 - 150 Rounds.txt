@@ -1,0 +1,13 @@
+Name 150 Round 5.8x42mm DBP87 Magazine
+ShortName 58PLA150
+Model Bullet
+Colour 255 255 255
+Icon 58PLA150
+FallSpeed 0.25
+MaxStackSize 64
+RoundsPerItem 150
+Damage 45
+BreaksGlass True
+HitBoxSize 0.1
+HitSound bullet
+Penetrates True

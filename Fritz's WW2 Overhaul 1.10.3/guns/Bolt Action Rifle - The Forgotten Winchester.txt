@@ -1,0 +1,28 @@
+Name The Forgotten Winchester
+ShortName TheForgottenWinchester
+Ammo 44Magnum1
+Description .44 Magnum
+ShowDamage true
+ShowReloadTime true
+Icon TheForgottenWinchester
+Colour 255 255 255
+LoadIntoGun 15
+ReloadTime 87
+Recoil 25
+Damage 1.5
+Accuracy 12
+ShootDelay 15
+ShootSound MosinNagantShoot
+ReloadSound kar98kReload
+Mode SemiAuto
+BulletSpeed 10
+Model dunk.1873win
+ModelScale 1
+Texture Skin_Gun_Model1873Winchester
+FOVZoomLevel 1.25
+AllowAllAttachments true
+AllowBarrelAttachments true
+AllowScopeAttachments true
+AllowStockAttachments true
+AllowGripAttachments true
+NumGenericAttachmentSlots 4

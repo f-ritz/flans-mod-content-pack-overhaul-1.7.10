@@ -1,0 +1,31 @@
+Name X61 Airdropper
+ShortName X61Airdropper
+Ammo 145Warsaw5
+Icon X61Airdropper
+Colour 255 255 255
+ReloadTime 90
+Recoil 10
+Damage 2
+Accuracy 1
+BulletSpeed 12.0
+ShootDelay 21
+ShootSound _AirdropperFire
+ReloadSound _AirdropperReload
+Mode SemiAuto
+Scope nightstickScopeOverlay
+ZoomLevel 2.0
+FOV ZoomLevel 1.25
+Distort Sound False
+Deployable False
+DeployedModel None
+ModelScale 0.2
+OneHanded False
+Model dwfirearms.Airdropper
+Texture X61Airdropper_Standard
+AllowAllAttachments true
+AllowScopeAttachments true
+AllowBarrelAttachments true
+AllowGripAttachments true
+AllowStockAttachments true
+NumGenericAttachmentSlots 4
+Description 14.5x115mm WTO

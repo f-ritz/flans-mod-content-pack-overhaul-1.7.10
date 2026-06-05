@@ -1,0 +1,9 @@
+Name PK-A
+ShortName PKA
+Icon ACOGSight
+AttachmentType sights
+Silencer false
+ZoomLevel 3
+ZoomOverlay pka
+Model mw.ACOG
+Texture ACOGSight

@@ -1,0 +1,27 @@
+Name Type 100 SMG
+ShortName Type100SMG
+Ammo 822Nambu32
+Icon Type100
+Colour 255 255 255
+ReloadTime 40
+Recoil 3
+Damage 1
+Accuracy 4
+RoundsPerMin 450
+ShootSound Type100Shoot
+ReloadSound stenReload
+Mode FullAuto
+BulletSpeed 10
+Scope None
+Model ija.Type100_40
+Texture Type100_40
+ModelScale 0.18
+AllowAllAttachments true
+AllowBarrelAttachments true
+AllowScopeAttachments true
+AllowStockAttachments true
+AllowGripAttachments true
+NumGenericAttachmentSlots 4
+Description 8x22mm Nambu
+ShowDamage true
+ShowReloadTime true

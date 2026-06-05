@@ -1,0 +1,11 @@
+Name Surgical Kit
+ShortName SurgicalKit
+Icon SurgicalKit
+Colour 255 255 255
+Heal true
+Repair false
+HealAmount 20
+ToolLife 10
+DestroyOnEmpty true
+StackSize 1
+RechargeRecipe 3 potion.8229

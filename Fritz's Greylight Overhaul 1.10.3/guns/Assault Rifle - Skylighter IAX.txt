@@ -1,0 +1,31 @@
+Name Skylighter IAX
+ShortName SkylighterIAX
+Ammo 68NATO25
+Icon SkylighterIAX
+Colour 255 255 255
+ReloadTime 70
+Recoil 4
+Damage 1
+Accuracy 8
+BulletSpeed 3.0
+ShootDelay 3
+ShootSound _SkylighterFire
+ReloadSound _SkylighterReload
+Mode FullAuto
+Scope None
+ZoomLevel 1.0
+FOV ZoomLevel 1.25
+Distort Sound False
+Deployable False
+DeployedModel None
+ModelScale 0.2
+OneHanded False
+Model dwfirearms.SkylighterIAX
+Texture SkylighterIAX_Standard
+AllowAllAttachments true
+AllowScopeAttachments true
+AllowBarrelAttachments true
+AllowGripAttachments true
+AllowStockAttachments true
+NumGenericAttachmentSlots 4
+Description 6.8x51mm NATO

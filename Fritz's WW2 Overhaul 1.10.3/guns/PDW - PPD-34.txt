@@ -1,0 +1,26 @@
+Name PPD-34
+ShortName PPD34
+Ammo 762Tokarev20
+Description 7.62x25mm Tokarev
+ShowDamage true
+ShowReloadTime true
+Icon PPD34
+Colour 255 255 255
+ReloadTime 40
+Recoil 5
+Damage 1
+Accuracy 8
+RoundsPerMin 800
+ShootSound PPSHShoot
+ReloadSound PPSHReload
+Mode FullAuto
+BulletSpeed 10
+Model NewAge.PPD40
+Texture SkinPPD40
+ModelScale 0.15
+AllowAllAttachments true
+AllowBarrelAttachments true
+AllowScopeAttachments true
+AllowStockAttachments true
+AllowGripAttachments true
+NumGenericAttachmentSlots 4

@@ -1,0 +1,27 @@
+Name Beretta M1
+ShortName BerettaM1
+Ammo 919NATO32
+Description 9x19mm Parabellum
+ShowDamage true
+ShowReloadTime true
+Icon BerettaM1
+Colour 255 255 255
+ReloadTime 55
+Recoil 5
+Damage 1
+Accuracy 5
+RoundsPerMin 550
+ShootSound mp40Shoot
+ReloadSound mp40Reload
+Mode FullAuto
+BulletSpeed 10
+Scope None
+Model mpack.mp40
+ModelScale 0.11
+Texture Skin_Gun_mp40
+AllowAllAttachments true
+AllowBarrelAttachments true
+AllowScopeAttachments true
+AllowStockAttachments true
+AllowGripAttachments true
+NumGenericAttachmentSlots 4

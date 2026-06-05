@@ -1,0 +1,30 @@
+Name Beretta 92F
+ShortName B92F
+Ammo 919NATO15
+Icon B92F
+Colour 255 255 255
+ReloadTime 30
+Recoil 3
+Damage 1.5
+Accuracy 5
+ShootDelay 1
+ShootSound M9Shoot
+ReloadSound ColtReload
+Mode SemiAuto
+OneHanded true
+BulletSpeed 10
+Scope None
+ZoomLevel 1.0
+FOVZoomLevel 1.2
+Model mpack.m9
+ModelScale 0.06
+Texture Skin_Gun_m9
+AllowAllAttachments true
+AllowBarrelAttachments true
+AllowScopeAttachments true
+AllowStockAttachments true
+AllowGripAttachments true
+NumGenericAttachmentSlots 4
+ShowDamage true
+ShowReloadTime true
+Description 9x19mm Parabellum

@@ -1,0 +1,13 @@
+Name Depleted Uranium Conversion
+ShortName DUConversion
+Icon DUConversion
+AttachmentType generic
+Silencer false
+MeleeDamageMultiplier 1.0
+DamageMultiplier 1.8
+SpreadMultiplier 1.1
+RecoilMultiplier 1.1
+BulletSpeedMultiplier 1.5
+ReloadTimeMultiplier 0.9
+Model mw.ACOG
+Texture ACOGSight

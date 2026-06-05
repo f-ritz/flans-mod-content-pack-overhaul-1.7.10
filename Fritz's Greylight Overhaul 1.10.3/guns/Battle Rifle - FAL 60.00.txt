@@ -1,0 +1,31 @@
+Name FAL 60.00
+ShortName FAL6000
+Ammo 762NATO20
+Icon FAL6000
+Colour 255 255 255
+ReloadTime 60
+Recoil 4
+Damage 1
+Accuracy 3
+BulletSpeed 10.0
+RoundsPerMin 850
+ShootSound _PAKATFire
+ReloadSound _SF112Reload
+Mode FullAuto
+Scope None
+ZoomLevel 1.0
+FOV ZoomLevel 1.25
+Distort Sound False
+Deployable False
+DeployedModel None
+ModelScale 0.2
+OneHanded False
+Model dwfirearms.PAKAT
+Texture PAKAT_Standard
+AllowAllAttachments true
+AllowScopeAttachments true
+AllowBarrelAttachments true
+AllowGripAttachments true
+AllowStockAttachments true
+NumGenericAttachmentSlots 4
+Description 7.62x51mm NATO

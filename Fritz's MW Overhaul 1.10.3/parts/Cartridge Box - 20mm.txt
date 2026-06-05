@@ -1,0 +1,6 @@
+Name Box of 20mm Cartridges
+ShortName 20MMBox
+Icon CartridgeBox
+Colour 255 255 255
+Category Misc
+StackSize 64

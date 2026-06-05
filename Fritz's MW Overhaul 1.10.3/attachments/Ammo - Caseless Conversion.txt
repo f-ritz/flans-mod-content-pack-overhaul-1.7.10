@@ -1,0 +1,13 @@
+Name Caseless Conversion
+ShortName CaselessConversion
+Icon CaselessConversion
+AttachmentType generic
+Silencer true
+MeleeDamageMultiplier 1.0
+DamageMultiplier 0.7
+SpreadMultiplier 0.75
+RecoilMultiplier 0.7
+BulletSpeedMultiplier 0.95
+ReloadTimeMultiplier 0.75
+Model mw.ACOG
+Texture ACOGSight

@@ -1,0 +1,15 @@
+Name 40 Round 14.5x114mm WTO Magazine
+ShortName 145Warsaw40
+Model Bullet
+Colour 255 255 255
+Icon 145Warsaw40
+FallSpeed 0.1
+MaxStackSize 64
+RoundsPerItem 40
+Damage 150
+BreaksGlass True
+HitBoxSize 0.1
+HitSound bullet
+Penetrates True
+Penetration 25
+SmokeTrail True

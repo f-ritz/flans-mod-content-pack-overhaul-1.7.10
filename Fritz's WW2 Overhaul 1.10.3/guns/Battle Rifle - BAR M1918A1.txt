@@ -1,0 +1,27 @@
+Name BAR M1918A1
+ShortName BARM1918A1
+Ammo 30Cal20
+Description .30-06
+Icon BAR
+Colour 255 255 255
+ReloadTime 50
+Recoil 3
+Damage 1
+Accuracy 2
+RoundsPerMin 350
+ShootSound BARShoot
+ReloadSound BARReload
+Mode FullAuto
+BulletSpeed 10
+Scope None
+Model W44.BAR
+Texture Skin44_BAR
+ModelScale 0.25
+AllowAllAttachments true
+AllowBarrelAttachments true
+AllowScopeAttachments true
+AllowStockAttachments true
+AllowGripAttachments true
+NumGenericAttachmentSlots 4
+ShowDamage true
+ShowReloadTime true

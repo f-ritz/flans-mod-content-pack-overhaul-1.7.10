@@ -1,0 +1,27 @@
+Name AKT-40
+ShortName AKT40
+Ammo 762MMR10
+Description 7.62x54mmR
+ShowDamage true
+ShowReloadTime true
+Icon AKT40
+Colour 255 255 255
+ReloadTime 50
+Recoil 3
+Damage 1
+Accuracy 3
+RoundsPerMin 600
+ShootSound MosinNagantShoot
+ReloadSound kar98kReload
+Mode FullAuto
+BulletSpeed 10
+Scope None
+Model W44.SKS
+Texture SkinSKS
+ModelScale 0.25
+AllowAllAttachments true
+AllowBarrelAttachments true
+AllowScopeAttachments true
+AllowStockAttachments true
+AllowGripAttachments true
+NumGenericAttachmentSlots 4

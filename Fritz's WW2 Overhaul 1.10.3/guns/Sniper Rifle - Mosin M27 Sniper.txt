@@ -1,0 +1,29 @@
+Name Mosin M27 Sniper
+ShortName MosinM27Sniper
+Ammo 762MMR1
+LoadIntoGun 5
+Icon MosinM27Sniper
+Description 7.62x54mmR
+ShowDamage true
+ShowReloadTime true
+Colour 255 255 255
+ReloadTime 83
+Recoil 32
+Damage 2
+Accuracy 1
+ShootDelay 24
+ShootSound MosinNagantSniperShoot
+ReloadSound kar98kReload
+Mode SemiAuto
+BulletSpeed 10
+Scope wwiim9130sniper
+ZoomLevel 6
+Model ww2.MosinSniper
+Texture MosinM27
+ModelScale 1.0
+AllowAllAttachments true
+AllowBarrelAttachments true
+AllowScopeAttachments true
+AllowStockAttachments true
+AllowGripAttachments true
+NumGenericAttachmentSlots 4

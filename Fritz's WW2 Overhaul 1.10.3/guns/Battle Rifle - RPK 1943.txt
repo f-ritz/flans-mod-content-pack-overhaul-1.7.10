@@ -1,0 +1,27 @@
+Name RPK 1943
+ShortName RPK1943
+Ammo 762MMR20
+Description 7.62x54mmR
+ShowDamage true
+ShowReloadTime true
+Icon RPK1943
+Colour 255 255 255
+ReloadTime 50
+Recoil 4
+Damage 1
+Accuracy 6
+RoundsPerMin 600
+ShootSound MosinNagantShoot
+ReloadSound kar98kReload
+Mode FullAuto
+BulletSpeed 10
+Scope None
+Model W44.SVT40
+Texture RPK1943
+ModelScale 0.25
+AllowAllAttachments true
+AllowBarrelAttachments true
+AllowScopeAttachments true
+AllowStockAttachments true
+AllowGripAttachments true
+NumGenericAttachmentSlots 4

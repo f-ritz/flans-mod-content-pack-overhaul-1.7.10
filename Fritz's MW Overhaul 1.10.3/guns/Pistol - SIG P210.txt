@@ -1,0 +1,30 @@
+Name SIG P210
+ShortName P210
+Ammo 919NATO8
+Description 9x19mm Parabellum
+Icon P220
+Colour 255 255 255
+ReloadTime 40
+Recoil 4
+Damage 1.5
+Accuracy 9
+ShootDelay 2
+ShootSound SIGP229Shoot
+ReloadSound LugerReload
+Mode SemiAuto
+OneHanded true
+BulletSpeed 10
+Scope None
+ZoomLevel 1.0
+FOVZoomLevel 1.2
+Model mpack.p227
+ModelScale 0.12
+Texture P220
+AllowAllAttachments true
+AllowBarrelAttachments true
+AllowScopeAttachments true
+AllowStockAttachments true
+AllowGripAttachments true
+NumGenericAttachmentSlots 4
+ShowDamage true
+ShowReloadTime true

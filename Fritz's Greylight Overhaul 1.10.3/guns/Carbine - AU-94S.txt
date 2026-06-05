@@ -1,0 +1,33 @@
+Name AU-94S
+ShortName AU94S
+Ammo 545Warsaw30
+Icon AU94S
+Colour 255 255 255
+ReloadTime 60
+Recoil 5
+Damage 1
+Accuracy 10
+BulletSpeed 10.0
+RoundsPerMin 600
+ShootSound _SF94Fire
+ReloadSound _SF94AUReload
+Mode FullAuto
+Scope None
+ZoomLevel 1.0
+FOV ZoomLevel 1.25
+Distort Sound False
+Deployable False
+DeployedModel None
+ModelScale 0.2
+Knockback 1.0
+OneHanded False
+Model dwfirearms.SF94AU
+Texture SF94AU_Standard
+AllowAllAttachments true
+AllowScopeAttachments true
+AllowBarrelAttachments true
+AllowGripAttachments true
+AllowStockAttachments true
+NumGenericAttachmentSlots 4
+Paintjob SF94AU_iconKatteri SF94AU_Katteri gray 1 black 1
+Description 5.45x39mm WTO

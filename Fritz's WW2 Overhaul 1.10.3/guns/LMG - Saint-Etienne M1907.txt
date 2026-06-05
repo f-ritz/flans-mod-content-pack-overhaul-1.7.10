@@ -1,0 +1,30 @@
+Name Saint-Etienne M1907
+ShortName SEM1907
+Ammo 30Cal100
+Ammo 30Cal250
+Ammo 30Cal500
+Description .30-06
+Icon SEM1907
+Colour 255 255 255
+ReloadTime 100
+Recoil 6
+Damage 1
+Accuracy 7
+RoundsPerMin 500
+DistortSound False
+ShootSound BrowningShoot
+ReloadSound BrowningReload
+Mode FullAuto
+BulletSpeed 10.0
+Scope None
+Model W44.30Cal
+Texture Skin30Cal
+ModelScale 1
+ShowDamage true
+ShowReloadTime true
+AllowAllAttachments true
+AllowBarrelAttachments true
+AllowScopeAttachments true
+AllowStockAttachments true
+AllowGripAttachments true
+NumGenericAttachmentSlots 4

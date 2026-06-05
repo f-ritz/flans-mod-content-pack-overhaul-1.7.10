@@ -1,0 +1,29 @@
+Name vz.24 Sniper
+ShortName VZ24Sniper
+Ammo 792Mauser1
+LoadIntoGun 5
+Icon VZ24Sniper
+Description 7.92x57mm Mauser
+ShowDamage true
+ShowReloadTime true
+Colour 255 255 255
+ReloadTime 80
+Recoil 22
+Damage 2
+Accuracy 1
+ShootDelay 26
+ShootSound MosinNagantSniperShoot
+ReloadSound kar98kReload
+Mode SemiAuto
+BulletSpeed 10
+Scope wwiim9130sniper
+ZoomLevel 6
+Model ww2.MosinSniper
+Texture VZ24Rifle
+ModelScale 1.0
+AllowAllAttachments true
+AllowBarrelAttachments true
+AllowScopeAttachments true
+AllowStockAttachments true
+AllowGripAttachments true
+NumGenericAttachmentSlots 4

@@ -1,0 +1,37 @@
+Name Greener GP Mk 1
+ShortName GreenerGPMk1
+Ammo 12GaugeShell
+Ammo 12GaugeBirdshot
+Ammo 12GaugeFlechette
+Ammo 12GaugeAP
+Ammo 12GaugeSlug
+Ammo 12GaugePoison
+Ammo 12GaugeBiological
+Ammo 12GaugeIncendiary
+Ammo 12GaugeHE
+Description 12 Gauge Shell
+LoadIntoGun 1
+NumBullets 8
+Icon MartiniHenry
+Colour 255 255 255
+ReloadTime 45
+Recoil 7
+Damage 1
+Accuracy 35
+ShootDelay 15
+ShootSound W1200Shoot
+ReloadSound kar98kReload
+Mode SemiAuto
+BulletSpeed 10
+Scope None
+Model dunk.martinihenry
+ModelScale 1
+Texture Martinihenryskin
+AllowAllAttachments true
+AllowBarrelAttachments true
+AllowScopeAttachments true
+AllowStockAttachments true
+AllowGripAttachments true
+NumGenericAttachmentSlots 4
+ShowDamage true
+ShowReloadTime true

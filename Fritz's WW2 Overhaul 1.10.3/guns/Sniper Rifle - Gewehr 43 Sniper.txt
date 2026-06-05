@@ -1,0 +1,28 @@
+Name Gewehr 43 Sniper
+ShortName G43Sniper
+Ammo 792Mauser10
+Description 7.92x57mm Mauser
+ShowDamage true
+ShowReloadTime true
+Icon G43Sniper
+Colour 255 255 255
+ReloadTime 65
+Recoil 7
+Damage 2
+Accuracy 2
+ShootDelay 2
+ShootSound gewehr43Shoot
+ReloadSound m1carbineReload
+Mode SemiAuto
+BulletSpeed 10
+Scope wwiikar98ksniper
+ZoomLevel 6
+Model ww2.G43
+Texture SkinG43
+ModelScale 0.6
+AllowAllAttachments true
+AllowBarrelAttachments true
+AllowScopeAttachments true
+AllowStockAttachments true
+AllowGripAttachments true
+NumGenericAttachmentSlots 4

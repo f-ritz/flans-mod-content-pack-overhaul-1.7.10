@@ -1,0 +1,28 @@
+Name Mosin M44L Rifle
+ShortName MosinM44L
+Ammo 762MMR1
+Description 7.62x54mmR
+LoadIntoGun 5
+Icon MosinM44L
+Colour 255 255 255
+ReloadTime 50
+Recoil 7
+Damage 1.5
+Accuracy 1
+ShootDelay 13
+ShootSound MosinNagantShoot
+ReloadSound kar98kReload
+Mode SemiAuto
+BulletSpeed 10
+Scope None
+Model dunk.mosin
+ModelScale 1
+Texture MosinSkin
+AllowAllAttachments true
+AllowBarrelAttachments true
+AllowScopeAttachments true
+AllowStockAttachments true
+AllowGripAttachments true
+NumGenericAttachmentSlots 4
+ShowDamage true
+ShowReloadTime true

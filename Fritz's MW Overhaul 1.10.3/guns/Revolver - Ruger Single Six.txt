@@ -1,0 +1,31 @@
+Name Ruger Single Six
+ShortName RugerSingleSix
+Ammo 22LR1
+Icon RugerSingleSix
+Colour 255 255 255
+ReloadTime 100
+Recoil 3
+Damage 2
+LoadIntoGun 6
+Accuracy 2
+ShootDelay 1
+ShootSound ColtPythonShoot
+ReloadSound ColtPythonReload
+Mode SemiAuto
+OneHanded True
+BulletSpeed 10
+Scope None
+ZoomLevel 1.0
+FOVZoomLevel 1.25
+Model mpack.python
+ModelScale 0.03
+Texture Skin_Gun_python
+AllowAllAttachments true
+AllowBarrelAttachments true
+AllowScopeAttachments true
+AllowStockAttachments true
+AllowGripAttachments true
+NumGenericAttachmentSlots 4
+Description .22 LR
+ShowDamage true
+ShowReloadTime true

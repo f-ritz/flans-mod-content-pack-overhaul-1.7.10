@@ -1,0 +1,31 @@
+Name SC7-SPEC
+ShortName SC7SPEC
+Ammo 68NATO12
+Icon SC7SPEC
+Colour 255 255 255
+ReloadTime 55
+Recoil 6
+Damage 1
+Accuracy 8
+RoundsPerMin 300
+BulletSpeed 10.0
+ShootSound _Sc7Fire
+ReloadSound _Sc7Reload
+Mode FullAuto
+Scope None
+ZoomLevel 1.0
+FOV ZoomLevel 1.25
+Distort Sound False
+Deployable False
+DeployedModel None
+ModelScale 0.2
+OneHanded False
+Model dwfirearms.SC7SPEC
+Texture SC7SPEC_Standard
+NumGenericAttachmentSlots 4
+AllowScopeAttachments true
+AllowStockAttachments true
+AllowGripAttachments true
+AllowBarrelAttachments true
+AllowAllAttachments true
+Description 6.8x51mm NATO

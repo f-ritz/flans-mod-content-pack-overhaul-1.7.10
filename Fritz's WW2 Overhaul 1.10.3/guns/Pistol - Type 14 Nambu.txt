@@ -1,0 +1,28 @@
+Name Type 14 Nambu
+ShortName Type14Nambu
+Ammo 822Nambu7
+ShowDamage true
+ShowReloadTime true
+Description 8x22mm Nambu
+Icon luger
+Colour 255 255 255
+ReloadTime 40
+Recoil 4
+Damage 1.5
+Accuracy 5
+ShootDelay 2
+ShootSound lugerShoot
+ReloadSound lugerReload
+Mode SemiAuto
+OneHanded true
+BulletSpeed 10
+Scope None
+Model ww2.Type14
+Texture Type14
+ModelScale 1.5
+AllowAllAttachments true
+AllowBarrelAttachments true
+AllowScopeAttachments true
+AllowStockAttachments true
+AllowGripAttachments true
+NumGenericAttachmentSlots 4

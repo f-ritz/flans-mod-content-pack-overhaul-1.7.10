@@ -1,0 +1,23 @@
+Name 4 Round Crossbow Bolt Magazine
+ShortName CrossbowBolt4
+Model dwfirearms.BulletCrossbolt
+Colour 255 255 255
+Icon CrossbowBolt4
+FallSpeed 3.5
+MaxStackSize 64
+RoundsPerItem 4
+Damage 70
+DamageVsVehicles 1
+Explosion 0
+ExplodeOnImpact True
+Fuse 80
+FlakParticles 0
+Fire 0
+BreaksGlass True
+HitBoxSize 0.2
+HitSound bullet_hit
+PenetratingPower 4.0
+SmokeTrail True
+TrailParticleType crit
+HasLight false
+

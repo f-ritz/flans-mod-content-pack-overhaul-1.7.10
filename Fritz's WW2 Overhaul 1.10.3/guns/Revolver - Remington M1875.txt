@@ -1,0 +1,31 @@
+Name Remington M1875
+ShortName RemingtonM1875
+Ammo 44Magnum1
+Icon RemingtonM1875
+Colour 255 255 255
+ReloadTime 80
+Recoil 7
+Damage 2
+Accuracy 3
+ShootDelay 11
+ShootSound webleyShoot
+ReloadSound webleyReload
+LoadIntoGun 6
+Mode SemiAuto
+OneHanded true
+BulletSpeed 10
+Scope None
+ZoomLevel 1.0
+FOVZoomLevel 1.25
+Model dunk.1860
+ModelScale 1
+Texture masterskin
+AllowAllAttachments true
+AllowBarrelAttachments true
+AllowScopeAttachments true
+AllowStockAttachments true
+AllowGripAttachments true
+NumGenericAttachmentSlots 4
+Description .44 Magnum
+ShowDamage true
+ShowReloadTime true

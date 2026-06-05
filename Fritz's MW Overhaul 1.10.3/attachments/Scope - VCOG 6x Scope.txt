@@ -1,0 +1,9 @@
+Name VCOG 6x Scope
+ShortName VCOG
+Icon 4xScope
+AttachmentType sights
+Silencer false
+ZoomLevel 6
+ZoomOverlay vcog
+Model mw.4xScope
+Texture 4xScope

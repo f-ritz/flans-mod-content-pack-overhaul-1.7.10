@@ -1,0 +1,9 @@
+Name EoTech VUDU 1-10
+ShortName EoTechVUDU
+Icon 4xScope
+AttachmentType sights
+Silencer false
+ZoomLevel 10
+ZoomOverlay EoTechVUDU
+Model mw.4xScope
+Texture 4xScope

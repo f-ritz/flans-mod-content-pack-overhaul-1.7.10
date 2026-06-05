@@ -1,0 +1,28 @@
+Name PTRS-41
+ShortName PTRS41
+Ammo 145Warsaw5
+Icon PTRS41
+Description 14.5x114mm WTO
+ShowDamage true
+ShowReloadTime true
+Colour 255 255 255
+ReloadTime 80
+Recoil 30
+Damage 2
+Accuracy 1
+ShootDelay 20
+ShootSound PTRS41Shoot
+ReloadSound kar98kReload
+Mode SemiAuto
+BulletSpeed 10
+Scope PTRS41
+ZoomLevel 4
+Model dunk.dunkhecate
+ModelScale 0.1
+Texture PTRS41
+AllowAllAttachments true
+AllowBarrelAttachments true
+AllowScopeAttachments true
+AllowStockAttachments true
+AllowGripAttachments true
+NumGenericAttachmentSlots 4

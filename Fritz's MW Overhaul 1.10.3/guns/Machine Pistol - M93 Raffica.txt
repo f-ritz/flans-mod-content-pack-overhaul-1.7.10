@@ -1,0 +1,31 @@
+Name M93 Raffica
+ShortName M93R
+Ammo 919NATO15
+Description 9x19mm Parabellum
+Icon M93R
+Colour 255 255 255
+ReloadTime 30
+Recoil 3
+Damage 1.25
+Accuracy 7
+RoundsPerMin 1100
+ShootSound M9Shoot
+ReloadSound ColtReload
+Mode Burst
+NumBurstRounds 3
+OneHanded true
+BulletSpeed 10
+Scope None
+ZoomLevel 1.0
+FOVZoomLevel 1.2
+Model mpack.m93r
+ModelScale 0.06
+Texture Skin_Gun_m93r
+AllowAllAttachments true
+AllowBarrelAttachments true
+AllowScopeAttachments true
+AllowStockAttachments true
+AllowGripAttachments true
+NumGenericAttachmentSlots 4
+ShowDamage true
+ShowReloadTime true

@@ -1,0 +1,32 @@
+Name Smith & Wesson (Russian)
+ShortName SWRussian
+Ammo 44Magnum1
+Icon SWRussian
+Colour 255 255 255
+ReloadTime 100
+Recoil 8
+Damage 2
+LoadIntoGun 6
+Accuracy 3
+ShootDelay 3
+ShootSound ColtPythonShoot
+ReloadSound ColtPythonReload
+Mode SemiAuto
+OneHanded True
+BulletSpeed 10
+Scope None
+ZoomLevel 1.0
+FOVZoomLevel 1.25
+Model zombie.ColtPython
+Texture SWMP
+//Attachment Settings
+AllowAllAttachments true
+AllowAllAttachments true
+AllowBarrelAttachments true
+AllowScopeAttachments true
+AllowStockAttachments true
+AllowGripAttachments true
+NumGenericAttachmentSlots 4
+Description .44 Magnum
+ShowDamage true
+ShowReloadTime true

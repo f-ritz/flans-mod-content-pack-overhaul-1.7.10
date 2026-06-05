@@ -1,0 +1,22 @@
+Name Flare
+ShortName flareGunAmmo
+Model Bullet
+Colour 255 255 255
+Icon FlareGunAmmo
+FallSpeed 0.125
+MaxStackSize 64
+RoundsPerItem 1
+Damage 1
+Explosion 0
+ExplodeOnImpact False
+Fuse 400
+FlakParticles 0
+Fire 0
+SetEntitiesOnFire True
+BreaksGlass False
+HitBoxSize 0.1
+HitSound bullet
+Penetrates True
+SmokeTrail True
+TrailParticleType reddust
+HasLight True

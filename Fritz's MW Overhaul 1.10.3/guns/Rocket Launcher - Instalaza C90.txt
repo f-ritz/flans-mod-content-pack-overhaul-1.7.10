@@ -1,0 +1,27 @@
+Name Instalaza C90
+ShortName IC90
+Ammo 84RocketI
+Ammo 84RocketAP
+Ammo 84RocketHE
+Ammo 84Rocket
+Icon IC90
+Colour 255 255 255
+ReloadTime 20
+Recoil 6
+Damage 1
+Accuracy 3.5
+ShootDelay 1
+ShootSound RPGShoot
+Mode SemiAuto
+Scope None
+Model mw.AT4
+Texture IC90
+AllowAllAttachments true
+AllowBarrelAttachments true
+AllowScopeAttachments true
+AllowStockAttachments true
+AllowGripAttachments true
+NumGenericAttachmentSlots 4
+ShowDamage true
+ShowReloadTime true
+Description 84mm Rocket

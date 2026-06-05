@@ -1,0 +1,27 @@
+Name Boys Anti-Tank Rifle
+ShortName BoysATRifle
+Ammo 50BMG5
+Icon BoysATRifle
+Colour 255 255 255
+ReloadTime 70
+Recoil 20
+Damage 2
+Accuracy 2
+ShootDelay 25
+ShootSound TankShell
+ReloadSound leeEnfieldReload
+Mode SemiAuto
+BulletSpeed 10
+Scope None
+Model NewAge.BoysRifle
+Texture SkinBoysRifle
+ModelScale 0.25
+AllowAllAttachments true
+AllowBarrelAttachments true
+AllowScopeAttachments true
+AllowStockAttachments true
+AllowGripAttachments true
+NumGenericAttachmentSlots 4
+Description .50 BMG
+ShowDamage true
+ShowReloadTime true

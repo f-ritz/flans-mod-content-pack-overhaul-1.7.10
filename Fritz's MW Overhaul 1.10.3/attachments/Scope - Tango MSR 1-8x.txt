@@ -1,0 +1,9 @@
+Name Tango MSR 1-8x
+ShortName TangoMSR
+Icon 4xScope
+AttachmentType sights
+Silencer false
+ZoomLevel 8
+ZoomOverlay TangoMSR
+Model mw.4xScope
+Texture 4xScope

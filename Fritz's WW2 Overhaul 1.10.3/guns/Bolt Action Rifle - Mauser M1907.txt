@@ -1,0 +1,28 @@
+Name Mauser M1907
+ShortName MauserM1907
+Ammo 65Carcano1
+Description 6.5x52mm Carcano
+ShowDamage true
+ShowReloadTime true
+LoadIntoGun 5
+Icon MauserM1907
+Colour 255 255 255
+ReloadTime 66
+Recoil 10
+Damage 1.5
+Accuracy 5
+ShootDelay 19
+ShootSound kar98kShoot
+ReloadSound kar98kReload
+Mode SemiAuto
+BulletSpeed 10
+Scope None
+Model ww2.Kar98k
+Texture MauserM1907
+ModelScale 0.6
+AllowAllAttachments true
+AllowBarrelAttachments true
+AllowScopeAttachments true
+AllowStockAttachments true
+AllowGripAttachments true
+NumGenericAttachmentSlots 4

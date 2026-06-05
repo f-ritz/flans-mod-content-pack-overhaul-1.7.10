@@ -1,0 +1,9 @@
+Name EoTech M40
+ShortName EoTechM40
+Icon RedDotSight
+AttachmentType sights
+Silencer false
+ZoomLevel 1.9
+ZoomOverlay EoTechM40
+Model mw.RedDot
+Texture RedDotSight

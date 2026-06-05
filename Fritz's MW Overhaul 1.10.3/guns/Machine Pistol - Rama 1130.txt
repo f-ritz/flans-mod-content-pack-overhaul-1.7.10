@@ -1,0 +1,30 @@
+Name Rama 1130
+ShortName Rama1130
+Ammo 918Makarov80
+Description 9x18mm Makarov
+ShowDamage true
+ShowReloadTime true
+Icon Rama1130
+Colour 255 255 255
+ReloadTime 30
+Recoil 2
+Damage 1.25
+Accuracy 10
+RoundsPerMin 950
+ShootSound MakarovShoot
+ReloadSound ColtReload
+Mode FullAuto
+OneHanded true
+BulletSpeed 10
+Scope None
+ZoomLevel 1.0
+FOVZoomLevel 1.2
+Model mpack.makarov
+ModelScale 0.06
+Texture Skin_Gun_makarov
+AllowAllAttachments true
+AllowBarrelAttachments true
+AllowScopeAttachments true
+AllowStockAttachments true
+AllowGripAttachments true
+NumGenericAttachmentSlots 4

@@ -1,0 +1,13 @@
+Name Polyamide Stock
+ShortName PolyamideStock
+Icon PolyamideStock
+AttachmentType stock
+Silencer false
+MeleeDamageMultiplier 1.0
+DamageMultiplier 1.0
+SpreadMultiplier 1.1
+RecoilMultiplier 0.9
+BulletSpeedMultiplier 1
+ReloadTimeMultiplier 1
+Model mw.ACOG
+Texture ACOGSight

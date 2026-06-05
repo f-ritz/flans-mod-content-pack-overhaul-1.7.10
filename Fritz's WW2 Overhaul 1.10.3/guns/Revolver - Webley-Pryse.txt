@@ -1,0 +1,31 @@
+Name Webley-Pryse
+ShortName WebleyPryse
+Ammo 455Webley1
+Icon WebleyPryse
+Colour 255 255 255
+ReloadTime 80
+Recoil 6
+Damage 2
+Accuracy 5
+ShootDelay 10
+ShootSound webleyShoot
+ReloadSound webleyReload
+LoadIntoGun 5
+Mode SemiAuto
+OneHanded true
+BulletSpeed 10
+Scope None
+ZoomLevel 1.0
+FOVZoomLevel 1.25
+Model dunk.dunkwebly
+ModelScale 1
+Texture masterskin
+AllowAllAttachments true
+AllowBarrelAttachments true
+AllowScopeAttachments true
+AllowStockAttachments true
+AllowGripAttachments true
+NumGenericAttachmentSlots 4
+Description .455 Webley
+ShowDamage true
+ShowReloadTime true

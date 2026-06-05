@@ -1,0 +1,9 @@
+Name ZF-41 Scope
+ShortName ZF41Scope
+Icon 4xScope
+AttachmentType sights
+Silencer false
+ZoomLevel 8
+ZoomOverlay ZF39Scope
+Model mw.4xScope
+Texture 4xScope

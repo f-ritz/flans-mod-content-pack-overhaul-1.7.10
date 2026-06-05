@@ -1,0 +1,13 @@
+Name Collapsible Stock
+ShortName CollapsibleStock
+Icon FullStock
+AttachmentType stock
+Silencer false
+MeleeDamageMultiplier 1.0
+DamageMultiplier 1.0
+SpreadMultiplier 1.2
+RecoilMultiplier 0.8
+BulletSpeedMultiplier 1
+ReloadTimeMultiplier 0.9
+Model mw.ACOG
+Texture ACOGSight

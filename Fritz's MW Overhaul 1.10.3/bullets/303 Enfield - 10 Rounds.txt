@@ -1,0 +1,14 @@
+Name 10 Round .303 Enfield Magazine
+ShortName 303Enfield10
+Model Bullet
+Colour 255 255 255
+Icon 303Enfield10
+FallSpeed 0.25
+MaxStackSize 64
+RoundsPerItem 10
+Damage 64
+BreaksGlass True
+HitBoxSize 0.1
+HitSound bullet
+Penetrates True
+SmokeTrail False

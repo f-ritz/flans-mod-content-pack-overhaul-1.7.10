@@ -1,0 +1,9 @@
+Name PSO-3M Scope
+ShortName PSO3MScope
+Icon 4xScope
+AttachmentType sights
+Silencer false
+ZoomLevel 10
+ZoomOverlay sks
+Model mw.4xScope
+Texture 4xScope

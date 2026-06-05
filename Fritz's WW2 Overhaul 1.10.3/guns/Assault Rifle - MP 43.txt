@@ -1,0 +1,27 @@
+Name MP 43
+ShortName MP43
+Ammo 792Kurz30
+Icon MP43
+Description 7.92x33mm Kurz
+ShowDamage true
+ShowReloadTime true
+Colour 255 255 255
+ReloadTime 50
+Recoil 4
+Damage 1
+Accuracy 7
+RoundsPerMin 500
+ShootSound mp44Shoot
+ReloadSound mp44Reload
+Mode FullAuto
+BulletSpeed 10
+Scope None
+Model W44.Stg44
+Texture SkinMP44
+ModelScale 0.06
+AllowAllAttachments true
+AllowBarrelAttachments true
+AllowScopeAttachments true
+AllowStockAttachments true
+AllowGripAttachments true
+NumGenericAttachmentSlots 4

@@ -1,0 +1,32 @@
+Name LK-103
+ShortName LK103
+Ammo StingerMissile
+Icon LK103
+Colour 255 255 255
+ReloadTime 105
+Recoil 25
+Damage 1
+Accuracy 5
+BulletSpeed 3.0
+ShootDelay 1
+ShootSound _LK103Fire
+ReloadSound _LK103Reload
+Mode SemiAuto
+Scope None
+ZoomLevel 1.0
+FOV ZoomLevel 1.5
+Distort Sound False
+Deployable False
+DeployedModel None
+MoveSpeedModifier 0.7
+ModelScale 0.25
+OneHanded False
+Model dwfirearms.LK103
+Texture LK103_Standard
+AllowAllAttachments true
+AllowScopeAttachments true
+AllowBarrelAttachments true
+AllowGripAttachments true
+AllowStockAttachments true
+NumGenericAttachmentSlots 4
+Description Stinger Missile

@@ -1,0 +1,13 @@
+Name Dagger
+ShortName Dagger
+Icon Dagger
+ReloadTime 0
+Recoil 0
+NumBullets 0
+Damage 0
+Accuracy 0
+ShootDelay 0
+Mode SemiAuto
+Scope None
+FOVZoomLevel 1.0
+MeleeDamage 7

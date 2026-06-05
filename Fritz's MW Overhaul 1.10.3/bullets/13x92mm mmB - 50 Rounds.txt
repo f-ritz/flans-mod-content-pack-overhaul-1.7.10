@@ -1,0 +1,15 @@
+Name 50 Round 13x92mm mmB Magazine
+ShortName 13MMB50
+Model Bullet
+Colour 255 255 255
+Icon 13MMB50
+FallSpeed 0.25
+MaxStackSize 64
+RoundsPerItem 50
+Damage 130
+BreaksGlass True
+HitBoxSize 0.1
+HitSound bullet
+Penetrates True
+Penetration 25
+SmokeTrail False

@@ -1,0 +1,13 @@
+Name Thoriated Tungsten Barrel
+ShortName ThoriatedTungstenBarrel
+Icon ThoriatedTungstenBarrel
+AttachmentType barrel
+Silencer false
+MeleeDamageMultiplier 1.0
+DamageMultiplier 1.1
+SpreadMultiplier 0.4
+RecoilMultiplier 0.4
+BulletSpeedMultiplier 1.2
+ReloadTimeMultiplier 2.5
+Model mw.Silencer
+Texture Silencer

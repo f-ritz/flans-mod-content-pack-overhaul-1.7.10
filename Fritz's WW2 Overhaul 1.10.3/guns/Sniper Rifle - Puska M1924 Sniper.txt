@@ -1,0 +1,29 @@
+Name Puska 1924 Sniper
+ShortName PuskaM1924Sniper
+Ammo 792Mauser1
+Description 7.92x57mm Mauser
+ShowDamage true
+ShowReloadTime true
+LoadIntoGun 5
+Icon PuskaM1924Sniper
+Colour 255 255 255
+ReloadTime 60
+Recoil 32
+Damage 2
+Accuracy 2
+ShootDelay 35
+ShootSound kar98kSniperShoot
+ReloadSound kar98kReload
+Mode SemiAuto
+BulletSpeed 10
+Scope wwiikar98ksniper
+ZoomLevel 8
+Model ww2.Kar98kSniper
+Texture PuskaM1924
+ModelScale 0.6
+AllowAllAttachments true
+AllowBarrelAttachments true
+AllowScopeAttachments true
+AllowStockAttachments true
+AllowGripAttachments true
+NumGenericAttachmentSlots 4

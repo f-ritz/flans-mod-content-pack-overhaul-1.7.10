@@ -1,0 +1,28 @@
+Name Krnka M1867 Sharpshooter
+ShortName KrnkaM1867Sharpshooter
+Ammo 145Warsaw1
+Description 14.5x115mm WTO
+LoadIntoGun 1
+Icon KrnkaM1867Sharpshooter
+Colour 255 255 255
+ReloadTime 55
+Recoil 26
+Damage 1.5
+Accuracy 4
+ShootDelay 15
+ShootSound MosinNagantShoot
+ReloadSound kar98kReload
+Mode SemiAuto
+BulletSpeed 10
+Scope None
+Model NewAge.Berdan2
+Texture SkinBerdan2
+ModelScale 1.06
+AllowAllAttachments true
+AllowBarrelAttachments true
+AllowScopeAttachments true
+AllowStockAttachments true
+AllowGripAttachments true
+NumGenericAttachmentSlots 4
+ShowDamage true
+ShowReloadTime true

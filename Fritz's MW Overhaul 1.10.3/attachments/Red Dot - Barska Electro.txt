@@ -1,0 +1,9 @@
+Name Barska Electro
+ShortName BarskaElectro
+Icon RedDotSight
+AttachmentType sights
+Silencer false
+ZoomLevel 2.2
+ZoomOverlay BarskaElectro
+Model mw.RedDot
+Texture RedDotSight

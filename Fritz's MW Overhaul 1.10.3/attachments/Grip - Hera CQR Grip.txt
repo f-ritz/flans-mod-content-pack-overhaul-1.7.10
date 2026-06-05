@@ -1,0 +1,13 @@
+Name Hera CQR Grip
+ShortName HeraCQRGrip
+Icon HeraCQRGrip
+AttachmentType grip
+Silencer false
+MeleeDamageMultiplier 1.0
+DamageMultiplier 1.0
+SpreadMultiplier 0.7
+RecoilMultiplier 0.9
+BulletSpeedMultiplier 1.0
+ReloadTimeMultiplier 1.3
+Model mw.Foregrip
+Texture Foregrip

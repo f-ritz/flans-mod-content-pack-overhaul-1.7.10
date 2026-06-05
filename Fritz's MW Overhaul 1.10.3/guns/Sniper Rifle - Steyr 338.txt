@@ -1,0 +1,29 @@
+Name Steyr .338
+ShortName Steyr338
+Ammo 338Lapua1
+Description .338 Lapua
+LoadIntoGun 5
+Icon Steyr338
+Colour 255 255 255
+ReloadTime 80
+Recoil 25
+Damage 2
+Accuracy 1
+ShootDelay 12
+ShootSound R700Shoot
+ReloadSound SpringfieldReload
+Mode SemiAuto
+BulletSpeed 10
+Scope mwm40a3
+ZoomLevel 10.0
+FOVZoomLevel 1.0
+Model mw.M40A3
+Texture Steyr338
+AllowAllAttachments true
+AllowBarrelAttachments true
+AllowScopeAttachments true
+AllowStockAttachments true
+AllowGripAttachments true
+NumGenericAttachmentSlots 4
+ShowDamage true
+ShowReloadTime true

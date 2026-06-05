@@ -1,0 +1,27 @@
+Name M1 Carbine
+ShortName M1Carbine
+Ammo 30Carbine15
+Icon m1Carbine
+Description .30 Carbine
+ShowDamage true
+ShowReloadTime true
+Colour 255 255 255
+ReloadTime 60
+Recoil 4
+Damage 1
+Accuracy 3
+ShootDelay 1
+ShootSound m1carbineShoot
+ReloadSound m1carbineReload
+Mode SemiAuto
+BulletSpeed 10
+Scope None
+Model W44.M1Carbine
+Texture SkinM1Carbine
+ModelScale 0.15
+AllowAllAttachments true
+AllowBarrelAttachments true
+AllowScopeAttachments true
+AllowStockAttachments true
+AllowGripAttachments true
+NumGenericAttachmentSlots 4

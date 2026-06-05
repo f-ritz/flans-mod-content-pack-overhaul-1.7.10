@@ -1,0 +1,27 @@
+Name Kiraly 43M
+ShortName Kiraly43M
+Ammo 919NATO40
+Description 9x19mm Parabellum
+ShowDamage true
+ShowReloadTime true
+Icon Kiraly43M
+Colour 255 255 255
+ReloadTime 55
+Recoil 6
+Damage 1
+Accuracy 5
+RoundsPerMin 750
+ShootSound mp40Shoot
+ReloadSound mp40Reload
+Mode FullAuto
+BulletSpeed 10
+Scope None
+Model NewAge.43mSMG
+Texture Skin43MSMG
+ModelScale 1
+AllowAllAttachments true
+AllowBarrelAttachments true
+AllowScopeAttachments true
+AllowStockAttachments true
+AllowGripAttachments true
+NumGenericAttachmentSlots 4

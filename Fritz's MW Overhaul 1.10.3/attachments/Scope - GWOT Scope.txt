@@ -1,0 +1,9 @@
+Name GWOT Scope
+ShortName GWOTScope
+Icon 4xScope
+AttachmentType sights
+Silencer false
+ZoomLevel 10
+ZoomOverlay GWOTScope
+Model mw.4xScope
+Texture 4xScope

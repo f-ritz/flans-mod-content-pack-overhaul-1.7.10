@@ -1,0 +1,14 @@
+Name 50 Round 7.62x54mm mmR Magazine
+ShortName 762MMR50
+Model Bullet
+Colour 255 255 255
+Icon 762MMR50
+FallSpeed 0.25
+MaxStackSize 64
+RoundsPerItem 50
+Damage 60
+BreaksGlass True
+HitBoxSize 0.1
+HitSound bullet
+Penetrates True
+SmokeTrail False

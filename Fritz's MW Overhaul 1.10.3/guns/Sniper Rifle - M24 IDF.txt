@@ -1,0 +1,30 @@
+Name M24 (IDF)
+ShortName M24IDF
+Ammo 338Lapua1
+Description .338 Lapua
+LoadIntoGun 3
+Icon M24IDF
+ShowDamage true
+ShowReloadTime true
+Colour 255 255 255
+ReloadTime 60
+Recoil 22
+Damage 2
+Accuracy 1
+ShootDelay 13
+ShootSound R700Shoot
+ReloadSound SpringfieldReload
+Mode SemiAuto
+BulletSpeed 10
+Scope mwr700
+ZoomLevel 10.0
+FOVZoomLevel 1.0
+Model mpack.r700pm
+ModelScale 0.08
+Texture skin_gun_r700p
+AllowAllAttachments true
+AllowBarrelAttachments true
+AllowScopeAttachments true
+AllowStockAttachments true
+AllowGripAttachments true
+NumGenericAttachmentSlots 4

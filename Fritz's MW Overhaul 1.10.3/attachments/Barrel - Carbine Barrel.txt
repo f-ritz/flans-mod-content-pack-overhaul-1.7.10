@@ -1,0 +1,13 @@
+Name Carbine Barrel
+ShortName CarbineBarrel
+Icon CarbineBarrel
+AttachmentType barrel
+Silencer false
+MeleeDamageMultiplier 1.0
+DamageMultiplier 1
+SpreadMultiplier 1.7
+RecoilMultiplier 1.2
+BulletSpeedMultiplier 0.8
+ReloadTimeMultiplier 0.7
+Model mw.Silencer
+Texture Silencer

@@ -1,0 +1,28 @@
+Name Fedorov Rifle 1912
+ShortName FedorovRifle1912
+Ammo 762MMR1
+Description 7.62x54mmR
+LoadIntoGun 5
+Icon FedorovRifle1912
+Colour 255 255 255
+ReloadTime 50
+Recoil 4
+Damage 1
+Accuracy 4
+ShootDelay 2
+ShootSound MosinNagantShoot
+ReloadSound kar98kReload
+Mode SemiAuto
+BulletSpeed 10
+Scope None
+Model W44.MosinNagant
+Texture SkinMosinNagant
+ModelScale 0.25
+AllowAllAttachments true
+AllowBarrelAttachments true
+AllowScopeAttachments true
+AllowStockAttachments true
+AllowGripAttachments true
+NumGenericAttachmentSlots 4
+ShowDamage true
+ShowReloadTime true

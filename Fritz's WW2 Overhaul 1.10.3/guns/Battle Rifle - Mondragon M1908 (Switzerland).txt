@@ -1,0 +1,27 @@
+Name Mondragon M1908 (Switzerland)
+ShortName MondragonM1908S
+Ammo 303Enfield10
+Description .303 Enfield
+ShowDamage true
+ShowReloadTime true
+Icon MondragonM1908S
+Colour 255 255 255
+ReloadTime 65
+Recoil 7
+Damage 1
+Accuracy 5
+ShootDelay 2
+ShootSound gewehr43Shoot
+ReloadSound m1carbineReload
+Mode SemiAuto
+BulletSpeed 10
+Scope None
+Model ww2.G43
+Texture MondragonM1908S
+ModelScale 0.6
+AllowAllAttachments true
+AllowBarrelAttachments true
+AllowScopeAttachments true
+AllowStockAttachments true
+AllowGripAttachments true
+NumGenericAttachmentSlots 4

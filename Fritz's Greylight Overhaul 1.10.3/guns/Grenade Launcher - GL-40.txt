@@ -1,0 +1,37 @@
+Name GL-40
+ShortName GL40
+Ammo 40GrenadeBouncy
+Ammo 40GrenadeIncendiary
+Ammo 40GrenadeGas
+Ammo 40GrenadeSticky
+Ammo 40GrenadeSlug
+Ammo 40GrenadeImpact
+Icon GL40
+Colour 255 255 255
+ReloadTime 100
+Recoil 8
+Damage 1
+Accuracy 10
+BulletSpeed 5.0
+ShootDelay 2
+ShootSound _KGL40Fire
+ReloadSound _KGL40Reload
+Mode SemiAuto
+Scope None
+ZoomLevel 1.0
+FOV ZoomLevel 1.25
+Distort Sound False
+Deployable False
+DeployedModel None
+ModelScale 0.2
+OneHanded False
+MoveSpeedModifier 1.0
+Model dwfirearms.KGL40
+Texture KGL40_Standard
+AllowAllAttachments true
+AllowScopeAttachments true
+AllowBarrelAttachments true
+AllowGripAttachments true
+AllowStockAttachments true
+NumGenericAttachmentSlots 4
+Description 40mm Grenade

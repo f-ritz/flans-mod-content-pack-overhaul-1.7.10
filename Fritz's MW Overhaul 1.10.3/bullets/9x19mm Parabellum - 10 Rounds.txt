@@ -1,0 +1,14 @@
+Name 10 Round 9x19mm Parabellum Magazine
+ShortName 919NATO10
+Model Bullet
+Colour 255 255 255
+Icon 919NATO10
+FallSpeed 0.25
+MaxStackSize 64
+RoundsPerItem 10
+Damage 30
+BreaksGlass True
+HitBoxSize 0.1
+HitSound bullet
+Penetrates True
+SmokeTrail False

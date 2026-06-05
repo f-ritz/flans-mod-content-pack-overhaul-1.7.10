@@ -1,0 +1,31 @@
+Name Colt M1860 Army
+ShortName ColtM1860Army
+Ammo 44Magnum1
+Icon ColtM1860Army
+Colour 255 255 255
+ReloadTime 80
+Recoil 6
+Damage 2
+Accuracy 3
+ShootDelay 13
+ShootSound webleyShoot
+ReloadSound webleyReload
+LoadIntoGun 6
+Mode SemiAuto
+OneHanded true
+BulletSpeed 10
+Scope None
+ZoomLevel 1.0
+FOVZoomLevel 1.25
+Model dunk.1860
+ModelScale 1
+Texture masterskin
+AllowAllAttachments true
+AllowBarrelAttachments true
+AllowScopeAttachments true
+AllowStockAttachments true
+AllowGripAttachments true
+NumGenericAttachmentSlots 4
+Description .44 Magnum
+ShowDamage true
+ShowReloadTime true

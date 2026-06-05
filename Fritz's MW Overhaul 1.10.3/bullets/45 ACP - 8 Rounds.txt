@@ -1,0 +1,14 @@
+Name 8 Round .45 ACP Magazine
+ShortName 45ACP8
+Model Bullet
+Colour 255 255 255
+Icon 45ACP8
+FallSpeed 0.25
+MaxStackSize 64
+RoundsPerItem 8
+Damage 45
+BreaksGlass True
+HitBoxSize 0.1
+HitSound bullet
+Penetrates True
+SmokeTrail False

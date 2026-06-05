@@ -1,0 +1,9 @@
+Name M145
+ShortName M145
+Icon ACOGSight
+AttachmentType sights
+Silencer false
+ZoomLevel 3
+ZoomOverlay m145
+Model mw.ACOG
+Texture ACOGSight

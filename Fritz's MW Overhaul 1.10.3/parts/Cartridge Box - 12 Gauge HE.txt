@@ -1,0 +1,6 @@
+Name Box of 12 Gauge HE Shells
+ShortName 12GaugeHEBox
+Icon ShotgunBox
+Colour 255 255 255
+Category Misc
+StackSize 64

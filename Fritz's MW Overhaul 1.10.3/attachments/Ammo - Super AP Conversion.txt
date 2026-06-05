@@ -1,0 +1,13 @@
+Name Super Armor-Piercing Conversion
+ShortName SAPConversion
+Icon SAPConversion
+AttachmentType generic
+Silencer false
+MeleeDamageMultiplier 1.0
+DamageMultiplier 0.6
+SpreadMultiplier 0.25
+RecoilMultiplier 0.7
+BulletSpeedMultiplier 5
+ReloadTimeMultiplier 0.65
+Model mw.ACOG
+Texture ACOGSight

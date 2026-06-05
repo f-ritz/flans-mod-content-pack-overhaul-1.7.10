@@ -1,0 +1,15 @@
+Name 10 Round .50 BMG HE Magazine
+ShortName 50BMG10HE
+Model Bullet
+Colour 255 255 255
+Icon 50BMG10HE
+FallSpeed 0.25
+MaxStackSize 64
+RoundsPerItem 10
+Damage 135
+Explosion 4
+ExplodeOnImpact True
+BreaksGlass True
+HitBoxSize 0.1
+HitSound bullet
+SmokeTrail False

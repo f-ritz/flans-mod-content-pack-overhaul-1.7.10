@@ -1,0 +1,13 @@
+Name Microwave Laser
+ShortName MicrowaveLaser
+Icon MicrowaveLaser
+AttachmentType stock
+Silencer false
+MeleeDamageMultiplier 1.0
+DamageMultiplier 1.04
+SpreadMultiplier 1.05
+RecoilMultiplier 0.95
+BulletSpeedMultiplier 1
+ReloadTimeMultiplier 1.03
+Model mw.ACOG
+Texture ACOGSight

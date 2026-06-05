@@ -1,0 +1,31 @@
+Name MBT Auto-Crossbow
+ShortName MBTAutoCrossbow
+Ammo CrossbowBolt4
+Icon MBTAutoCrossbow
+Colour 255 255 255
+ReloadTime 70
+Recoil 1
+Damage 1
+Accuracy 4
+BulletSpeed 7.0
+ShootDelay 8
+ShootSound bow
+ReloadSound _MBTAutoCrossbowReload
+Mode SemiAuto
+Scope None
+ZoomLevel 1.0
+FOV ZoomLevel 1.25
+Distort Sound False
+Deployable False
+DeployedModel None
+ModelScale 0.2
+OneHanded False
+Model dwfirearms.MBTAutoCrossbow
+Texture MBTAutoRepeater_Standard
+AllowAllAttachments true
+AllowScopeAttachments true
+AllowBarrelAttachments true
+AllowGripAttachments true
+AllowStockAttachments true
+NumGenericAttachmentSlots 4
+Description Crossbow Bolt

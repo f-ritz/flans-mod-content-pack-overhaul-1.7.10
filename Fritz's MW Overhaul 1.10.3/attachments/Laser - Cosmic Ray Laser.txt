@@ -1,0 +1,13 @@
+Name Cosmic Ray Laser
+ShortName CosmicRayLaser
+Icon CosmicRayLaser
+AttachmentType stock
+Silencer false
+MeleeDamageMultiplier 1.0
+DamageMultiplier 1.75
+SpreadMultiplier 1.2
+RecoilMultiplier 0.6
+BulletSpeedMultiplier 1
+ReloadTimeMultiplier 1.3
+Model mw.ACOG
+Texture ACOGSight

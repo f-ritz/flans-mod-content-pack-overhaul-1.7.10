@@ -1,0 +1,13 @@
+Name Tungsten Grip
+ShortName TungstenGrip
+Icon TungstenGrip
+AttachmentType grip
+Silencer false
+MeleeDamageMultiplier 1.0
+DamageMultiplier 1.0
+SpreadMultiplier 0.01
+RecoilMultiplier 0.01
+BulletSpeedMultiplier 1.0
+ReloadTimeMultiplier 3
+Model mw.Foregrip
+Texture Foregrip

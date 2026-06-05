@@ -1,0 +1,9 @@
+Name Comp M2
+ShortName CompM2
+Icon RedDotSight
+AttachmentType sights
+Silencer false
+ZoomLevel 3.5
+ZoomOverlay comp
+Model mw.RedDot
+Texture RedDotSight

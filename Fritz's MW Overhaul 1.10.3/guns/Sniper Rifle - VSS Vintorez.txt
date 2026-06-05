@@ -1,0 +1,31 @@
+Name VSS Vintorez
+ShortName VSSVintorez
+Ammo 939WP10
+Ammo 939WP20
+Ammo 939WP30
+Description 9x39mm WP
+Icon VSS
+Colour 255 255 255
+ReloadTime 45
+Recoil 3
+Damage 2
+Accuracy 1
+RoundsPerMin 900
+ShootSound MP5Shoot
+ReloadSound BARReload
+Mode FullAuto
+BulletSpeed 1500
+Scope pso1
+ZoomLevel 10.0
+FOVZoomLevel 1.0
+Model mpack.vss
+ModelScale 0.54
+Texture VSS
+AllowAllAttachments true
+AllowBarrelAttachments true
+AllowScopeAttachments true
+AllowStockAttachments true
+AllowGripAttachments true
+NumGenericAttachmentSlots 4
+ShowDamage true
+ShowReloadTime true

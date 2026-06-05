@@ -1,0 +1,29 @@
+Name BREN 2 BR
+ShortName BREN2BR
+Ammo 762NATO20
+Icon BREN2BR
+Colour 255 255 255
+ReloadTime 40
+Recoil 5
+Damage 1
+Accuracy 3
+RoundsPerMin 805
+ShootSound FNSCARShoot
+ReloadSound MP44Reload
+Mode FullAuto
+BulletSpeed 10
+Scope None
+ZoomLevel 1.0
+FOVZoomLevel 1.25
+Model mpack.cz805
+ModelScale 0.05
+Texture CZ805
+AllowAllAttachments true
+AllowBarrelAttachments true
+AllowScopeAttachments true
+AllowStockAttachments true
+AllowGripAttachments true
+NumGenericAttachmentSlots 4
+ShowDamage true
+ShowReloadTime true
+Description 7.62x51mm NATO

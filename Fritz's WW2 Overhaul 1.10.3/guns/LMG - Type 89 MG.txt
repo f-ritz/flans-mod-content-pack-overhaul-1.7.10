@@ -1,0 +1,28 @@
+Name Type 89 Machine Gun
+ShortName Type89MG
+Ammo 77Arisaka100
+Description 7.7x58mm Arisaka
+Icon Type89MG
+Colour 255 255 255
+ReloadTime 100
+Recoil 5
+Damage 1
+Accuracy 7
+RoundsPerMin 500
+DistortSound False
+ShootSound BrowningShoot
+ReloadSound BrowningReload
+Mode FullAuto
+BulletSpeed 10.0
+Scope None
+Model W44.30Cal
+Texture Skin30Cal
+ModelScale 1
+ShowDamage true
+ShowReloadTime true
+AllowAllAttachments true
+AllowBarrelAttachments true
+AllowScopeAttachments true
+AllowStockAttachments true
+AllowGripAttachments true
+NumGenericAttachmentSlots 4

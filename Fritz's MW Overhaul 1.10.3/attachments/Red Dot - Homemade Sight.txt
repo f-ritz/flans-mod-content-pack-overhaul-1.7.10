@@ -1,0 +1,9 @@
+Name Homemade Sight
+ShortName HomemadeSight
+Icon RedDotSight
+AttachmentType sights
+Silencer false
+ZoomLevel 1
+ZoomOverlay HomemadeSight
+Model mw.RedDot
+Texture RedDotSight

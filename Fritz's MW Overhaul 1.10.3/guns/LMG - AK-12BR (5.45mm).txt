@@ -1,0 +1,29 @@
+Name AK-12BR (5.45mm)
+ShortName AK12BR545
+Ammo 545Warsaw80
+Icon AK12BR545
+Colour 255 255 255
+ReloadTime 100
+Recoil 1
+Damage 1
+Accuracy 5
+RoundsPerMin 700
+ShootSound SG550Shoot
+ReloadSound BrowningReload
+Mode FullAuto
+BulletSpeed 10
+Scope None
+ZoomLevel 1.0
+FOVZoomLevel 1.25
+Model mpack.ak12
+ModelScale 0.07
+Texture Skin_Gun_ak12
+AllowAllAttachments true
+AllowBarrelAttachments true
+AllowScopeAttachments true
+AllowStockAttachments true
+AllowGripAttachments true
+NumGenericAttachmentSlots 4
+ShowDamage true
+ShowReloadTime true
+Description 5.45x39mm WTO

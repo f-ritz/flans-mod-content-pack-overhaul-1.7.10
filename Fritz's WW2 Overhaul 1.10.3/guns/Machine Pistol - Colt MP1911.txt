@@ -1,0 +1,28 @@
+Name MP 1911 Colt
+ShortName MP1911
+Ammo 45ACP15
+Description .45 ACP
+ShowDamage true
+ShowReloadTime true
+Icon MP1911
+Colour 255 255 255
+ReloadTime 40
+Recoil 5
+Damage 1.25
+Accuracy 3
+RoundsPerMin 1000
+ShootSound coltShoot
+ReloadSound coltReload
+Mode FullAuto
+OneHanded true
+BulletSpeed 10.0
+Scope None
+Model mpack.lebman
+ModelScale 0.12
+Texture skin_gun_lebman
+AllowAllAttachments true
+AllowBarrelAttachments true
+AllowScopeAttachments true
+AllowStockAttachments true
+AllowGripAttachments true
+NumGenericAttachmentSlots 4

@@ -1,0 +1,33 @@
+Name AU-94
+ShortName AU94
+Ammo 762Warsaw30
+Icon AU94
+Colour 255 255 255
+ReloadTime 70
+Recoil 5
+Damage 1
+Accuracy 5
+BulletSpeed 10.0
+RoundsPerMin 680
+ShootSound _SF94Fire
+ReloadSound _SF94Reload
+Mode FullAuto
+Scope None
+ZoomLevel 1.0
+FOV ZoomLevel 1.25
+Distort Sound False
+Deployable False
+DeployedModel None
+ModelScale 0.2
+OneHanded False
+Model dwfirearms.SF94
+Texture SF94_Standard
+NumGenericAttachmentSlots 4
+AllowAllAttachments true
+AllowBarrelAttachments true
+AllowGripAttachments true
+AllowScopeAttachments true
+AllowStockAttachments true
+Paintjob SF94_iconBacon SF94_Bacon red 1 pink 1 white 1
+Paintjob SF94_iconContractor SF94_Contractor gray 1 brown 1
+Description 7.62x39mm WTO

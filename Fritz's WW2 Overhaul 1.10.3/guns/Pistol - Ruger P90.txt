@@ -1,0 +1,28 @@
+Name Ruger P90
+ShortName RugerP90
+Ammo 45ACP8
+Icon WaltherP38
+Colour 255 255 255
+ReloadTime 40
+Recoil 4
+Damage 1.5
+Accuracy 6
+ShootDelay 2
+ShootSound lugerShoot
+ReloadSound lugerReload
+Mode SemiAuto
+BulletSpeed 10
+OneHanded true
+Scope None
+Model NewAge.P38
+ModelScale 0.8
+Texture SkinP38
+AllowAllAttachments true
+AllowBarrelAttachments true
+AllowScopeAttachments true
+AllowStockAttachments true
+AllowGripAttachments true
+NumGenericAttachmentSlots 4
+Description .45 ACP
+ShowDamage true
+ShowReloadTime true

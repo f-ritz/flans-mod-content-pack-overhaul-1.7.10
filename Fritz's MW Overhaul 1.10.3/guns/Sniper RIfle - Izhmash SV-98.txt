@@ -1,0 +1,29 @@
+Name Izhmash SV-98
+ShortName SV98
+Ammo 762MMR10
+Description 7.62x54mmR
+Icon SV98
+Colour 255 255 255
+ReloadTime 40
+Recoil 27
+Damage 2
+Accuracy 2
+ShootDelay 12
+ShootSound DragunovShoot
+ReloadSound BARReload
+Mode SemiAuto
+BulletSpeed 10
+Scope None
+ZoomLevel 1.0
+FOVZoomLevel 1.25
+Model mpack.sv98
+ModelScale 0.09
+Texture Skin_Gun_sv98
+AllowAllAttachments true
+AllowBarrelAttachments true
+AllowScopeAttachments true
+AllowStockAttachments true
+AllowGripAttachments true
+NumGenericAttachmentSlots 4
+ShowDamage true
+ShowReloadTime true

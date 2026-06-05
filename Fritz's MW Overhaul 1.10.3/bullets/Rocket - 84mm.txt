@@ -1,0 +1,18 @@
+Name 84mm Rocket
+ShortName 84Rocket
+Model Bullet
+Colour 255 255 255
+Icon 84Rocket
+FallSpeed 0.5
+MaxStackSize 64
+RoundsPerItem 1
+DamageVsLiving 840
+DamageVsVehicles 840
+Explosion 3
+ExplodeOnImpact True
+Fire 0
+BreaksGlass True
+HitBoxSize 0.1
+HitSound bullet
+Penetrates False
+SmokeTrail True

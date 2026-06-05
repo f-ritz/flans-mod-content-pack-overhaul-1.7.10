@@ -1,0 +1,9 @@
+Name Kousaku OLED Sight
+ShortName KousakuOLEDSight
+Icon RedDotSight
+AttachmentType sights
+Silencer false
+ZoomLevel 2.5
+ZoomOverlay KousakuOLEDSight
+Model mw.RedDot
+Texture RedDotSight

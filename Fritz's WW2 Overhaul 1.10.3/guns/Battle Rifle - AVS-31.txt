@@ -1,0 +1,26 @@
+Name AVS-31
+ShortName AVS31
+Ammo 762MMR15
+Description 7.62x54mmR
+Icon AVS31
+Colour 255 255 255
+ReloadTime 50
+Recoil 6
+Damage 1
+Accuracy 5
+RoundsPerMin 800
+ShootSound MosinNagantShoot
+ReloadSound kar98kReload
+Mode FullAuto
+BulletSpeed 10
+Model W44.SVT40
+Texture SkinSVT40
+ModelScale 0.25
+AllowAllAttachments true
+AllowBarrelAttachments true
+AllowScopeAttachments true
+AllowStockAttachments true
+AllowGripAttachments true
+NumGenericAttachmentSlots 4
+ShowDamage true
+ShowReloadTime true

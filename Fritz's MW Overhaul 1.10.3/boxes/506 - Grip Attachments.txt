@@ -1,0 +1,27 @@
+Name Grip Attachments Box
+ShortName gripBox
+TopTexture boxTop
+SideTexture GripBox
+BottomTexture boxBottom
+GunBoxID 506
+Recipe I log B fiberglass F stick
+III
+BFB
+III
+NumGuns 16
+AddGun AngledGrip 4 fiberglass
+AddGun Flashlight 2 ingotIron 4 redstone
+AddGun FoldingGrip 4 fiberglass
+AddGun PistolGrip 4 fiberglass
+AddGun PotatoGrip 4 fiberglass
+AddGun RomanianGrip 4 fiberglass
+AddGun SidewaysGrip 4 fiberglass
+AddGun SkeletonGrip 4 fiberglass
+AddGun StubbyGrip 4 fiberglass
+AddGun VerticalGrip 4 fiberglass
+AddGun HeraCQRGrip 4 fiberglass
+AddGun ChainsawGrip 4 fiberglass
+AddGun TungstenGrip 4 fiberglass
+AddGun Bipod 4 fiberglass
+AddGun Tripod 4 fiberglass
+AddGun CarryHandle 4 fiberglass

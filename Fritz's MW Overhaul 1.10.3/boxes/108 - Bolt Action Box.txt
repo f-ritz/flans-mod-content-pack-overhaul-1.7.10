@@ -1,0 +1,474 @@
+Name Weapons Box - Bolt Action Rifles
+ShortName WeaponsBoxDMR
+TopTexture WeaponsBoxTop
+SideTexture WeaponsBoxDMR
+BottomTexture WeaponsBoxBottom
+GunBoxID 108
+Recipe I log G dyePowder.8 F fiberglass
+III
+FGF
+III
+NumGuns 156
+AddGun Type44Rifle 16 log 4 Gunmetal
+AddAmmo 77Arisaka1 1 Gunmetal
+AddAltAmmo 77ArisakaBox 1 Gunmetal
+AddGun Type1TERA 16 log 4 Gunmetal
+AddAmmo 77Arisaka1 1 Gunmetal
+AddAltAmmo 77ArisakaBox 1 Gunmetal
+AddGun Type2TERA 16 log 4 Gunmetal
+AddAmmo 77Arisaka1 1 Gunmetal
+AddAltAmmo 77ArisakaBox 1 Gunmetal
+AddGun MosinM91Dragoon 16 log 4 Gunmetal
+AddAmmo 762MMR1 1 Gunmetal
+AddAltAmmo 762MMRBox 1 Gunmetal
+AddGun MLE1886M93 16 log 4 Gunmetal
+AddAmmo 303Enfield1 1 Gunmetal
+AddAltAmmo 303EnfieldBox 1 Gunmetal
+AddGun EvansRepeaterRifle 16 log 4 Gunmetal
+AddAmmo 44Magnum1 1 Gunmetal
+AddAltAmmo 44MagnumBox 1 Gunmetal
+AddGun KKWCadetRifle 16 log 4 Gunmetal
+AddAmmo 22LR1 1 Gunmetal
+AddAltAmmo 22LRBox 1 Gunmetal
+AddGun MartiniHenry 16 log 4 Gunmetal
+AddAmmo 45Government1 1 Gunmetal
+AddAltAmmo 45GovernmentBox 1 Gunmetal
+AddGun SniderEnfield 16 log 4 Gunmetal
+AddAmmo 11Chassepot1 1 Gunmetal
+AddAltAmmo 11ChassepotBox 1 Gunmetal
+AddGun DreyseNeedleRifle 16 log 4 Gunmetal
+AddAmmo 11Chassepot1 1 Gunmetal
+AddAltAmmo 11ChassepotBox 1 Gunmetal
+AddGun MauserNorrisM1867 16 log 4 Gunmetal
+AddAmmo 45Government1 1 Gunmetal
+AddAltAmmo 45GovernmentBox 1 Gunmetal
+AddGun KrnkaM1867Infantry 16 log 4 Gunmetal
+AddAmmo 145Warsaw1 1 Gunmetal
+AddAltAmmo 145WarsawBox 1 Gunmetal
+AddGun KrnkaM1867Sharpshooter 16 log 4 Gunmetal
+AddAmmo 145Warsaw1 1 Gunmetal
+AddAltAmmo 145WarsawBox 1 Gunmetal
+AddGun KrnkaM1867Dragoon 16 log 4 Gunmetal
+AddAmmo 145Warsaw1 1 Gunmetal
+AddAltAmmo 145WarsawBox 1 Gunmetal
+AddGun VetterliM1870 16 log 4 Gunmetal
+AddAmmo 11Chassepot1 1 Gunmetal
+AddAltAmmo 11ChassepotBox 1 Gunmetal
+AddGun VetterliVitaliM187087 16 log 4 Gunmetal
+AddAmmo 11Chassepot1 1 Gunmetal
+AddAltAmmo 11ChassepotBox 1 Gunmetal
+AddGun Gewehr187184 16 log 4 Gunmetal
+AddAmmo 792Mauser1 1 Gunmetal
+AddAltAmmo 792MauserBox 1 Gunmetal
+AddGun MauserM1871 16 log 4 Gunmetal
+AddAmmo 792Mauser1 1 Gunmetal
+AddAltAmmo 792MauserBox 1 Gunmetal
+AddGun JagerbuchseM1871 16 log 4 Gunmetal
+AddAmmo 792Mauser1 1 Gunmetal
+AddAltAmmo 792MauserBox 1 Gunmetal
+AddGun Kar71 16 log 4 Gunmetal
+AddAmmo 792Mauser1 1 Gunmetal
+AddAltAmmo 792MauserBox 1 Gunmetal
+AddGun MauserM8007 16 log 4 Gunmetal
+AddAmmo 792Mauser1 1 Gunmetal
+AddAltAmmo 792MauserBox 1 Gunmetal
+AddGun MauserM187880 16 log 4 Gunmetal
+AddAmmo 11Chassepot1 1 Gunmetal
+AddAltAmmo 11ChassepotBox 1 Gunmetal
+AddGun GrenzaufsehergewehrM1879 16 log 4 Gunmetal
+AddAmmo 11Chassepot1 1 Gunmetal
+AddAltAmmo 11ChassepotBox 1 Gunmetal
+AddGun Gewehr1887 16 log 4 Gunmetal
+AddAmmo 792Mauser1 1 Gunmetal
+AddAltAmmo 792MauserBox 1 Gunmetal
+AddGun MM1889Carbine 16 log 4 Gunmetal
+AddAmmo 792Mauser1 1 Gunmetal
+AddAltAmmo 792MauserBox 1 Gunmetal
+AddGun MauserM1890 16 log 4 Gunmetal
+AddAmmo 792Mauser1 1 Gunmetal
+AddAltAmmo 792MauserBox 1 Gunmetal
+AddGun MauserM1891 16 log 4 Gunmetal
+AddAmmo 792Mauser1 1 Gunmetal
+AddAltAmmo 792MauserBox 1 Gunmetal
+AddGun MauserM1893 16 log 4 Gunmetal
+AddAmmo 792Mauser1 1 Gunmetal
+AddAltAmmo 792MauserBox 1 Gunmetal
+AddGun MauserM1908 16 log 4 Gunmetal
+AddAmmo 792Mauser1 1 Gunmetal
+AddAltAmmo 792MauserBox 1 Gunmetal
+AddGun MauserM1909 16 log 4 Gunmetal
+AddAmmo 792Mauser1 1 Gunmetal
+AddAltAmmo 792MauserBox 1 Gunmetal
+AddGun MauserM1913 16 log 4 Gunmetal
+AddAmmo 792Mauser1 1 Gunmetal
+AddAltAmmo 792MauserBox 1 Gunmetal
+AddGun MauserM1910 16 log 4 Gunmetal
+AddAmmo 762MMR1 1 Gunmetal
+AddAltAmmo 762MMRBox 1 Gunmetal
+AddGun Type21Rifle 16 log 4 Gunmetal
+AddAmmo 792Mauser1 1 Gunmetal
+AddAltAmmo 792MauserBox 1 Gunmetal
+AddGun Type77Rifle 16 log 4 Gunmetal
+AddAmmo 792Mauser1 1 Gunmetal
+AddAltAmmo 792MauserBox 1 Gunmetal
+AddGun SokolskyKarabinM1924 16 log 4 Gunmetal
+AddAmmo 792Mauser1 1 Gunmetal
+AddAltAmmo 792MauserBox 1 Gunmetal
+AddGun PuskaM1924 16 log 4 Gunmetal
+AddAmmo 792Mauser1 1 Gunmetal
+AddAltAmmo 792MauserBox 1 Gunmetal
+AddGun PuskaM2447 16 log 4 Gunmetal
+AddAmmo 792Mauser1 1 Gunmetal
+AddAltAmmo 792MauserBox 1 Gunmetal
+AddGun FR7 16 log 4 Gunmetal
+AddAmmo 762NATO1 1 Gunmetal
+AddAltAmmo 762NATOBox 1 Gunmetal
+AddGun FR8 16 log 4 Gunmetal
+AddAmmo 762NATO1 1 Gunmetal
+AddAltAmmo 762NATOBox 1 Gunmetal
+AddGun FNModel1922Carbine 16 log 4 Gunmetal
+AddAmmo 30Cal1 1 Gunmetal
+AddAltAmmo 30CalBox 1 Gunmetal
+AddGun FNModel1935ShortRifle 16 log 4 Gunmetal
+AddAmmo 30Cal1 1 Gunmetal
+AddAltAmmo 30CalBox 1 Gunmetal
+AddGun FNModel24 16 log 4 Gunmetal
+AddAmmo 30Cal1 1 Gunmetal
+AddAltAmmo 30CalBox 1 Gunmetal
+AddGun FNModel30 16 log 4 Gunmetal
+AddAmmo 30Cal1 1 Gunmetal
+AddAltAmmo 30CalBox 1 Gunmetal
+AddGun FusilMle1924 16 log 4 Gunmetal
+AddAmmo 22LR1 1 Gunmetal
+AddAltAmmo 22LRBox 1 Gunmetal
+AddGun Mauser1925SRR 16 log 4 Gunmetal
+AddAmmo 22LR1 1 Gunmetal
+AddAltAmmo 22LRBox 1 Gunmetal
+AddGun MauserM1902 16 log 4 Gunmetal
+AddAmmo 45Government1 1 Gunmetal
+AddAltAmmo 45GovernmentBox 1 Gunmetal
+AddGun MauserM1936 16 log 4 Gunmetal
+AddAmmo 45Government1 1 Gunmetal
+AddAltAmmo 45GovernmentBox 1 Gunmetal
+AddGun MauserM1890Carbine 16 log 4 Gunmetal
+AddAmmo 792Mauser1 1 Gunmetal
+AddAltAmmo 792MauserBox 1 Gunmetal
+AddGun MauserM1891Carbine 16 log 4 Gunmetal
+AddAmmo 792Mauser1 1 Gunmetal
+AddAltAmmo 792MauserBox 1 Gunmetal
+AddGun MauserM1913Carbine 16 log 4 Gunmetal
+AddAmmo 792Mauser1 1 Gunmetal
+AddAltAmmo 792MauserBox 1 Gunmetal
+AddGun VZ98Rifle 16 log 4 Gunmetal
+AddAmmo 792Mauser1 1 Gunmetal
+AddAltAmmo 792MauserBox 1 Gunmetal
+AddGun VZ22Rifle 16 log 4 Gunmetal
+AddAmmo 792Mauser1 1 Gunmetal
+AddAltAmmo 792MauserBox 1 Gunmetal
+AddGun KirikkaleM1938 16 log 4 Gunmetal
+AddAmmo 792Mauser1 1 Gunmetal
+AddAltAmmo 792MauserBox 1 Gunmetal
+AddGun Steyr1912 16 log 4 Gunmetal
+AddAmmo 792Mauser1 1 Gunmetal
+AddAltAmmo 792MauserBox 1 Gunmetal
+AddGun Type24Rifle 16 log 4 Gunmetal
+AddAmmo 792Mauser1 1 Gunmetal
+AddAltAmmo 792MauserBox 1 Gunmetal
+AddGun MauserM1895Carbine 16 log 4 Gunmetal
+AddAmmo 792Mauser1 1 Gunmetal
+AddAltAmmo 792MauserBox 1 Gunmetal
+AddGun MauserM1892 16 log 4 Gunmetal
+AddAmmo 65Carcano1 1 Gunmetal
+AddAltAmmo 65CarcanoBox 1 Gunmetal
+AddGun MauserM1894 16 log 4 Gunmetal
+AddAmmo 65Carcano1 1 Gunmetal
+AddAltAmmo 65CarcanoBox 1 Gunmetal
+AddGun MauserM1896 16 log 4 Gunmetal
+AddAmmo 65Carcano1 1 Gunmetal
+AddAltAmmo 65CarcanoBox 1 Gunmetal
+AddGun MauserM1904 16 log 4 Gunmetal
+AddAmmo 65Carcano1 1 Gunmetal
+AddAltAmmo 65CarcanoBox 1 Gunmetal
+AddGun MauserM1907 16 log 4 Gunmetal
+AddAmmo 65Carcano1 1 Gunmetal
+AddAltAmmo 65CarcanoBox 1 Gunmetal
+AddGun VetterliM18708715 16 log 4 Gunmetal
+AddAmmo 65Carcano1 1 Gunmetal
+AddAltAmmo 65CarcanoBox 1 Gunmetal
+AddGun CarcanoM1938 16 log 4 Gunmetal
+AddAmmo 65Carcano1 1 Gunmetal
+AddAltAmmo 65CarcanoBox 1 Gunmetal
+AddGun MaresLeg 16 log 4 Gunmetal
+AddAmmo 44Magnum1 1 Gunmetal
+AddAltAmmo 44MagnumBox 1 Gunmetal
+AddGun RepetiergewehrVetterliModell1869 16 log 4 Gunmetal
+AddAmmo 11Chassepot1 1 Gunmetal
+AddAltAmmo 11ChassepotBox 1 Gunmetal
+AddGun VetterliM1867 16 log 4 Gunmetal
+AddAmmo 11Chassepot1 1 Gunmetal
+AddAltAmmo 11ChassepotBox 1 Gunmetal
+AddGun VetterliM1868 16 log 4 Gunmetal
+AddAmmo 11Chassepot1 1 Gunmetal
+AddAltAmmo 11ChassepotBox 1 Gunmetal
+AddGun WinchesterM1866Musket 16 log 4 Gunmetal
+AddAmmo 44Magnum1 1 Gunmetal
+AddAltAmmo 44MagnumBox 1 Gunmetal
+AddGun TheGunThatWonTheWest 16 ingotGold
+AddAmmo 44Magnum1 1 Gunmetal
+AddAltAmmo 44MagnumBox 1 Gunmetal
+AddGun WinchesterM1876 16 log 4 Gunmetal
+AddAmmo 44Magnum1 1 Gunmetal
+AddAltAmmo 44MagnumBox 1 Gunmetal
+AddGun TR76 16 ingotGold
+AddAmmo 44Magnum1 1 Gunmetal
+AddAltAmmo 44MagnumBox 1 Gunmetal
+AddGun OOT1873 16 ingotGold
+AddAmmo 44Magnum1 1 Gunmetal
+AddAltAmmo 44MagnumBox 1 Gunmetal
+AddGun TheForgottenWinchester 16 ingotGold
+AddAmmo 44Magnum1 1 Gunmetal
+AddAltAmmo 44MagnumBox 1 Gunmetal
+AddGun KRVM1871 16 log 4 Gunmetal
+AddAmmo 11Chassepot1 1 Gunmetal
+AddAltAmmo 11ChassepotBox 1 Gunmetal
+AddGun RVM1878 16 log 4 Gunmetal
+AddAmmo 11Chassepot1 1 Gunmetal
+AddAltAmmo 11ChassepotBox 1 Gunmetal
+AddGun RVM1871 16 log 4 Gunmetal
+AddAmmo 11Chassepot1 1 Gunmetal
+AddAltAmmo 11ChassepotBox 1 Gunmetal
+AddGun RVM1881 16 log 4 Gunmetal
+AddAmmo 11Chassepot1 1 Gunmetal
+AddAltAmmo 11ChassepotBox 1 Gunmetal
+AddGun BrowningBLR22 16 log 4 Gunmetal
+AddAmmo 22LR1 1 Gunmetal
+AddAltAmmo 22LRBox 1 Gunmetal
+AddGun BrowningBLR338 16 log 4 Gunmetal
+AddAmmo 338Lapua1 1 Gunmetal
+AddAltAmmo 338LapuaBox 1 Gunmetal
+AddGun WinchesterM1895Russian 16 log 4 Gunmetal
+AddAmmo 762MMR1 1 Gunmetal
+AddAltAmmo 762MMRBox 1 Gunmetal
+AddGun WinchesterModel88 16 log 4 Gunmetal
+AddAmmo 762NATO1 1 Gunmetal
+AddAltAmmo 762NATOBox 1 Gunmetal
+AddGun WinchesterModel9422 16 log 4 Gunmetal
+AddAmmo 22LR1 1 Gunmetal
+AddAltAmmo 22LRBox 1 Gunmetal
+AddGun HenryVarmintRifle 16 log 4 Gunmetal
+AddAmmo 22LR1 1 Gunmetal
+AddAltAmmo 22LRBox 1 Gunmetal
+AddGun HowdahRifle 16 log 4 Gunmetal
+AddAmmo 52Minie1 1 Gunmetal
+AddAltAmmo 52MinieBox 1 Gunmetal
+AddGun SM1861 16 log 4 Gunmetal
+AddAmmo 52Minie1 1 Gunmetal
+AddAltAmmo 52MinieBox 1 Gunmetal
+AddGun RemingtonRollingBlock 16 log 4 Gunmetal
+AddAmmo 30Cal1 1 Gunmetal
+AddAltAmmo 30CalBox 1 Gunmetal
+AddGun LeeEnfield 16 log 4 Gunmetal
+AddAmmo 303Enfield10 1 Gunmetal
+AddGun LeeMetford 16 log 4 Gunmetal
+AddAmmo 303Enfield10 1 Gunmetal
+AddGun EnfieldM1917 16 log 4 Gunmetal
+AddAmmo 30Cal1 1 Gunmetal
+AddAltAmmo 30CalBox 1 Gunmetal
+AddGun PTRD41 24 Gunmetal 
+AddAmmo 145Warsaw1 1 Gunmetal
+AddAltAmmo 145WarsawBox 1 Gunmetal
+AddGun VZ24Rifle 16 log 4 Gunmetal
+AddAmmo 792Mauser1 1 Gunmetal
+AddAltAmmo 792MauserBox 1 Gunmetal
+AddGun ArisakaType99 16 log 4 Gunmetal
+AddAmmo 77Arisaka1 1 Gunmetal
+AddAltAmmo 77ArisakaBox 1 Gunmetal
+AddGun M1903Springfield 16 log 4 Gunmetal
+AddAmmo 30Cal1 1 Gunmetal
+AddAltAmmo 30CalBox 1 Gunmetal
+AddGun MosinNagant 16 log 4 Gunmetal
+AddAmmo 762MMR1 1 Gunmetal
+AddAltAmmo 762MMRBox 1 Gunmetal
+AddGun MAS36 16 log 4 Gunmetal
+AddAmmo 792Mauser1 1 Gunmetal
+AddAltAmmo 792MauserBox 1 Gunmetal
+AddGun HanyangType88 16 log 4 Gunmetal
+AddAmmo 792Mauser1 1 Gunmetal
+AddAltAmmo 792MauserBox 1 Gunmetal
+AddGun ChiangKaiShekRifle 16 log 4 Gunmetal
+AddAmmo 792Mauser1 1 Gunmetal
+AddAltAmmo 792MauserBox 1 Gunmetal
+AddGun CarcanoM1891 16 log 4 Gunmetal
+AddAmmo 65Carcano1 1 Gunmetal
+AddAltAmmo 65CarcanoBox 1 Gunmetal
+AddGun M9130 16 log 4 Gunmetal
+AddAmmo 762MMR1 1 Gunmetal
+AddAltAmmo 762MMRBox 1 Gunmetal
+AddGun WinchesterM1895 16 log 4 Gunmetal
+AddAmmo 30Cal1 1 Gunmetal
+AddAltAmmo 30CalBox 1 Gunmetal
+AddGun FusilA 16 log 4 Gunmetal
+AddAmmo 303Enfield1 1 Gunmetal
+AddAltAmmo 303EnfieldBox 1 Gunmetal
+AddGun SharpsM1850 16 log 4 Gunmetal
+AddAmmo 52Minie1 1 Gunmetal
+AddAltAmmo 52MinieBox 1 Gunmetal
+AddGun MM1841 16 log 4 Gunmetal
+AddAmmo 52Minie1 1 Gunmetal
+AddAltAmmo 52MinieBox 1 Gunmetal
+AddGun WRM1854 16 log 4 Gunmetal
+AddAmmo 45Government1 1 Gunmetal
+AddAltAmmo 45GovernmentBox 1 Gunmetal
+AddGun WM1867 16 log 4 Gunmetal
+AddAmmo 11Chassepot1 1 Gunmetal
+AddAltAmmo 11ChassepotBox 1 Gunmetal
+AddGun MM1889 16 log 4 Gunmetal
+AddAmmo 792Mauser1 1 Gunmetal
+AddAltAmmo 792MauserBox 1 Gunmetal
+AddGun SMLE3 16 log 4 Gunmetal
+AddAmmo 303Enfield10 1 Gunmetal
+AddGun MosinM27 16 log 4 Gunmetal
+AddAmmo 762MMR1 1 Gunmetal
+AddAltAmmo 762MMRBox 1 Gunmetal
+AddGun BerdanII 16 log 4 Gunmetal
+AddAmmo 11Chassepot1 1 Gunmetal
+AddAltAmmo 11ChassepotBox 1 Gunmetal
+AddGun BerdanM1869 16 log 4 Gunmetal
+AddAmmo 11Chassepot1 1 Gunmetal
+AddAltAmmo 11ChassepotBox 1 Gunmetal
+AddGun KJRifle 16 log 4 Gunmetal
+AddAmmo 762NATO1 1 Gunmetal
+AddAltAmmo 762NATOBox 1 Gunmetal
+AddGun MLE1907R 16 log 4 Gunmetal
+AddAmmo 303Enfield1 1 Gunmetal
+AddAltAmmo 303EnfieldBox 1 Gunmetal
+AddGun MLE1915R 16 log 4 Gunmetal
+AddAmmo 303Enfield1 1 Gunmetal
+AddAltAmmo 303EnfieldBox 1 Gunmetal
+AddGun PZB39 16 log 4 Gunmetal
+AddAmmo 792MauserHeavy1 1 Gunmetal
+AddAltAmmo 792MauserHeavyBox 1 Gunmetal
+AddGun PZB38 16 log 4 Gunmetal
+AddAmmo 792MauserHeavy1 1 Gunmetal
+AddAltAmmo 792MauserHeavyBox 1 Gunmetal
+AddGun MAS40 16 log 4 Gunmetal
+AddAmmo 792Mauser1 1 Gunmetal
+AddAltAmmo 792MauserBox 1 Gunmetal
+AddGun WinchesterM1873 16 log 4 Gunmetal
+AddAmmo 44Magnum1 1 Gunmetal
+AddAltAmmo 44MagnumBox 1 Gunmetal
+AddGun WinchesterM1886 16 log 4 Gunmetal
+AddAmmo 38Special1 1 Gunmetal
+AddAltAmmo 38SpecialBox 1 Gunmetal
+AddGun WinchesterM1892 16 log 4 Gunmetal
+AddAmmo 44Magnum1 1 Gunmetal
+AddAltAmmo 44MagnumBox 1 Gunmetal
+AddGun WinchesterM1894 16 log 4 Gunmetal
+AddAmmo 32ACP1 1 Gunmetal
+AddAltAmmo 32ACPBox 1 Gunmetal
+AddGun Mannlicher1895 16 log 4 Gunmetal
+AddAmmo 792Mauser1 1 Gunmetal
+AddAltAmmo 792MauserBox 1 Gunmetal
+AddGun Ross 16 log 4 Gunmetal
+AddAmmo 303Enfield1 1 Gunmetal
+AddAltAmmo 303EnfieldBox 1 Gunmetal
+AddGun MLE1886 16 log 4 Gunmetal
+AddAmmo 303Enfield1 1 Gunmetal
+AddAltAmmo 303EnfieldBox 1 Gunmetal
+AddGun MosinM44L 16 log 4 Gunmetal
+AddAmmo 762MMR1 1 Gunmetal
+AddAltAmmo 762MMRBox 1 Gunmetal
+AddGun WinchesterM1866 16 log 4 Gunmetal
+AddAmmo 44Magnum1 1 Gunmetal
+AddAltAmmo 44MagnumBox 1 Gunmetal
+AddGun Type30Rifle 16 log 4 Gunmetal
+AddAmmo 65Carcano1 1 Gunmetal
+AddAltAmmo 65CarcanoBox 1 Gunmetal
+AddGun Type35Rifle 16 log 4 Gunmetal
+AddAmmo 65Carcano1 1 Gunmetal
+AddAltAmmo 65CarcanoBox 1 Gunmetal
+AddGun G98 16 log 4 Gunmetal
+AddAmmo 792Mauser1 1 Gunmetal
+AddAltAmmo 792MauserBox 1 Gunmetal
+AddGun Gewehr3340 16 log 4 Gunmetal
+AddAmmo 792Mauser1 1 Gunmetal
+AddAltAmmo 792MauserBox 1 Gunmetal 
+AddGun MannlicherM1893 16 log 4 Gunmetal
+AddAmmo 792Mauser1 1 Gunmetal
+AddAltAmmo 792MauserBox 1 Gunmetal 
+AddGun SM10 16 log 4 Gunmetal
+AddAmmo 65Carcano1 1 Gunmetal
+AddAltAmmo 65CarcanoBox 1 Gunmetal
+AddGun TankgewehrM1918 16 log 4 Gunmetal
+AddAmmo 13MMB1 1 Gunmetal
+AddAltAmmo 13MMBBox 1 Gunmetal
+AddGun WZ35ATRifle 16 log 4 Gunmetal
+AddAmmo 792MauserHeavy1 1 Gunmetal
+AddAltAmmo 792MauserHeavyBox 1 Gunmetal
+AddGun STM1873 16 log 4 Gunmetal
+AddAmmo 45Government1 1 Gunmetal
+AddAltAmmo 45GovernmentBox 1 Gunmetal
+AddGun HenryM1860 16 log 4 Gunmetal
+AddAmmo 44Magnum1 1 Gunmetal
+AddAltAmmo 44MagnumBox 1 Gunmetal
+AddGun SteelBluss 16 log 4 Gunmetal
+AddAmmo 52Minie1 1 Gunmetal
+AddAltAmmo 52MinieBox 1 Gunmetal
+AddGun Clockwing67 16 log 4 Gunmetal
+AddAmmo 52Minie1 1 Gunmetal
+AddGun Kar98B 16 log 4 Gunmetal
+AddAmmo 792Mauser1 1 Gunmetal
+AddAltAmmo 792MauserBox 1 Gunmetal
+AddGun Kar98A 16 log 4 Gunmetal
+AddAmmo 792Mauser1 1 Gunmetal
+AddAltAmmo 792MauserBox 1 Gunmetal
+AddGun Kar98KKriegsmodell 16 log 4 Gunmetal
+AddAmmo 792Mauser1 1 Gunmetal
+AddAltAmmo 792MauserBox 1 Gunmetal 
+AddGun Kar98KP 16 log 4 Gunmetal
+AddAmmo 792Mauser1 1 Gunmetal
+AddAltAmmo 792MauserBox 1 Gunmetal 
+AddGun MosinM1907 16 log 4 Gunmetal
+AddAmmo 762MMR1 1 Gunmetal
+AddAltAmmo 762MMRBox 1 Gunmetal
+AddGun MosinM1938 16 log 4 Gunmetal
+AddAmmo 762MMR1 1 Gunmetal
+AddAltAmmo 762MMRBox 1 Gunmetal
+AddGun MosinM44 16 log 4 Gunmetal
+AddAmmo 762MMR1 1 Gunmetal
+AddAltAmmo 762MMRBox 1 Gunmetal
+AddGun Type53Carbine 16 log 4 Gunmetal
+AddAmmo 762MMR1 1 Gunmetal
+AddAltAmmo 762MMRBox 1 Gunmetal
+AddGun KJCarbine 16 log 4 Gunmetal
+AddAmmo 762NATO1 1 Gunmetal
+AddAltAmmo 762NATOBox 1 Gunmetal
+AddGun MLE1892 16 log 4 Gunmetal
+AddAmmo 303Enfield1 1 Gunmetal
+AddAltAmmo 303EnfieldBox 1 Gunmetal
+AddGun MLE1907 16 log 4 Gunmetal
+AddAmmo 303Enfield1 1 Gunmetal
+AddAltAmmo 303EnfieldBox 1 Gunmetal
+AddGun MLE1915 16 log 4 Gunmetal
+AddAmmo 303Enfield1 1 Gunmetal
+AddAltAmmo 303EnfieldBox 1 Gunmetal
+AddGun MLE1892M16 16 log 4 Gunmetal
+AddAmmo 303Enfield1 1 Gunmetal
+AddAltAmmo 303EnfieldBox 1 Gunmetal
+AddGun ChassepotM1866 16 log 4 Gunmetal
+AddAmmo 11Chassepot1 1 Gunmetal
+AddAltAmmo 11ChassepotBox 1 Gunmetal
+AddGun TarpleyM1853 16 log 4 Gunmetal
+AddAmmo 52Minie1 1 Gunmetal
+AddAltAmmo 52MinieBox 1 Gunmetal
+AddGun SpencerM1853 16 log 4 Gunmetal
+AddAmmo 50BMG1 1 Gunmetal
+AddAltAmmo 50BMGBox 1 Gunmetal
+AddGun LeeEnfieldJungle 16 log 4 Gunmetal
+AddAmmo 303Enfield10 1 Gunmetal
+AddGun Kar98K 16 log 4 Gunmetal
+AddAmmo 792Mauser1 1 Gunmetal
+AddAltAmmo 792MauserBox 1 Gunmetal
+AddGun Type53Carbine 16 log 4 Gunmetal
+AddAmmo 762MMR1 1 Gunmetal
+AddAltAmmo 762MMRBox 1 Gunmetal

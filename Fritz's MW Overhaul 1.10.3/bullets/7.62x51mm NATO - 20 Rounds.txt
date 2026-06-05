@@ -1,0 +1,14 @@
+Name 20 Round 7.62x51mm NATO Magazine
+ShortName 762NATO20
+Model Bullet
+Colour 255 255 255
+Icon 762NATO20
+FallSpeed 0.25
+MaxStackSize 64
+RoundsPerItem 20
+Damage 60
+BreaksGlass True
+HitBoxSize 0.1
+HitSound bullet
+Penetrates True
+SmokeTrail False

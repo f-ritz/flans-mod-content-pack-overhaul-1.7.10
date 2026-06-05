@@ -1,0 +1,31 @@
+Name Webley Mk 6
+ShortName WebleyMk6
+Ammo 455Webley1
+Icon WebleyMk6
+Colour 255 255 255
+ReloadTime 80
+Recoil 7
+Damage 2
+Accuracy 5
+ShootDelay 6
+ShootSound webleyShoot
+ReloadSound webleyReload
+LoadIntoGun 6
+Mode SemiAuto
+OneHanded true
+BulletSpeed 10
+Scope None
+ZoomLevel 1.0
+FOVZoomLevel 1.25
+Model dunk.dunkwebly
+ModelScale 1
+Texture masterskin
+AllowAllAttachments true
+AllowBarrelAttachments true
+AllowScopeAttachments true
+AllowStockAttachments true
+AllowGripAttachments true
+NumGenericAttachmentSlots 4
+Description .455 Webley
+ShowDamage true
+ShowReloadTime true

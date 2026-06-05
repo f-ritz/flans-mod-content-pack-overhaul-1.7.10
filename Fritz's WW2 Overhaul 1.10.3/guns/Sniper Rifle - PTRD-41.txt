@@ -1,0 +1,30 @@
+Name PTRD-41
+ShortName PTRD41
+Ammo 145Warsaw1
+Icon PTRD41
+LoadIntoGun 1
+Description 14.5x114mm WTO
+ShowDamage true
+ShowReloadTime true
+Colour 255 255 255
+ReloadTime 80
+Recoil 25
+Damage 2
+Accuracy 2
+ShootDelay 20
+ShootSound PTRS41Shoot
+ReloadSound kar98kReload
+Mode SemiAuto
+BulletSpeed 10
+Scope None
+ZoomLevel 1
+FOVZoomLevel 1.25
+Model NewAge.PTRD
+Texture SkinPTRD41
+ModelScale 0.25
+AllowAllAttachments true
+AllowBarrelAttachments true
+AllowScopeAttachments true
+AllowStockAttachments true
+AllowGripAttachments true
+NumGenericAttachmentSlots 4

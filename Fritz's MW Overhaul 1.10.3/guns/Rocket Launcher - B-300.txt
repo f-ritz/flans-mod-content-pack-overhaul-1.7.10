@@ -1,0 +1,28 @@
+Name B-300
+ShortName B300
+Ammo 84RocketI
+Ammo 84RocketAP
+Ammo 84RocketHE
+Ammo 84Rocket
+Icon SMAW
+Colour 255 255 255
+ReloadTime 90
+Recoil 6
+Damage 1
+Accuracy 1
+ShootDelay 1
+ShootSound RPGShoot
+ReloadSound BazookaReload
+Mode SemiAuto
+Scope None
+Model mw.Panzerfaust3
+Texture SMAW
+AllowAllAttachments true
+AllowBarrelAttachments true
+AllowScopeAttachments true
+AllowStockAttachments true
+AllowGripAttachments true
+NumGenericAttachmentSlots 4
+Description 84mm Rocket
+ShowDamage true
+ShowReloadTime true

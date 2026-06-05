@@ -1,0 +1,28 @@
+Name Berthier Mle 1915 Carbine
+ShortName MLE1915
+Ammo 303Enfield1
+LoadIntoGun 3
+Icon MLE1892
+Colour 255 255 255
+ReloadTime 60
+Recoil 8
+Damage 1.5
+Accuracy 4
+ShootDelay 20
+ShootSound springfieldShoot
+ReloadSound kar98kReload
+Mode SemiAuto
+BulletSpeed 10
+Scope None
+Model dunk.berthier
+ModelScale 1
+Texture masterskin
+AllowAllAttachments true
+AllowBarrelAttachments true
+AllowScopeAttachments true
+AllowStockAttachments true
+AllowGripAttachments true
+NumGenericAttachmentSlots 4
+Description .303 Enfield
+ShowDamage true
+ShowReloadTime true

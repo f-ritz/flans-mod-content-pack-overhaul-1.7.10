@@ -1,0 +1,31 @@
+Name M1913 Browning
+ShortName M1913Browning
+Ammo 30Cal30
+LoadIntoGun 2
+Icon M1913Browning
+Colour 255 255 255
+ReloadTime 100
+Recoil 2
+Damage 1
+Accuracy 8
+RoundsPerMin 450
+NumBullets 1
+ShootSound _AmbirconSteamRifleFire
+ReloadSound _AGMPredatorReload
+Mode FullAuto
+BulletSpeed 10.0
+Scope None
+ZoomLevel 1.0
+FOVZoomLevel 1.0
+Deployable False
+DeployedModel None
+Model dwfirearms.AutoRifle2097
+Texture AutoRifle2097_Steam
+ModelScale 0.2
+AllowAllAttachments true
+AllowScopeAttachments true
+AllowBarrelAttachments true
+AllowGripAttachments true
+AllowStockAttachments true
+NumGenericAttachmentSlots 4
+Description .30-06

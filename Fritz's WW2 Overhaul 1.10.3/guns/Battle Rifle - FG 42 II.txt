@@ -1,0 +1,28 @@
+Name FG 42 II
+ShortName FG42II
+Ammo 792Mauser20
+Ammo 792Mauser25
+Description 7.92x57mm Mauser
+ShowDamage true
+ShowReloadTime true
+Icon Fg42
+Colour 255 255 255
+ReloadTime 60
+Recoil 4
+Damage 1
+Accuracy 4
+RoundsPerMin 750
+ShootSound Fg42Shoot
+ReloadSound Fg42Reload
+Mode FullAuto
+BulletSpeed 10
+Scope None
+Model W44.Fg42
+Texture SkinFG42
+ModelScale 0.85
+AllowAllAttachments true
+AllowBarrelAttachments true
+AllowScopeAttachments true
+AllowStockAttachments true
+AllowGripAttachments true
+NumGenericAttachmentSlots 4

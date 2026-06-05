@@ -1,0 +1,38 @@
+Name Steam Minigun
+ShortName SteamMinigun
+Ammo 762NATO100
+Ammo 762NATO250
+Ammo 762NATO500
+Icon SteamMinigun
+Colour 255 255 255
+ReloadTime 100
+Recoil 2
+Damage 1
+Accuracy 10
+RoundsPerMin 2000
+NumBullets 2
+BulletSpeed 10.0
+WarmupSound MinigunWarmup
+SpinSound MinigunSpin
+CooldownSound MinigunCooldown
+WarmupSoundLength 11
+SpinSoundLength 9
+ShootSound _SteamSpinnakerFire
+ReloadSound _SteamSpinnakerReload
+Mode Minigun
+BulletSpeed 10.0
+Scope None
+ZoomLevel 1.0
+FOVZoomLevel 1.0
+Deployable False
+DeployedModel None
+Model dwfirearms.SteamClockedSpinnaker
+Texture SteamClockedSpinnaker_Steam
+ModelScale 0.2
+AllowAllAttachments true
+AllowScopeAttachments true
+AllowBarrelAttachments true
+AllowGripAttachments true
+AllowStockAttachments true
+NumGenericAttachmentSlots 4
+Description 7.62x51mm NATO

@@ -1,0 +1,28 @@
+Name FR 8
+ShortName FR8
+Ammo 762NATO1
+Description 7.62x51mm NATO
+ShowDamage true
+ShowReloadTime true
+LoadIntoGun 5
+Icon FR8
+Colour 255 255 255
+ReloadTime 55
+Recoil 17
+Damage 1.5
+Accuracy 3
+ShootDelay 22
+ShootSound kar98kShoot
+ReloadSound kar98kReload
+Mode SemiAuto
+BulletSpeed 10
+Scope None
+Model ww2.Kar98k
+Texture FR8
+ModelScale 0.6
+AllowAllAttachments true
+AllowBarrelAttachments true
+AllowScopeAttachments true
+AllowStockAttachments true
+AllowGripAttachments true
+NumGenericAttachmentSlots 4

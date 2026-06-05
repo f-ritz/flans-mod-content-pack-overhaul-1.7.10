@@ -1,0 +1,14 @@
+Name 250 Round 5.45x39mm WTO Magazine
+ShortName 545Warsaw250
+Model Bullet
+Colour 255 255 255
+Icon 545Warsaw250
+FallSpeed 0.25
+MaxStackSize 64
+RoundsPerItem 250
+Damage 42
+BreaksGlass True
+HitBoxSize 0.1
+HitSound bullet
+Penetrates True
+SmokeTrail False

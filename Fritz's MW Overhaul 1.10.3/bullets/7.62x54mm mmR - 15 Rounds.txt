@@ -1,0 +1,14 @@
+Name 15 Round 7.62x54mm mmR Magazine
+ShortName 762MMR15
+Model Bullet
+Colour 255 255 255
+Icon 762MMR15
+FallSpeed 0.25
+MaxStackSize 64
+RoundsPerItem 15
+Damage 60
+BreaksGlass True
+HitBoxSize 0.1
+HitSound bullet
+Penetrates True
+SmokeTrail False

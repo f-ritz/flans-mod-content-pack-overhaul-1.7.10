@@ -1,0 +1,31 @@
+Name McMillan TAC-50
+ShortName TAC50
+Ammo 50BMG10HE
+Ammo 50BMG10
+Ammo 50BMG5
+Description .50 BMG
+Icon TAC50
+Colour 255 255 255
+ReloadTime 40
+Recoil 26
+Damage 2
+Accuracy 1
+ShootDelay 16
+ShootSound BarrettShoot
+ReloadSound BARReload
+Mode SemiAuto
+BulletSpeed 10
+Scope mwbarrett
+ZoomLevel 10.0
+FOVZoomLevel 1.0
+Model mpack.m82
+ModelScale 0.21
+Texture Skin_Gun_m82
+AllowAllAttachments true
+AllowBarrelAttachments true
+AllowScopeAttachments true
+AllowStockAttachments true
+AllowGripAttachments true
+NumGenericAttachmentSlots 4
+ShowDamage true
+ShowReloadTime true

@@ -1,0 +1,38 @@
+Name PA-GL
+ShortName PAGL
+Ammo 40GrenadeBouncy
+Ammo 40GrenadeIncendiary
+Ammo 40GrenadeGas
+Ammo 40GrenadeSticky
+Ammo 40GrenadeSlug
+Ammo 40GrenadeImpact
+Icon PAGL
+Colour 255 255 255
+ReloadTime 70
+Recoil 5
+Damage 1
+Accuracy 7
+BulletSpeed 8.0
+ShootDelay 10
+ShootSound _KGL40Fire
+ReloadSound _PAGLReload
+Mode SemiAuto
+Scope None
+ZoomLevel 1.0
+FOV ZoomLevel 1.25
+Distort Sound False
+Deployable False
+DeployedModel None
+ModelScale 0.2
+LoadIntoGun 1
+OneHanded False
+MoveSpeedModifier 1.0
+Model dwfirearms.PAGL
+Texture PAGL_Standard
+AllowAllAttachments true
+AllowScopeAttachments true
+AllowBarrelAttachments true
+AllowGripAttachments true
+AllowStockAttachments true
+NumGenericAttachmentSlots 4
+Description 40mm Grenade

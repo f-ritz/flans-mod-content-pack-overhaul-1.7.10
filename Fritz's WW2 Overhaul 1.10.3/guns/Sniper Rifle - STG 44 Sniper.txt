@@ -1,0 +1,28 @@
+Name StG 44 Sniper
+ShortName STG44Sniper
+Ammo 792Kurz30
+Icon STG44Sniper
+Description 7.92x33mm Kurz
+ShowDamage true
+ShowReloadTime true
+Colour 255 255 255
+ReloadTime 60
+Recoil 3
+Damage 2
+Accuracy 5
+RoundsPerMin 500
+ShootSound mp44Shoot
+ReloadSound mp44Reload
+Mode FullAuto
+BulletSpeed 10
+Scope wwiikar98ksniper
+ZoomLevel 4
+Model W44.Stg44
+Texture SkinMP44
+ModelScale 0.06
+AllowAllAttachments true
+AllowBarrelAttachments true
+AllowScopeAttachments true
+AllowStockAttachments true
+AllowGripAttachments true
+NumGenericAttachmentSlots 4

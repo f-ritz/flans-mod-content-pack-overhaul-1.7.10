@@ -1,0 +1,30 @@
+Name PP-2000
+ShortName PP2000
+Ammo 919NATO20
+Description 9x19mm Parabellum
+ShowDamage true
+ShowReloadTime true
+Icon PP2000
+Colour 255 255 255
+ReloadTime 30
+Recoil 3
+Damage 1.25
+Accuracy 6
+RoundsPerMin 600
+ShootSound MakarovShoot
+ReloadSound ColtReload
+Mode FullAuto
+OneHanded true
+BulletSpeed 10
+Scope None
+ZoomLevel 1.0
+FOVZoomLevel 1.2
+Model mpack.pp2000
+ModelScale 0.045
+Texture Skin_Gun_pp2000
+AllowAllAttachments true
+AllowBarrelAttachments true
+AllowScopeAttachments true
+AllowStockAttachments true
+AllowGripAttachments true
+NumGenericAttachmentSlots 4

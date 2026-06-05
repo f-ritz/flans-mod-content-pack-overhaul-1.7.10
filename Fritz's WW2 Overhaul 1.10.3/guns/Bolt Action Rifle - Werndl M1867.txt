@@ -1,0 +1,28 @@
+Name Werndl M1867
+ShortName WM1867
+Ammo 11Chassepot1
+Description 11x59mm Gras
+LoadIntoGun 1
+Icon WerndlM1867
+Colour 255 255 255
+ReloadTime 50
+Recoil 22
+Damage 1.5
+Accuracy 4
+ShootDelay 15
+ShootSound MosinNagantShoot
+ReloadSound kar98kReload
+Mode SemiAuto
+BulletSpeed 10
+Scope None
+Model NewAge.Berdan2
+Texture SkinBerdan2
+ModelScale 1.06
+AllowAllAttachments true
+AllowBarrelAttachments true
+AllowScopeAttachments true
+AllowStockAttachments true
+AllowGripAttachments true
+NumGenericAttachmentSlots 4
+ShowDamage true
+ShowReloadTime true

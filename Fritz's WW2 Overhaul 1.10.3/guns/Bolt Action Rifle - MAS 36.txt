@@ -1,0 +1,28 @@
+Name MAS 36
+ShortName MAS36
+Ammo 792Mauser1
+LoadIntoGun 5
+Icon MAS36
+Colour 255 255 255
+ReloadTime 60
+Recoil 7
+Damage 1.5
+Accuracy 2
+ShootDelay 20
+ShootSound Type38Shoot
+ReloadSound kar98kReload
+Mode SemiAuto
+BulletSpeed 10
+Scope None
+Model NewAge.MAS36
+ModelScale 0.1
+Texture MAS36HD
+AllowAllAttachments true
+AllowBarrelAttachments true
+AllowScopeAttachments true
+AllowStockAttachments true
+AllowGripAttachments true
+NumGenericAttachmentSlots 4
+Description 7.92x57mm Mauser
+ShowDamage true
+ShowReloadTime true

@@ -1,0 +1,29 @@
+Name VSK-94
+ShortName VSK94
+Ammo 939WP10
+Description 9x39mm WP
+Icon VSK94
+Colour 255 255 255
+ReloadTime 45
+Recoil 3
+Damage 2
+Accuracy 1
+ShootDelay 2
+ShootSound DragunovShoot
+ReloadSound BARReload
+Mode SemiAuto
+BulletSpeed 10
+Scope pso1
+ZoomLevel 10.0
+FOVZoomLevel 1.0
+Model mpack.vss
+ModelScale 0.54
+Texture VSS
+AllowAllAttachments true
+AllowBarrelAttachments true
+AllowScopeAttachments true
+AllowStockAttachments true
+AllowGripAttachments true
+NumGenericAttachmentSlots 4
+ShowDamage true
+ShowReloadTime true

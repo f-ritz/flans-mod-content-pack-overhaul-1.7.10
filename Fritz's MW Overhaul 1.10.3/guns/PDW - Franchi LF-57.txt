@@ -1,0 +1,29 @@
+Name Franchi LF-57
+ShortName LF57
+Ammo 919NATO30
+Icon LF57
+Colour 255 255 255
+ReloadTime 40
+Recoil 4
+Damage 1
+Accuracy 4
+RoundsPerMin 500
+ShootSound P90Shoot
+ReloadSound StenReload
+Mode FullAuto
+BulletSpeed 10
+Scope None
+ZoomLevel 1.0
+FOVZoomLevel 1.25
+Model mpack.tec9
+ModelScale 0.11
+Texture Skin_Gun_tec9
+AllowAllAttachments true
+AllowBarrelAttachments true
+AllowScopeAttachments true
+AllowStockAttachments true
+AllowGripAttachments true
+NumGenericAttachmentSlots 4
+ShowDamage true
+ShowReloadTime true
+Description 9x19mm Parabellum

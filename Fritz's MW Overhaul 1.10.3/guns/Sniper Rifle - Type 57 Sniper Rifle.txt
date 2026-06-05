@@ -1,0 +1,29 @@
+Name Type 57 Sniper Rifle
+ShortName Type57SniperRifle
+Ammo 762NATO20
+Icon M21
+Colour 255 255 255
+ReloadTime 40
+Recoil 7
+Damage 2
+Accuracy 2
+RoundsPerMin 700
+ShootSound M14Shoot
+ReloadSound BARReload
+Mode SemiAuto
+BulletSpeed 10
+Scope mwm21
+ZoomLevel 6
+FOVZoomLevel 1.25
+Model mpack.m14
+ModelScale 0.09
+Texture Skin_Gun_m14
+AllowAllAttachments true
+AllowScopeAttachments true
+AllowGripAttachments true
+AllowBarrelAttachments true
+AllowStockAttachments true
+NumGenericAttachmentSlots 4
+ShowDamage true
+ShowReloadTime true
+Description 7.62x51mm NATO

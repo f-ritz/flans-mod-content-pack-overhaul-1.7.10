@@ -1,0 +1,6 @@
+Name Box of .50 BMG Cartridges
+ShortName 50BMGBox
+Icon CartridgeBox
+Colour 255 255 255
+Category Misc
+StackSize 64

@@ -1,0 +1,29 @@
+Name Sharps Rifle M1850 Sniper
+ShortName SharpsM1850Sniper
+Ammo 52Minie1
+LoadIntoGun 1
+Icon SharpsM1850Sniper
+Colour 255 255 255
+ReloadTime 35
+Recoil 25
+Damage 2
+Accuracy 3
+ShootDelay 20
+ShootSound springfieldShoot
+ReloadSound kar98kReload
+Mode SemiAuto
+BulletSpeed 10
+Scope wwiispringfieldsniper
+ZoomLevel 6
+Model dunk.sharpscoped
+ModelScale 0.9
+Texture Skin_Gun_scopedSharpsRifle
+AllowAllAttachments true
+AllowBarrelAttachments true
+AllowScopeAttachments true
+AllowStockAttachments true
+AllowGripAttachments true
+NumGenericAttachmentSlots 4
+Description .52 Minie
+ShowDamage true
+ShowReloadTime true

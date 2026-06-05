@@ -1,0 +1,31 @@
+Name M2 Cinderfire
+ShortName M2Cinderfire
+Ammo 30Cal8
+Icon M2Cinderfire
+Colour 255 255 255
+ReloadTime 90
+Recoil 4
+Damage 1
+Accuracy 3
+BulletSpeed 10.0
+ShootDelay 2
+ShootSound _HVFPeforatorFire
+ReloadSound _CinderfireReload
+Mode SemiAuto
+Scope None
+ZoomLevel 1.0
+FOV ZoomLevel 1.5
+Distort Sound False
+Deployable False
+DeployedModel None
+ModelScale 0.2
+OneHanded False
+Model dwfirearms.CinderfireRifle
+Texture CinderfireRifle_Steam
+AllowAllAttachments true
+AllowScopeAttachments true
+AllowBarrelAttachments true
+AllowGripAttachments true
+AllowStockAttachments true
+NumGenericAttachmentSlots 4
+Description .30-06

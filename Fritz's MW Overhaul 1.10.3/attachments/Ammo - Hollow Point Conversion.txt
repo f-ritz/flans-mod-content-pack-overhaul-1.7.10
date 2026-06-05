@@ -1,0 +1,13 @@
+Name Hollow Point Conversion
+ShortName HollowPoint
+Icon HPConversion
+AttachmentType generic
+Silencer false
+MeleeDamageMultiplier 1.0
+DamageMultiplier 2
+SpreadMultiplier 1.5
+RecoilMultiplier 1.5
+BulletSpeedMultiplier 0.2
+ReloadTimeMultiplier 0.9
+Model mw.ACOG
+Texture ACOGSight

@@ -1,0 +1,28 @@
+Name Spencer M1853
+ShortName SpencerM1853
+Ammo 50BMG1
+LoadIntoGun 6
+Icon TarpleyM1853
+Colour 255 255 255
+ReloadTime 30
+Recoil 16
+Damage 1.5
+Accuracy 4
+ShootDelay 22
+ShootSound springfieldShoot
+ReloadSound kar98kReload
+Mode SemiAuto
+BulletSpeed 10
+Scope None
+Model dunk.spencercarbine
+ModelScale 1
+Texture Skin_Gun_1865SpencerCarbine
+AllowAllAttachments true
+AllowBarrelAttachments true
+AllowScopeAttachments true
+AllowStockAttachments true
+AllowGripAttachments true
+NumGenericAttachmentSlots 4
+Description .50 BMG
+ShowDamage true
+ShowReloadTime true

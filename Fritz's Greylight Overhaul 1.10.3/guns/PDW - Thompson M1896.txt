@@ -1,0 +1,32 @@
+Name Thompson M1896
+ShortName ThompsonM1896
+Ammo 45ACP25
+Ammo 45ACP50
+Icon ThompsonM1896
+Colour 255 255 255
+ReloadTime 50
+Recoil 4
+Damage 1
+Accuracy 7
+BulletSpeed 10.0
+RoundsPerMin 400
+ShootSound _WolfstedtM2088Fire
+ReloadSound _WolfstedtM2088Reload
+Mode FullAuto
+Scope None
+ZoomLevel 1.0
+FOV ZoomLevel 1.25
+Distort Sound False
+Deployable False
+DeployedModel None
+ModelScale 0.2
+OneHanded False
+Model dwfirearms.WolfstedtM2088
+Texture WolfstedtM2088_Steam
+AllowAllAttachments true
+AllowScopeAttachments true
+AllowBarrelAttachments true
+AllowGripAttachments true
+AllowStockAttachments true
+NumGenericAttachmentSlots 4
+Description .45 ACP

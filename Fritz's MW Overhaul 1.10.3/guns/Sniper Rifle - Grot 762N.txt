@@ -1,0 +1,29 @@
+Name Grot 762N
+ShortName Grot762N
+Ammo 762NATO20
+Description 7.62x51mm NATO
+Icon Grot762
+Colour 255 255 255
+ReloadTime 40
+Recoil 7
+Damage 2
+Accuracy 2
+ShootDelay 6
+ShootSound FNSCARShoot
+ReloadSound MP44Reload
+Mode SemiAuto
+BulletSpeed 10
+Scope pmii
+ZoomLevel 6
+FOVZoomLevel 1.25
+Model mpack.mk20ssr
+ModelScale 0.06
+Texture Grot762
+AllowAllAttachments true
+AllowBarrelAttachments true
+AllowScopeAttachments true
+AllowStockAttachments true
+AllowGripAttachments true
+NumGenericAttachmentSlots 4
+ShowDamage true
+ShowReloadTime true

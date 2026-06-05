@@ -1,0 +1,33 @@
+Name HPAR
+ShortName HPAR
+Ammo 68NATO60
+Ammo 68NATO110
+Icon HPAR
+Colour 255 255 255
+ReloadTime 100
+Recoil 4
+Damage 1
+Accuracy 9
+BulletSpeed 10.0
+RoundsPerMin 800
+ShootSound _MparFire
+ReloadSound _HparReload
+Mode FullAuto
+Scope None
+ZoomLevel 1.0
+FOV ZoomLevel 1.25
+Distort Sound False
+Deployable False
+DeployedModel None
+ModelScale 0.2
+OneHanded False
+Model dwfirearms.HPAR
+Texture HPAR_Standard
+AllowAllAttachments true
+AllowScopeAttachments true
+AllowBarrelAttachments true
+AllowGripAttachments true
+AllowStockAttachments true
+NumGenericAttachmentSlots 4
+Paintjob HPAR_iconCellsCamo HPAR_CellsCamo gray 1 red 1
+Description 6.8x51mm NATO

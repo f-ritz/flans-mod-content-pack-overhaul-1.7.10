@@ -1,0 +1,6 @@
+Name Box of .44 Magnum Cartridges
+ShortName 44MagnumBox
+Icon CartridgeBox
+Colour 255 255 255
+Category Misc
+StackSize 64

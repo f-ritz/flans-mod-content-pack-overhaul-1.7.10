@@ -1,0 +1,28 @@
+Name Springfield Trapdoor M1873
+ShortName STM1873
+Ammo 45Government1
+Description .45 Government
+LoadIntoGun 1
+Icon STM1873
+Colour 255 255 255
+ReloadTime 50
+Recoil 16
+Damage 1.5
+Accuracy 3
+ShootDelay 12
+ShootSound m1garandShoot
+ReloadSound kar98kReload
+Mode SemiAuto
+BulletSpeed 10
+Scope None
+Model dunk.trapdoor
+ModelScale 0.7
+Texture masterskin
+AllowAllAttachments true
+AllowBarrelAttachments true
+AllowScopeAttachments true
+AllowStockAttachments true
+AllowGripAttachments true
+NumGenericAttachmentSlots 4
+ShowDamage true
+ShowReloadTime true

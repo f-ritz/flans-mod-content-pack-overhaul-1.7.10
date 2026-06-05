@@ -1,0 +1,31 @@
+Name Izhevsk PB
+ShortName IzhevskPB
+Ammo 918Makarov8
+ShowDamage true
+ShowReloadTime true
+Icon IzhevskPB
+Colour 255 255 255
+ReloadTime 30
+Recoil 1
+NumBullets 1
+Damage 1.5
+Accuracy 8
+ShootDelay 2
+ShootSound MP5Shoot
+ReloadSound ColtReload
+Mode SemiAuto
+OneHanded true
+BulletSpeed 10
+Scope None
+ZoomLevel 1.0
+FOVZoomLevel 1.2
+Model mpack.makarov
+ModelScale 0.06
+Texture Skin_Gun_makarov
+AllowAllAttachments true
+AllowBarrelAttachments true
+AllowScopeAttachments true
+AllowStockAttachments true
+AllowGripAttachments true
+NumGenericAttachmentSlots 4
+Description 9x18mm Makarov

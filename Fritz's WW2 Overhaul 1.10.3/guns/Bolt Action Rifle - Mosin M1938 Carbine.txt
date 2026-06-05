@@ -1,0 +1,28 @@
+Name Mosin M1938 Carbine
+ShortName MosinM1938
+Ammo 762MMR1
+Description 7.62x54mmR
+LoadIntoGun 5
+Icon MosinM1938
+Colour 255 255 255
+ReloadTime 50
+Recoil 8
+Damage 1.5
+Accuracy 3
+ShootDelay 20
+ShootSound MosinNagantShoot
+ReloadSound kar98kReload
+Mode SemiAuto
+BulletSpeed 10
+Scope None
+Model NewAge.M38Mosin
+Texture SkinM38Mosin
+ModelScale 0.8
+AllowAllAttachments true
+AllowBarrelAttachments true
+AllowScopeAttachments true
+AllowStockAttachments true
+AllowGripAttachments true
+NumGenericAttachmentSlots 4
+ShowDamage true
+ShowReloadTime true

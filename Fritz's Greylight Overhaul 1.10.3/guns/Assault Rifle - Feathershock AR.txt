@@ -1,0 +1,32 @@
+Name Feathershock AR
+ShortName FeathershockAR
+Ammo 68NATO12
+Icon Feathershock
+Colour 255 255 255
+ReloadTime 60
+Recoil 6
+Damage 1
+Accuracy 10
+BulletSpeed 10.0
+RoundsPerMin 350
+ShootSound _FeathershockFire
+ReloadSound _FeathershockReload
+Mode SemiAuto
+Scope None
+ZoomLevel 1.0
+FOV ZoomLevel 1.25
+Distort Sound False
+Deployable False
+DeployedModel None
+ModelScale 0.2
+OneHanded False
+Model dwfirearms.FeathershockAR
+Texture FeatherShock_Standard
+NumGenericAttachmentSlots 4
+AllowBarrelAttachments true
+AllowScopeAttachments true
+AllowStockAttachments true
+AllowGripAttachments true
+AllowAllAttachments true
+Paintjob Feathershock_iconGryphonForest FeatherShock_GryphonForest green 1 brown 1
+Description 6.8x51mm NATO

@@ -1,0 +1,9 @@
+Name EoTech 552
+ShortName EoTech552
+Icon RedDotSight
+AttachmentType sights
+Silencer false
+ZoomLevel 2.25
+ZoomOverlay eotech552
+Model mw.RedDot
+Texture RedDotSight

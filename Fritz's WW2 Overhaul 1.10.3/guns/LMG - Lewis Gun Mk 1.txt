@@ -1,0 +1,27 @@
+Name Lewis Gun Mk 1
+ShortName LewisGun
+Ammo 303Enfield97
+Description .303 Enfield
+ShowDamage true
+ShowReloadTime true
+Icon LewisGun
+Colour 255 255 255
+ReloadTime 80
+Recoil 5
+Damage 1
+Accuracy 12
+RoundsPerMin 550
+ShootSound DP28Shoot
+ReloadSound DP28Reload
+Mode FullAuto
+BulletSpeed 10
+Scope None
+Model W44.DP28
+Texture SkinDP28
+ModelScale 0.25
+AllowAllAttachments true
+AllowBarrelAttachments true
+AllowScopeAttachments true
+AllowStockAttachments true
+AllowGripAttachments true
+NumGenericAttachmentSlots 4

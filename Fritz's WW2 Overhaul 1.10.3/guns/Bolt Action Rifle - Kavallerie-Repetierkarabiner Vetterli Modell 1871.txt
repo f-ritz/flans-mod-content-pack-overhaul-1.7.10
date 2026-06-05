@@ -1,0 +1,28 @@
+Name Kavallerie-Repetierkarabiner Vetterli Modell 1871
+ShortName KRVM1871
+Ammo 11Chassepot1
+Description 11x59mm Gras
+ShowDamage true
+ShowReloadTime true
+Icon KRVM1871
+Colour 255 255 255
+LoadIntoGun 13
+ReloadTime 90
+Recoil 27
+Damage 1.5
+Accuracy 10
+ShootDelay 12
+ShootSound MosinNagantShoot
+ReloadSound kar98kReload
+Mode SemiAuto
+BulletSpeed 10
+Model dunk.1873win
+ModelScale 1
+Texture Skin_Gun_Model1873Winchester
+FOVZoomLevel 1.25
+AllowAllAttachments true
+AllowBarrelAttachments true
+AllowScopeAttachments true
+AllowStockAttachments true
+AllowGripAttachments true
+NumGenericAttachmentSlots 4

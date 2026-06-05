@@ -1,0 +1,27 @@
+Name Bezruchno-Vysotsky SMG
+ShortName BVSMG
+Ammo 762Tokarev35
+Description 7.62x25mm Tokarev
+ShowDamage true
+ShowReloadTime true
+Icon PPS43
+Colour 255 255 255
+ReloadTime 35
+Recoil 4
+Damage 1
+Accuracy 8
+RoundsPerMin 550
+ShootSound PPSHShoot
+ReloadSound PPSHReload
+Mode FullAuto
+BulletSpeed 10
+Scope None
+Model W44.PPs43
+Texture SkinPPS43
+ModelScale 0.32
+AllowAllAttachments true
+AllowBarrelAttachments true
+AllowScopeAttachments true
+AllowStockAttachments true
+AllowGripAttachments true
+NumGenericAttachmentSlots 4

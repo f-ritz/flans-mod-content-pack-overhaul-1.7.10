@@ -1,0 +1,29 @@
+Name AK-203
+ShortName AK203
+Ammo 762Warsaw30
+Icon AK203
+Colour 255 255 255
+ReloadTime 40
+Recoil 2
+Damage 1
+Accuracy 3
+RoundsPerMin 700
+ShootSound AK47Shoot
+ReloadSound MP44Reload
+Mode FullAuto
+BulletSpeed 10
+Scope None
+ZoomLevel 1.0
+FOVZoomLevel 1.25
+Model mpack.ak103
+ModelScale 0.18
+Texture skin_gun_ak103
+AllowAllAttachments true
+AllowBarrelAttachments true
+AllowScopeAttachments true
+AllowStockAttachments true
+AllowGripAttachments true
+NumGenericAttachmentSlots 4
+ShowDamage true
+ShowReloadTime true
+Description 7.62x39mm WTO

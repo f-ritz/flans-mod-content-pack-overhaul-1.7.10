@@ -1,0 +1,33 @@
+Name PWR-57
+ShortName PWR57
+Ammo 10NATO32
+Icon PWR57
+Colour 255 255 255
+ReloadTime 45
+Recoil 3
+Damage 1
+Accuracy 12
+BulletSpeed 10.0
+RoundsPerMin 600
+ShootSound _PwrFire
+ReloadSound _PwrReload
+Mode FullAuto
+Scope None
+ZoomLevel 1.0
+FOV ZoomLevel 1.25
+Distort Sound False
+Deployable False
+DeployedModel None
+ModelScale 0.2
+Knockback 10.0
+OneHanded False
+Model dwfirearms.PWR57
+Texture PWR57_Standard
+AllowAllAttachments true
+AllowScopeAttachments true
+AllowBarrelAttachments true
+AllowGripAttachments true
+AllowStockAttachments true
+NumGenericAttachmentSlots 4
+Paintjob PWR57_icon1944 PWR57_1944 brown 1 gray 1
+Description 10x25mm Auto

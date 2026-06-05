@@ -1,0 +1,30 @@
+Name Mini-Uzi
+ShortName MiniUzi
+Ammo 47NATO30
+Description 4.6x30mm NATO
+Icon MiniUzi
+Colour 255 255 255
+ReloadTime 40
+Recoil 3
+Damage 1.25
+Accuracy 1
+RoundsPerMin 950
+ShootSound MiniUziShoot
+ReloadSound ColtReload
+Mode FullAuto
+OneHanded true
+BulletSpeed 10
+Scope None
+ZoomLevel 1.0
+FOVZoomLevel 1.25
+Model mpack.uzi
+ModelScale 0.11
+Texture Skin_Gun_uzi
+AllowAllAttachments true
+AllowBarrelAttachments true
+AllowScopeAttachments true
+AllowStockAttachments true
+AllowGripAttachments true
+NumGenericAttachmentSlots 4
+ShowDamage true
+ShowReloadTime true

@@ -1,0 +1,9 @@
+Name Electra 5x
+ShortName Electra5x
+Icon ACOGSight
+AttachmentType sights
+Silencer false
+ZoomLevel 5
+ZoomOverlay Electra5x
+Model mw.ACOG
+Texture ACOGSight

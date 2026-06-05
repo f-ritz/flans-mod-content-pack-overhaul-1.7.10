@@ -1,0 +1,9 @@
+Name ACOG Scope
+ShortName ACOG
+Icon ACOGSight
+AttachmentType sights
+Silencer false
+ZoomLevel 4
+ZoomOverlay acog
+Model mw.ACOG
+Texture ACOGSight

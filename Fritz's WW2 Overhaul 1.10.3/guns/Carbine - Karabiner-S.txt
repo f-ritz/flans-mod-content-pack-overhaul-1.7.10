@@ -1,0 +1,27 @@
+Name Karabiner-S
+ShortName KarabinerS
+Ammo 762Warsaw10
+Description 7.62x39mm WTO
+ShowDamage true
+ShowReloadTime true
+Icon KarabinerS
+Colour 255 255 255
+ReloadTime 50
+Recoil 4
+Damage 1
+Accuracy 2
+ShootDelay 2
+ShootSound MosinNagantShoot
+ReloadSound kar98kReload
+Mode SemiAuto
+BulletSpeed 10
+Scope None
+Model W44.SKS
+Texture KarabinerS
+ModelScale 0.25
+AllowAllAttachments true
+AllowBarrelAttachments true
+AllowScopeAttachments true
+AllowStockAttachments true
+AllowGripAttachments true
+NumGenericAttachmentSlots 4

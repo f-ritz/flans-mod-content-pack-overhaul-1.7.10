@@ -1,0 +1,14 @@
+Name Bump Stock
+ShortName BumpStock
+Icon BumpStock
+AttachmentType stock
+Silencer false
+MeleeDamageMultiplier 1.0
+DamageMultiplier 1.0
+SpreadMultiplier 0.8
+RecoilMultiplier 0.7
+BulletSpeedMultiplier 1
+ReloadTimeMultiplier 1.1
+ModeOverride FullAuto
+Model mw.ACOG
+Texture ACOGSight

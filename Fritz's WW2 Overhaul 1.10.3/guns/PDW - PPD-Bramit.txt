@@ -1,0 +1,26 @@
+Name PPD-Bramit
+ShortName PPDBramit
+Ammo 762Tokarev71
+Description 7.62x25mm Tokarev
+ShowDamage true
+ShowReloadTime true
+Icon PPDBramit
+Colour 255 255 255
+ReloadTime 40
+Recoil 4
+Damage 1
+Accuracy 13
+RoundsPerMin 1000
+ShootSound None
+ReloadSound PPSHReload
+Mode FullAuto
+BulletSpeed 7
+Model NewAge.PPD40
+Texture SkinPPD40
+ModelScale 0.15
+AllowAllAttachments true
+AllowBarrelAttachments true
+AllowScopeAttachments true
+AllowStockAttachments true
+AllowGripAttachments true
+NumGenericAttachmentSlots 4

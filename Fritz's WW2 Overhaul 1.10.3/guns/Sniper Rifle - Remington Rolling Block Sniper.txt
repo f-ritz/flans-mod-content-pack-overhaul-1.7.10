@@ -1,0 +1,30 @@
+Name Remington Rolling Block Sniper
+ShortName RemingtonRollingBlockSniper
+Ammo 30Cal1
+Description .30-06
+ShowDamage true
+ShowReloadTime true
+Icon RemingtonRollingBlockSniper
+Colour 255 255 255
+LoadIntoGun 1
+ReloadTime 50
+Recoil 25
+Damage 2
+Accuracy 2
+ShootDelay 20
+ShootSound springfieldShoot
+ReloadSound springfieldReload
+Mode SemiAuto
+BulletSpeed 10
+Scope wwiispringfieldsniper
+ZoomLevel 6
+Model dunk.rrbsniper
+ModelScale 1
+Texture masterskin
+FOVZoomLevel 1.25
+AllowAllAttachments true
+AllowBarrelAttachments true
+AllowScopeAttachments true
+AllowStockAttachments true
+AllowGripAttachments true
+NumGenericAttachmentSlots 4

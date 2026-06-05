@@ -1,0 +1,13 @@
+Name Blue Laser
+ShortName BlueLaser
+Icon BlueLaser
+AttachmentType stock
+Silencer false
+MeleeDamageMultiplier 1.0
+DamageMultiplier 1.0
+SpreadMultiplier 0.95
+RecoilMultiplier 0.95
+BulletSpeedMultiplier 1
+ReloadTimeMultiplier 1
+Model mw.ACOG
+Texture ACOGSight

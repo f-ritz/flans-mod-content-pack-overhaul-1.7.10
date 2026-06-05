@@ -1,0 +1,13 @@
+Name Underwater Barrel
+ShortName UnderwaterBarrel
+Icon UnderwaterBarrel
+AttachmentType barrel
+Silencer false
+MeleeDamageMultiplier 1.0
+DamageMultiplier 1.3
+SpreadMultiplier 3.5
+RecoilMultiplier 0.5
+BulletSpeedMultiplier 0.25
+ReloadTimeMultiplier 1.5
+Model mw.Silencer
+Texture Silencer

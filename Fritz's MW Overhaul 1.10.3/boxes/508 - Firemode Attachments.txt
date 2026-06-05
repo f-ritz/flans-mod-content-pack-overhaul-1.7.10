@@ -1,0 +1,37 @@
+Name Generic (Firemode) Attachments Box
+ShortName fireBox
+TopTexture boxTop
+SideTexture FireBox
+BottomTexture boxBottom
+GunBoxID 508
+Recipe I log B fiberglass F ingotGold
+III
+BFB
+III
+NumGuns 9
+AddGun BurstFireMod 4 redstone
+AddGun AutoFireMod 4 redstone
+AddAmmo SemiAutoMod 4 redstone
+AddGun HVC 4 redstone
+AddAmmo SubsonicConversion 4 redstone
+AddAltAmmo LPConversion 4 redstone
+AddAltAmmo CaselessConversion 4 redstone
+AddGun HollowPoint 4 redstone
+AddAmmo PPConversion 4 redstone
+AddAltAmmo FMJConversion 4 redstone
+AddGun DUConversion 4 redstone
+AddAmmo WThConversion 4 redstone
+AddAltAmmo PoRaConversion 4 redstone
+AddAltAmmo DUPuConversion 4 redstone
+AddGun APConversion 4 redstone
+AddAmmo SAPConversion 4 redstone
+AddAltAmmo CermetCoreConversion 4 redstone
+AddAltAmmo WConversion 4 redstone
+AddGun WPConversion 4 redstone
+AddAmmo ThermobaricConversion 4 redstone
+AddGun WPowderConversion 4 redstone
+AddAmmo TandemRoundConversion 4 redstone
+AddAltAmmo SlugshotConversion 4 redstone
+AddAltAmmo GoldenConversion 4 redstone
+AddGun OpenBoltConversion 4 redstone
+AddAmmo ClosedBoltConversion 4 redstone

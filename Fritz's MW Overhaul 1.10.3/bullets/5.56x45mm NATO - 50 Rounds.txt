@@ -1,0 +1,14 @@
+Name 50 Round 5.56x45mm NATO Magazine
+ShortName 556NATO50
+Model Bullet
+Colour 255 255 255
+Icon 556NATO50
+FallSpeed 0.25
+MaxStackSize 64
+RoundsPerItem 50
+Damage 40
+BreaksGlass True
+HitBoxSize 0.1
+HitSound bullet
+Penetrates True
+SmokeTrail False

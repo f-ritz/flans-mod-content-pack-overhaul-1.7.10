@@ -1,0 +1,13 @@
+Name Police Baton
+ShortName PoliceBaton
+Icon PoliceBaton
+Colour 255 255 255
+ReloadTime 0
+Recoil 0
+Damage 0
+Accuracy 0
+BulletSpeed 0.0
+ShootDelay 0
+ShootSound none
+ReloadSound none
+MeleeDamage 16

@@ -1,0 +1,13 @@
+Name Liquid-Cooled Barrel
+ShortName LiquidCooledBarrel
+Icon LiquidCooledBarrel
+AttachmentType barrel
+Silencer false
+MeleeDamageMultiplier 1.0
+DamageMultiplier 1
+SpreadMultiplier 0.3
+RecoilMultiplier 0.8
+BulletSpeedMultiplier 1
+ReloadTimeMultiplier 2
+Model mw.Silencer
+Texture Silencer

@@ -1,0 +1,6 @@
+Name Full Auto Fire Modification
+ShortName AutoFireMod
+Icon AutoFire
+AttachmentType generic
+Silencer false
+ModeOverride FullAuto

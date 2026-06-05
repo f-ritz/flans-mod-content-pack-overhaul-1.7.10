@@ -1,0 +1,29 @@
+Name Diemaco C7
+ShortName C7
+Ammo 556NATO30
+Icon C7
+Colour 255 255 255
+ReloadTime 40
+Recoil 5
+Damage 1
+Accuracy 5
+RoundsPerMin 800
+ShootSound M14Shoot
+ReloadSound MP44Reload
+Mode FullAuto
+BulletSpeed 10
+Scope c79
+ZoomLevel 3.0
+FOVZoomLevel 1.25
+Model mpack.m164
+ModelScale 0.08
+Texture Skin_Gun_m164
+AllowAllAttachments true
+AllowBarrelAttachments true
+AllowScopeAttachments true
+AllowStockAttachments true
+AllowGripAttachments true
+NumGenericAttachmentSlots 4
+ShowDamage true
+ShowReloadTime true
+Description 5.56x45mm NATO

@@ -1,0 +1,31 @@
+Name MG 5
+ShortName MG5
+Ammo 762NATO500
+Ammo 762NATO250
+Ammo 762NATO100
+Description 7.62x51mm NATO
+Icon MG5
+Colour 255 255 255
+ReloadTime 65
+Recoil 2
+Damage 1
+Accuracy 5
+RoundsPerMin 800
+ShootSound G36Shoot
+DistortSound False
+ReloadSound MG42Reload
+Mode FullAuto
+BulletSpeed 10
+Scope None
+Deployable False
+Model mpack.m249
+ModelScale 0.46
+Texture MG5
+AllowAllAttachments true
+AllowBarrelAttachments true
+AllowScopeAttachments true
+AllowStockAttachments true
+AllowGripAttachments true
+NumGenericAttachmentSlots 4
+ShowDamage true
+ShowReloadTime true

@@ -1,0 +1,28 @@
+Name Gewehr 1887
+ShortName Gewehr1887
+Ammo 792Mauser1
+Description 7.92x57mm Mauser
+ShowDamage true
+ShowReloadTime true
+LoadIntoGun 8
+Icon Gewehr1887
+Colour 255 255 255
+ReloadTime 80
+Recoil 13
+Damage 1.5
+Accuracy 5
+ShootDelay 28
+ShootSound kar98kShoot
+ReloadSound kar98kReload
+Mode SemiAuto
+BulletSpeed 10
+Scope None
+Model dunk.gewehr7184
+ModelScale 1
+Texture masterskin
+AllowAllAttachments true
+AllowBarrelAttachments true
+AllowScopeAttachments true
+AllowStockAttachments true
+AllowGripAttachments true
+NumGenericAttachmentSlots 4

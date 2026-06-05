@@ -1,0 +1,30 @@
+Name SIG P232
+ShortName P232
+Ammo 919NATO20
+Description 9x19mm Parabellum
+Icon P232
+Colour 255 255 255
+ReloadTime 40
+Recoil 3
+Damage 1.5
+Accuracy 2
+ShootDelay 1
+ShootSound SIGP229Shoot
+ReloadSound LugerReload
+Mode SemiAuto
+OneHanded true
+BulletSpeed 10
+Scope None
+ZoomLevel 1.0
+FOVZoomLevel 1.2
+Model mpack.p227r
+ModelScale 0.12
+Texture P232
+AllowAllAttachments true
+AllowBarrelAttachments true
+AllowScopeAttachments true
+AllowStockAttachments true
+AllowGripAttachments true
+NumGenericAttachmentSlots 4
+ShowDamage true
+ShowReloadTime true

@@ -1,0 +1,29 @@
+Name Enfield EM-2
+ShortName EM2
+Ammo 556NATO20
+Icon EM2
+Colour 255 255 255
+ReloadTime 40
+Recoil 3
+Damage 1
+Accuracy 2
+RoundsPerMin 450
+ShootSound M14Shoot
+ReloadSound MP44Reload
+Mode FullAuto
+BulletSpeed 10
+Scope None
+ZoomLevel 1.0
+FOVZoomLevel 1.25
+Model mpack.l85
+ModelScale 0.10
+Texture L85_Orange_TD
+AllowAllAttachments true
+AllowBarrelAttachments true
+AllowScopeAttachments true
+AllowStockAttachments true
+AllowGripAttachments true
+NumGenericAttachmentSlots 4
+ShowDamage true
+ShowReloadTime true
+Description 5.56x45mm NATO

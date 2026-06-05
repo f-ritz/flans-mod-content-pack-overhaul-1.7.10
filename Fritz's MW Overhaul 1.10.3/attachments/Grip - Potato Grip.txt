@@ -1,0 +1,16 @@
+Name Potato Grip
+ShortName PotatoGrip
+Icon PotatoGrip
+AttachmentType grip
+Silencer false
+Flashlight true
+FlashlightRange 10
+FlashlightStrength 12
+MeleeDamageMultiplier 1.0
+DamageMultiplier 1.0
+SpreadMultiplier 0.5
+RecoilMultiplier 0.7
+BulletSpeedMultiplier 1.0
+ReloadTimeMultiplier 1.0
+Model mw.Foregrip
+Texture Foregrip

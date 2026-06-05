@@ -1,0 +1,9 @@
+Name TA-33 ACOG
+ShortName TA33
+Icon ACOGSight
+AttachmentType sights
+Silencer false
+ZoomLevel 6
+ZoomOverlay ta33
+Model mw.ACOG
+Texture ACOGSight

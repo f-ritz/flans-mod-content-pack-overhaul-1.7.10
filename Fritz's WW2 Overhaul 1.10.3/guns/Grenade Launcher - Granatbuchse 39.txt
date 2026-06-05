@@ -1,0 +1,33 @@
+Name Granatbuchse 39
+ShortName Granatbuchse39
+Ammo 40GrenadeBouncy
+Ammo 40GrenadeIncendiary
+Ammo 40GrenadeGas
+Ammo 40GrenadeSticky
+Ammo 40GrenadeSlug
+Ammo 40GrenadeImpact
+Description 40mm Grenade
+ShowDamage true
+ShowReloadTime true
+LoadIntoGun 1
+Icon Granatbuchse39
+Colour 255 255 255
+ReloadTime 60
+Recoil 20
+Damage 1
+Accuracy 10
+ShootDelay 30
+ShootSound kar98kShoot
+ReloadSound kar98kReload
+Mode SemiAuto
+BulletSpeed 10
+Scope None
+Model ww2.Kar98k
+Texture SkinKar98k
+ModelScale 0.6
+AllowAllAttachments true
+AllowBarrelAttachments true
+AllowScopeAttachments true
+AllowStockAttachments true
+AllowGripAttachments true
+NumGenericAttachmentSlots 4

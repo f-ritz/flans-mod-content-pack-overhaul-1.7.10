@@ -1,0 +1,31 @@
+Name Yeltsin APS
+ShortName YeltsinAPS
+Ammo 918Makarov16
+Icon YeltsinAPS
+Colour 255 255 255
+ReloadTime 60
+Recoil 6
+Damage 1.5
+Accuracy 4
+BulletSpeed 10.0
+ShootDelay 4
+ShootSound _ArcaneSPFire
+ReloadSound _RurhicvtsyReload
+Mode SemiAuto
+Scope None
+ZoomLevel 1.0
+FOV ZoomLevel 1.25
+Distort Sound False
+Deployable False
+DeployedModel None
+ModelScale 0.2
+OneHanded False
+Model dwfirearms.ArcaneServicePawgun
+Texture ASpawgun_Standard
+AllowAllAttachments true
+AllowScopeAttachments true
+AllowBarrelAttachments true
+AllowGripAttachments true
+AllowStockAttachments true
+NumGenericAttachmentSlots 4
+Description 9x18mm Makarov

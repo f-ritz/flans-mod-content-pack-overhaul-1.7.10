@@ -1,0 +1,30 @@
+Name L96
+ShortName L96
+Ammo 338Lapua10
+Ammo 338Lapua5
+Icon L96
+Colour 255 255 255
+ReloadTime 70
+Recoil 15
+Damage 2
+Accuracy 2
+ShootDelay 26
+ShootSound L96Shoot
+ReloadSound BARReload
+Mode SemiAuto
+BulletSpeed 10
+Scope mwm40a3
+ZoomLevel 10.0
+FOVZoomLevel 1.0
+Model mpack.l96
+ModelScale 0.75
+Texture Skin_Gun_l96
+AllowAllAttachments true
+AllowBarrelAttachments true
+AllowScopeAttachments true
+AllowStockAttachments true
+AllowGripAttachments true
+NumGenericAttachmentSlots 4
+ShowDamage true
+ShowReloadTime true
+Description .338 Lapua

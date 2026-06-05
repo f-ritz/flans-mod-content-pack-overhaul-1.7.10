@@ -1,0 +1,13 @@
+Name Polonium-Radium Conversion
+ShortName PoRaConversion
+Icon PoRaConversion
+AttachmentType generic
+Silencer false
+MeleeDamageMultiplier 1.0
+DamageMultiplier 5
+SpreadMultiplier 2
+RecoilMultiplier 2
+BulletSpeedMultiplier 0.9
+ReloadTimeMultiplier 2
+Model mw.ACOG
+Texture ACOGSight

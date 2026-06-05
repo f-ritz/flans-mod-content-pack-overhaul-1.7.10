@@ -1,0 +1,17 @@
+Name 13x92mm mmB Cartridge
+ShortName 13MMB1
+Model Bullet
+Colour 255 255 255
+Icon 13MMB1
+FallSpeed 0.25
+MaxStackSize 64
+RoundsPerItem 1
+Damage 132
+BreaksGlass True
+HitBoxSize 0.1
+HitSound bullet
+Penetrates True
+Penetration 25
+SmokeTrail False
+RecipeOutput 64
+ShapelessRecipe 13MMBBox

@@ -1,0 +1,13 @@
+Name Tungsten Barrel
+ShortName TungstenBarrel
+Icon TungstenBarrel
+AttachmentType barrel
+Silencer false
+MeleeDamageMultiplier 1.0
+DamageMultiplier 1.2
+SpreadMultiplier 0.01
+RecoilMultiplier 0.01
+BulletSpeedMultiplier 1.5
+ReloadTimeMultiplier 4.5
+Model mw.Silencer
+Texture Silencer

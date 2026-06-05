@@ -1,0 +1,29 @@
+Name SCAR-L
+ShortName SCARL
+Ammo 556NATO30
+Description 5.56x45mm NATO
+Icon FNSCARL
+Colour 255 255 255
+ReloadTime 30
+Recoil 2
+Damage 1
+Accuracy 3
+RoundsPerMin 625
+ShootSound FNSCARShoot
+ReloadSound MP44Reload
+Mode FullAuto
+BulletSpeed 10
+Scope None
+ZoomLevel 1.0
+FOVZoomLevel 1.25
+Model mpack.scarl
+ModelScale 0.06
+Texture Skin_Gun_Scarl
+AllowAllAttachments true
+AllowBarrelAttachments true
+AllowScopeAttachments true
+AllowStockAttachments true
+AllowGripAttachments true
+NumGenericAttachmentSlots 4
+ShowDamage true
+ShowReloadTime true

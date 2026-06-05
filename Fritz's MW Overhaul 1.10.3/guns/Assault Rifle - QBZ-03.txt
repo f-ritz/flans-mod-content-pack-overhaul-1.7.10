@@ -1,0 +1,29 @@
+Name QBZ-03
+ShortName QBZ03
+Ammo 58PLA30
+Description 5.8x42mm DBP87
+ShowDamage true
+ShowReloadTime true
+Icon QBZ03
+Colour 255 255 255
+ReloadTime 40
+Recoil 2
+Damage 1
+Accuracy 5
+RoundsPerMin 700
+ShootSound AK74Shoot
+ReloadSound MP44Reload
+Mode FullAuto
+BulletSpeed 10
+Scope None
+ZoomLevel 1.0
+FOVZoomLevel 1.25
+Model mpack.saiga12
+ModelScale 0.07
+Texture Skin_Gun_saiga12
+AllowAllAttachments true
+AllowBarrelAttachments true
+AllowScopeAttachments true
+AllowStockAttachments true
+AllowGripAttachments true
+NumGenericAttachmentSlots 4

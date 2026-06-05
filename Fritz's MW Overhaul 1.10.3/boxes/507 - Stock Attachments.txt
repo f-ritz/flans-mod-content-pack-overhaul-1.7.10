@@ -1,0 +1,45 @@
+Name Stock Attachments Box
+ShortName stockBox
+TopTexture boxTop
+SideTexture StockBox
+BottomTexture boxBottom
+GunBoxID 507
+Recipe I log B fiberglass F log
+III
+BFB
+III
+NumGuns 10
+AddGun BlueLaser 4 redstone
+AddAmmo GreenLaser 4 redstone
+AddAltAmmo RedLaser 4 redstone
+AddAltAmmo YellowLaser 4 redstone
+AddAltAmmo PurpleLaser 4 redstone
+AddGun WhiteLaser 4 redstone
+AddAmmo OrangeLaser 4 redstone
+AddAltAmmo TriLaser 12 redstone
+AddAltAmmo RainbowLaser 20 redstone
+AddGun AlphaParticleLaser 4 redstone
+AddAmmo BetaParticleLaser 4 redstone
+AddGun 5GLaser 4 redstone
+AddAmmo 6GLaser 4 redstone
+AddAltAmmo MicrowaveLaser 4 redstone
+AddAltAmmo IRLaser 4 redstone
+AddGun UVALaser 4 redstone
+AddAmmo UVBLaser 4 redstone
+AddAltAmmo UVCLaser 4 redstone
+AddGun XRayLaser 4 redstone
+AddAmmo GammaRayLaser 4 redstone
+AddAltAmmo CosmicRayLaser 4 redstone
+AddAltAmmo DigammaLaser 4 redstone
+AddGun BumpStock 4 log 4 redstone
+AddGun CollapsibleStock 4 ingotIron
+AddAmmo RemoveStock 1 ingotIron
+AddAltAmmo FullStock 4 log 4 ingotIron
+AddGun PolyamideStock 4 ingotIron
+AddAmmo WoodenStock 4 log
+AddAltAmmo PolymerStock 4 ingotIron
+AddAltAmmo HollowStock 2 ingotIron
+AddGun TungstenStock 64 ingotIron
+
+
+

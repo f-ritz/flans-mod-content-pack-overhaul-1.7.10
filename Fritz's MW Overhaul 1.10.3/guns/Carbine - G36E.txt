@@ -1,0 +1,29 @@
+Name G36E
+ShortName G36E
+Ammo 556NATO30
+Icon G36E
+Colour 255 255 255
+ReloadTime 40
+Recoil 2
+Damage 1
+Accuracy 2
+RoundsPerMin 750
+ShootSound G36Shoot
+ReloadSound MP40Reload
+Mode FullAuto
+BulletSpeed 10
+Scope comp
+ZoomLevel 2.0
+FOVZoomLevel 1.0
+Model mpack.g36
+ModelScale 0.11
+Texture Skin_Gun_g36
+AllowAllAttachments true
+AllowBarrelAttachments true
+AllowScopeAttachments true
+AllowStockAttachments true
+AllowGripAttachments true
+NumGenericAttachmentSlots 4
+ShowDamage true
+ShowReloadTime true
+Description 5.56x45mm NATO

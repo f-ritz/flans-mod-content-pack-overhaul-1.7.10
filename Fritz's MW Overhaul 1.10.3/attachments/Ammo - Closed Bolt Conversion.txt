@@ -1,0 +1,13 @@
+Name Closed Bolt Conversion
+ShortName ClosedBoltConversion
+Icon ClosedBoltConversion
+AttachmentType generic
+Silencer false
+MeleeDamageMultiplier 1.0
+DamageMultiplier 1.1
+SpreadMultiplier 0.5
+RecoilMultiplier 0.5
+BulletSpeedMultiplier 1
+ReloadTimeMultiplier 1.5
+Model mw.ACOG
+Texture ACOGSight

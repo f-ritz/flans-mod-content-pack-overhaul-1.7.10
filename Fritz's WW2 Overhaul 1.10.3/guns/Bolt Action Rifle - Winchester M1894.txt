@@ -1,0 +1,28 @@
+Name Winchester M1894
+ShortName WinchesterM1894
+Ammo 32ACP1
+Description .32 ACP
+ShowDamage true
+ShowReloadTime true
+Icon WinchesterM1892
+Colour 255 255 255
+LoadIntoGun 7
+ReloadTime 87
+Recoil 14
+Damage 1.5
+Accuracy 5
+ShootDelay 8
+ShootSound MosinNagantShoot
+ReloadSound kar98kReload
+Mode SemiAuto
+BulletSpeed 10
+Model dunk.1894
+ModelScale 1
+Texture win92skin
+FOVZoomLevel 1.25
+AllowAllAttachments true
+AllowBarrelAttachments true
+AllowScopeAttachments true
+AllowStockAttachments true
+AllowGripAttachments true
+NumGenericAttachmentSlots 4

@@ -1,0 +1,30 @@
+Name Glock 20
+ShortName Glock20
+Ammo 10NATO14
+Icon Glock17
+Colour 255 255 255
+ReloadTime 27
+Recoil 2
+Damage 1.5
+Accuracy 1.5
+ShootDelay 2
+ShootSound GlockShoot
+ReloadSound ColtReload
+Mode SemiAuto
+OneHanded true
+BulletSpeed 1
+Scope None
+ZoomLevel 1.0
+FOVZoomLevel 1.25
+Model mpack.g17
+ModelScale 0.12
+Texture Skin_Gun_g17
+AllowAllAttachments true
+AllowBarrelAttachments true
+AllowScopeAttachments true
+AllowStockAttachments true
+AllowGripAttachments true
+NumGenericAttachmentSlots 4
+ShowDamage true
+ShowReloadTime true
+Description 10x25mm Auto

@@ -1,0 +1,29 @@
+Name AWC G2A
+ShortName AWCG2A
+Ammo 762NATO20
+Icon AWCG2A
+Colour 255 255 255
+ReloadTime 75
+Recoil 15
+Damage 2
+Accuracy 1
+ShootDelay 12
+ShootSound M21Shoot
+ReloadSound BARReload
+Mode SemiAuto
+BulletSpeed 10
+Scope mwm21
+ZoomLevel 10
+FOVZoomLevel 1.0
+Model mpack.dsr
+ModelScale 0.09
+Texture Skin_Gun_dsr
+AllowAllAttachments true
+AllowBarrelAttachments true
+AllowScopeAttachments true
+AllowStockAttachments true
+AllowGripAttachments true
+NumGenericAttachmentSlots 4
+ShowDamage true
+ShowReloadTime true
+Description 7.62x51mm NATO

@@ -1,0 +1,26 @@
+Name M50 Reising
+ShortName M50Reising
+Ammo 45ACP25
+Icon Reising
+Colour 255 255 255
+ReloadTime 40
+Recoil 4
+Damage 1
+Accuracy 3
+RoundsPerMin 450
+ShootSound thompsonShoot
+ReloadSound thompsonReload
+Mode FullAuto
+BulletSpeed 10
+Scope None
+Model ww2.Thompson
+Texture Thompson
+AllowAllAttachments true
+AllowBarrelAttachments true
+AllowScopeAttachments true
+AllowStockAttachments true
+AllowGripAttachments true
+NumGenericAttachmentSlots 4
+Description .45 ACP
+ShowDamage true
+ShowReloadTime true

@@ -1,0 +1,29 @@
+Name PP-19 Bizon
+ShortName PP19
+Ammo 918Makarov53
+Description 9x18mm Makarov
+ShowDamage true
+ShowReloadTime true
+Icon Bizon
+Colour 255 255 255
+ReloadTime 40
+Recoil 3
+Damage 1
+Accuracy 2
+RoundsPerMin 650
+ShootSound P90Shoot
+ReloadSound MP40Reload
+Mode FullAuto
+BulletSpeed 10
+Scope None
+ZoomLevel 1.0
+FOVZoomLevel 1.25
+Model mpack.bizon
+ModelScale 0.07
+Texture Skin_Gun_bizon
+AllowAllAttachments true
+AllowBarrelAttachments true
+AllowScopeAttachments true
+AllowStockAttachments true
+AllowGripAttachments true
+NumGenericAttachmentSlots 4

@@ -1,0 +1,31 @@
+Name Derringer
+ShortName Derringer
+Ammo 38Special1
+Icon Derringer
+Colour 255 255 255
+ReloadTime 60
+Recoil 3
+Damage 2
+Accuracy 6
+ShootDelay 7
+ShootSound webleyShoot
+ReloadSound webleyReload
+LoadIntoGun 2
+Mode SemiAuto
+OneHanded true
+BulletSpeed 10
+Scope None
+ZoomLevel 1.0
+FOVZoomLevel 1.25
+Model dunk.Derringer
+ModelScale 1
+Texture derringer
+AllowAllAttachments true
+AllowBarrelAttachments true
+AllowScopeAttachments true
+AllowStockAttachments true
+AllowGripAttachments true
+NumGenericAttachmentSlots 4
+Description .38 Special
+ShowDamage true
+ShowReloadTime true

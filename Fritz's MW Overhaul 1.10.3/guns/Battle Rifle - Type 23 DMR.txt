@@ -1,0 +1,30 @@
+Name Type 23 DMR
+ShortName Type23
+Ammo 338Lapua5
+Ammo 338Lapua10
+Description .338 Lapua
+Icon Type23
+Colour 255 255 255
+ReloadTime 40
+Recoil 3
+Damage 1
+Accuracy 2
+ShootDelay 5
+ShootSound FNSCARShoot
+ReloadSound MP44Reload
+Mode SemiAuto
+BulletSpeed 10
+Scope None
+ZoomLevel 1.0
+FOVZoomLevel 1.25
+Model mpack.mk20ssr
+ModelScale 0.06
+Texture Type23
+AllowAllAttachments true
+AllowBarrelAttachments true
+AllowScopeAttachments true
+AllowStockAttachments true
+AllowGripAttachments true
+NumGenericAttachmentSlots 4
+ShowDamage true
+ShowReloadTime true

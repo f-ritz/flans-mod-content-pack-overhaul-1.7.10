@@ -1,0 +1,31 @@
+Name Type 26 Revolver
+ShortName Type26Revolver
+Ammo 762Tokarev1
+Icon Type26
+Colour 255 255 255
+ReloadTime 80
+Recoil 7
+Damage 2
+Accuracy 4
+ShootDelay 5
+ShootSound webleyShoot
+ReloadSound webleyReload
+LoadIntoGun 6
+Mode SemiAuto
+OneHanded true
+BulletSpeed 10
+Scope None
+ZoomLevel 1.0
+FOVZoomLevel 1.25
+Model ww2.Webley
+Texture Type26
+ModelScale 0.3
+AllowAllAttachments true
+AllowBarrelAttachments true
+AllowScopeAttachments true
+AllowStockAttachments true
+AllowGripAttachments true
+NumGenericAttachmentSlots 4
+Description 7.62x25mm Tokarev
+ShowDamage true
+ShowReloadTime true

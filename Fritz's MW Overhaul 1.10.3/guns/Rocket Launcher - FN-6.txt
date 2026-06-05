@@ -1,0 +1,25 @@
+Name FN-6
+ShortName FN6
+Ammo StingerMissile
+Icon Panzerfaust3
+Colour 255 255 255
+ReloadTime 80
+Recoil 4
+Damage 1
+Accuracy 3
+ShootDelay 1
+ShootSound RPGShoot
+ReloadSound BazookaReload
+Mode SemiAuto
+Scope None
+Model mw.Panzerfaust3
+Texture Panzerfaust3
+AllowAllAttachments true
+AllowBarrelAttachments true
+AllowScopeAttachments true
+AllowStockAttachments true
+AllowGripAttachments true
+NumGenericAttachmentSlots 4
+Description Stinger Missile
+ShowDamage true
+ShowReloadTime true

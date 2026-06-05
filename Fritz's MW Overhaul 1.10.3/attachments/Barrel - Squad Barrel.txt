@@ -1,0 +1,13 @@
+Name Squad Barrel
+ShortName SquadBarrel
+Icon SquadBarrel
+AttachmentType barrel
+Silencer false
+MeleeDamageMultiplier 1.0
+DamageMultiplier 1
+SpreadMultiplier 0.7
+RecoilMultiplier 0.8
+BulletSpeedMultiplier 1.1
+ReloadTimeMultiplier 1.2
+Model mw.Silencer
+Texture Silencer

@@ -1,0 +1,27 @@
+Name Rashid Carbine
+ShortName RashidCarbine
+Ammo 762Warsaw10
+Description 7.62x39mm WTO
+ShowDamage true
+ShowReloadTime true
+Icon RashidCarbine
+Colour 255 255 255
+ReloadTime 65
+Recoil 4
+Damage 1
+Accuracy 3
+ShootDelay 2
+ShootSound gewehr43Shoot
+ReloadSound m1carbineReload
+Mode SemiAuto
+BulletSpeed 10
+Scope None
+Model ww2.G43
+Texture RashidCarbine
+ModelScale 0.6
+AllowAllAttachments true
+AllowBarrelAttachments true
+AllowScopeAttachments true
+AllowStockAttachments true
+AllowGripAttachments true
+NumGenericAttachmentSlots 4

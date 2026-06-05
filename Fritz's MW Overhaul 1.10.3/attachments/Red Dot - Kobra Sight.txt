@@ -1,0 +1,9 @@
+Name Kobra Sight
+ShortName KobraSight
+Icon RedDotSight
+AttachmentType sights
+Silencer false
+ZoomLevel 2
+ZoomOverlay kobra
+Model mw.RedDot
+Texture RedDotSight

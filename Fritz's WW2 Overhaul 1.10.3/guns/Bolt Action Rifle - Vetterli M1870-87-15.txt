@@ -1,0 +1,28 @@
+Name Vetterli M1870/87/15
+ShortName VetterliM18708715
+Ammo 65Carcano1
+Description 6.5x52mm Carcano
+LoadIntoGun 6
+Icon Vetterli
+Colour 255 255 255
+ReloadTime 80
+Recoil 5
+Damage 1.5
+Accuracy 3
+ShootDelay 22
+ShootSound MosinNagantShoot
+ReloadSound kar98kReload
+Mode SemiAuto
+BulletSpeed 10
+Scope None
+Model moneybuster.Carcano
+Texture Skin_Gun_Carcano
+ModelScale 0.18
+AllowAllAttachments true
+AllowBarrelAttachments true
+AllowScopeAttachments true
+AllowStockAttachments true
+AllowGripAttachments true
+NumGenericAttachmentSlots 4
+ShowDamage true
+ShowReloadTime true

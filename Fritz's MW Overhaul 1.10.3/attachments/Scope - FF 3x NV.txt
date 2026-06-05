@@ -1,0 +1,9 @@
+Name FF 3x NV
+ShortName FF3xNV
+Icon 4xScope
+AttachmentType sights
+Silencer false
+ZoomLevel 3
+ZoomOverlay f88sa1
+Model mw.4xScope
+Texture 4xScope

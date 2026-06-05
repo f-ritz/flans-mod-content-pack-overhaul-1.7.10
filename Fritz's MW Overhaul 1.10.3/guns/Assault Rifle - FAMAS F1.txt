@@ -1,0 +1,29 @@
+Name FAMAS F1
+ShortName FAMAS
+Ammo 556NATO20
+Icon FAMAS
+Colour 255 255 255
+ReloadTime 40
+Recoil 5
+Damage 1
+Accuracy 5
+RoundsPerMin 1100
+ShootSound M14Shoot
+ReloadSound MP44Reload
+Mode FullAuto
+BulletSpeed 10
+Scope None
+ZoomLevel 1.0
+FOVZoomLevel 1.25
+Model mpack.famas
+ModelScale 0.11
+Texture FAMAS
+AllowAllAttachments true
+AllowBarrelAttachments true
+AllowScopeAttachments true
+AllowStockAttachments true
+AllowGripAttachments true
+NumGenericAttachmentSlots 4
+ShowDamage true
+ShowReloadTime true
+Description 5.56x45mm NATO

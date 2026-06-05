@@ -1,0 +1,13 @@
+Name Cermet Core Conversion
+ShortName CermetCoreConversion
+Icon CermetCoreConversion
+AttachmentType generic
+Silencer false
+MeleeDamageMultiplier 1.0
+DamageMultiplier 1.75
+SpreadMultiplier 0.8
+RecoilMultiplier 1.15
+BulletSpeedMultiplier 1.15
+ReloadTimeMultiplier 0.95
+Model mw.ACOG
+Texture ACOGSight

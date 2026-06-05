@@ -1,0 +1,28 @@
+Name Henry M1860
+ShortName HenryM1860
+Ammo 44Magnum1
+Description .44 Magnum
+ShowDamage true
+ShowReloadTime true
+Icon HenryM1860
+Colour 255 255 255
+LoadIntoGun 16
+ReloadTime 90
+Recoil 17
+Damage 1.5
+Accuracy 8
+ShootDelay 10
+ShootSound MosinNagantShoot
+ReloadSound kar98kReload
+Mode SemiAuto
+BulletSpeed 10
+Model dunk.M1860Henry
+ModelScale 1.2
+Texture Skin_Gun_M1860Henry
+FOVZoomLevel 1.25
+AllowAllAttachments true
+AllowBarrelAttachments true
+AllowScopeAttachments true
+AllowStockAttachments true
+AllowGripAttachments true
+NumGenericAttachmentSlots 4

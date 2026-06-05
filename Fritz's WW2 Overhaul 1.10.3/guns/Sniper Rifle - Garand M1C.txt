@@ -1,0 +1,28 @@
+Name Garand M1C
+ShortName GarandM1C
+Ammo 30Cal8
+Icon GarandM1C
+Description .30 Cal
+ShowDamage true
+ShowReloadTime true
+Colour 255 255 255
+ReloadTime 35
+Recoil 6
+Damage 2
+Accuracy 1
+ShootDelay 2
+ShootSound m1garandShoot
+ReloadSound m1garandReload
+Mode SemiAuto
+BulletSpeed 10
+Scope wwiispringfieldsniper
+ZoomLevel 6
+Model ww2.SpringfieldSniper
+Texture SpringfieldSniper
+ModelScale 0.35
+AllowAllAttachments true
+AllowBarrelAttachments true
+AllowScopeAttachments true
+AllowStockAttachments true
+AllowGripAttachments true
+NumGenericAttachmentSlots 4

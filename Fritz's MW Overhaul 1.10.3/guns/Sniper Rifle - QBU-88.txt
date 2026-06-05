@@ -1,0 +1,29 @@
+Name QBU-88
+ShortName QBU88
+Ammo 58PLA30
+Description 5.8x42mm DBP87
+Icon QBU88
+ShowDamage true
+ShowReloadTime true
+Colour 255 255 255
+ReloadTime 70
+Recoil 19
+Damage 2
+Accuracy 1
+ShootDelay 10
+ShootSound M21Shoot
+ReloadSound BARReload
+Mode SemiAuto
+BulletSpeed 10
+Scope mwm21
+ZoomLevel 10.0
+FOVZoomLevel 1.0
+Model mpack.dsr
+ModelScale 0.09
+Texture Skin_Gun_dsr
+AllowAllAttachments true
+AllowBarrelAttachments true
+AllowScopeAttachments true
+AllowStockAttachments true
+AllowGripAttachments true
+NumGenericAttachmentSlots 4

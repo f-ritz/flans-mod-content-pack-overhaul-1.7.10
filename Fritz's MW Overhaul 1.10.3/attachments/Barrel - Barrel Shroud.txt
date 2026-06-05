@@ -1,0 +1,13 @@
+Name Barrel Shroud
+ShortName BarrelShroud
+Icon BarrelShroud
+AttachmentType barrel
+Silencer false
+MeleeDamageMultiplier 1.0
+DamageMultiplier 1.4
+SpreadMultiplier 2
+RecoilMultiplier 1.2
+BulletSpeedMultiplier 1
+ReloadTimeMultiplier 0.8
+Model mw.Silencer
+Texture Silencer

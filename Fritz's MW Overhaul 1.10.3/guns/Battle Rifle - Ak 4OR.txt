@@ -1,0 +1,29 @@
+Name Ak 4OR
+ShortName AK4OR
+Ammo 762NATO20
+Icon AK4D
+Colour 255 255 255
+ReloadTime 40
+Recoil 3
+Damage 1
+Accuracy 2
+RoundsPerMin 600
+ShootSound M14Shoot
+ReloadSound ThompsonReload
+Mode FullAuto
+BulletSpeed 10
+Scope g36
+ZoomLevel 3
+FOVZoomLevel 1.25
+Model mpack.g3
+ModelScale 0.12
+Texture AK4
+AllowAllAttachments true
+AllowBarrelAttachments true
+AllowScopeAttachments true
+AllowStockAttachments true
+AllowGripAttachments true
+NumGenericAttachmentSlots 4
+ShowDamage true
+ShowReloadTime true
+Description 7.62x51mm NATO

@@ -1,0 +1,9 @@
+Name SUSAT Scope
+ShortName SUSATScope
+Icon ACOGSight
+AttachmentType sights
+Silencer false
+ZoomLevel 4.8
+ZoomOverlay SUSATScope
+Model mw.ACOG
+Texture ACOGSight

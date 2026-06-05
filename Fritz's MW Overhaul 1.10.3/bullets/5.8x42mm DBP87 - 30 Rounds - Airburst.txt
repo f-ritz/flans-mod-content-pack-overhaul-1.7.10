@@ -1,0 +1,17 @@
+Name 30 Round 5.8x42mm DBP87 Magazine (HE)
+ShortName 58PLA30HE
+Model Bullet
+Colour 255 255 255
+Description Special ammo for the QBZ-191
+Icon 58PLA30HE
+FallSpeed 0.25
+MaxStackSize 64
+RoundsPerItem 30
+Damage 45
+Explosion 1
+ExplodeOnImpact True
+BreaksGlass True
+HitBoxSize 0.1
+HitSound bullet
+Penetrates True
+SmokeTrail False

@@ -1,0 +1,6 @@
+Name Box of 12 Gauge Buckshot Shells
+ShortName 12GaugeShellBox
+Icon ShotgunBox
+Colour 255 255 255
+Category Misc
+StackSize 64

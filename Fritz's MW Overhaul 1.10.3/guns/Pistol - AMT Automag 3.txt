@@ -1,0 +1,30 @@
+Name AMT AutoMag III
+ShortName AMTAutomag3
+Ammo 30Carbine8
+Icon AMTAutomag3
+Colour 255 255 255
+ReloadTime 40
+Recoil 7
+Damage 1.5
+Accuracy 4
+ShootDelay 1
+ShootSound DesertEagleShoot
+ReloadSound LugerReload
+Mode SemiAuto
+BulletSpeed 10
+OneHanded true
+Scope None
+ZoomLevel 1.0
+FOVZoomLevel 1.2
+Model mw.DesertEagle
+ModelScale 0.8
+Texture AMTAutomag3
+AllowAllAttachments true
+AllowBarrelAttachments true
+AllowScopeAttachments true
+AllowStockAttachments true
+AllowGripAttachments true
+NumGenericAttachmentSlots 4
+Description .30 Carbine
+ShowDamage true
+ShowReloadTime true

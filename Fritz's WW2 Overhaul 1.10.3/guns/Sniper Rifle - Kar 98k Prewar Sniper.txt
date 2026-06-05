@@ -1,0 +1,29 @@
+Name Prewar Kar 98k Sniper
+ShortName Kar98KPSniper
+Ammo 792Mauser1
+Description 7.92x57mm Mauser
+ShowDamage true
+ShowReloadTime true
+LoadIntoGun 5
+Icon Kar98KPSniper
+Colour 255 255 255
+ReloadTime 60
+Recoil 32
+Damage 2
+Accuracy 1
+ShootDelay 30
+ShootSound kar98kSniperShoot
+ReloadSound kar98kReload
+Mode SemiAuto
+BulletSpeed 10
+Scope wwiikar98ksniper
+ZoomLevel 8
+Model ww2.Kar98kSniper
+Texture Kar98KP
+ModelScale 0.6
+AllowAllAttachments true
+AllowBarrelAttachments true
+AllowScopeAttachments true
+AllowStockAttachments true
+AllowGripAttachments true
+NumGenericAttachmentSlots 4

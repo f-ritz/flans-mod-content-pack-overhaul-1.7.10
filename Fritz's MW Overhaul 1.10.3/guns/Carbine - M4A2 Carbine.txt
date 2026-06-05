@@ -1,0 +1,31 @@
+Name M4A2 Carbine
+ShortName M4A2Carbine
+Ammo 556NATO30
+Description 5.56x45mm NATO
+Icon M4Carbine
+Colour 255 255 255
+ReloadTime 40
+Recoil 3
+Damage 1
+Accuracy 4
+RoundsPerMin 1175
+ShootSound M4CarbineShoot
+ReloadSound M4CarbineReload
+Mode Burst
+NumBurstRounds 3
+OneHanded False
+BulletSpeed 10
+Scope None
+ZoomLevel 1.0
+FOVZoomLevel 1.25
+Model mpack.m4a1
+ModelScale 0.08
+Texture Skin_Gun_m4a1
+AllowAllAttachments true
+AllowBarrelAttachments true
+AllowScopeAttachments true
+AllowStockAttachments true
+AllowGripAttachments true
+NumGenericAttachmentSlots 4
+ShowDamage true
+ShowReloadTime true

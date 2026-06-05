@@ -1,0 +1,6 @@
+Name Single Fire Modification
+ShortName SemiAutoMod
+Icon SingleFire
+AttachmentType generic
+Silencer false
+ModeOverride SemiAuto

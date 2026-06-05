@@ -1,0 +1,31 @@
+Name MP-443 Grach
+ShortName MP443
+Ammo 919NATO15
+Description 9x19mm Parabellum
+Icon MP443
+Colour 255 255 255
+ReloadTime 30
+Recoil 1
+NumBullets 1
+Damage 1.5
+Accuracy 4
+ShootDelay 1
+ShootSound M9Shoot
+ReloadSound ColtReload
+Mode SemiAuto
+OneHanded true
+BulletSpeed 10
+Scope None
+ZoomLevel 1.0
+FOVZoomLevel 1.2
+Model mpack.qsz92
+ModelScale 0.12
+Texture QSZ92
+AllowAllAttachments true
+AllowBarrelAttachments true
+AllowScopeAttachments true
+AllowStockAttachments true
+AllowGripAttachments true
+NumGenericAttachmentSlots 4
+ShowDamage true
+ShowReloadTime true

@@ -1,0 +1,31 @@
+Name Bentley M1853
+ShortName BentleyM1853
+Ammo 44Magnum1
+Icon BentleyM1853
+Colour 255 255 255
+ReloadTime 80
+Recoil 4
+Damage 2
+Accuracy 8
+ShootDelay 7
+ShootSound webleyShoot
+ReloadSound webleyReload
+LoadIntoGun 5
+Mode SemiAuto
+OneHanded true
+BulletSpeed 10
+Scope None
+ZoomLevel 1.0
+FOVZoomLevel 1.25
+Model dunk.dunkwebly
+ModelScale 1
+Texture masterskin
+AllowAllAttachments true
+AllowBarrelAttachments true
+AllowScopeAttachments true
+AllowStockAttachments true
+AllowGripAttachments true
+NumGenericAttachmentSlots 4
+Description .44 Magnum
+ShowDamage true
+ShowReloadTime true

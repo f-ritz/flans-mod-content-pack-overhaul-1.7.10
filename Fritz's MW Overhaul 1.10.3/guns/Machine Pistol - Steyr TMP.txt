@@ -1,0 +1,30 @@
+Name Steyr TMP
+ShortName SteyrTMP
+Ammo 919NATO15
+Description 9x19mm Parabellum
+Icon MiniUzi
+Colour 255 255 255
+ReloadTime 40
+Recoil 2
+Damage 1.25
+Accuracy 3
+RoundsPerMin 850
+ShootSound M9Shoot
+ReloadSound ColtReload
+Mode FullAuto
+OneHanded true
+BulletSpeed 10
+Scope None
+ZoomLevel 1.0
+FOVZoomLevel 1.25
+Model mpack.uzi
+ModelScale 0.11
+Texture Skin_Gun_uzi
+AllowAllAttachments true
+AllowBarrelAttachments true
+AllowScopeAttachments true
+AllowStockAttachments true
+AllowGripAttachments true
+NumGenericAttachmentSlots 4
+ShowDamage true
+ShowReloadTime true

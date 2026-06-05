@@ -1,0 +1,29 @@
+Name MAS 49
+ShortName MAS49
+Ammo 792Mauser10
+Ammo 792Mauser15
+Ammo 792Mauser20
+Description 7.92x57mm Mauser
+ShowDamage true
+ShowReloadTime true
+Icon MAS49
+Colour 255 255 255
+ReloadTime 65
+Recoil 6
+Damage 1
+Accuracy 1
+ShootDelay 2
+ShootSound gewehr43Shoot
+ReloadSound m1carbineReload
+Mode SemiAuto
+BulletSpeed 10
+Scope None
+Model ww2.G43
+Texture MAS49
+ModelScale 0.6
+AllowAllAttachments true
+AllowBarrelAttachments true
+AllowScopeAttachments true
+AllowStockAttachments true
+AllowGripAttachments true
+NumGenericAttachmentSlots 4

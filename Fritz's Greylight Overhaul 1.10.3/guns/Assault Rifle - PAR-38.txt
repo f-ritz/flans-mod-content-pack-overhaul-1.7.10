@@ -1,0 +1,31 @@
+Name PAR-38
+ShortName PAR38
+Ammo 68NATO25
+Icon PAR38
+Colour 255 255 255
+ReloadTime 70
+Recoil 6
+Damage 1
+Accuracy 3
+BulletSpeed 10
+RoundsPerMin 720
+ShootSound _PAR38Fire
+ReloadSound _PAR38Reload
+Mode FullAuto
+Scope None
+ZoomLevel 1.0
+FOV ZoomLevel 1.25
+Distort Sound False
+Deployable False
+DeployedModel None
+ModelScale 0.2
+OneHanded False
+Model dwfirearms.PAR38
+Texture PAR38_Standard
+NumGenericAttachmentSlots 4
+AllowGripAttachments true
+AllowScopeAttachments true
+AllowStockAttachments true
+AllowBarrelAttachments true
+AllowAllAttachments true
+Description 6.8x51mm NATO

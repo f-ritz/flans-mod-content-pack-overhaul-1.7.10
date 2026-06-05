@@ -1,0 +1,29 @@
+Name PIAT
+ShortName PIAT
+Ammo 84RocketI
+Ammo 84RocketAP
+Ammo 84RocketHE
+Ammo 84Rocket
+Description 84mm Rocket
+ShowDamage true
+ShowReloadTime true
+Icon PIAT
+Colour 255 255 255
+ReloadTime 80
+Recoil 7
+Damage 1
+Accuracy 3
+ShootDelay 5
+ShootSound bazookaShoot
+ReloadSound bazookaReload
+Mode SemiAuto
+Scope None
+Model ww2.PIAT
+Texture PIAT
+ModelScale 0.7
+AllowAllAttachments true
+AllowBarrelAttachments true
+AllowScopeAttachments true
+AllowStockAttachments true
+AllowGripAttachments true
+NumGenericAttachmentSlots 4

@@ -1,0 +1,28 @@
+Name Berdan II
+ShortName BerdanII
+Ammo 11Chassepot1
+Description 11x59mm Gras
+LoadIntoGun 1
+Icon BerdanII
+Colour 255 255 255
+ReloadTime 50
+Recoil 20
+Damage 1.5
+Accuracy 3
+ShootDelay 15
+ShootSound MosinNagantShoot
+ReloadSound kar98kReload
+Mode SemiAuto
+BulletSpeed 10
+Scope None
+Model NewAge.Berdan2
+Texture SkinBerdan2
+ModelScale 1.06
+AllowAllAttachments true
+AllowBarrelAttachments true
+AllowScopeAttachments true
+AllowStockAttachments true
+AllowGripAttachments true
+NumGenericAttachmentSlots 4
+ShowDamage true
+ShowReloadTime true

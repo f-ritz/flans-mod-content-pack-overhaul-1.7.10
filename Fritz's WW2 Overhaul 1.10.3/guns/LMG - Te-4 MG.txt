@@ -1,0 +1,27 @@
+Name Te-4
+ShortName Te4
+Ammo 77Arisaka69
+Description 7.7x58mm Arisaka
+ShowDamage true
+ShowReloadTime true
+Icon Te4
+Colour 255 255 255
+ReloadTime 80
+Recoil 4
+Damage 1
+Accuracy 9
+RoundsPerMin 800
+ShootSound BrenShoot
+ReloadSound DP28Reload
+Mode FullAuto
+BulletSpeed 10
+Scope None
+Model W44.DT28
+Texture Skin44_DT28
+ModelScale 1.1
+AllowAllAttachments true
+AllowBarrelAttachments true
+AllowScopeAttachments true
+AllowStockAttachments true
+AllowGripAttachments true
+NumGenericAttachmentSlots 4

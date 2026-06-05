@@ -1,0 +1,33 @@
+Name Jatimatic
+ShortName Jatimatic
+Ammo 919NATO40
+Ammo 919NATO33
+Ammo 919NATO30
+Ammo 919NATO20
+Description 9x19mm Parabellum
+Icon Jatimatic
+Colour 255 255 255
+ReloadTime 30
+Recoil 2
+Damage 1
+Accuracy 3
+RoundsPerMin 600
+ShootSound M9Shoot
+ReloadSound ColtReload
+Mode FullAuto
+OneHanded true
+BulletSpeed 10
+Scope None
+ZoomLevel 1.0
+FOVZoomLevel 1.2
+Model mpack.tec9
+ModelScale 0.11
+Texture Skin_Gun_tec9
+AllowAllAttachments true
+AllowBarrelAttachments true
+AllowScopeAttachments true
+AllowStockAttachments true
+AllowGripAttachments true
+NumGenericAttachmentSlots 4
+ShowDamage true
+ShowReloadTime true

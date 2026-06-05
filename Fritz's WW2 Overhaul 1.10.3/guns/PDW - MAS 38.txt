@@ -1,0 +1,26 @@
+Name MAS 38
+ShortName MAS38
+Ammo 765Para32
+Icon MAS38
+Colour 255 255 255
+ReloadTime 40
+Recoil 4
+Damage 1
+Accuracy 4
+RoundsPerMin 650
+ShootSound thompsonShoot
+ReloadSound thompsonReload
+Mode FullAuto
+BulletSpeed 10
+Scope None
+Model ww2.Thompson
+Texture MAS38
+AllowAllAttachments true
+AllowBarrelAttachments true
+AllowScopeAttachments true
+AllowStockAttachments true
+AllowGripAttachments true
+NumGenericAttachmentSlots 4
+Description 7.65x21mm Parabellum
+ShowDamage true
+ShowReloadTime true

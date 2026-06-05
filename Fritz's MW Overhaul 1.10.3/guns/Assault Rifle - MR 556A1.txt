@@ -1,0 +1,29 @@
+Name MR 556A1
+ShortName MR556A1
+Ammo 556NATO30
+Icon HK416
+Colour 255 255 255
+ReloadTime 40
+Recoil 1
+Damage 1
+Accuracy 1
+RoundsPerMin 850
+ShootSound M14Shoot
+ReloadSound MP44Reload
+Mode SemiAuto
+BulletSpeed 10.0
+Scope None
+ZoomLevel 1.0
+FOVZoomLevel 1.25
+Model mpack.hk416
+ModelScale 0.09
+Texture Skin_Gun_hk416
+AllowAllAttachments true
+AllowBarrelAttachments true
+AllowScopeAttachments true
+AllowStockAttachments true
+AllowGripAttachments true
+NumGenericAttachmentSlots 4
+ShowDamage true
+ShowReloadTime true
+Description 5.56x45mm NATO

@@ -1,0 +1,29 @@
+Name vz.59
+ShortName VZ59
+Ammo 762Warsaw20
+Ammo 762Warsaw30
+Ammo 762Warsaw45
+Description 7.62x39mm WTO
+Icon HM1922
+Colour 255 255 255
+ReloadTime 50
+Recoil 3
+Damage 1
+Accuracy 6
+RoundsPerMin 800
+ShootSound MG42Shoot
+ReloadSound BARReload
+Mode FullAuto
+BulletSpeed 10
+Scope None
+Model W44.BAR
+Texture Skin44_BAR
+ModelScale 0.25
+AllowAllAttachments true
+AllowBarrelAttachments true
+AllowScopeAttachments true
+AllowStockAttachments true
+AllowGripAttachments true
+NumGenericAttachmentSlots 4
+ShowDamage true
+ShowReloadTime true

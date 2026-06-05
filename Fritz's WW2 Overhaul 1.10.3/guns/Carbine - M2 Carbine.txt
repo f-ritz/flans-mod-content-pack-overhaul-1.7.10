@@ -1,0 +1,27 @@
+Name M2 Carbine
+ShortName M2Carbine
+Ammo 30Carbine30
+Icon M2Carbine
+Description .30 Carbine
+ShowDamage true
+ShowReloadTime true
+Colour 255 255 255
+ReloadTime 60
+Recoil 4
+Damage 1
+Accuracy 4
+RoundsPerMin 775
+ShootSound m1carbineShoot
+ReloadSound m1carbineReload
+Mode FullAuto
+BulletSpeed 10
+Scope None
+Model NewAge.M2Carbine
+Texture SkinM2Carbine
+ModelScale 0.8
+AllowAllAttachments true
+AllowBarrelAttachments true
+AllowScopeAttachments true
+AllowStockAttachments true
+AllowGripAttachments true
+NumGenericAttachmentSlots 4

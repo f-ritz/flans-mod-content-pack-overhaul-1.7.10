@@ -1,0 +1,34 @@
+Name AD-3
+ShortName AD3
+Ammo 556NATO100
+Ammo 556NATO250
+Ammo 556NATO500
+Icon AD3
+Colour 255 255 255
+ReloadTime 120
+Recoil 4
+Damage 1
+Accuracy 12
+NumBullets 2
+BulletSpeed 10.0
+RoundsPerMin 600
+ShootSound _MparFire
+ReloadSound _AirmareReload
+Mode FullAuto
+Scope None
+ZoomLevel 1.0
+FOV ZoomLevel 1.25
+Distort Sound False
+Deployable False
+DeployedModel None
+ModelScale 0.2
+OneHanded False
+Model dwfirearms.AirmareDefender
+Texture AirmareDefender_Standard
+AllowAllAttachments true
+AllowScopeAttachments true
+AllowBarrelAttachments true
+AllowGripAttachments true
+AllowStockAttachments true
+NumGenericAttachmentSlots 4
+Description 5.56x45mm NATO

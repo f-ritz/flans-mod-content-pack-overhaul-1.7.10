@@ -1,0 +1,28 @@
+Name Gewehr 1871/84
+ShortName Gewehr187184
+Ammo 792Mauser1
+Description 7.92x57mm Mauser
+ShowDamage true
+ShowReloadTime true
+LoadIntoGun 8
+Icon Gewehr71
+Colour 255 255 255
+ReloadTime 70
+Recoil 15
+Damage 1.5
+Accuracy 6
+ShootDelay 30
+ShootSound kar98kShoot
+ReloadSound kar98kReload
+Mode SemiAuto
+BulletSpeed 10
+Scope None
+Model dunk.gewehr7184
+ModelScale 1
+Texture masterskin
+AllowAllAttachments true
+AllowBarrelAttachments true
+AllowScopeAttachments true
+AllowStockAttachments true
+AllowGripAttachments true
+NumGenericAttachmentSlots 4

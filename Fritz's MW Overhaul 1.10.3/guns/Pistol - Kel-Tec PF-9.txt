@@ -1,0 +1,30 @@
+Name Kel-Tec PF-9
+ShortName KeltecPF9
+Ammo 919NATO20
+Description 9x19mm Parabellum
+Icon KeltecPF9
+Colour 255 255 255
+ReloadTime 40
+Recoil 5
+Damage 1.5
+Accuracy 3
+ShootDelay 1
+ShootSound SIGP229Shoot
+ReloadSound LugerReload
+Mode SemiAuto
+OneHanded true
+BulletSpeed 10
+Scope None
+ZoomLevel 1.0
+FOVZoomLevel 1.2
+Model mpack.p227r
+ModelScale 0.12
+Texture P227R
+AllowAllAttachments true
+AllowBarrelAttachments true
+AllowScopeAttachments true
+AllowStockAttachments true
+AllowGripAttachments true
+NumGenericAttachmentSlots 4
+ShowDamage true
+ShowReloadTime true

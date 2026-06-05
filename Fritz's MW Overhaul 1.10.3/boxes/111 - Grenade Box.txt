@@ -1,0 +1,44 @@
+Name Weapons Box - Grenades
+ShortName WeaponsBoxGrenades
+TopTexture WeaponsBoxTop
+SideTexture WeaponsBoxGrenades
+BottomTexture WeaponsBoxBottom
+GunBoxID 111
+Recipe I log G dyePowder.11 F fiberglass
+III
+FGF
+III
+NumGuns 31
+AddGun M560Grenade 1 redstone
+AddGun NR20 1 redstone
+AddGun T13Impact 1 redstone
+AddGun M26Frag 1 redstone
+AddGun L2A2Frag 1 redstone
+AddGun Type91WP 1 redstone
+AddGun DM51 1 redstone
+AddGun OD82 1 redstone
+AddGun RGD5 1 redstone
+AddGun RG42 1 redstone
+AddGun F1Frag 1 redstone
+AddGun RGNUDZS 1 redstone
+AddGun RGOUDZS 1 redstone
+AddGun R7ShockGrenade 1 redstone
+AddGun M214FragGrenade 1 redstone
+AddGun QPSmokeBomb 1 redstone
+AddGun CanisterGrenade 1 redstone
+AddGun AGSConcussionBomb 1 redstone
+AddGun MP75Frag 1 redstone
+AddGun MP75IGrenade 1 redstone
+AddGun M67Grenade 1 Gunmetal
+AddGun MolotovCocktail 1 redstone
+AddGun Type97Grenade 1 Gunmetal
+AddGun BombaAMano42 1 Gunmetal
+AddGun MillsBomb 1 Gunmetal
+AddGun Mk2FragGrenade 1 Gunmetal
+AddGun RGD33 1 Gunmetal
+AddGun Stielhandgranate 1 Gunmetal
+AddGun M18Claymore 1 Gunmetal
+AddGun C4Remote 1 Gunmetal 1 redstone
+AddAmmo C4PlasticExplosive 1 redstone
+AddGun RHARemote 1 redstone
+AddAmmo RHAExplosive 1 redstone

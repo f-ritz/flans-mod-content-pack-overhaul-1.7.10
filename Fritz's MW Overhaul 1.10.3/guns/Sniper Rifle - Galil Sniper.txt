@@ -1,0 +1,28 @@
+Name Galil Sniper
+ShortName GalilSniper
+Ammo 762NATO20
+Icon GalilSniper
+Colour 255 255 255
+ReloadTime 42
+Recoil 3
+Damage 2
+Accuracy 2
+ShootDelay 2
+ShootSound M14Shoot
+ReloadSound MP44Reload
+Mode SemiAuto
+BulletSpeed 10
+Scope mwm40a3
+ZoomLevel 6
+Model mpack.galilarm
+ModelScale 0.13
+Texture Skin_Gun_galilarm
+AllowAllAttachments true
+AllowBarrelAttachments true
+AllowScopeAttachments true
+AllowStockAttachments true
+AllowGripAttachments true
+NumGenericAttachmentSlots 2
+ShowDamage true
+ShowReloadTime true
+Description 7.62x51mm NATO

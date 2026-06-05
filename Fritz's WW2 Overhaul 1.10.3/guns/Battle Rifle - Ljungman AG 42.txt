@@ -1,0 +1,28 @@
+Name Ljungman AG 42
+ShortName LjungmanAG42
+Ammo 65Carcano1
+LoadIntoGun 10
+Description 6.5x52mm Carcano
+ShowDamage true
+ShowReloadTime true
+Icon LjungmanAG42
+Colour 255 255 255
+ReloadTime 65
+Recoil 9
+Damage 1
+Accuracy 1
+ShootDelay 2
+ShootSound gewehr43Shoot
+ReloadSound m1carbineReload
+Mode SemiAuto
+BulletSpeed 10
+Scope None
+Model ww2.G43
+Texture LjungmanAG42
+ModelScale 0.6
+AllowAllAttachments true
+AllowBarrelAttachments true
+AllowScopeAttachments true
+AllowStockAttachments true
+AllowGripAttachments true
+NumGenericAttachmentSlots 4

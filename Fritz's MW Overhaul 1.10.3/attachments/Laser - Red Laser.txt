@@ -1,0 +1,13 @@
+Name Red Laser
+ShortName RedLaser
+Icon RedLaser
+AttachmentType stock
+Silencer false
+MeleeDamageMultiplier 1.0
+DamageMultiplier 1.0
+SpreadMultiplier 1
+RecoilMultiplier 0.8
+BulletSpeedMultiplier 1
+ReloadTimeMultiplier 1
+Model mw.ACOG
+Texture ACOGSight

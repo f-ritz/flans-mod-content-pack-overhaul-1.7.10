@@ -1,0 +1,28 @@
+Name Scotti mod.10
+ShortName SM10
+Ammo 65Carcano1
+Description 6.5x52mm Carcano
+LoadIntoGun 6
+ShowDamage true
+ShowReloadTime true
+Icon SM10
+Colour 255 255 255
+ReloadTime 60
+Recoil 12
+Damage 1.5
+Accuracy 3
+ShootDelay 15
+ShootSound kar98kShoot
+ReloadSound kar98kReload
+Mode SemiAuto
+BulletSpeed 10
+Scope None
+Model ww2.Kar98k
+Texture SM10
+ModelScale 0.6
+AllowAllAttachments true
+AllowBarrelAttachments true
+AllowScopeAttachments true
+AllowStockAttachments true
+AllowGripAttachments true
+NumGenericAttachmentSlots 4

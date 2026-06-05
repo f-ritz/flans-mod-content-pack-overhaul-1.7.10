@@ -1,0 +1,9 @@
+Name Pro 3-9x Scope
+ShortName Pro39xScope
+Icon 4xScope
+AttachmentType sights
+Silencer false
+ZoomLevel 9
+ZoomOverlay Pro39xScope
+Model mw.4xScope
+Texture 4xScope

@@ -1,0 +1,27 @@
+Name M1941 Johnson LMG
+ShortName M1941LMG
+Ammo 30Cal30
+Description .30-06
+ShowDamage true
+ShowReloadTime true
+Icon M1941LMG
+Colour 255 255 255
+ReloadTime 60
+Recoil 4
+Damage 1
+Accuracy 6
+RoundsPerMin 600
+ShootSound Fg42Shoot
+ReloadSound Fg42Reload
+Mode FullAuto
+BulletSpeed 10
+Scope None
+Model W44.Fg42
+Texture SkinFG42
+ModelScale 0.85
+AllowAllAttachments true
+AllowBarrelAttachments true
+AllowScopeAttachments true
+AllowStockAttachments true
+AllowGripAttachments true
+NumGenericAttachmentSlots 4

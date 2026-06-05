@@ -1,0 +1,6 @@
+Name Box of 14.5x115mm WTO Cartridges
+ShortName 145WarsawBox
+Icon CartridgeBox
+Colour 255 255 255
+Category Misc
+StackSize 64

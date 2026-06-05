@@ -1,0 +1,27 @@
+Name Type 92 LMG
+ShortName Type92
+Ammo 77Arisaka30
+Description 7.7x58mm Arisaka
+ShowDamage true
+ShowReloadTime true
+Icon Type92
+Colour 255 255 255
+ReloadTime 80
+Recoil 6
+Damage 1
+Accuracy 10
+RoundsPerMin 450
+ShootSound DP28Shoot
+ReloadSound DP28Reload
+Mode FullAuto
+BulletSpeed 10
+Scope None
+Model NewAge.Type96MG
+Texture SkinType96MG
+ModelScale 0.8
+AllowAllAttachments true
+AllowBarrelAttachments true
+AllowScopeAttachments true
+AllowStockAttachments true
+AllowGripAttachments true
+NumGenericAttachmentSlots 4

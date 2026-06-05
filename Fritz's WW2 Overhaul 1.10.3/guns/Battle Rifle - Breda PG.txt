@@ -1,0 +1,28 @@
+Name Breda PG
+ShortName BredaPG
+Ammo 762NATO20
+Description 7.62x51mm NATO
+ShowDamage true
+ShowReloadTime true
+Icon BredaPG
+Colour 255 255 255
+ReloadTime 65
+Recoil 4
+Damage 1
+Accuracy 4
+RoundsPerMin 600
+ShootSound gewehr43Shoot
+ReloadSound m1carbineReload
+Mode Burst
+NumBurstRounds 3
+BulletSpeed 10
+Scope None
+Model ww2.G43
+Texture BredaPG
+ModelScale 0.6
+AllowAllAttachments true
+AllowBarrelAttachments true
+AllowScopeAttachments true
+AllowStockAttachments true
+AllowGripAttachments true
+NumGenericAttachmentSlots 4

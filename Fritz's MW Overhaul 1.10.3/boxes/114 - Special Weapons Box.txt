@@ -1,0 +1,50 @@
+Name Weapons Box - Special
+ShortName WeaponsBoxSpecial
+TopTexture WeaponsBoxTop
+SideTexture WeaponsBoxSpecial
+BottomTexture WeaponsBoxBottom
+GunBoxID 114
+Recipe I log G dyePowder.14 F fiberglass
+III
+FGF
+III
+NumGuns 19
+AddGun ROKS2 40 Gunmetal
+AddAmmo FlamethrowerTank 1 redstone
+AddGun ROKS3 40 Gunmetal
+AddAmmo FlamethrowerTank 1 redstone
+AddGun Lifebuoy 40 Gunmetal
+AddAmmo FlamethrowerTank 1 redstone
+AddGun Type93Flamethrower 40 Gunmetal
+AddAmmo FlamethrowerTank 1 redstone
+AddGun Type100Flamethrower 40 Gunmetal
+AddAmmo FlamethrowerTank 1 redstone
+AddGun Flammenwerfer35 40 Gunmetal
+AddAmmo FlamethrowerTank 1 redstone
+AddGun Flammenwerfer41 40 Gunmetal
+AddAmmo FlamethrowerTank 1 redstone
+AddGun M1Flamethrower 40 Gunmetal
+AddAmmo FlamethrowerTank 1 redstone
+AddGun M2Flamethrower 40 Gunmetal
+AddAmmo FlamethrowerTank 1 redstone
+AddGun DD14 40 Gunmetal 12 redstone
+AddAmmo FPVDrone 1 redstone
+AddGun RivetGun 16 Gunmetal
+AddAmmo Rivets12 1 Gunmetal
+AddGun NeurotoxinRifle 32 Gunmetal
+AddAmmo 1272NT4 1 Gunmetal
+AddGun SteamGun 32 Gunmetal
+AddAmmo SteamCanister 1 redstone
+AddAltAmmo SteamCanisterGas 1 redstone
+AddGun MBTCrossbow 16 Gunmetal
+AddAmmo CrossbowBolt 1 Gunmetal
+AddGun MBTAutoCrossbow 16 Gunmetal
+AddAmmo CrossbowBolt4 1 Gunmetal
+AddGun XM240Flamethrower 32 Gunmetal
+AddAmmo FuelTank 1 redstone
+AddGun FlareGun 4 Gunmetal
+AddAmmo flareGunAmmo 1 redstone
+AddGun Flamethrower 40 Gunmetal
+AddAmmo FlamethrowerTank 1 redstone
+AddGun Flammenwerfer 40 Gunmetal
+AddAmmo FlamethrowerTank 1 redstone

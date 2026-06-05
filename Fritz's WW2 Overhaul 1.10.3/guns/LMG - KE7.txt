@@ -1,0 +1,27 @@
+Name KE7
+ShortName KE7
+Ammo 792Mauser25
+Description 7.92x57mm Mauser
+Icon KE7
+Colour 255 255 255
+ReloadTime 50
+Recoil 4
+Damage 1
+Accuracy 5
+RoundsPerMin 750
+ShootSound MG42Shoot
+ReloadSound BARReload
+Mode FullAuto
+BulletSpeed 10
+Scope None
+Model W44.BAR
+Texture Skin44_BAR
+ModelScale 0.25
+AllowAllAttachments true
+AllowBarrelAttachments true
+AllowScopeAttachments true
+AllowStockAttachments true
+AllowGripAttachments true
+NumGenericAttachmentSlots 4
+ShowDamage true
+ShowReloadTime true

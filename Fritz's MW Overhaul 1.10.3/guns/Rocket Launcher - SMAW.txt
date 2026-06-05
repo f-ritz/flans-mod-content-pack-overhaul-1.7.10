@@ -1,0 +1,28 @@
+Name SMAW
+ShortName SMAW
+Ammo 84RocketI
+Ammo 84RocketAP
+Ammo 84RocketHE
+Ammo 84Rocket
+Icon SMAW
+Colour 255 255 255
+ReloadTime 75
+Recoil 3
+Damage 1
+Accuracy 2
+ShootDelay 1
+ShootSound RPGShoot
+ReloadSound BazookaReload
+Mode SemiAuto
+Scope None
+Model mw.Panzerfaust3
+Texture SMAW
+AllowAllAttachments true
+AllowBarrelAttachments true
+AllowScopeAttachments true
+AllowStockAttachments true
+AllowGripAttachments true
+NumGenericAttachmentSlots 4
+Description 84mm Rocket
+ShowDamage true
+ShowReloadTime true

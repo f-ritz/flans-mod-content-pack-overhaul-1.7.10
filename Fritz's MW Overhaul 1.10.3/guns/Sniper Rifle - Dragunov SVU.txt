@@ -1,0 +1,31 @@
+Name Dragunov SVU
+ShortName DragunovSVU
+Ammo 762MMR10
+Ammo 762MMR15
+Ammo 762MMR20
+Icon DragunovSVU
+Colour 255 255 255
+ReloadTime 70
+Recoil 15
+Damage 2
+Accuracy 2
+ShootDelay 7
+ShootSound DragunovShoot
+ReloadSound BARReload
+Mode SemiAuto
+BulletSpeed 10
+Scope mwdragunov
+ZoomLevel 10.0
+FOVZoomLevel 1.0
+Model mpack.dsr
+ModelScale 0.09
+Texture Skin_Gun_dsr
+AllowAllAttachments true
+AllowBarrelAttachments true
+AllowScopeAttachments true
+AllowStockAttachments true
+AllowGripAttachments true
+NumGenericAttachmentSlots 4
+ShowDamage true
+ShowReloadTime true
+Description 7.62x54mmR

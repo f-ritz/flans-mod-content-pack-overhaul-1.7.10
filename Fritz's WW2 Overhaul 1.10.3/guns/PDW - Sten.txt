@@ -1,0 +1,25 @@
+Name Sten
+ShortName Sten
+Ammo 919NATO32
+Description 9x19mm Parabellum
+Icon sten
+Colour 255 255 255
+ReloadTime 40
+Recoil 2
+Damage 1
+Accuracy 4
+RoundsPerMin 500
+ShootSound stenShoot
+ReloadSound stenReload
+Mode FullAuto
+BulletSpeed 10
+Scope None
+Model ww2.Sten
+Texture Sten
+ModelScale 0.7
+AllowAllAttachments true
+AllowBarrelAttachments true
+AllowScopeAttachments true
+AllowStockAttachments true
+AllowGripAttachments true
+NumGenericAttachmentSlots 4

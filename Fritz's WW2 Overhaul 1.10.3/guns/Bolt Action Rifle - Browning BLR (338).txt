@@ -1,0 +1,28 @@
+Name Browning BLR (.338)
+ShortName BrowningBLR338
+Ammo 338Lapua1
+Description .338 Lapua
+ShowDamage true
+ShowReloadTime true
+Icon BrowningBLR
+Colour 255 255 255
+LoadIntoGun 3
+ReloadTime 90
+Recoil 22
+Damage 1.5
+Accuracy 5
+ShootDelay 15
+ShootSound kar98kShoot
+ReloadSound kar98kReload
+Mode SemiAuto
+BulletSpeed 10
+Model dunk.1895
+ModelScale 1
+Texture 1895
+FOVZoomLevel 1.25
+AllowAllAttachments true
+AllowBarrelAttachments true
+AllowScopeAttachments true
+AllowStockAttachments true
+AllowGripAttachments true
+NumGenericAttachmentSlots 4

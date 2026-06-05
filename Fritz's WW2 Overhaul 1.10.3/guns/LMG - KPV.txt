@@ -1,0 +1,29 @@
+Name KPV
+ShortName KPV
+Ammo 145Warsaw40
+Icon KPV
+Description 12.7x108mm WTO
+ShowDamage true
+ShowReloadTime true
+Colour 255 255 255
+ReloadTime 100
+Recoil 10
+Damage 1
+Accuracy 10
+RoundsPerMin 600
+DistortSound False
+ShootSound BrowningShoot
+ReloadSound BrowningReload
+Mode FullAuto
+BulletSpeed 10.0
+Scope None
+FOVZoomLevel 1.25
+Model W44.50Cal
+Texture Skin50Cal
+ModelScale 0.45
+AllowAllAttachments true
+AllowBarrelAttachments true
+AllowScopeAttachments true
+AllowStockAttachments true
+AllowGripAttachments true
+NumGenericAttachmentSlots 4

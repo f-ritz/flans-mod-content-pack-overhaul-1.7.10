@@ -1,0 +1,29 @@
+Name VP-70
+ShortName VP70
+Ammo 919NATO18
+Icon VP70
+Colour 255 255 255
+ReloadTime 40
+Recoil 3
+Damage 1.25
+Accuracy 3
+RoundsPerMin 2200
+ShootSound M9Shoot
+ReloadSound ColtReload
+Mode Burst
+NumBurstRounds 3
+BulletSpeed 10
+OneHanded true
+Scope None
+Model mpack.usp
+ModelScale 0.05
+Texture Skin_Gun_usp
+AllowAllAttachments true
+AllowBarrelAttachments true
+AllowScopeAttachments true
+AllowStockAttachments true
+AllowGripAttachments true
+NumGenericAttachmentSlots 4
+Description 9x19mm Parabellum
+ShowDamage true
+ShowReloadTime true

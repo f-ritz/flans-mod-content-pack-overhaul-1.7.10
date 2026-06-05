@@ -1,0 +1,27 @@
+Name Erma MPE
+ShortName ErmaMPE
+Ammo 919NATO32
+Description 9x19mm Parabellum
+ShowDamage true
+ShowReloadTime true
+Icon ErmaMPE
+Colour 255 255 255
+ReloadTime 40
+Recoil 3
+Damage 1
+Accuracy 5
+RoundsPerMin 500
+ShootSound mp40Shoot
+ReloadSound mp40Reload
+Mode FullAuto
+BulletSpeed 10
+Scope None
+Model ww2.Mp34
+Texture ErmaMPE
+ModelScale 0.85
+AllowAllAttachments true
+AllowBarrelAttachments true
+AllowScopeAttachments true
+AllowStockAttachments true
+AllowGripAttachments true
+NumGenericAttachmentSlots 4

@@ -1,0 +1,27 @@
+Name M72 LAW
+ShortName M72LAW
+Ammo 84RocketI
+Ammo 84RocketAP
+Ammo 84RocketHE
+Ammo 84Rocket
+Icon M72LAW
+Colour 255 255 255
+ReloadTime 80
+Recoil 6
+Damage 1
+Accuracy 3.5
+ShootDelay 1
+ShootSound RPGShoot
+Mode SemiAuto
+Scope None
+Model mw.M72LAW
+Texture M72LAW
+MoveSpeedModifier 0.6
+KnockbackModifier 0
+AllowAllAttachments true
+AllowBarrelAttachments true
+AllowScopeAttachments true
+AllowStockAttachments true
+AllowGripAttachments true
+NumGenericAttachmentSlots 4
+Description 84mm Rocket

@@ -1,0 +1,40 @@
+Name MPAR
+ShortName MPAR
+Ammo 68NATO25
+Icon MPAR
+Colour 255 255 255
+ReloadTime 60
+Recoil 4
+Damage 1
+Accuracy 7
+BulletSpeed 10.0
+RoundsPerMin 750
+ShootSound _MparFire
+ReloadSound _MparReload
+Mode FullAuto
+Scope None
+ZoomLevel 1.0
+FOV ZoomLevel 1.25
+Distort Sound False
+Deployable False
+DeployedModel None
+ModelScale 0.2
+ShowAttachments false
+ShowDamage true
+ShowAccuracy true
+ShowRecoil true
+ShowReloadTime true
+ShowMode true
+ShowFireRate true
+ShowPaintjob true
+OneHanded False
+Model dwfirearms.MPAR
+Texture MPAR_Standard
+NumGenericAttachmentSlots 4
+AllowBarrelAttachments true
+AllowScopeAttachments true
+AllowStockAttachments true
+AllowGripAttachments true
+AllowAllAttachments true
+Paintjob MPAR_iconContractor MPAR_Contractor gray 1 brown 1
+Description 6.8x51mm NATO

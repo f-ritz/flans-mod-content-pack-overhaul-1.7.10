@@ -1,0 +1,29 @@
+Name 40mm Impact Grenade
+ShortName 40GrenadeImpact
+Icon 40GrenadeImpact
+Colour 255 255 255
+StackSize 64
+Model mw.RoundGrenade
+Texture M67
+SpinWhenThrown true
+CanThrow False
+ThrowDelay 10
+DetonateOnImpact true
+Bounciness 0.8
+HitEntityDamage 400
+ThrowSpeed 3.0
+FallSpeed 1.0
+BreaksGlass true
+PenetratesBlocks false
+HitBoxSize 0.5
+Sticky false
+VehicleProximityTrigger -1.0
+LivingProximityTrigger -1.0
+Fuse 40
+DetonateWhenShot true
+Remote false
+PrimeDelay 0
+FireRadius 0.0
+ExplosionRadius 4.0
+ExplosionBreaksBlocks true
+MeleeDamage 4

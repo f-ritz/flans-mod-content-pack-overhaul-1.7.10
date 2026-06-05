@@ -1,0 +1,14 @@
+Name 71 Round 7.62x25mm Tokarev Magazine
+ShortName 762Tokarev71
+Model Bullet
+Colour 255 255 255
+Icon 762Tokarev71
+FallSpeed 0.25
+MaxStackSize 64
+RoundsPerItem 71
+Damage 34
+BreaksGlass True
+HitBoxSize 0.1
+HitSound bullet
+Penetrates True
+SmokeTrail False

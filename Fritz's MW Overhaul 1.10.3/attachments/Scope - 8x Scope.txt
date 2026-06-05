@@ -1,0 +1,9 @@
+Name 8x Scope
+ShortName 8xScope
+Icon 4xScope
+AttachmentType sights
+Silencer false
+ZoomLevel 8.0
+ZoomOverlay mwbarrett
+Model mw.4xScope
+Texture 4xScope

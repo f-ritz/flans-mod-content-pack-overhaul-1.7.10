@@ -1,0 +1,13 @@
+Name 6G Laser
+ShortName 6GLaser
+Icon 6GLaser
+AttachmentType stock
+Silencer false
+MeleeDamageMultiplier 1.0
+DamageMultiplier 1.06
+SpreadMultiplier 1.1
+RecoilMultiplier 0.85
+BulletSpeedMultiplier 1
+ReloadTimeMultiplier 1.02
+Model mw.ACOG
+Texture ACOGSight

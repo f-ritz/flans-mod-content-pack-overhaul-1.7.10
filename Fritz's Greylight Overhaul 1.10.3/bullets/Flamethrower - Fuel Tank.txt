@@ -1,0 +1,22 @@
+Name Fuel Tank
+ShortName FuelTank
+Model dwfirearms.BulletIncendiary
+Colour 255 255 255
+Icon FuelTank
+FallSpeed 0.25
+MaxStackSize 64
+RoundsPerItem 300
+Damage 1
+Explosion 0
+ExplodeOnImpact False
+Fuse 15
+FlakParticles 0
+Fire 1
+SetEntitiesOnFire true
+BreaksGlass false
+HitBoxSize 0.2
+HitSound bullet_hit
+PenetratingPower 1.0
+SmokeTrail True
+TrailParticleType crit
+HasLight True

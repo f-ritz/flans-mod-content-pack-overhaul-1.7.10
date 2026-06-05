@@ -1,0 +1,30 @@
+Name M40A3
+ShortName M40A3
+Ammo 338Lapua1
+LoadIntoGun 5
+Icon M40A3
+Colour 255 255 255
+ReloadTime 87
+Recoil 20
+Damage 2
+Accuracy 2
+ShootDelay 10
+ShootSound R700Shoot
+ReloadSound SpringfieldReload
+Mode SemiAuto
+BulletSpeed 10
+Scope mwm40a3
+ZoomLevel 10.0
+FOVZoomLevel 1.0
+Model mpack.m40
+ModelScale 0.04
+Texture Skin_Gun_m40
+AllowAllAttachments true
+AllowBarrelAttachments true
+AllowScopeAttachments true
+AllowStockAttachments true
+AllowGripAttachments true
+NumGenericAttachmentSlots 4
+ShowDamage true
+ShowReloadTime true
+Description .338 Lapua

@@ -1,0 +1,25 @@
+Name FPV Drone
+ShortName FPVDrone
+Model dwfirearms.BulletDrone
+Texture bulletMap
+Colour 255 255 255
+Icon FPVDrone
+FallSpeed 0.05
+MaxStackSize 64
+RoundsPerItem 1
+DamageVsLiving 300
+DamageVsVehicles 300
+Explosion 5
+ExplodeOnImpact True
+Fuse 200
+FlakParticles 0
+Fire 1
+BreaksGlass false
+HitBoxSize 0.2
+HitSound bullet_hit
+PenetratingPower 8.0
+SmokeTrail True
+LockOnToDriveables true
+LockOnToPlayers true
+LockOnToLivings true
+MaxLockOnAngle 40.0

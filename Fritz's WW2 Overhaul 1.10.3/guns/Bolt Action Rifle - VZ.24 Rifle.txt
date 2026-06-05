@@ -1,0 +1,28 @@
+Name vz.24 Rifle
+ShortName VZ24Rifle
+Ammo 792Mauser1
+Description 7.92x57mm Mauser
+LoadIntoGun 5
+Icon VZ24Rifle
+Colour 255 255 255
+ReloadTime 50
+Recoil 9
+Damage 1.5
+Accuracy 2
+ShootDelay 12
+ShootSound kar98kShoot
+ReloadSound kar98kReload
+Mode SemiAuto
+BulletSpeed 10
+Scope None
+Model ww2.Kar98k
+Texture SkinKar98k
+ModelScale 0.6
+AllowAllAttachments true
+AllowBarrelAttachments true
+AllowScopeAttachments true
+AllowStockAttachments true
+AllowGripAttachments true
+NumGenericAttachmentSlots 4
+ShowDamage true
+ShowReloadTime true

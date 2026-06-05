@@ -1,0 +1,6 @@
+Name 3 Round Burst Fire Modification
+ShortName BurstFireMod
+Icon BurstFire
+AttachmentType generic
+Silencer false
+ModeOverride Burst

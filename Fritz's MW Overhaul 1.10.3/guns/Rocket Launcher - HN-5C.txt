@@ -1,0 +1,29 @@
+Name HN-5C
+ShortName HN5C
+Ammo 9M39Igla
+Icon HN5
+Colour 255 255 255
+ReloadTime 80
+Recoil 20
+Damage 1
+Accuracy 5
+ShootDelay 1
+ShootSound RPGShoot
+ReloadSound BazookaReload
+Mode SemiAuto
+BulletSpeed 1.0
+Scope None
+ZoomLevel 1.0
+FOVZoomLevel 1.25
+Model mw.Stinger
+Texture HN5
+ModelScale 1.0
+AllowAllAttachments true
+AllowBarrelAttachments true
+AllowScopeAttachments true
+AllowStockAttachments true
+AllowGripAttachments true
+NumGenericAttachmentSlots 4
+ShowDamage true
+ShowReloadTime true
+Description 9M39 Igla

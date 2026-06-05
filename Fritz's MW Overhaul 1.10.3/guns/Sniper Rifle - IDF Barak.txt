@@ -1,0 +1,28 @@
+Name IDF Barak
+ShortName IDFBarak
+Ammo 338Lapua5
+Icon IDFBarak
+Colour 255 255 255
+ReloadTime 100
+Recoil 15
+Damage 2
+Accuracy 1
+ShootDelay 10
+ShootSound M21Shoot
+ReloadSound BARReload
+Mode SemiAuto
+BulletSpeed 10
+Scope mwm21
+ZoomLevel 10.0
+FOVZoomLevel 1.0
+Model mw.L96
+Texture IDFBarak
+AllowAllAttachments true
+AllowBarrelAttachments true
+AllowScopeAttachments true
+AllowStockAttachments true
+AllowGripAttachments true
+NumGenericAttachmentSlots 4
+ShowDamage true
+ShowReloadTime true
+Description .338 Lapua

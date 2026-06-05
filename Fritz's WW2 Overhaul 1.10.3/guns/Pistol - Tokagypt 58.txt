@@ -1,0 +1,28 @@
+Name Tokagypt 58
+ShortName Tokagypt58
+Ammo 919NATO8
+Icon Tokagypt58
+Description 9x19mm Parabellum
+ShowDamage true
+ShowReloadTime true
+Colour 255 255 255
+ReloadTime 40
+Recoil 3
+Damage 1.5
+Accuracy 2
+ShootDelay 2
+ShootSound TT33Shoot
+ReloadSound TT33Reload
+Mode SemiAuto
+OneHanded true
+BulletSpeed 10
+Scope None
+Model W44.TT33
+Texture SkinTT33
+ModelScale 0.7
+AllowAllAttachments true
+AllowBarrelAttachments true
+AllowScopeAttachments true
+AllowStockAttachments true
+AllowGripAttachments true
+NumGenericAttachmentSlots 4

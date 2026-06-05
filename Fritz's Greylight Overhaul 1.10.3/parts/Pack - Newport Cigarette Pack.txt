@@ -1,0 +1,6 @@
+Name Newport Cigarette Pack
+ShortName NewportCigarettePack
+Icon NewportCigarettePack
+Colour 255 255 255
+Category Misc
+StackSize 64

@@ -1,0 +1,9 @@
+Name PU-1 Scope
+ShortName PU1
+Icon 4xScope
+AttachmentType sights
+Silencer false
+ZoomLevel 6
+ZoomOverlay pu1
+Model mw.4xScope
+Texture 4xScope

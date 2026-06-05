@@ -1,0 +1,29 @@
+Name wz.1996 Mini-Beryl
+ShortName WZ1996MiniBeryl
+Ammo 556NATO30
+Description 5.56x45mm NATO
+Icon WZ1996MiniBeryl
+Colour 255 255 255
+ReloadTime 30
+Recoil 5
+Damage 1
+Accuracy 3
+RoundsPerMin 750
+ShootSound M14Shoot
+ReloadSound MP44Reload
+Mode FullAuto
+BulletSpeed 10
+Scope None
+ZoomLevel 1.0
+FOVZoomLevel 1.25
+Model mpack.wz96
+ModelScale 0.12
+Texture skin_gun_wz96
+AllowAllAttachments true
+AllowBarrelAttachments true
+AllowScopeAttachments true
+AllowStockAttachments true
+AllowGripAttachments true
+NumGenericAttachmentSlots 4
+ShowDamage true
+ShowReloadTime true

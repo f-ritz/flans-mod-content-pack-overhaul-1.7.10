@@ -1,0 +1,13 @@
+Name Tungsten Powder Conversion
+ShortName WPowderConversion
+Icon WPowderConversion
+AttachmentType generic
+Silencer false
+MeleeDamageMultiplier 1.0
+DamageMultiplier 4
+SpreadMultiplier 4
+RecoilMultiplier 1.5
+BulletSpeedMultiplier 0.35
+ReloadTimeMultiplier 1.5
+Model mw.ACOG
+Texture ACOGSight

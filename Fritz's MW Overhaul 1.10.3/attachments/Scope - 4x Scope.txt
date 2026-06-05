@@ -1,0 +1,9 @@
+Name 4x Scope
+ShortName 4xScope
+Icon 4xScope
+AttachmentType sights
+Silencer false
+ZoomLevel 4.0
+ZoomOverlay mwbarrett
+Model mw.4xScope
+Texture 4xScope

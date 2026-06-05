@@ -1,0 +1,25 @@
+Name Sten Mk 3
+ShortName StenMk3
+Ammo 919NATO32
+Description 9x19mm Parabellum
+Icon StenMk3
+Colour 255 255 255
+ReloadTime 40
+Recoil 4
+Damage 1
+Accuracy 5
+RoundsPerMin 550
+ShootSound stenShoot
+ReloadSound stenReload
+Mode FullAuto
+BulletSpeed 10
+Scope None
+Model ww2.Sten
+Texture Sten
+ModelScale 0.7
+AllowAllAttachments true
+AllowBarrelAttachments true
+AllowScopeAttachments true
+AllowStockAttachments true
+AllowGripAttachments true
+NumGenericAttachmentSlots 4

@@ -1,0 +1,35 @@
+Name UAG-40 Grenade Launcher
+ShortName UAG40
+Ammo 40GrenadeBouncy
+Ammo 40GrenadeIncendiary
+Ammo 40GrenadeGas
+Ammo 40GrenadeSticky
+Ammo 40GrenadeSlug
+Ammo 40GrenadeImpact
+Icon UAG40
+Colour 255 255 255
+ReloadTime 60
+Recoil 10
+Damage 1
+LoadIntoGun 25
+Accuracy 30
+RoundsPerMin 450
+ShootSound GrenadeLauncherShoot
+ReloadSound GL6Reload
+Mode FullAuto
+BulletSpeed 2.5
+Scope None
+ZoomLevel 1.0
+FOVZoomLevel 1.25
+Model mw.GL6
+Texture UAG40
+ModelScale 1.0
+AllowAllAttachments true
+AllowBarrelAttachments true
+AllowScopeAttachments true
+AllowStockAttachments true
+AllowGripAttachments true
+NumGenericAttachmentSlots 4
+Description 40mm Grenade
+ShowDamage true
+ShowReloadTime true

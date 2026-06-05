@@ -1,0 +1,75 @@
+Name Optics Box
+ShortName opticBox
+TopTexture boxTop
+SideTexture OpticBox
+BottomTexture boxBottom
+GunBoxID 504
+Recipe I log B fiberglass F glass
+III
+BFB
+III
+NumGuns 64
+AddGun 4xScope 4 glass 2 redstone
+AddGun 6xScope 4 glass 2 redstone
+AddGun 8xScope 4 glass 2 redstone
+AddGun ACOG 4 glass 2 redstone
+AddGun C79 4 glass 2 redstone
+AddGun CompAimpoint 4 glass 2 redstone
+AddGun CoyoteSight 4 glass 2 redstone
+AddGun DDHB 4 glass 2 redstone
+AddGun DeltaSight 4 glass 2 redstone
+AddGun EoTech552 4 glass 2 redstone
+AddGun EoTechXPS2 4 glass 2 redstone
+AddGun Hensoldt3x 4 glass 2 redstone
+AddGun KobraSight 4 glass 2 redstone
+AddGun M145 4 glass 2 redstone
+AddGun MARS 4 glass 2 redstone
+AddGun MiniSight 4 glass 2 redstone
+AddGun OKP7 4 glass 2 redstone
+AddGun PKA 4 glass 2 redstone
+AddGun PKAS 4 glass 2 redstone
+AddGun PMII 4 glass 2 redstone
+AddGun PSO1 4 glass 2 redstone
+AddGun PSO1M2 4 glass 2 redstone
+AddGun PU1 4 glass 2 redstone
+AddGun ReflexSight 4 glass 2 redstone
+AddGun Swarowski 4 glass 2 redstone
+AddGun TA01 4 glass 2 redstone
+AddGun TA11 4 glass 2 redstone
+AddGun TA33 4 glass 2 redstone
+AddGun VCOG 4 glass 2 redstone
+AddGun ZPoint 4 glass 2 redstone
+AddGun ZF4Scope 4 glass 2 redstone
+AddGun KousakuSight 4 glass 2 redstone
+AddGun Unertl8xScope 4 glass 2 redstone
+AddGun VCOG8xScope 4 glass 2 redstone
+AddGun FF3xNV 4 glass 2 redstone
+AddGun ReflectorScope 4 glass 2 redstone
+AddGun TangoMSR 4 glass 2 redstone
+AddGun Pro39xScope 4 glass 2 redstone
+AddGun GWOTScope 4 glass 2 redstone
+AddGun EoTechVUDU 4 glass 2 redstone
+AddGun ZF39Scope 4 glass 2 redstone
+AddGun ZF41Scope 4 glass 2 redstone
+AddGun 40xScope 4 glass 2 redstone
+AddGun 69xScope 4 glass 2 redstone
+AddGun PSO3MScope 4 glass 2 redstone
+AddGun Malcolm3xScope 4 glass 2 redstone
+AddGun PKScope 4 glass 2 redstone
+AddGun TA44 4 glass 2 redstone
+AddGun HensoldtZ24 4 glass 2 redstone
+AddGun SUSATScope 4 glass 2 redstone
+AddGun Electra5x 4 glass 2 redstone
+AddGun XM157FCS 4 glass 2 redstone
+AddGun BarskaElectro 4 glass 2 redstone
+AddGun MicrodotMini 4 glass 2 redstone
+AddGun Pilad3 4 glass 2 redstone
+AddGun KobraEKP 4 glass 2 redstone
+AddGun AcroP1Sight 4 glass 2 redstone
+AddGun EoTechM40 4 glass 2 redstone
+AddGun MicrodotSRS 4 glass 2 redstone
+AddGun UH1Sight 4 glass 2 redstone
+AddGun KousakuOLEDSight 4 glass 2 redstone
+AddGun HomemadeSight 4 glass 2 redstone
+AddGun CompM2 4 glass 2 redstone
+AddGun TungstenSight 4 glass 2 redstone

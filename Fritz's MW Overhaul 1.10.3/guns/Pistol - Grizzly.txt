@@ -1,0 +1,31 @@
+Name Grizzly
+ShortName Grizzly
+Ammo 50GI7
+Icon DesertEagle
+Colour 255 255 255
+ReloadTime 40
+Recoil 6
+NumBullets 1
+Damage 1.5
+Accuracy 7
+ShootDelay 1
+ShootSound DesertEagleShoot
+ReloadSound LugerReload
+Mode SemiAuto
+OneHanded true
+BulletSpeed 10
+Scope None
+ZoomLevel 1.0
+FOVZoomLevel 1.2
+Model mw.DesertEagle
+ModelScale 0.8
+Texture DesertEagle
+AllowAllAttachments true
+AllowBarrelAttachments true
+AllowScopeAttachments true
+AllowStockAttachments true
+AllowGripAttachments true
+NumGenericAttachmentSlots 4
+Description .50 GI
+ShowDamage true
+ShowReloadTime true

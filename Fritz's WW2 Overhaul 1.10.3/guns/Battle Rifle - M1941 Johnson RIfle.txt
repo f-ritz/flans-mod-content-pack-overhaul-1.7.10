@@ -1,0 +1,27 @@
+Name M1941 Johnson
+ShortName M1941Johnson
+Ammo 30Cal10
+Icon M1941Johnson
+Description .30-06
+ShowDamage true
+ShowReloadTime true
+Colour 255 255 255
+ReloadTime 30
+Recoil 5
+Damage 1
+Accuracy 3
+ShootDelay 1
+ShootSound m1garandShoot
+ReloadSound m1garandReload
+Mode SemiAuto
+BulletSpeed 10.0
+Scope None
+Model W44.M1Garand
+Texture SkinM1Garand
+ModelScale 0.25
+AllowAllAttachments true
+AllowBarrelAttachments true
+AllowScopeAttachments true
+AllowStockAttachments true
+AllowGripAttachments true
+NumGenericAttachmentSlots 4

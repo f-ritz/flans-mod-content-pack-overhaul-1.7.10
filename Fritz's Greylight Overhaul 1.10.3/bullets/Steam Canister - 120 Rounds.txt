@@ -1,0 +1,23 @@
+Name Steam Canister
+ShortName SteamCanister
+Model dwfirearms.BulletSteel
+Colour 255 255 255
+Icon SteamCanister
+FallSpeed 0.25
+MaxStackSize 64
+RoundsPerItem 120
+Damage 30
+Explosion 0
+ExplodeOnImpact False
+Fuse 15
+FlakParticles 0
+Fire 0
+SetEntitiesOnFire false
+BreaksGlass false
+HitBoxSize 0.2
+HitSound bullet_hit
+PenetratingPower 1.0
+SmokeTrail True
+TrailParticleType snowshovel
+HasLight false
+

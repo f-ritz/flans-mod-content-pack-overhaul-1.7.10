@@ -1,0 +1,33 @@
+Name M1877 Grease Gun
+ShortName M1877GreaseGun
+Ammo 45ACP30
+Icon M1877GreaseGun
+Colour 255 255 255
+ReloadTime 60
+Recoil 3
+Damage 1
+Accuracy 8
+BulletSpeed 10.0
+RoundsPerMin 350
+ShootSound _WolfstedtFire
+ReloadSound _WolfstedtReload
+Mode FullAuto
+Scope None
+ZoomLevel 1.0
+FOV ZoomLevel 1.25
+Distort Sound False
+Deployable False
+DeployedModel None
+ModelScale 0.2
+OneHanded False
+Model dwfirearms.WolfstedtCompact
+Texture WolfstedtCompact_Steam
+AllowAllAttachments true
+AllowScopeAttachments true
+AllowBarrelAttachments true
+AllowGripAttachments true
+AllowStockAttachments true
+NumGenericAttachmentSlots 4
+Paintjob Wolfstedt_iconDigital WolfstedtCompact_Digital blue 1 gray 1 silver 1
+Paintjob Wolfstedt_iconBirch WolfstedtCompact_Birch gray 1 yellow 1
+Description .45 ACP

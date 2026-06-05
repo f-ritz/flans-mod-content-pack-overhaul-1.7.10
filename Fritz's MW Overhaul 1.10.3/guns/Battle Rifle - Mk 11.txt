@@ -1,0 +1,32 @@
+Name Mk 11
+ShortName MK11
+Ammo 762NATO20
+Description 7.62x51mm NATO
+Icon MK11
+Colour 255 255 255
+ReloadTime 35
+Recoil 1
+Damage 1
+Accuracy 1
+ShootDelay 4
+ShootSound M14Shoot
+ReloadSound ThompsonReload
+Mode SemiAuto
+BulletSpeed 10
+Scope None
+ZoomLevel 1.0
+FOVZoomLevel 1.25
+//Deployable Settings
+Deployable False
+DeployedModel None
+Model mpack.m16a1
+ModelScale 0.08
+Texture Skin_Gun_m16a1
+AllowAllAttachments true
+AllowBarrelAttachments true
+AllowScopeAttachments true
+AllowStockAttachments true
+AllowGripAttachments true
+NumGenericAttachmentSlots 4
+ShowDamage true
+ShowReloadTime true

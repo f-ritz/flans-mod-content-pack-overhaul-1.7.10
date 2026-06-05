@@ -1,0 +1,9 @@
+Name Pilad 3
+ShortName Pilad3
+Icon RedDotSight
+AttachmentType sights
+Silencer false
+ZoomLevel 2
+ZoomOverlay Pilad3
+Model mw.RedDot
+Texture RedDotSight

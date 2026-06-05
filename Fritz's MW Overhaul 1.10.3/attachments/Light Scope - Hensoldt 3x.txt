@@ -1,0 +1,9 @@
+Name Hensoldt 3x Sight
+ShortName Hensoldt3x
+Icon ACOGSight
+AttachmentType sights
+Silencer false
+ZoomLevel 3
+ZoomOverlay g36
+Model mw.ACOG
+Texture ACOGSight

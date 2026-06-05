@@ -1,0 +1,9 @@
+Name PM II
+ShortName PMII
+Icon 4xScope
+AttachmentType sights
+Silencer false
+ZoomLevel 10.0
+ZoomOverlay pmii
+Model mw.4xScope
+Texture 4xScope

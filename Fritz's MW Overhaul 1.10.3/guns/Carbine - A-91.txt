@@ -1,0 +1,28 @@
+Name A-91
+ShortName A91
+Ammo 545Warsaw30
+Icon A91
+Colour 255 255 255
+ReloadTime 40
+Recoil 3
+Damage 1
+Accuracy 3
+RoundsPerMin 600
+ShootSound AK74Shoot
+ReloadSound MP44Reload
+Mode FullAuto
+BulletSpeed 10
+Scope None
+ZoomLevel 1.0
+FOVZoomLevel 1.25
+Model mw.A91
+Texture A91
+AllowAllAttachments true
+AllowBarrelAttachments true
+AllowScopeAttachments true
+AllowStockAttachments true
+AllowGripAttachments true
+NumGenericAttachmentSlots 4
+ShowDamage true
+ShowReloadTime true
+Description 5.45x39mm WTO

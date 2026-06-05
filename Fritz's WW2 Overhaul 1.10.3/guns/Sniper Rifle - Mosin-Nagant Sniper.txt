@@ -1,0 +1,29 @@
+Name Mosin-Nagant Sniper
+ShortName MosinNagantSniper
+Ammo 762MMR1
+LoadIntoGun 5
+Icon MosinNagantSniper
+Description 7.62x54mmR
+ShowDamage true
+ShowReloadTime true
+Colour 255 255 255
+ReloadTime 80
+Recoil 25
+Damage 2
+Accuracy 1
+ShootDelay 18
+ShootSound MosinNagantSniperShoot
+ReloadSound kar98kReload
+Mode SemiAuto
+BulletSpeed 10
+Scope wwiim9130sniper
+ZoomLevel 6
+Model dunk.mosinpu
+ModelScale 1
+Texture MosinSkin
+AllowAllAttachments true
+AllowBarrelAttachments true
+AllowScopeAttachments true
+AllowStockAttachments true
+AllowGripAttachments true
+NumGenericAttachmentSlots 4

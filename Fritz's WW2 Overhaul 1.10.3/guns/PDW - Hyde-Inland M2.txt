@@ -1,0 +1,27 @@
+Name Hyde-Inland M2
+ShortName HydeInlandM2
+Ammo 45ACP30
+Icon HydeInlandM2
+Description .45 ACP
+ShowDamage true
+ShowReloadTime true
+Colour 255 255 255
+ReloadTime 60
+Recoil 2
+Damage 1
+Accuracy 5
+RoundsPerMin 600
+ShootSound M3A1Shoot
+ReloadSound m1carbineReload
+Mode FullAuto
+BulletSpeed 10
+Scope None
+Model NewAge.M2Carbine
+Texture SkinM2Carbine
+ModelScale 0.8
+AllowAllAttachments true
+AllowBarrelAttachments true
+AllowScopeAttachments true
+AllowStockAttachments true
+AllowGripAttachments true
+NumGenericAttachmentSlots 4

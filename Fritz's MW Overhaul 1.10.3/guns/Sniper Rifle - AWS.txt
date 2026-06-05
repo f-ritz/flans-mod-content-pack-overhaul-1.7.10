@@ -1,0 +1,29 @@
+Name AWS
+ShortName AWS
+Ammo 338Lapua5
+Ammo 338Lapua10
+Icon AWS
+Colour 255 255 255
+ReloadTime 70
+Recoil 10
+Damage 2
+Accuracy 2
+ShootDelay 20
+ShootSound MP5Shoot
+ReloadSound BARReload
+Mode SemiAuto
+BulletSpeed 10
+Scope mwm40a3
+ZoomLevel 10.0
+FOVZoomLevel 1.0
+Model mw.L96
+Texture AWS
+AllowAllAttachments true
+AllowBarrelAttachments true
+AllowScopeAttachments true
+AllowStockAttachments true
+AllowGripAttachments true
+NumGenericAttachmentSlots 4
+ShowDamage true
+ShowReloadTime true
+Description .338 Lapua

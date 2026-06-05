@@ -1,0 +1,28 @@
+Name Mannlicher M1893
+ShortName MannlicherM1893
+Ammo 792Mauser1
+Description 7.92x57mm Mauser
+ShowDamage true
+ShowReloadTime true
+LoadIntoGun 5
+Icon MannlicherM1893
+Colour 255 255 255
+ReloadTime 60
+Recoil 12
+Damage 1.5
+Accuracy 4
+ShootDelay 30
+ShootSound kar98kShoot
+ReloadSound kar98kReload
+Mode SemiAuto
+BulletSpeed 10
+Scope None
+Model ww2.Kar98k
+Texture MannlicherM1893
+ModelScale 0.6
+AllowAllAttachments true
+AllowBarrelAttachments true
+AllowScopeAttachments true
+AllowStockAttachments true
+AllowGripAttachments true
+NumGenericAttachmentSlots 4

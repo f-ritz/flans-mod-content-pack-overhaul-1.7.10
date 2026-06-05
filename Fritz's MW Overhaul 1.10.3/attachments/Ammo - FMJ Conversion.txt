@@ -1,0 +1,13 @@
+Name FMJ Conversion
+ShortName FMJConversion
+Icon FMJConversion
+AttachmentType generic
+Silencer false
+MeleeDamageMultiplier 1.0
+DamageMultiplier 1.41
+SpreadMultiplier 1.21
+RecoilMultiplier 1.05
+BulletSpeedMultiplier 1.2
+ReloadTimeMultiplier 1
+Model mw.ACOG
+Texture ACOGSight

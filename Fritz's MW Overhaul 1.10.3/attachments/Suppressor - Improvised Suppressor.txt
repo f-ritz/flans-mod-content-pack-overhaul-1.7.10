@@ -1,0 +1,13 @@
+Name Improvised Suppressor
+ShortName ImprovisedSuppressor
+Icon Silencer
+AttachmentType barrel
+Silencer true
+MeleeDamageMultiplier 1.0
+DamageMultiplier 0.8
+SpreadMultiplier 1.0
+RecoilMultiplier 1.1
+BulletSpeedMultiplier 0.3
+ReloadTimeMultiplier 1.2
+Model mw.Silencer
+Texture Silencer

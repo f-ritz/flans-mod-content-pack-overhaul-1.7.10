@@ -1,0 +1,30 @@
+Name Jericho 941
+ShortName Jericho941
+Ammo 919NATO12
+Icon Jericho941
+Colour 255 255 255
+ReloadTime 30
+Recoil 3
+Damage 1.5
+Accuracy 5
+ShootDelay 1
+ShootSound M9Shoot
+ReloadSound ColtReload
+Mode SemiAuto
+OneHanded true
+BulletSpeed 10
+Scope None
+ZoomLevel 1.0
+FOVZoomLevel 1.2
+Model mpack.j941
+ModelScale 0.06
+Texture Skin_Gun_j941
+AllowAllAttachments true
+AllowBarrelAttachments true
+AllowScopeAttachments true
+AllowStockAttachments true
+AllowGripAttachments true
+NumGenericAttachmentSlots 4
+ShowDamage true
+ShowReloadTime true
+Description 9x19mm Parabellum

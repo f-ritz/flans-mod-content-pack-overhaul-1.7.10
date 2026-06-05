@@ -1,0 +1,13 @@
+Name Pistol Grip
+ShortName PistolGrip
+Icon PistolGrip
+AttachmentType grip
+Silencer false
+MeleeDamageMultiplier 1.0
+DamageMultiplier 1.0
+SpreadMultiplier 0.8
+RecoilMultiplier 0.7
+BulletSpeedMultiplier 1.0
+ReloadTimeMultiplier 0.9
+Model mw.Foregrip
+Texture Foregrip

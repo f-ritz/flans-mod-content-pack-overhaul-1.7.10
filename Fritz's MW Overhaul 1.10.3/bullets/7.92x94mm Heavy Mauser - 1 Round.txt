@@ -1,0 +1,16 @@
+Name 7.92x94mm Heavy Mauser Cartridge
+ShortName 792MauserHeavy1
+Model Bullet
+Colour 255 255 255
+Icon 792MauserHeavy1
+FallSpeed 0.25
+MaxStackSize 64
+RoundsPerItem 1
+Damage 100
+BreaksGlass True
+HitBoxSize 0.1
+HitSound bullet
+Penetrates True
+SmokeTrail False
+RecipeOutput 64
+ShapelessRecipe 792MauserHeavyBox

@@ -1,0 +1,13 @@
+Name White Phosphorous Conversion
+ShortName WPConversion
+Icon WPConversion
+AttachmentType generic
+Silencer false
+MeleeDamageMultiplier 1.0
+DamageMultiplier 1.5
+SpreadMultiplier 1.25
+RecoilMultiplier 1.31
+BulletSpeedMultiplier 0.7
+ReloadTimeMultiplier 1.2
+Model mw.ACOG
+Texture ACOGSight

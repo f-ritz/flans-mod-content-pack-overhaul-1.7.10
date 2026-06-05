@@ -1,0 +1,29 @@
+Name MAS 36 Sniper
+ShortName MAS36Sniper
+Ammo 792Mauser1
+LoadIntoGun 5
+Icon MAS36Sniper
+Colour 255 255 255
+ReloadTime 65
+Recoil 17
+Damage 2
+Accuracy 1
+ShootDelay 26
+ShootSound Type38Shoot
+ReloadSound kar98kReload
+Mode SemiAuto
+BulletSpeed 10
+Scope wwiikar98ksniper
+ZoomLevel 8
+Model ww2.Kar98kSniper
+Texture SkinMAS36
+ModelScale 0.6
+AllowAllAttachments true
+AllowBarrelAttachments true
+AllowScopeAttachments true
+AllowStockAttachments true
+AllowGripAttachments true
+NumGenericAttachmentSlots 4
+Description 7.92x57mm Mauser
+ShowDamage true
+ShowReloadTime true

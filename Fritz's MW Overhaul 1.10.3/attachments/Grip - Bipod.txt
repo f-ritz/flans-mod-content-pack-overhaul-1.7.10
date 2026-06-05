@@ -1,0 +1,13 @@
+Name Bipod
+ShortName Bipod
+Icon Bipod
+AttachmentType grip
+Silencer false
+MeleeDamageMultiplier 1.0
+DamageMultiplier 1.0
+SpreadMultiplier 0.8
+RecoilMultiplier 0.5
+BulletSpeedMultiplier 1.0
+ReloadTimeMultiplier 1.2
+Model mw.Foregrip
+Texture Foregrip

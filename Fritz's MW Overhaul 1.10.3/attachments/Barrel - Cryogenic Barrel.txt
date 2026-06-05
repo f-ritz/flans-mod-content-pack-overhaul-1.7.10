@@ -1,0 +1,13 @@
+Name Cryogenic Barrel
+ShortName CryogenicBarrel
+Icon CryogenicBarrel
+AttachmentType barrel
+Silencer false
+MeleeDamageMultiplier 1.0
+DamageMultiplier 1.15
+SpreadMultiplier 0.3
+RecoilMultiplier 0.3
+BulletSpeedMultiplier 1
+ReloadTimeMultiplier 3.5
+Model mw.Silencer
+Texture Silencer

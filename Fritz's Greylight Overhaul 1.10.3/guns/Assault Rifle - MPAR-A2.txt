@@ -1,0 +1,39 @@
+Name MPAR-A2
+ShortName MPARA2
+Ammo 68NATO25
+Icon MPARA2
+Colour 255 255 255
+ReloadTime 60
+Recoil 6
+Damage 1
+Accuracy 7
+BulletSpeed 10
+RoundsPerMin 850
+ShootSound _MparFire
+ReloadSound _MparReload
+Mode FullAuto
+Scope None
+ZoomLevel 1.0
+FOV ZoomLevel 1.25
+Distort Sound False
+Deployable False
+DeployedModel None
+ModelScale 0.2
+ShowAttachments false
+ShowDamage true
+ShowAccuracy true
+ShowRecoil true
+ShowReloadTime true
+ShowMode true
+ShowFireRate true
+ShowPaintjob true
+OneHanded False
+Model dwfirearms.MPARA2
+Texture MPARA2_Standard
+NumGenericAttachmentSlots 4
+AllowBarrelAttachments true
+AllowScopeAttachments true
+AllowStockAttachments true
+AllowGripAttachments true
+AllowAllAttachments true
+Description 6.8x51mm NATO

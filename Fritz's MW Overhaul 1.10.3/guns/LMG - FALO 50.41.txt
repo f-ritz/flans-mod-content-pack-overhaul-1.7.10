@@ -1,0 +1,30 @@
+Name FALO 50.41
+ShortName FALO5041
+Ammo 762NATO20
+Ammo 762NATO50
+Icon FALO5041
+Colour 255 255 255
+ReloadTime 60
+Recoil 3
+Damage 1
+Accuracy 6
+RoundsPerMin 730
+ShootSound M14Shoot
+ReloadSound MP44Reload
+Mode FullAuto
+BulletSpeed 10
+Scope None
+ZoomLevel 1.0
+FOVZoomLevel 1.25
+Model mpack.sa58osw
+ModelScale 0.08
+Texture Skin_Gun_sa58osw
+AllowAllAttachments true
+AllowBarrelAttachments true
+AllowScopeAttachments true
+AllowStockAttachments true
+AllowGripAttachments true
+NumGenericAttachmentSlots 4
+ShowDamage true
+ShowReloadTime true
+Description 7.62x51mm NATO

@@ -1,0 +1,9 @@
+Name VCOG 8x Scope
+ShortName VCOG8xScope
+Icon 4xScope
+AttachmentType sights
+Silencer false
+ZoomLevel 8
+ZoomOverlay vcog
+Model mw.4xScope
+Texture 4xScope

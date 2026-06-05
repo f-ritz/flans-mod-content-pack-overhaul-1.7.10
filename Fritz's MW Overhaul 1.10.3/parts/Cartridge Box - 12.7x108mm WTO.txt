@@ -1,0 +1,6 @@
+Name Box of 12.7x108mm WTO Cartridges
+ShortName 127WarsawBox
+Icon CartridgeBox
+Colour 255 255 255
+Category Misc
+StackSize 64

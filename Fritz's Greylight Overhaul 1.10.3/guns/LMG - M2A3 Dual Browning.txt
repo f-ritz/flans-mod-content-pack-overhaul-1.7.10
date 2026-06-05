@@ -1,0 +1,33 @@
+Name M2A3 Dual Browning
+ShortName M2A3DualBrowning
+Ammo 50BMG250
+Ammo 50BMG500
+LoadIntoGun 2
+Icon M2A3DualBrowning
+Colour 255 255 255
+ReloadTime 120
+Recoil 2
+Knockback 0.5
+Damage 1
+Accuracy 8
+RoundsPerMin 650
+NumBullets 2
+ShootSound _HeavyDupletFire
+ReloadSound _HeavyDupletReload
+Mode FullAuto
+BulletSpeed 10.0
+Scope None
+ZoomLevel 1.0
+FOVZoomLevel 1.0
+Deployable False
+DeployedModel None
+Model dwfirearms.HeavyDupletMG
+Texture HeavyDupletMG_Steam
+ModelScale 0.2
+AllowAllAttachments true
+AllowScopeAttachments true
+AllowBarrelAttachments true
+AllowGripAttachments true
+AllowStockAttachments true
+NumGenericAttachmentSlots 4
+Description .50 BMG

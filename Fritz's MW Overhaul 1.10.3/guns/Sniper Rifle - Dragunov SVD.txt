@@ -1,0 +1,31 @@
+Name Dragunov SVD
+ShortName DragunovSVD
+Ammo 762MMR10
+Ammo 762MMR15
+Ammo 762MMR20
+Icon DragunovSVD
+Colour 255 255 255
+ReloadTime 44
+Recoil 14
+Damage 2
+Accuracy 1
+ShootDelay 12
+ShootSound DragunovShoot
+ReloadSound BARReload
+Mode SemiAuto
+BulletSpeed 10
+Scope mwdragunov
+ZoomLevel 10.0
+FOVZoomLevel 1.0
+Model mpack.dragunov
+ModelScale 0.54
+Texture Skin_Gun_dragunov
+AllowAllAttachments true
+AllowBarrelAttachments true
+AllowScopeAttachments true
+AllowStockAttachments true
+AllowGripAttachments true
+NumGenericAttachmentSlots 4
+ShowDamage true
+ShowReloadTime true
+Description 7.62x54mmR

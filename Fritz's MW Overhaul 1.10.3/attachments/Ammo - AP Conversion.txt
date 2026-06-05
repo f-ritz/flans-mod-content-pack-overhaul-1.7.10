@@ -1,0 +1,13 @@
+Name Armor-Piercing Conversion
+ShortName APConversion
+Icon APConversion
+AttachmentType generic
+Silencer false
+MeleeDamageMultiplier 1.0
+DamageMultiplier 0.8
+SpreadMultiplier 0.5
+RecoilMultiplier 0.8
+BulletSpeedMultiplier 2.5
+ReloadTimeMultiplier 0.75
+Model mw.ACOG
+Texture ACOGSight

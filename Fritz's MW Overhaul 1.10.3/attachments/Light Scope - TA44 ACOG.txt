@@ -1,0 +1,9 @@
+Name TA-44 ACOG
+ShortName TA44
+Icon ACOGSight
+AttachmentType sights
+Silencer false
+ZoomLevel 4.5
+ZoomOverlay TA44
+Model mw.ACOG
+Texture ACOGSight

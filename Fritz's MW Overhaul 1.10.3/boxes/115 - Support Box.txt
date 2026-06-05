@@ -1,0 +1,106 @@
+Name Weapons Box - Support Equipment
+ShortName WeaponsBoxSupport
+TopTexture WeaponsBoxTop
+SideTexture WeaponsBoxSupport
+BottomTexture WeaponsBoxBottom
+GunBoxID 115
+Recipe I log G redstone F fiberglass
+III
+FGF
+III
+NumGuns 26
+AddGun AmmoBag 1 Gunmetal
+AddGun MedicBag 1 Gunmetal
+AddGun MedicalKit 1 redstone
+AddAmmo Morphine 1 redstone
+AddAltAmmo Bandages 1 redstone
+AddAltAmmo SurgicalKit 1 redstone
+AddAltAmmo IVDrip 1 redstone
+AddGun Parachute 1 Gunmetal
+AddGun Pervitin 1 Gunmetal
+AddAmmo Painkiller 1 Gunmetal
+AddAltAmmo AdrenalineShot 1 Gunmetal
+AddAltAmmo BurnOintment 1 Gunmetal
+AddGun CombatSteroids 1 redstone
+AddAmmo FirstAidShot 1 redstone
+AddGun Binoculars 1 Gunmetal
+AddAmmo NVDBinoculars 1 Gunmetal
+AddAltAmmo TVDBinoculars 1 Gunmetal
+AddGun RedPill 1 Gunmetal
+AddAmmo BluePill 1 Gunmetal
+AddAltAmmo BlackPill 1 Gunmetal
+AddAltAmmo WhitePill 1 Gunmetal
+AddAltAmmo CyanidePill 1 Gunmetal
+AddGun Viagra 1 Gunmetal
+AddAmmo OffBrandBonerPills 1 Gunmetal
+AddAltAmmo Roofies 1 Gunmetal
+AddAltAmmo VitaminESupplements 1 Gunmetal
+AddGun Ibuprofen 1 Gunmetal
+AddAmmo Acetaminophen 1 Gunmetal
+AddAltAmmo TestosteroneSupplements 1 Gunmetal
+AddAltAmmo Fentanyl 1 Gunmetal
+AddAltAmmo Xanax 1 Gunmetal
+AddGun Ecstasy 1 Gunmetal
+AddAmmo NMN 1 Gunmetal
+AddAltAmmo Prozac 1 Gunmetal
+AddAltAmmo Narcan 1 Gunmetal
+AddGun Adderall 1 Gunmetal
+AddAmmo PCP 1 Gunmetal
+AddAltAmmo LSD 1 Gunmetal
+AddAltAmmo DMT 1 Gunmetal
+AddAltAmmo Oxycodone 1 Gunmetal
+AddGun Narcan 1 Gunmetal
+AddGun Smirnoff 1 Gunmetal
+AddAmmo StolichnayaVodka 1 Gunmetal
+AddAltAmmo Jaegermeister 1 Gunmetal
+AddAltAmmo Moonshine 1 Gunmetal
+AddAltAmmo JackDaniels 1 Gunmetal
+AddGun Heineken 1 Gunmetal
+AddAmmo BudLight 1 Gunmetal
+AddAltAmmo RusskiyStandard 1 Gunmetal
+AddAltAmmo OffBrandMysteryVodka 1 Gunmetal
+AddGun Pepsi 1 Gunmetal
+AddAmmo MountainDew 1 Gunmetal
+AddAltAmmo DietCoke 1 Gunmetal
+AddAltAmmo CokeZero 1 Gunmetal
+AddAltAmmo DrPepper 1 Gunmetal
+AddGun PumpkinSpiceLatte 1 Gunmetal
+AddAmmo WhiteMonster 1 Gunmetal
+AddAltAmmo CelsiusEnergyDrink 1 Gunmetal
+AddAltAmmo RedBull 1 Gunmetal
+AddAltAmmo BlackCoffee 1 Gunmetal
+AddGun LiquidDeath 1 Gunmetal
+AddAmmo HighFructoseCornSyrup 1 Gunmetal
+AddAltAmmo CanolaOil 1 Gunmetal
+AddAltAmmo SoyMilk 1 Gunmetal
+AddGun ProteinShake 1 Gunmetal
+AddAmmo RawMilk 1 Gunmetal
+AddAltAmmo BlackRifleCoffee 1 Gunmetal
+AddAltAmmo HeavyWater 1 Gunmetal
+AddAltAmmo MethyleneBlue 1 Gunmetal
+AddGun SwissMissHotChocolate 1 Gunmetal
+AddAmmo Bepis 1 Gunmetal
+AddGun Insulin 1 Gunmetal
+AddAmmo Krokodil 1 Gunmetal
+AddAltAmmo Heroin 1 Gunmetal
+AddAltAmmo CovidVaccine 1 Gunmetal
+AddAltAmmo CovidBoosterShot 1 Gunmetal
+AddGun FlintstonesVitamins 1 Gunmetal
+AddAmmo GummyVitamins 1 Gunmetal
+AddAltAmmo CodLiverOil 1 Gunmetal
+AddAltAmmo Shilajit 1 Gunmetal
+AddAltAmmo Creatine 1 Gunmetal
+AddGun Ozempic 1 Gunmetal
+AddAmmo CBDOil 1 Gunmetal
+AddAltAmmo HornyGoatWeed 1 Gunmetal
+AddAltAmmo StrawberryFlavoredJuul 1 Gunmetal
+AddGun Aspartame 1 Gunmetal
+AddAmmo Sucralose 1 Gunmetal
+AddAltAmmo Opium 1 Gunmetal
+AddGun GasStationSushi 1 Gunmetal
+AddAmmo Tea 1 Gunmetal
+AddAltAmmo MaruchanRamen 1 Gunmetal
+AddAltAmmo Yakisoba 1 Gunmetal
+AddGun NewportCigarettePack 1 Gunmetal
+AddAmmo CubanCigarPack 1 Gunmetal
+AddAltAmmo BluntPack 1 Gunmetal

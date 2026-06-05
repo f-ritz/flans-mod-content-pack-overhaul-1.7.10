@@ -1,0 +1,10 @@
+Name Flashlight
+ShortName Flashlight
+Icon Flashlight
+AttachmentType grip
+Silencer false
+Flashlight true
+FlashlightRange 10
+FlashlightStrength 12
+Model mw.Flashlight
+Texture Flashlight

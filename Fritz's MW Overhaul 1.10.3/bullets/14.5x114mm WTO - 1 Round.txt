@@ -1,0 +1,17 @@
+Name 14.5x114mm WTO Cartridge
+ShortName 145Warsaw1
+Model Bullet
+Colour 255 255 255
+Icon 145Warsaw1
+FallSpeed 0.1
+MaxStackSize 64
+RoundsPerItem 1
+Damage 150
+BreaksGlass True
+HitBoxSize 0.1
+HitSound bullet
+Penetrates True
+Penetration 25
+SmokeTrail True
+RecipeOutput 64
+ShapelessRecipe 145WarsawBox

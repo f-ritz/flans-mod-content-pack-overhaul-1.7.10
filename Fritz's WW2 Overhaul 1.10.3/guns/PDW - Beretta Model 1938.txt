@@ -1,0 +1,27 @@
+Name Beretta Model 1938
+ShortName BM1938
+Ammo 919NATO32
+Description 9x19mm Parabellum
+Icon BM1938
+Colour 255 255 255
+ReloadTime 40
+Recoil 5
+Damage 1
+Accuracy 6
+RoundsPerMin 600
+ShootSound mp40Shoot
+ReloadSound mp40Reload
+Mode FullAuto
+BulletSpeed 10
+Scope None
+Model ww2.Mp40
+Texture Mp40
+ModelScale 0.8
+AllowAllAttachments true
+AllowBarrelAttachments true
+AllowScopeAttachments true
+AllowStockAttachments true
+AllowGripAttachments true
+NumGenericAttachmentSlots 4
+ShowDamage true
+ShowReloadTime true

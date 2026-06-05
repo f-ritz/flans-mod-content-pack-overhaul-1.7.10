@@ -1,0 +1,31 @@
+Name RPL-20
+ShortName RPL20
+Ammo 545Warsaw100
+Ammo 545Warsaw250
+Ammo 545Warsaw500
+Description 5.45x39mm WTO
+Icon RPL20
+Colour 255 255 255
+ReloadTime 100
+Recoil 3
+Damage 1
+Accuracy 3
+RoundsPerMin 600
+ShootSound RPDShoot
+ReloadSound BrowningReload
+Mode FullAuto
+BulletSpeed 10
+Scope None
+ZoomLevel 1.0
+FOVZoomLevel 1.25
+Model mpack.pkp
+ModelScale 0.36
+Texture RPL20
+AllowAllAttachments true
+AllowBarrelAttachments true
+AllowScopeAttachments true
+AllowStockAttachments true
+AllowGripAttachments true
+NumGenericAttachmentSlots 4
+ShowDamage true
+ShowReloadTime true

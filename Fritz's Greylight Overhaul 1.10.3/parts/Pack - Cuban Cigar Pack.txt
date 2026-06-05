@@ -1,0 +1,6 @@
+Name Cuban Cigar Pack
+ShortName CubanCigarPack
+Icon CubanCigarPack
+Colour 255 255 255
+Category Misc
+StackSize 64

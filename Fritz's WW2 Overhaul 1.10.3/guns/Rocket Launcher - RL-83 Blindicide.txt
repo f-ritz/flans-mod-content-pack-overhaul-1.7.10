@@ -1,0 +1,29 @@
+Name RL-83 Blindicide
+ShortName RL83
+Ammo 84RocketI
+Ammo 84RocketAP
+Ammo 84RocketHE
+Ammo 84Rocket
+Icon M1Bazooka
+Colour 255 255 255
+ReloadTime 75
+Recoil 7
+Damage 1
+Accuracy 3
+ShootDelay 4
+ShootSound bazookaShoot
+ReloadSound bazookaReload
+Mode SemiAuto
+Scope None
+Model W44.Bazooka
+Texture SkinBazooka
+ModelScale 0.3
+AllowAllAttachments true
+AllowBarrelAttachments true
+AllowScopeAttachments true
+AllowStockAttachments true
+AllowGripAttachments true
+NumGenericAttachmentSlots 4
+Description 84mm Rocket
+ShowDamage true
+ShowReloadTime true

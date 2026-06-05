@@ -1,0 +1,13 @@
+Name Stubby Grip
+ShortName StubbyGrip
+Icon StubbyGrip
+AttachmentType grip
+Silencer false
+MeleeDamageMultiplier 1.0
+DamageMultiplier 1.0
+SpreadMultiplier 0.6
+RecoilMultiplier 0.5
+BulletSpeedMultiplier 1.0
+ReloadTimeMultiplier 0.9
+Model mw.Foregrip
+Texture Foregrip

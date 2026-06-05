@@ -1,0 +1,31 @@
+Name Beretta 8000
+ShortName Beretta8000
+Ammo 919NATO15
+ShowDamage true
+ShowReloadTime true
+Icon Beretta8000
+Colour 255 255 255
+ReloadTime 30
+Recoil 2
+NumBullets 1
+Damage 1.5
+Accuracy 5
+ShootDelay 1
+ShootSound M9Shoot
+ReloadSound ColtReload
+Mode SemiAuto
+OneHanded true
+BulletSpeed 10
+Scope None
+ZoomLevel 1.0
+FOVZoomLevel 1.25
+Model mpack.m9
+ModelScale 0.06
+Texture Skin_Gun_m9
+AllowAllAttachments true
+AllowBarrelAttachments true
+AllowScopeAttachments true
+AllowStockAttachments true
+AllowGripAttachments true
+NumGenericAttachmentSlots 4
+Description 9x19mm Parabellum

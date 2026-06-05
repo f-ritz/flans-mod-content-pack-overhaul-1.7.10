@@ -1,0 +1,10 @@
+Name Bandages
+ShortName Bandages
+Icon Bandages
+Colour 255 255 255
+Heal true
+Repair false
+HealAmount 8
+ToolLife 1
+DestroyOnEmpty true
+StackSize 1

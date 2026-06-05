@@ -1,0 +1,30 @@
+Name MG 42 early
+ShortName MG42Early
+Ammo 792Mauser500
+Ammo 792Mauser250
+Ammo 792Mauser50
+Description 7.92x57mm Mauser
+Icon MG42
+Colour 255 255 255
+ReloadTime 90
+Recoil 6
+Damage 1
+Accuracy 9
+RoundsPerMin 900
+ShootSound MG42Shoot
+DistortSound False
+ReloadSound MG42Reload
+Mode FullAuto
+BulletSpeed 10.0
+Scope None
+Model W44.Mg42
+Texture SkinMg42
+ModelScale 0.75
+AllowAllAttachments true
+AllowBarrelAttachments true
+AllowScopeAttachments true
+AllowStockAttachments true
+AllowGripAttachments true
+NumGenericAttachmentSlots 4
+ShowDamage true
+ShowReloadTime true

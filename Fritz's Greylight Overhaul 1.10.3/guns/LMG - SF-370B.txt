@@ -1,0 +1,33 @@
+Name SF-370B
+ShortName SF370B
+Ammo 762MMR100
+Ammo 762MMR250
+Ammo 762MMR500
+Icon SF370B
+Colour 255 255 255
+ReloadTime 105
+Recoil 5
+Damage 1
+Accuracy 8
+BulletSpeed 10.0
+RoundsPerMin 1000
+ShootSound _SF370BFire
+ReloadSound _SF370BReload
+Mode FullAuto
+Scope None
+ZoomLevel 1.0
+FOV ZoomLevel 1.25
+Distort Sound False
+Deployable False
+DeployedModel None
+ModelScale 0.2
+OneHanded False
+Model dwfirearms.SF370B
+Texture SF370B_Standard
+AllowAllAttachments true
+AllowScopeAttachments true
+AllowBarrelAttachments true
+AllowGripAttachments true
+AllowStockAttachments true
+NumGenericAttachmentSlots 4
+Description 7.62x54mmR

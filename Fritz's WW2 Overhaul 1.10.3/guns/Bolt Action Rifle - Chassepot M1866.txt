@@ -1,0 +1,28 @@
+Name Chassepot M1866
+ShortName ChassepotM1866
+Ammo 11Chassepot1
+LoadIntoGun 1
+Icon ChassepotM1866
+Colour 255 255 255
+ReloadTime 30
+Recoil 15
+Damage 1.5
+Accuracy 3
+ShootDelay 20
+ShootSound springfieldShoot
+ReloadSound kar98kReload
+Mode SemiAuto
+BulletSpeed 10
+Scope None
+Model dunk.chassepot
+ModelScale 0.5
+Texture masterskin
+AllowAllAttachments true
+AllowBarrelAttachments true
+AllowScopeAttachments true
+AllowStockAttachments true
+AllowGripAttachments true
+NumGenericAttachmentSlots 4
+Description 11x59mm Gras
+ShowDamage true
+ShowReloadTime true

@@ -1,0 +1,30 @@
+Name M2010 Enhanced Sniper Rifle
+ShortName M2010ESR
+Ammo 338Lapua5
+Ammo 338Lapua10
+Icon M2010ESR
+Colour 255 255 255
+ReloadTime 60
+Recoil 12
+Damage 2
+Accuracy 1
+ShootDelay 10
+ShootSound M21Shoot
+ReloadSound BARReload
+Mode SemiAuto
+BulletSpeed 10.0
+Scope mwm21
+ZoomLevel 10
+FOVZoomLevel 1.0
+Model mpack.intervention
+ModelScale 0.19
+Texture Skin_Gun_intervention
+AllowAllAttachments true
+AllowBarrelAttachments true
+AllowScopeAttachments true
+AllowStockAttachments true
+AllowGripAttachments true
+NumGenericAttachmentSlots 4
+ShowDamage true
+ShowReloadTime true
+Description .338 Lapua

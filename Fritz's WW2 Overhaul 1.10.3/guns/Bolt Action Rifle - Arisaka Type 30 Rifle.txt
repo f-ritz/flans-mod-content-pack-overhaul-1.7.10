@@ -1,0 +1,27 @@
+Name Arisaka Type 30 Rifle
+ShortName Type30Rifle
+Ammo 65Carcano1
+LoadIntoGun 5
+Icon Type30
+Colour 255 255 255
+ReloadTime 60
+Recoil 8
+Damage 1.5
+Accuracy 6
+ShootDelay 20
+ShootSound Type38Shoot
+ReloadSound kar98kReload
+Mode SemiAuto
+BulletSpeed 10
+Scope None
+Model ww2.Type38
+Texture Type30
+AllowAllAttachments true
+AllowBarrelAttachments true
+AllowScopeAttachments true
+AllowStockAttachments true
+AllowGripAttachments true
+NumGenericAttachmentSlots 4
+Description 6.5x52mm Carcano
+ShowDamage true
+ShowReloadTime true
